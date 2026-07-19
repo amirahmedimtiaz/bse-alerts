@@ -7,10 +7,6 @@ import requests
 
 
 API_URL = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
-ANNOUNCEMENT_PAGE = (
-    "https://www.bseindia.com/stock-share-price/jd-cables-ltd/"
-    "jdcables/544524/corp-announcements"
-)
 PDF_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
 
 
@@ -60,5 +56,5 @@ def announcement_pdf_url(announcement: dict[str, Any]) -> str | None:
     return f"{PDF_BASE_URL}{filename}"
 
 
-def announcement_page_url(_: dict[str, Any]) -> str:
-    return ANNOUNCEMENT_PAGE
+def announcement_page_url(announcement: dict[str, Any]) -> str:
+    return announcement["_announcement_url"]

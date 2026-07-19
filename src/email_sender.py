@@ -26,7 +26,7 @@ def send_announcement_email(announcement: dict[str, Any]) -> None:
         [
             "New BSE corporate announcement",
             "",
-            f"Company: {announcement.get('SLONGNAME', 'JD Cables Ltd')}",
+            f"Company: {announcement.get('_company_name', announcement.get('SLONGNAME', 'Unknown'))}",
             f"Published: {published}",
             f"Category: {category}",
             f"Subject: {subject}",
