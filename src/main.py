@@ -3,13 +3,13 @@ from __future__ import annotations
 import argparse
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
-from .bse_client import fetch_today_announcements
+from .bse_client import fetch_announcements, fetch_today_announcements
 from .email_sender import send_announcement_email
 
 
@@ -46,9 +46,14 @@ def run(send_alerts: bool = True) -> int:
 
 
 def test_email() -> None:
-    announcements = fetch_today_announcements(today=datetime.now(INDIA_TZ).date())
+    today = datetime.now(INDIA_TZ).date()
+    announcements = fetch_today_announcements(today=today)
     if not announcements:
-        raise RuntimeError("No announcement is available today for the test email")
+        announcements = fetch_announcements(
+            start_date=today - timedelta(days=30), end_date=today
+        )
+    if not announcements:
+        raise RuntimeError("No announcement is available in the last 30 days")
     send_announcement_email(announcements[0])
 
 

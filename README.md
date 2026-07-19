@@ -22,4 +22,6 @@ Required environment variables are `EMAIL_SENDER`, `EMAIL_PASSWORD`, and
 
 GitHub Actions runs the scan every five minutes. Use the **Send Test BSE
 Email** workflow under the Actions tab to send the latest available
-announcement immediately after deployment.
+announcement immediately after deployment. The test workflow can use a recent
+announcement when BSE has none published today; this does not change the
+today-only behavior of the scheduled scanner.

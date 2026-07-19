@@ -14,20 +14,19 @@ ANNOUNCEMENT_PAGE = (
 PDF_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
 
 
-def fetch_today_announcements(
+def fetch_announcements(
+    start_date: date,
+    end_date: date,
     scrip_code: int = 544524,
-    today: date | None = None,
     session: requests.Session | None = None,
 ) -> list[dict[str, Any]]:
-    current_date = today or date.today()
-    date_value = current_date.strftime("%Y%m%d")
     params = {
         "pageno": 1,
         "strCat": -1,
-        "strPrevDate": date_value,
+        "strPrevDate": start_date.strftime("%Y%m%d"),
         "strScrip": scrip_code,
         "strSearch": "P",
-        "strToDate": date_value,
+        "strToDate": end_date.strftime("%Y%m%d"),
         "strType": "C",
         "subcategory": -1,
     }
@@ -41,6 +40,17 @@ def fetch_today_announcements(
     response.raise_for_status()
     payload = response.json()
     return payload.get("Table", [])
+
+
+def fetch_today_announcements(
+    scrip_code: int = 544524,
+    today: date | None = None,
+    session: requests.Session | None = None,
+) -> list[dict[str, Any]]:
+    current_date = today or date.today()
+    return fetch_announcements(
+        current_date, current_date, scrip_code=scrip_code, session=session
+    )
 
 
 def announcement_pdf_url(announcement: dict[str, Any]) -> str | None:
