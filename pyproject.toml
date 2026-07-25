@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+markers = [
+    "integration: slow integration tests that hit real APIs",
+]

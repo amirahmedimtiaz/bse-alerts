@@ -172,14 +172,40 @@ def test_email() -> None:
     send_announcement_email(latest)
 
 
+def validate() -> None:
+    today = datetime.now(INDIA_TZ).date()
+    companies = load_companies()
+    if not companies:
+        print("No companies configured.")
+        return
+    failed = 0
+    for company in companies:
+        exchange = str(company.get("exchange", "BSE"))
+        try:
+            announcements = fetch_for_company(company, today)
+            if not announcements:
+                announcements = fetch_history_for_company(company, today)
+            announcement_count = len(announcements) if announcements else 0
+            latest_dt = (announcements[0].get("sort_date") or announcements[0].get("dt") or announcements[0].get("DT_TM") or "N/A") if announcements else "N/A"
+            print(f"  OK  {company['name']} ({exchange}) — {announcement_count} announcements, latest: {latest_dt}")
+        except Exception as exc:
+            failed += 1
+            print(f"  FAIL  {company['name']} ({exchange}) — {exc}")
+    print(f"\n{len(companies) - failed}/{len(companies)} companies OK")
+    if failed:
+        raise SystemExit(1)
+
+
 def main() -> None:
     load_dotenv()
     parser = argparse.ArgumentParser()
-    parser.add_argument("command", choices=["scan", "test-email"])
+    parser.add_argument("command", choices=["scan", "test-email", "validate"])
     args = parser.parse_args()
     if args.command == "test-email":
         test_email()
         print("Test email sent")
+    elif args.command == "validate":
+        validate()
     else:
         count = run()
         print(f"Sent {count} new announcement alert(s)")

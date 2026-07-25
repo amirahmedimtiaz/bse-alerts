@@ -45,6 +45,43 @@
     "announcement_url": "https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements"
   },
   {
+    "name": "Havells India Ltd",
+    "scrip_code": 517354,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements"
+  },
+  {
+    "name": "Paramount Communications Ltd",
+    "scrip_code": 530555,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements"
+  },
+  {
+    "name": "Diamond Power Infrastructure Ltd",
+    "scrip_code": 522163,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements"
+  },
+  {
+    "name": "Cords Cable Industries Ltd",
+    "scrip_code": 532941,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements"
+  },
+  {
+    "name": "Sterlite Technologies Ltd",
+    "scrip_code": 532374,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements"
+  },
+  {
+    "name": "Ultracab India Ltd",
+    "scrip_code": 538706,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements"
+  },
+  {
+    "name": "V-Marc India Limited",
+    "exchange": "NSE",
+    "symbol": "VMARCIND",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited"
+  },
+  {
     "name": "Bhadora Industries Limited",
     "exchange": "NSE",
     "symbol": "BHADORA",
