@@ -13,7 +13,8 @@ def send_announcement_email(announcement: dict[str, Any]) -> None:
     sender = os.environ["EMAIL_SENDER"]
     password = os.environ["EMAIL_PASSWORD"]
     receiver = os.environ["EMAIL_RECEIVER"]
-    subject = announcement.get("NEWSSUB", "New BSE announcement")
+    company_name = str(announcement.get("_company_name", announcement.get("SLONGNAME", "Unknown")))
+    subject = str(announcement.get("NEWSSUB", "New BSE announcement"))
     published = announcement.get("DT_TM", "Unknown")
     category = announcement.get("CATEGORYNAME", "Unknown")
     headline = announcement.get("HEADLINE") or announcement.get("MORE") or ""
@@ -26,7 +27,7 @@ def send_announcement_email(announcement: dict[str, Any]) -> None:
         [
             "New BSE corporate announcement",
             "",
-            f"Company: {announcement.get('_company_name', announcement.get('SLONGNAME', 'Unknown'))}",
+            f"Company: {company_name}",
             f"Published: {published}",
             f"Category: {category}",
             f"Subject: {subject}",
@@ -40,7 +41,7 @@ def send_announcement_email(announcement: dict[str, Any]) -> None:
     message = EmailMessage()
     message["From"] = sender
     message["To"] = receiver
-    message["Subject"] = f"BSE alert: {subject}"
+    message["Subject"] = f"{company_name} — {subject}"
     message.set_content(body)
 
     context = ssl.create_default_context()

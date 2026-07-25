@@ -63,6 +63,16 @@ def run(send_alerts: bool = True) -> int:
         announcements = fetch_today_announcements(
             scrip_code=int(company["scrip_code"]), today=today
         )
+        # Deduplicate within the API response itself, in case BSE returns duplicates.
+        seen_in_response: set[str] = set()
+        unique_announcements: list[dict[str, object]] = []
+        for item in announcements:
+            nid = str(item.get("NEWSID", ""))
+            if nid and nid not in seen_in_response:
+                seen_in_response.add(nid)
+                unique_announcements.append(item)
+        announcements = unique_announcements
+
         current_ids = {
             str(item["NEWSID"]) for item in announcements if item.get("NEWSID")
         }
@@ -76,7 +86,10 @@ def run(send_alerts: bool = True) -> int:
         ]
         if send_alerts:
             for announcement in reversed(new_announcements):
-                send_announcement_email(announcement)
+                try:
+                    send_announcement_email(announcement)
+                except Exception as exc:
+                    print(f"Failed to send email for {company['name']}: {exc}")
         alert_count += len(new_announcements)
         state[scrip_code] = (seen_ids or set()) | current_ids
 
