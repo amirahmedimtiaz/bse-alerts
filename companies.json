@@ -43,5 +43,12 @@
     "name": "Apar Industries Ltd",
     "scrip_code": 532259,
     "announcement_url": "https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements"
+  },
+  {
+    "name": "Bhadora Industries Limited",
+    "exchange": "NSE",
+    "symbol": "BHADORA",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited"
   }
 ]

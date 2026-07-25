@@ -15,11 +15,14 @@ from src.email_sender import send_announcement_email
 def test_email_contains_links(smtp_ssl):
     send_announcement_email(
         {
-            "NEWSID": "one",
-            "NEWSSUB": "Test announcement",
-            "ATTACHMENTNAME": "file.pdf",
             "_company_name": "Test Company Ltd",
-            "_announcement_url": "https://example.com/announcements",
+            "_subject": "Test announcement",
+            "_published": "2026-01-01 10:00:00",
+            "_category": "General",
+            "_headline": "Headline text",
+            "_page_url": "https://example.com/announcements",
+            "_pdf_url": "https://example.com/file.pdf",
+            "_exchange": "BSE",
         }
     )
 

@@ -6,26 +6,26 @@ import ssl
 from email.message import EmailMessage
 from typing import Any
 
-from .bse_client import announcement_page_url, announcement_pdf_url
-
 
 def send_announcement_email(announcement: dict[str, Any]) -> None:
     sender = os.environ["EMAIL_SENDER"]
     password = os.environ["EMAIL_PASSWORD"]
     receiver = os.environ["EMAIL_RECEIVER"]
-    company_name = str(announcement.get("_company_name", announcement.get("SLONGNAME", "Unknown")))
-    subject = str(announcement.get("NEWSSUB", "New BSE announcement"))
-    published = announcement.get("DT_TM", "Unknown")
-    category = announcement.get("CATEGORYNAME", "Unknown")
-    headline = announcement.get("HEADLINE") or announcement.get("MORE") or ""
-    pdf_url = announcement_pdf_url(announcement)
+    company_name = announcement["_company_name"]
+    subject = announcement["_subject"]
+    published = announcement.get("_published", "Unknown")
+    category = announcement.get("_category", "Unknown")
+    headline = announcement.get("_headline", "")
+    page_url = announcement.get("_page_url", "")
+    pdf_url = announcement.get("_pdf_url")
 
-    links = [f"BSE announcement page: {announcement_page_url(announcement)}"]
+    exchange = announcement.get("_exchange", "BSE")
+    links = [f"{exchange} announcement page: {page_url}"]
     if pdf_url:
         links.append(f"PDF: {pdf_url}")
     body = "\n".join(
         [
-            "New BSE corporate announcement",
+            f"New {exchange} corporate announcement",
             "",
             f"Company: {company_name}",
             f"Published: {published}",
@@ -41,7 +41,7 @@ def send_announcement_email(announcement: dict[str, Any]) -> None:
     message = EmailMessage()
     message["From"] = sender
     message["To"] = receiver
-    message["Subject"] = f"{company_name} — {subject}"
+    message["Subject"] = f"[{exchange}] {company_name} — {subject}"
     message.set_content(body)
 
     context = ssl.create_default_context()
