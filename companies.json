@@ -75,6 +75,11 @@
     "announcement_url": "https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements"
   },
   {
+    "name": "Waaree Renewable Technologies Ltd",
+    "scrip_code": 534618,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements"
+  },
+  {
     "name": "V-Marc India Limited",
     "exchange": "NSE",
     "symbol": "VMARCIND",
@@ -87,5 +92,12 @@
     "symbol": "BHADORA",
     "market_type": "sme",
     "announcement_url": "https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited"
+  },
+  {
+    "name": "Alpex Solar Limited",
+    "exchange": "NSE",
+    "symbol": "ALPEXSOLAR",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited"
   }
 ]
