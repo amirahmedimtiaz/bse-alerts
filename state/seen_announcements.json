@@ -140,7 +140,9 @@
     "dac4f97f-1911-4f22-862e-59e481a68a79",
     "ff9e81fd-7ddf-4fa0-a67d-279f0923f078"
   ],
-  "NSE:ALPEXSOLAR": [],
+  "NSE:ALPEXSOLAR": [
+    "106738890"
+  ],
   "NSE:BHADORA": [],
   "NSE:VMARCIND": [
     "106734677"
