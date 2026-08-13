@@ -109,5 +109,12 @@
     "symbol": "ALPEXSOLAR",
     "market_type": "sme",
     "announcement_url": "https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited"
+  },
+  {
+    "name": "Australian Premium Solar (India) Limited",
+    "exchange": "NSE",
+    "symbol": "APS",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited"
   }
 ]
