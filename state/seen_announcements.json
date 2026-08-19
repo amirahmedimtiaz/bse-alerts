@@ -57,6 +57,7 @@
     "71d9dfda-ed90-4fc7-93d8-70ae1e8faec8",
     "8647855a-7bf4-411e-a977-f8b05fc4184d",
     "94744cdc-fabc-4c0c-bc14-456f6bb72e53",
+    "9e11b082-ac79-4d9a-8686-d2506083c71a",
     "c3a11ff5-bdc9-4d0d-bd3b-e21d53bb1645",
     "db08c39e-e194-4655-8589-bdd313832b14",
     "ee389b2a-796d-48ba-9d8f-bc2a7f7c8eba",
@@ -205,7 +206,9 @@
     "106749286"
   ],
   "NSE:APS": [],
-  "NSE:BHADORA": [],
+  "NSE:BHADORA": [
+    "106750101"
+  ],
   "NSE:VMARCIND": [
     "106734677",
     "106739921",
