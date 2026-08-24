@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download Premier Energies' BSE financial-results filings from FY2025 onward.
+"""Download Premier Energies' BSE financial-results filings from FY2021 onward.
 
 The BSE result feed contains the official quarterly and year-end financial
 results.  This script reuses the repository's paginated BSE history/downloader
@@ -64,7 +64,7 @@ except ImportError:
     )
 
 
-DEFAULT_START_FISCAL_YEAR = 2025
+DEFAULT_START_FISCAL_YEAR = 2021
 AUDIT_STATUS_PATTERN = re.compile(r"\bun[\s-]*audited\b", re.IGNORECASE)
 AUDITED_PATTERN = re.compile(r"\baudited\b", re.IGNORECASE)
 
@@ -161,6 +161,24 @@ def write_manifest(
     results: list[dict[str, Any]],
     skipped_candidates: list[dict[str, str]],
 ) -> None:
+    notes = [
+        "Fiscal-year labels use the ending year; for example, FY2021 means the fiscal year ended March 31, 2021.",
+        "Interim quarterly filings are retained and labelled Unaudited; year-end Q4 filings are labelled Audited.",
+        "The result PDF is the BSE filing and may contain both standalone and consolidated statements plus review/audit reports.",
+    ]
+    earliest_fiscal_year = min(
+        (int(item["fiscal_year"]) for item in results),
+        default=None,
+    )
+    if earliest_fiscal_year is None:
+        notes.append(
+            f"No BSE financial-results filing was returned from FY{start_fiscal_year} onward."
+        )
+    elif earliest_fiscal_year > start_fiscal_year:
+        notes.append(
+            f"No BSE Result/Financial Results filing was returned before FY{earliest_fiscal_year} for the requested range."
+        )
+
     manifest = {
         "company": "Premier Energies Ltd",
         "exchange": "BSE",
@@ -176,18 +194,18 @@ def write_manifest(
         "matched_results": len(results),
         "results": results,
         "skipped_candidates": skipped_candidates,
-        "notes": [
-            "FY2025 means the fiscal year ended March 31, 2025.",
-            "Interim quarterly filings are retained and labelled Unaudited; year-end Q4 filings are labelled Audited.",
-            "The result PDF is the BSE filing and may contain both standalone and consolidated statements plus review/audit reports.",
-        ],
+        "notes": notes,
     }
     (output_dir / "financial_results_sources.json").write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False) + "\n"
     )
 
 
-def write_html_index(output_dir: Path, result_rows: list[dict[str, Any]]) -> None:
+def write_html_index(
+    output_dir: Path,
+    result_rows: list[dict[str, Any]],
+    start_fiscal_year: int,
+) -> None:
     rows = []
     for item in result_rows:
         rows.append(
@@ -209,7 +227,7 @@ def write_html_index(output_dir: Path, result_rows: list[dict[str, Any]]) -> Non
 </head>
 <body>
   <h1>Premier Energies Ltd — financial results</h1>
-  <p>Collected from the <a href="{html.escape(ANNOUNCEMENTS_URL)}">BSE corporate-announcements page</a> on {html.escape(date.today().isoformat())}. Coverage starts at FY2025 and includes the latest available result filing.</p>
+  <p>Collected from the <a href="{html.escape(ANNOUNCEMENTS_URL)}">BSE corporate-announcements page</a> on {html.escape(date.today().isoformat())}. Coverage starts at FY{start_fiscal_year} and includes the latest available result filing.</p>
   <table>
     <thead><tr><th>Period</th><th>Status</th><th>BSE filing date</th><th>Local file</th><th>Source</th></tr></thead>
     <tbody>{''.join(rows)}</tbody>
@@ -304,7 +322,7 @@ def run(
         result_rows,
         skipped_candidates,
     )
-    write_html_index(output_dir, result_rows)
+    write_html_index(output_dir, result_rows, start_fiscal_year)
     print(f"Matched {len(result_rows)} financial-results filing(s) in {output_dir}")
     return 0
 
