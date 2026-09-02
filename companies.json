@@ -133,6 +133,45 @@
     "announcement_url": "https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements"
   },
   {
+    "name": "Fujiyama Power Systems Ltd",
+    "scrip_code": 544613,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements"
+  },
+  {
+    "name": "Vikram Solar Ltd",
+    "scrip_code": 544488,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements"
+  },
+  {
+    "name": "Saatvik Green Energy Ltd",
+    "scrip_code": 544526,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements"
+  },
+  {
+    "name": "Solex Energy Ltd",
+    "scrip_code": 544862,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements"
+  },
+  {
+    "name": "Ganesh Green Bharat Limited",
+    "exchange": "NSE",
+    "symbol": "GGBL",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited"
+  },
+  {
+    "name": "Citizen Solar Ltd",
+    "scrip_code": 538786,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements"
+  },
+  {
+    "name": "Sahaj Solar Limited",
+    "exchange": "NSE",
+    "symbol": "SAHAJSOLAR",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited"
+  },
+  {
     "name": "Insolation Energy Ltd",
     "scrip_code": 543620,
     "announcement_url": "https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements"
