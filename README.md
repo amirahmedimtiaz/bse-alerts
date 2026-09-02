@@ -31,3 +31,16 @@ today-only behavior of the scheduled scanner.
 Add its name, BSE scrip code, and corporate-announcements URL to
 `companies.json`. The next scheduled run will create a baseline for that
 company without sending historical alerts.
+
+Insolation Energy Ltd is tracked as BSE scrip `543620`. To download all
+currently available BSE earnings-call transcript PDFs into
+`~/Investing/Insolation Energy`, run:
+
+```text
+python scripts/download_insolation_energy_earnings_call_transcripts.py
+```
+
+The downloader walks the complete BSE announcement history, excludes call
+intimations and audio-recording outcomes, tries both BSE attachment archives,
+and writes `Insolation_Energy_Earnings_Call_Transcripts.json` as an audit
+manifest beside the PDFs. Use `--output-dir` to choose another destination.
