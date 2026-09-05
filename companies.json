@@ -175,5 +175,10 @@
     "name": "Insolation Energy Ltd",
     "scrip_code": 543620,
     "announcement_url": "https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements"
+  },
+  {
+    "name": "Tata Power Company Ltd",
+    "scrip_code": 500400,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements"
   }
 ]
