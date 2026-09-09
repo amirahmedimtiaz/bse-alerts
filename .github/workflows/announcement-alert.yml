@@ -27,9 +27,38 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
       - name: Save announcement state
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/seen_announcements.json
-          git diff --cached --quiet || git commit -m "Update announcement state"
-          git push
+          for attempt in 1 2 3 4 5; do
+            git add state/seen_announcements.json
+            if git diff --cached --quiet; then
+              echo "Announcement state is already up to date."
+              exit 0
+            fi
+
+            git commit -m "Update announcement state"
+            if git push origin HEAD:main; then
+              echo "Announcement state pushed on attempt ${attempt}."
+              exit 0
+            fi
+
+            if [ "${attempt}" -eq 5 ]; then
+              echo "Failed to push announcement state after ${attempt} attempts." >&2
+              exit 1
+            fi
+
+            echo "Remote branch changed during push; reconciling state and retrying."
+            git fetch origin main
+            if git merge-base --is-ancestor HEAD origin/main; then
+              echo "This state commit was already pushed by another runner."
+              exit 0
+            fi
+
+            python scripts/merge_announcement_state.py --remote-ref origin/main
+            # Keep the remote tree as the commit base while retaining the
+            # merged state in the working tree for the next attempt.
+            git reset --mixed origin/main
+          done
