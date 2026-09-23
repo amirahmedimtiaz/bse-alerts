@@ -2843,6 +2843,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T10:28:14.690167+00:00",
+      "news_id": "106789302",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"23-Sep-2026 15:55:11\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_23092026155215_Covering_Letter_InvestorMeet_300926.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"23-Sep-2026 15:55:11\", \"sort_date\": \"2026-09-23 15:55:11\", \"seq_id\": \"106789302\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"334.94 KB\", \"attFileSize\": \"334.94 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-09-23 15:55:11\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_23092026155215_Covering_Letter_InvestorMeet_300926.pdf\", \"_id\": \"106789302\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-23T05:12:07.584970+00:00",
       "news_id": "106750101",
