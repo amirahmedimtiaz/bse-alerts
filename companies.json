@@ -200,5 +200,15 @@
     "name": "K V Toys India Ltd",
     "scrip_code": 544641,
     "announcement_url": "https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641"
+  },
+  {
+    "name": "Chemkart India Ltd",
+    "scrip_code": 544442,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/"
+  },
+  {
+    "name": "Taparia Tools Ltd",
+    "scrip_code": 505685,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements"
   }
 ]
