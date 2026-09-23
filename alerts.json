@@ -2585,6 +2585,13 @@
     },
     {
       "company_key": "544822",
+      "discovered_at": "2026-09-23T09:27:37.361767+00:00",
+      "news_id": "5820539f-2869-456a-b349-f872135bd0f2",
+      "payload": "{\"NEWSID\": \"5820539f-2869-456a-b349-f872135bd0f2\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_5820539F-2869-456A-B349-F872135BD0F2\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On 23Rd September, 2026- Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-09-23T14:53:03.88\", \"NEWS_DT\": \"2026-09-23T14:53:03.88\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8537109c-8f6e-49f7-8927-147971fcd601.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting held on Wednesday, 23rd Septemeber, 2026\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 223, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T14:52:59\", \"DissemDT\": \"2026-09-23T14:53:03.88\", \"TimeDiff\": \"00:00:04\", \"Fld_Attachsize\": 2850372, \"SUBCATNAME\": \"Outcome without intimation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On 23Rd September, 2026- Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-09-23T14:53:03.88\", \"_category\": \"Others\", \"_headline\": \"Outcome of the Board Meeting held on Wednesday, 23rd Septemeber, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8537109c-8f6e-49f7-8927-147971fcd601.pdf\", \"_id\": \"5820539f-2869-456a-b349-f872135bd0f2\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544822",
       "discovered_at": "2026-09-23T05:12:07.584907+00:00",
       "news_id": "837b3d92-98ce-48d6-88bb-62df24e3e970",
       "payload": null,
@@ -2813,6 +2820,13 @@
       "news_id": "106774219",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T09:27:37.749776+00:00",
+      "news_id": "106789159",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Trading Window\", \"dt\": \"23-Sep-2026 14:56:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_23092026145602_Closure_of_Trading_window.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"23-Sep-2026 14:56:39\", \"sort_date\": \"2026-09-23 14:56:39\", \"seq_id\": \"106789159\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"357.78 KB\", \"attFileSize\": \"357.78 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-09-23 14:56:39\", \"_category\": \"Trading Window\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_23092026145602_Closure_of_Trading_window.pdf\", \"_id\": \"106789159\"}",
+      "status": "pending"
     },
     {
       "company_key": "NSE:BHADORA",
