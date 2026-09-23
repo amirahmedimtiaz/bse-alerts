@@ -2846,8 +2846,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-09-23T10:28:14.690167+00:00",
       "news_id": "106789302",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"23-Sep-2026 15:55:11\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_23092026155215_Covering_Letter_InvestorMeet_300926.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"23-Sep-2026 15:55:11\", \"sort_date\": \"2026-09-23 15:55:11\", \"seq_id\": \"106789302\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"334.94 KB\", \"attFileSize\": \"334.94 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-09-23 15:55:11\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_23092026155215_Covering_Letter_InvestorMeet_300926.pdf\", \"_id\": \"106789302\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -3191,6 +3191,10 @@
     {
       "message_id": "<22a33429652b536b88e1e6424a900d9274099eff25e005142ab099cadeb31642@gmail.com>",
       "sent_at": "2026-09-23T06:12:46.801643+00:00"
+    },
+    {
+      "message_id": "<45599d3898733e82eb65308222f678d894606baa2cc105ef5dac8c1380b5560c@gmail.com>",
+      "sent_at": "2026-09-23T10:28:23.831581+00:00"
     },
     {
       "message_id": "<80a4826af5104d5b9e8e5f01181311d194d4e359c09a71f24bdb524a89c043c5@gmail.com>",
