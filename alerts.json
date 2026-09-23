@@ -1,0 +1,3149 @@
+{
+  "announcements": [
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584238+00:00",
+      "news_id": "0a2247ab-67e4-4ad8-ba97-c33f8e663237",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584219+00:00",
+      "news_id": "0bfd99e9-a2f2-4ea6-b2ce-468e12e02dd8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584229+00:00",
+      "news_id": "1e1c68d1-29e4-44d4-a678-82e93db549ae",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584244+00:00",
+      "news_id": "1e4a50e9-b86d-4405-954d-3107233386fc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584234+00:00",
+      "news_id": "3417ee04-57a3-457b-baf5-020a20511adf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584237+00:00",
+      "news_id": "453a0944-88fb-4749-a6c3-aaba4eb6ffdb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584239+00:00",
+      "news_id": "556fbc8d-9059-44a3-be8b-0f4285447ea0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584231+00:00",
+      "news_id": "5d78ed29-f964-4e30-ad98-c4b645c336cf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584227+00:00",
+      "news_id": "6250c0eb-4bba-4278-8a2c-b85f071a9758",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584245+00:00",
+      "news_id": "6f8e54cc-4814-4369-9c48-5e4f04ce931e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584243+00:00",
+      "news_id": "7b0574ac-16f0-4b21-a82c-4da5e22bfe10",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584230+00:00",
+      "news_id": "8a8ec126-65b8-425b-b537-0c52addaf7a1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584233+00:00",
+      "news_id": "95d3183c-135d-4e55-ac9c-f6c6cff8d3ac",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584235+00:00",
+      "news_id": "bf52e2e0-c10d-4d53-b0f7-229c1a22c549",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584236+00:00",
+      "news_id": "d90d9d2a-1305-4941-8a68-7af5171e3c7e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584240+00:00",
+      "news_id": "e1f79a3d-b347-465a-8287-0a1544c26f6f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500144",
+      "discovered_at": "2026-09-23T05:12:07.584241+00:00",
+      "news_id": "e20a33d1-5e32-4346-adee-2516edae48bb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500400",
+      "discovered_at": "2026-09-23T05:12:07.584279+00:00",
+      "news_id": "1ed22edd-f745-4bcf-8c6d-22991cb5edfd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500400",
+      "discovered_at": "2026-09-23T05:12:07.584277+00:00",
+      "news_id": "3d8747c7-887b-47f9-8113-bc751b6197dc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500400",
+      "discovered_at": "2026-09-23T05:12:07.584275+00:00",
+      "news_id": "9415a399-a768-409b-b7e4-d4ef1e8d6d5b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "500400",
+      "discovered_at": "2026-09-23T05:12:07.584278+00:00",
+      "news_id": "adbbd303-c85e-4314-809c-be51a9860d11",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584290+00:00",
+      "news_id": "134028b6-f756-4e90-b019-f2ad2f7da646",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584284+00:00",
+      "news_id": "31bf8b68-61e3-4731-8f0c-71ff1424dd0e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584288+00:00",
+      "news_id": "7c891339-202e-40dd-a584-8721128a9b14",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584285+00:00",
+      "news_id": "9fe5a8e7-c48d-4b93-8aa8-92234c7153eb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584287+00:00",
+      "news_id": "a6880af6-65b7-4471-a401-9fa9b62b12dc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "504212",
+      "discovered_at": "2026-09-23T05:12:07.584286+00:00",
+      "news_id": "e3be374f-3fb6-4c76-93d8-e1ce66078836",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584298+00:00",
+      "news_id": "4a742e7d-4abf-46be-9b7d-d58fdc5c8bca",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584304+00:00",
+      "news_id": "562354fb-f4c0-4ad4-8ad8-8066982e5b95",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584299+00:00",
+      "news_id": "569d6e78-0672-4819-8baa-e49a0783c382",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584300+00:00",
+      "news_id": "63f71101-78b0-43db-b2e5-a0f0835944ea",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584306+00:00",
+      "news_id": "67bd2d48-15ba-437e-9c55-4a6f2ab19ce5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584307+00:00",
+      "news_id": "91ae6df9-a304-44fe-a3d3-945cbf6ee743",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584302+00:00",
+      "news_id": "a1b38cf1-652c-4098-8bd1-6a1227a87275",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584301+00:00",
+      "news_id": "c299a6eb-83ac-4d22-bf71-274a5dcb4129",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T05:12:07.584303+00:00",
+      "news_id": "eed047f3-3730-4249-b68b-80aecc7738f7",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584317+00:00",
+      "news_id": "192ab2fd-191e-4863-8e6b-d14ab6b22357",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584319+00:00",
+      "news_id": "41f1423d-f7fe-4c40-81ff-c2c60e75f3ca",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584320+00:00",
+      "news_id": "5fd35562-858f-42ec-846d-63b834e05a65",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584314+00:00",
+      "news_id": "633191a0-0a2c-4894-84fe-679d546172f2",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584323+00:00",
+      "news_id": "98403fbb-2f78-4803-aed3-266b19913fc3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584315+00:00",
+      "news_id": "b53e3903-8449-46bd-8681-69a0c9ee06b5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584318+00:00",
+      "news_id": "b9124a66-6fe6-4cf4-a824-3724a3333e45",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584316+00:00",
+      "news_id": "c20563b2-465b-4878-be87-770c0f547c6a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T05:12:07.584321+00:00",
+      "news_id": "dbd7e200-ec79-4729-9888-132da2c72477",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584359+00:00",
+      "news_id": "0160eb35-0b3d-4d34-81fe-629ac8b61625",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584345+00:00",
+      "news_id": "057d0b3f-41a8-42c2-b11f-844e40cbf2fe",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584349+00:00",
+      "news_id": "133c1df4-eab5-4e8f-b080-2e2a3ea52c68",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584355+00:00",
+      "news_id": "175fcd4c-0b9a-43ea-b1af-db66ddf32f4e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584354+00:00",
+      "news_id": "185c4fb6-c53d-4409-89ad-ba169fbcdb72",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584356+00:00",
+      "news_id": "1f2a27bb-35d6-4304-878b-040bbb94f828",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584342+00:00",
+      "news_id": "235768a9-5eaa-446e-93d2-a7c5ec056fed",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584358+00:00",
+      "news_id": "2d8fb6f6-97df-4a4e-abf4-f503a4e90d50",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584361+00:00",
+      "news_id": "35dd0b51-3d35-4022-8915-6efa273d7398",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584357+00:00",
+      "news_id": "383872d0-06a6-44cd-af89-63091d4e8cdb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584351+00:00",
+      "news_id": "3e3b2e2b-eba2-4697-a0ca-28987abce6e1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584362+00:00",
+      "news_id": "4365873c-a881-46bf-bba7-0f8ee46f9fe3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584363+00:00",
+      "news_id": "4c669995-48c5-4c48-a058-592983c97657",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584360+00:00",
+      "news_id": "55318e0a-945c-438b-ba21-16d0f616b447",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584364+00:00",
+      "news_id": "5b30e5fb-258b-47d9-9fa1-58caf42ed977",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584346+00:00",
+      "news_id": "682fa7e8-2b15-4bd6-893f-5d0ff8d7c853",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584341+00:00",
+      "news_id": "6d215c4f-86c9-4d18-813f-e986595b2bee",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584343+00:00",
+      "news_id": "7816267d-97e5-4b8c-b591-a53cff15ccd5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584352+00:00",
+      "news_id": "7bfedfd7-da39-48e7-9527-bb367e8f6ccf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584365+00:00",
+      "news_id": "8e1da679-91be-4482-ad2a-7a0d9c92afee",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584348+00:00",
+      "news_id": "a25af600-6287-492b-8784-6e53bbe176dc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584350+00:00",
+      "news_id": "a7a4f1d7-7c77-4dcf-a7f2-437fe9f8bc93",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584354+00:00",
+      "news_id": "d69b6cf2-9fa4-4e35-8eb4-28e7a6db46f8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584347+00:00",
+      "news_id": "de681651-b4a9-42f2-a784-23faf1949d07",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584344+00:00",
+      "news_id": "f16e627f-bd01-44bd-a4cd-a9b9045f4b9f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "517569",
+      "discovered_at": "2026-09-23T05:12:07.584353+00:00",
+      "news_id": "f306dcf7-e796-43f5-8a64-fd2c3d0aa9c3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584390+00:00",
+      "news_id": "0d9a99f8-e26e-43d6-959c-bfbff4d256e7",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584388+00:00",
+      "news_id": "19684552-aa75-4e3f-8983-15faf2f638e5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584399+00:00",
+      "news_id": "1ad7596f-4a44-49d3-bdd0-076a52a3a377",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584409+00:00",
+      "news_id": "2f7449ae-c769-4d51-9d74-75807f2af55e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584404+00:00",
+      "news_id": "322361ac-7904-4874-8718-d01f10b2c4b2",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584398+00:00",
+      "news_id": "51781095-74e8-44a2-bd69-837e4c0bcbe1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584387+00:00",
+      "news_id": "54f6a652-dde8-4604-9c59-81467f749962",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584401+00:00",
+      "news_id": "62f81777-4a8e-4ec6-80da-bad3932a1209",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584394+00:00",
+      "news_id": "63e64ebd-79ab-4a36-9914-9c70e25270f6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584392+00:00",
+      "news_id": "6563124f-e8fd-4182-8389-31fd920f023d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584410+00:00",
+      "news_id": "66d0c503-4d32-4311-a122-02ab2fdf25a5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584411+00:00",
+      "news_id": "686d0c51-4c4e-4fe3-870d-ea2a30016788",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584403+00:00",
+      "news_id": "71d9dfda-ed90-4fc7-93d8-70ae1e8faec8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584402+00:00",
+      "news_id": "77230382-0885-4072-b9e5-60dc1475486a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584395+00:00",
+      "news_id": "7a12f859-7602-4be1-8ae0-f231aa9c07b1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584405+00:00",
+      "news_id": "830a87da-5788-4e21-83ee-66e38a6f4b49",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584393+00:00",
+      "news_id": "8647855a-7bf4-411e-a977-f8b05fc4184d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584396+00:00",
+      "news_id": "887a6185-91f0-4004-86be-207da7964466",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584413+00:00",
+      "news_id": "8b391d79-a5e6-47b2-a73c-66dda24f48e7",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584405+00:00",
+      "news_id": "94744cdc-fabc-4c0c-bc14-456f6bb72e53",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584386+00:00",
+      "news_id": "9e11b082-ac79-4d9a-8686-d2506083c71a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584396+00:00",
+      "news_id": "a9a5af71-773a-4da9-ba21-db21d6c74cf8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584400+00:00",
+      "news_id": "afe7d4aa-6ebf-40de-a7e3-0cee6f37b8e3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584397+00:00",
+      "news_id": "bbf833de-222a-45cd-8eae-2e279a07788e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584383+00:00",
+      "news_id": "c3a11ff5-bdc9-4d0d-bd3b-e21d53bb1645",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584389+00:00",
+      "news_id": "d106feff-49b0-4f31-aeb3-61d1796728ef",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584389+00:00",
+      "news_id": "d70dee09-f50d-493a-8d99-341d8d81670c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584385+00:00",
+      "news_id": "db08c39e-e194-4655-8589-bdd313832b14",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584391+00:00",
+      "news_id": "dd769d93-f205-4909-8b5a-f2f9c5136555",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584401+00:00",
+      "news_id": "ee389b2a-796d-48ba-9d8f-bc2a7f7c8eba",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "522163",
+      "discovered_at": "2026-09-23T05:12:07.584406+00:00",
+      "news_id": "f6030299-f358-4b45-befe-bc0577b23323",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584451+00:00",
+      "news_id": "0362b908-a385-4551-9df4-89348f608c40",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584446+00:00",
+      "news_id": "0e008ba8-72d2-4301-af8f-560197be50f8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584452+00:00",
+      "news_id": "213b9ba1-084d-43d9-8239-f216ae75edf9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584453+00:00",
+      "news_id": "2c48674a-45f7-4482-8924-5769e283a6aa",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584454+00:00",
+      "news_id": "41ceb81c-0cd6-45d3-bbe6-c8310db48f2f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584459+00:00",
+      "news_id": "4bfdd6bf-7fe8-4fe1-a4bb-72f7311cbb77",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584458+00:00",
+      "news_id": "527abd26-6799-4e2f-8766-67983601a1f3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584444+00:00",
+      "news_id": "5f1a07db-79a6-4903-83fb-01346fced50d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584461+00:00",
+      "news_id": "7526c995-b372-4984-9b2e-13c00ffb013b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584445+00:00",
+      "news_id": "81c8fad7-073e-42ee-80fc-10a7a629913f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584450+00:00",
+      "news_id": "8859d0c8-498b-44ba-b50d-11fca764c018",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584447+00:00",
+      "news_id": "921b85c4-338b-47a6-add9-863e456a6252",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584456+00:00",
+      "news_id": "9e40cceb-51de-4932-96ce-27cc93f871e3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584442+00:00",
+      "news_id": "a334ca49-ce0d-4b7a-93fd-80e8c77b3dcc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584448+00:00",
+      "news_id": "a7849820-4c67-4d89-bc69-eb6bd98dd2e9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584443+00:00",
+      "news_id": "be01869e-204f-4946-acb1-5af2a80b7cbc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584457+00:00",
+      "news_id": "c4ebfa1c-fcb3-42ba-ab88-b7bccea502aa",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584449+00:00",
+      "news_id": "debc1107-4523-4a64-b995-4dee9e06f3bc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "530555",
+      "discovered_at": "2026-09-23T05:12:07.584460+00:00",
+      "news_id": "e1c795d7-1558-48ec-889e-99256af497e8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584499+00:00",
+      "news_id": "0020f35d-7f29-4712-8890-c783bf2a0395",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584480+00:00",
+      "news_id": "0b4f1960-9715-4120-84d5-36e05c0c580a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584492+00:00",
+      "news_id": "146a4cbf-19bb-4a63-82eb-c0813764c407",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584478+00:00",
+      "news_id": "15d49553-63f3-4bf1-ac12-a8a417a37fc5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584485+00:00",
+      "news_id": "16cf364e-4342-4fcc-ac59-b673975bc9c4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584479+00:00",
+      "news_id": "230b5ac8-8df2-44f8-887b-0e343faeb578",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584497+00:00",
+      "news_id": "2eec26c6-916f-4c17-a147-0a296c45ce04",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584489+00:00",
+      "news_id": "3d1e2795-0444-46f2-8304-f4affc8a3907",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584481+00:00",
+      "news_id": "491d74d9-1ea4-491c-b312-63d6871bd68f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584500+00:00",
+      "news_id": "584c3c5c-6d64-436e-b48d-8736d423b2bc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584490+00:00",
+      "news_id": "5861bb03-48d0-4618-a4cf-edd85fefee5c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584493+00:00",
+      "news_id": "63969b31-2903-4ec7-8b68-df46902c1b3e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584491+00:00",
+      "news_id": "688357af-33f7-4458-9b24-887d75d6aa1a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584475+00:00",
+      "news_id": "6c142adb-24e7-43e6-8435-f410c5f802de",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584496+00:00",
+      "news_id": "6dca2420-12d7-4d67-99fc-5f65197524ae",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584481+00:00",
+      "news_id": "81680867-b3e1-49ba-afab-625fd63101a0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584497+00:00",
+      "news_id": "a2db2d92-897a-4daa-9a71-25ea0a247454",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584498+00:00",
+      "news_id": "a31b34e9-33bd-4667-a715-1ac94ff9ee60",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584492+00:00",
+      "news_id": "a59d62c2-412a-4991-97fc-4a935cc5126e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584502+00:00",
+      "news_id": "a7770939-bfb6-487d-bd92-cf4a57efe66d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584484+00:00",
+      "news_id": "a788b812-42ed-47b6-bec1-b03fb0f96237",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584501+00:00",
+      "news_id": "dcd695a9-7f2d-415e-98bb-e0b26f6f5e19",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584494+00:00",
+      "news_id": "e0b6be37-ab0c-4a18-86c4-fbde11bccb77",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584495+00:00",
+      "news_id": "e1d01764-0f7d-4e23-a13a-3ea1b0ba238c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584483+00:00",
+      "news_id": "e2242caf-4a6f-4fb0-b6c6-6f2330d8f96b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584487+00:00",
+      "news_id": "f0a7162c-8f72-4160-b5eb-0db86b1bc557",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584476+00:00",
+      "news_id": "f0db13f1-9fb2-43c8-a51c-3e81816622c0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584482+00:00",
+      "news_id": "f4617139-a298-4385-84de-0c11c2ae51ec",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584488+00:00",
+      "news_id": "f4eee828-2a6c-415f-a2c7-4ed9cb30e74b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584486+00:00",
+      "news_id": "fd21d82d-2d76-4cef-8f52-fb992266f6aa",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-09-23T05:12:07.584477+00:00",
+      "news_id": "ffc0bbaa-46b2-4a8d-b772-591de368088c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584531+00:00",
+      "news_id": "0072d301-85a2-4003-b0e5-cd7269e2bbdc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584533+00:00",
+      "news_id": "04ad07a9-b097-48cf-b1b6-478b6553c747",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584541+00:00",
+      "news_id": "04c0f4a3-ea1d-4132-b011-eb22eacd228a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584535+00:00",
+      "news_id": "0588bae7-955d-4148-951c-ad4b56736b80",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584538+00:00",
+      "news_id": "06994875-2d60-46eb-b117-55b03fd8125d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584532+00:00",
+      "news_id": "485d525a-9535-4e17-aa03-b9bb670cb32c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584540+00:00",
+      "news_id": "4aeffaed-5140-42c6-ae1d-84514d0402b1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584529+00:00",
+      "news_id": "56591cdd-7063-47dc-afd0-37d2299de88e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584544+00:00",
+      "news_id": "600b2d61-7c40-4f0b-bdd4-bcf0ff655c17",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584543+00:00",
+      "news_id": "6d13ee6b-dc1d-474a-aa01-157c2d120a83",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584528+00:00",
+      "news_id": "6e1afba6-46f4-4540-bbe3-1c514b81be83",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584539+00:00",
+      "news_id": "83976a72-3bb7-4997-97fc-70291ffa51fd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584546+00:00",
+      "news_id": "8890ab8d-c404-4731-b039-62ef7e473823",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584542+00:00",
+      "news_id": "89d19b93-7c88-4299-834d-355922a7f7d5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584528+00:00",
+      "news_id": "9ede5556-6ec4-4c3d-b746-497c2581e826",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584530+00:00",
+      "news_id": "a202c5b4-e2b6-44e9-808a-2f1b26e487d9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584543+00:00",
+      "news_id": "a82e310c-6e97-434e-8ae8-ea1bbe63e197",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584537+00:00",
+      "news_id": "a8c7b0d8-d39d-4988-b322-3757c2b168cf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584547+00:00",
+      "news_id": "ad7e6dc0-1f14-4715-92fa-315fcb01f224",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584536+00:00",
+      "news_id": "d3afaf7b-4123-4705-9879-a64b8a3d338b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584534+00:00",
+      "news_id": "d5c3912f-04e8-4d41-ad56-e32a48d20d25",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584538+00:00",
+      "news_id": "db61634b-1534-4da5-8081-7954ed7f8cf4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584547+00:00",
+      "news_id": "f12a097a-a799-4c4e-bcf0-6949c333c5ae",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532374",
+      "discovered_at": "2026-09-23T05:12:07.584545+00:00",
+      "news_id": "ff33ea80-184c-4861-a25b-610da5fa9c03",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584575+00:00",
+      "news_id": "0b48c0e6-9021-44e6-ae30-2ae2e50f05bb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584570+00:00",
+      "news_id": "23df0918-023b-4cbb-8c70-f0a80047df5d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584578+00:00",
+      "news_id": "2f249cfd-7e10-4d66-b8a9-41fa058143c7",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584573+00:00",
+      "news_id": "60259599-3b6a-47e6-b595-cd27bb3657cd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584574+00:00",
+      "news_id": "64d81b2f-6ef0-4a36-902b-b77686c38cdf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584577+00:00",
+      "news_id": "7c1cd3f6-09c0-4da4-800a-6f65078bcbc3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584579+00:00",
+      "news_id": "808764e1-81bc-49d4-8f21-013c31f2e67a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584573+00:00",
+      "news_id": "8dc8b715-ad83-44b9-9250-f67b89c10543",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584572+00:00",
+      "news_id": "beba25ec-7484-4b90-b153-5e04963b7ab6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584571+00:00",
+      "news_id": "c45e1ea4-1366-4478-9036-ab4e1ced43dd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584581+00:00",
+      "news_id": "ce9dfed3-ec2f-4153-aeb0-eddbe5ab5971",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584580+00:00",
+      "news_id": "d593d4c5-d81a-473d-bede-300e2881b33f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584576+00:00",
+      "news_id": "da527f67-83f3-4d8f-b10d-136168cf9c11",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "532941",
+      "discovered_at": "2026-09-23T05:12:07.584578+00:00",
+      "news_id": "dc828ff0-a366-4152-bc0a-88373e0fbc0c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584592+00:00",
+      "news_id": "15636949-a1ae-41a4-9d1f-929321bf4bd0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584591+00:00",
+      "news_id": "314ad1ac-c799-49a9-85c3-ae27c738fc40",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584593+00:00",
+      "news_id": "36d4ba79-33f8-4d4b-b80a-ea7308bdbbb1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584600+00:00",
+      "news_id": "427ff6f5-c372-46d5-9dd5-2b2465898f5e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584596+00:00",
+      "news_id": "48d83ba4-249c-40fb-ad6d-8e1118a491bf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584605+00:00",
+      "news_id": "55080e8e-86b1-4ced-9d80-d0a1a70311da",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584594+00:00",
+      "news_id": "7f228147-5e23-4863-a246-951eb3b0ab56",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584595+00:00",
+      "news_id": "85b5c649-6d12-4373-b0f0-ea53a7afc997",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584600+00:00",
+      "news_id": "8a8ed59d-3681-4028-84d2-7dd6365c393f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584596+00:00",
+      "news_id": "93cd87f6-63ae-4bde-aa42-6895f18b405a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584597+00:00",
+      "news_id": "95e49db0-c784-40c9-a3f2-8d78a9354553",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584601+00:00",
+      "news_id": "a294e07a-38bc-4411-b5af-bd7d9cb707ef",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584598+00:00",
+      "news_id": "af85ff73-f519-4449-bf3e-451451ca226e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584602+00:00",
+      "news_id": "c2a380f9-8080-4c00-849b-2861d591e028",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584599+00:00",
+      "news_id": "d1f733e2-fba7-4aa9-9109-d19f11500f38",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584604+00:00",
+      "news_id": "f121d88e-74d0-4c88-b9da-7d4404277086",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584604+00:00",
+      "news_id": "f43eb81a-a11c-4f7b-be31-52d6c00cb8a3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "534618",
+      "discovered_at": "2026-09-23T05:12:07.584603+00:00",
+      "news_id": "fb1c0b9b-a6f8-4302-bb62-00792242f014",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584620+00:00",
+      "news_id": "731f424b-f5e5-4233-a209-a3920277c121",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584625+00:00",
+      "news_id": "77923757-f8a6-4c01-9b81-f1a053f03582",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584624+00:00",
+      "news_id": "88d36136-098d-4309-a112-10271b104af9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584627+00:00",
+      "news_id": "98e803f2-736b-44f2-b3db-4cbb582b8d80",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584624+00:00",
+      "news_id": "aa2ed348-75a3-430d-87cd-1ecd3fbf70fd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584629+00:00",
+      "news_id": "af7305f8-5742-4f49-982d-9eb842a3b534",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584621+00:00",
+      "news_id": "c4a04fbf-ba1b-4814-b5ae-82647d680d64",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584628+00:00",
+      "news_id": "ced93d31-d07d-4d37-a10f-34d83d3efd75",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584623+00:00",
+      "news_id": "d04d7a3c-34df-44e6-84a3-7ac1f64b7cfd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584626+00:00",
+      "news_id": "d2d081f1-29d0-4393-a032-0b6b5ffffabd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584622+00:00",
+      "news_id": "d3bef340-715a-4c7a-98f8-709a9eccbf03",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538706",
+      "discovered_at": "2026-09-23T05:12:07.584629+00:00",
+      "news_id": "dd5933e3-607b-4556-8279-02ca2f9b64c9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538786",
+      "discovered_at": "2026-09-23T05:12:07.584640+00:00",
+      "news_id": "619b8c3a-d304-4b38-8131-e44aa87f6833",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "538786",
+      "discovered_at": "2026-09-23T05:12:07.584640+00:00",
+      "news_id": "a5b7ee37-273c-4b1f-841a-4ca9a4f6942f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584654+00:00",
+      "news_id": "03e0e5fe-e04e-477e-a0c8-9bdca13eb032",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584652+00:00",
+      "news_id": "1e2aff2a-b7b1-41d7-96eb-533ff5310812",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584646+00:00",
+      "news_id": "2181d79c-547a-4d42-a635-e621dd2f4b80",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584651+00:00",
+      "news_id": "2e5e985c-0ce0-468e-b804-0047409e61e6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584650+00:00",
+      "news_id": "4f67b605-96ee-458a-bcc9-c4c37b93782c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584649+00:00",
+      "news_id": "67dd7ec8-d077-40a8-b693-aab312522a7c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584648+00:00",
+      "news_id": "6f1e63f2-20b3-4708-bc97-70c5633500d8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584646+00:00",
+      "news_id": "7022b499-331f-4053-82d7-f106d961e397",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584655+00:00",
+      "news_id": "743fd9d5-05a7-4b36-848b-c1e3410fe0b0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584644+00:00",
+      "news_id": "755a25f7-f6cc-42cc-9096-c7ba59a52560",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584651+00:00",
+      "news_id": "8a72d0af-1126-4c0e-8904-1a201fdfc446",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584647+00:00",
+      "news_id": "e08246cd-1012-4620-be0c-e0db4bf6978f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584645+00:00",
+      "news_id": "f1ded83a-de2c-450d-b6df-6026b2247e06",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-09-23T05:12:07.584653+00:00",
+      "news_id": "f8ced439-48a9-4ca1-9b1e-cc9f9d01978c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584675+00:00",
+      "news_id": "074a93d2-c893-4658-ac3f-7fdefc266bab",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584682+00:00",
+      "news_id": "10f72217-5b42-4215-b67f-1ac2a73830e5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584668+00:00",
+      "news_id": "1afd77a5-b2eb-47d5-8f2a-7b18274af777",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584669+00:00",
+      "news_id": "22933385-81e6-4a4f-ae2a-dddf67ebbdd8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584673+00:00",
+      "news_id": "568ef955-e927-4263-afa8-9d35aeb0726a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584679+00:00",
+      "news_id": "6ab64020-f869-40c8-bcf9-48699fb442ad",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584674+00:00",
+      "news_id": "70739113-e20f-4220-91bb-01f2b3f345ff",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584679+00:00",
+      "news_id": "76b88377-8486-4a01-815f-baf017e37b35",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584676+00:00",
+      "news_id": "8f70044b-a97e-400c-b126-8291b56cc6ee",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584670+00:00",
+      "news_id": "9976a0d9-8890-4e7a-baff-7a5dff86bf77",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584677+00:00",
+      "news_id": "a6d267d8-0fde-450e-80c3-07efbc3235e2",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584674+00:00",
+      "news_id": "bf95ed6f-ca7d-4c28-9c50-cdcf8fa8b71a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584670+00:00",
+      "news_id": "c26a9c1f-7633-44ed-81a6-c4081e410859",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584672+00:00",
+      "news_id": "d3e66ab0-9c9c-4b87-a73c-03c23a4f1d96",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584680+00:00",
+      "news_id": "dc7a0b84-7258-40d3-aa07-2dc66b9bd93c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584681+00:00",
+      "news_id": "f3781489-66f3-481a-97d8-cb204b903ff1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584678+00:00",
+      "news_id": "f54b91db-a94e-49c1-9c70-813ec8671dc5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "542652",
+      "discovered_at": "2026-09-23T05:12:07.584671+00:00",
+      "news_id": "ffd26103-5b3e-4343-b1a6-a3da6c60a25c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584704+00:00",
+      "news_id": "28f1cb5f-1416-410c-b4da-028dd30ff89a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584702+00:00",
+      "news_id": "335418bc-dab3-47d8-b9c8-5ca0243eaf59",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584703+00:00",
+      "news_id": "3dab4bcd-97e2-48f5-90ca-1bef0193d229",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584702+00:00",
+      "news_id": "7c8d7469-fe77-4c2a-bc9c-61f432e5bacf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584705+00:00",
+      "news_id": "838748db-c345-4b9e-bcf1-78eaae07303c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543620",
+      "discovered_at": "2026-09-23T05:12:07.584701+00:00",
+      "news_id": "97bb5320-f958-4c4a-8586-ba971af97e93",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584717+00:00",
+      "news_id": "03f4827e-2649-41fe-90cb-c2720fdacc58",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584722+00:00",
+      "news_id": "29aa8d1c-adb3-40de-a49d-b591b43e340d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584715+00:00",
+      "news_id": "4a5cb06e-b61c-4709-9658-9cdf8e2283c1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584724+00:00",
+      "news_id": "4fda4abf-d34a-4dc6-99ab-c04bbc236dc1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584711+00:00",
+      "news_id": "5d970c9e-f752-4920-a593-b8b660ac8a96",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584723+00:00",
+      "news_id": "686b8db3-2b54-42f8-8552-11d34aaad691",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584712+00:00",
+      "news_id": "6d4405c5-4c24-4b78-a45c-1a3cd7bf0840",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584720+00:00",
+      "news_id": "782da044-2f25-4752-ba52-1b22712d9248",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584721+00:00",
+      "news_id": "7ad51450-36ad-402b-96c8-3e3f0f3ade2f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584721+00:00",
+      "news_id": "877db87e-721c-4287-88c8-5c2d2cd96c71",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584719+00:00",
+      "news_id": "cfad7799-592e-4d51-a27c-46bff0c5d5b5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584714+00:00",
+      "news_id": "d96539bc-d0c4-40db-9d14-95a76301b9b0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584716+00:00",
+      "news_id": "e5d585c3-0ae1-4aa4-9c0f-a1a52d0daea8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584713+00:00",
+      "news_id": "e6665380-9ecc-426d-8913-aaa256cb6b33",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "543981",
+      "discovered_at": "2026-09-23T05:12:07.584718+00:00",
+      "news_id": "f8033c3e-6780-4a2b-aee1-affc473f80ec",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584744+00:00",
+      "news_id": "076fe85e-9b11-4754-9df9-10cac5977839",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584743+00:00",
+      "news_id": "0f8d05b1-c98b-40b1-be41-26a2a6c558ec",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584737+00:00",
+      "news_id": "25fc45ad-aeb1-426a-8286-01d43ab07dc3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584741+00:00",
+      "news_id": "373f62ed-c8ec-4c2c-9ad7-74fb18f06fce",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584738+00:00",
+      "news_id": "566f68fd-17bd-4643-9361-4b3cd49d7969",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584747+00:00",
+      "news_id": "5ac1d3ee-98c1-45f8-ae9a-cb74377ca27f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584742+00:00",
+      "news_id": "5b2d7ca4-56f9-44d2-a215-13935d97fe98",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584747+00:00",
+      "news_id": "5b697f89-60a0-4c91-9136-1f4bc4c66115",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584745+00:00",
+      "news_id": "5fe526aa-568a-4d9f-be83-43e7b68dbbe6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584742+00:00",
+      "news_id": "60c95b7e-62e3-4da1-8696-173abe226e31",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584739+00:00",
+      "news_id": "9dea5053-4215-4bf2-8296-b6fd4aaf1707",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584740+00:00",
+      "news_id": "b704c1ae-9f9b-44ba-8c38-3f43f0d8890d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584746+00:00",
+      "news_id": "d22a9f8a-4e15-45f6-98e8-851fccb80886",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584735+00:00",
+      "news_id": "eae32f03-c335-42b8-93a5-a74fb1dea9b0",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-09-23T05:12:07.584736+00:00",
+      "news_id": "f0a6c7e4-c2df-4b77-8ef3-1160ee702cef",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584778+00:00",
+      "news_id": "059edf35-3846-406e-bb7b-fe0f652d7a59",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584786+00:00",
+      "news_id": "0da32735-b762-48ee-b7d7-d157c8c2a64a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584761+00:00",
+      "news_id": "235405c3-a680-4dc6-a1fa-99cdf85bf531",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584760+00:00",
+      "news_id": "24574919-424f-4626-ab5b-a3e0e603b16e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584779+00:00",
+      "news_id": "25781537-1aae-4fb5-8eee-59f4416e1692",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584780+00:00",
+      "news_id": "338ea524-45b2-4c9c-a239-7c522026d1ad",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584784+00:00",
+      "news_id": "3f13d9bf-bf67-4adc-912b-f703f373cbbf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584783+00:00",
+      "news_id": "5b21eff2-3d3a-4bac-a7fe-79bb126f5241",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584765+00:00",
+      "news_id": "77122b1c-14f4-4518-9520-1fbd7b462b4a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584763+00:00",
+      "news_id": "77ba4735-e081-4bb7-98e5-5c587fb6f8af",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584782+00:00",
+      "news_id": "7c999db1-9a6f-47be-b1d5-d4763dca0c92",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584785+00:00",
+      "news_id": "8ae5406b-95a5-47c9-87d0-6a495f0d0cf4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584781+00:00",
+      "news_id": "90166ad8-0f19-4a67-8672-b037f8db57fc",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584778+00:00",
+      "news_id": "bce358c5-ee3c-4dec-97ec-7fcade3de407",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584787+00:00",
+      "news_id": "c73ea480-d548-4366-a239-a2342d82e9fd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584762+00:00",
+      "news_id": "ce342924-3bac-438f-9a48-202868bde40e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584763+00:00",
+      "news_id": "d8c532b3-e8ef-4e5e-b35e-faab705e223c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584782+00:00",
+      "news_id": "f38e75f2-9862-4af7-b752-887710bcb40b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-09-23T05:12:07.584764+00:00",
+      "news_id": "f6d63ee7-36f7-4aa1-a59d-5f42b22b36e2",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544488",
+      "discovered_at": "2026-09-23T05:12:07.584805+00:00",
+      "news_id": "89c5507e-81db-412e-acff-51ce14b58e3d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544488",
+      "discovered_at": "2026-09-23T05:12:07.584806+00:00",
+      "news_id": "d40d6233-8097-42f5-aa25-227e19be9c29",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544488",
+      "discovered_at": "2026-09-23T05:12:07.584806+00:00",
+      "news_id": "edcc15e4-cdd4-4596-b7ce-811307ec2299",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584812+00:00",
+      "news_id": "044793c3-fd1b-49c1-8b0c-7b74f247ef10",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584823+00:00",
+      "news_id": "052e8a5e-ed24-4f75-a25f-8c626348a438",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584818+00:00",
+      "news_id": "0d6964e4-fd00-4803-88e6-f3d26fa77a30",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584819+00:00",
+      "news_id": "361f1d37-9be2-4889-b142-c09f888a1543",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584826+00:00",
+      "news_id": "4621f930-ea1c-454f-8f24-2b53c606d5bb",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584813+00:00",
+      "news_id": "4d6f3a92-f808-46c0-a787-8c43fde439dd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584822+00:00",
+      "news_id": "52edb813-d5b9-4292-994d-b3ca33a957c7",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584820+00:00",
+      "news_id": "5c66695f-3ad3-498b-a1e1-a52d204f047f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584822+00:00",
+      "news_id": "5d76a4a3-5be9-465b-8372-4f0369e1b38e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584821+00:00",
+      "news_id": "648dd6c7-2591-48ac-a4f9-b3dd29349818",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584815+00:00",
+      "news_id": "6f9e6f1b-5f65-475c-ae71-30f00354976a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584814+00:00",
+      "news_id": "7f2ef187-c944-440c-b387-01009500dc5e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584816+00:00",
+      "news_id": "8d751e12-53dd-4f5e-8b54-d89a5ca9bd08",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584817+00:00",
+      "news_id": "9da79963-0516-4853-b49f-f5f4c12caa00",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584812+00:00",
+      "news_id": "a30732f5-6d87-4928-98df-4f16d89d0133",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584824+00:00",
+      "news_id": "b19325a3-d243-44f1-a6b5-2fdbaaae7851",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584817+00:00",
+      "news_id": "d44f8bfd-22f9-46d5-a8af-4d91efc40ae6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544524",
+      "discovered_at": "2026-09-23T05:12:07.584825+00:00",
+      "news_id": "ddd3f187-ecf8-41d8-a8e2-fd3b4e8ec18f",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584847+00:00",
+      "news_id": "4fab137c-e922-4a21-bd83-1f16ec8e1ecd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584844+00:00",
+      "news_id": "51bc2bb9-161c-4c1a-9d64-1b71c53f23f4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584844+00:00",
+      "news_id": "85b45567-fdeb-493b-a080-298f5a038860",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584845+00:00",
+      "news_id": "a77ee159-871f-4d12-a7c9-23cdc2eab42b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584848+00:00",
+      "news_id": "de88c182-afae-4bf6-a52a-b5d28ef2c1ee",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544526",
+      "discovered_at": "2026-09-23T05:12:07.584846+00:00",
+      "news_id": "e7a1cf6b-a738-4472-a963-096aaf09a1f4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584855+00:00",
+      "news_id": "04ca9e6e-9afa-4121-a7d3-a28f020e1bf3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584856+00:00",
+      "news_id": "0a6d4e2e-0a53-4c96-858a-863d95e2e3d1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584858+00:00",
+      "news_id": "3ba604a5-9d0d-4611-b26a-6d07c5a07a73",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584857+00:00",
+      "news_id": "7d5c39f9-49a6-4ed4-9f81-7b29ec2bc8f4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584855+00:00",
+      "news_id": "99ae419e-e85a-4602-85b6-6e8601572d5b",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-09-23T05:12:07.584854+00:00",
+      "news_id": "ea080226-1627-4c39-a8f4-007845d3346a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544613",
+      "discovered_at": "2026-09-23T05:12:07.584865+00:00",
+      "news_id": "51a46bb2-a6ba-42a8-a3d0-b631e5ba97c3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544613",
+      "discovered_at": "2026-09-23T05:12:07.584864+00:00",
+      "news_id": "5551ebce-6c36-4419-b91b-f8607239d5c2",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584884+00:00",
+      "news_id": "10898a14-2bf1-4dc8-8360-52ec317e7e0c",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584886+00:00",
+      "news_id": "16d3a590-fb70-4dad-a2ed-3a690478f628",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584887+00:00",
+      "news_id": "18084cac-1fcf-409f-82ef-f2b56ecc0c2a",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584875+00:00",
+      "news_id": "1a00e75c-3584-47b9-bf42-ccf01040e1a3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584884+00:00",
+      "news_id": "20eb7910-3ce8-47e9-980a-9206c576f0bf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584883+00:00",
+      "news_id": "2610fd09-bc5e-422c-a68b-47918fba939e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584872+00:00",
+      "news_id": "42d734ea-d092-4d70-9073-77f272da09dd",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584888+00:00",
+      "news_id": "4e5f360b-cc61-4f08-a18b-44be3fedbdf1",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584874+00:00",
+      "news_id": "5f8e2cd6-0dfe-4e98-a5a3-dc1105f90ef8",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584878+00:00",
+      "news_id": "6606a249-5a05-4879-8389-b555b3bf2549",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584873+00:00",
+      "news_id": "6cf473a0-038f-4c7b-af5e-10f7f7edb586",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584882+00:00",
+      "news_id": "a546f31d-9191-4177-bd9a-ecd3f737012d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584879+00:00",
+      "news_id": "aa3d1141-ce54-4bed-98d4-6891ae75af7d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584877+00:00",
+      "news_id": "ad49c47f-cf33-456e-bcd2-fde406133b49",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584880+00:00",
+      "news_id": "b6ca0f0e-9c6b-4732-a917-f8d739ccccb4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584871+00:00",
+      "news_id": "b8cb7296-23f3-4ff1-a3ef-381e7522aed3",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584888+00:00",
+      "news_id": "bf99a75e-e9b5-42fc-a25b-c58dcd4821e9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584876+00:00",
+      "news_id": "c168af7b-d57e-4b0f-96e5-2d2126aa6141",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584874+00:00",
+      "news_id": "dac1ac5d-e8c6-4374-9d53-7dc8888a3bc6",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584885+00:00",
+      "news_id": "dac4f97f-1911-4f22-862e-59e481a68a79",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584869+00:00",
+      "news_id": "dd5c1ac6-b054-4ec9-9a73-639bdb12577d",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584870+00:00",
+      "news_id": "f0f11587-edf5-4b03-b26d-8ca43a3fecb4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584879+00:00",
+      "news_id": "fe335d96-b63b-4634-84b4-491d07138d17",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544793",
+      "discovered_at": "2026-09-23T05:12:07.584881+00:00",
+      "news_id": "ff9e81fd-7ddf-4fa0-a67d-279f0923f078",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544822",
+      "discovered_at": "2026-09-23T05:12:07.584907+00:00",
+      "news_id": "837b3d92-98ce-48d6-88bb-62df24e3e970",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544822",
+      "discovered_at": "2026-09-23T05:12:07.584908+00:00",
+      "news_id": "fc24b256-3f1e-4b4f-ad13-147e4ed0d6b5",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584913+00:00",
+      "news_id": "5023c185-c804-40b9-87f1-563d6f4b3195",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584915+00:00",
+      "news_id": "529d1ca9-8f38-42de-949b-9f61b6faf855",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584916+00:00",
+      "news_id": "784140fc-6218-4ea6-9cad-0370714ac6ec",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584914+00:00",
+      "news_id": "a3e501f1-f9dd-450d-8def-5938e0b6ffbf",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584916+00:00",
+      "news_id": "b3876d0b-14cb-4624-b637-40c09cde92c9",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "544862",
+      "discovered_at": "2026-09-23T05:12:07.584917+00:00",
+      "news_id": "c040ed6c-069f-4126-8e00-8f34e8af7c7e",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584936+00:00",
+      "news_id": "106738890",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584924+00:00",
+      "news_id": "106743742",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584932+00:00",
+      "news_id": "106745383",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584937+00:00",
+      "news_id": "106745421",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584930+00:00",
+      "news_id": "106746287",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584933+00:00",
+      "news_id": "106746834",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584925+00:00",
+      "news_id": "106747202",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584935+00:00",
+      "news_id": "106749286",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584937+00:00",
+      "news_id": "106751101",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584928+00:00",
+      "news_id": "106769509",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584927+00:00",
+      "news_id": "106770016",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584929+00:00",
+      "news_id": "106771506",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584933+00:00",
+      "news_id": "106772080",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584928+00:00",
+      "news_id": "106772880",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584931+00:00",
+      "news_id": "106774342",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584934+00:00",
+      "news_id": "106776129",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584926+00:00",
+      "news_id": "106782983",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584954+00:00",
+      "news_id": "106753974",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584953+00:00",
+      "news_id": "106765567",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584957+00:00",
+      "news_id": "106769304",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584955+00:00",
+      "news_id": "106769314",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584958+00:00",
+      "news_id": "106769316",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584953+00:00",
+      "news_id": "106772910",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584958+00:00",
+      "news_id": "106774214",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-23T05:12:07.584956+00:00",
+      "news_id": "106774219",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-23T05:12:07.584970+00:00",
+      "news_id": "106750101",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-23T05:12:07.584971+00:00",
+      "news_id": "106765080",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-23T05:12:07.584972+00:00",
+      "news_id": "106773494",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-23T05:12:07.584973+00:00",
+      "news_id": "106773502",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-23T05:12:07.584971+00:00",
+      "news_id": "106788125",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-23T05:12:07.584982+00:00",
+      "news_id": "106771308",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-23T05:12:07.584981+00:00",
+      "news_id": "106771324",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-23T05:12:07.584982+00:00",
+      "news_id": "106771335",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-23T05:12:07.584979+00:00",
+      "news_id": "106773282",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-23T05:12:07.584980+00:00",
+      "news_id": "106774523",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584989+00:00",
+      "news_id": "106779261",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584989+00:00",
+      "news_id": "106783164",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-09-23T05:12:07.584988+00:00",
+      "news_id": "106787262",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.585000+00:00",
+      "news_id": "106734677",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584994+00:00",
+      "news_id": "106739921",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584997+00:00",
+      "news_id": "106739955",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.585002+00:00",
+      "news_id": "106740108",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584996+00:00",
+      "news_id": "106740956",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.585001+00:00",
+      "news_id": "106743094",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584999+00:00",
+      "news_id": "106757078",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584998+00:00",
+      "news_id": "106757337",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584995+00:00",
+      "news_id": "106757358",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584993+00:00",
+      "news_id": "106758572",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T05:12:07.584999+00:00",
+      "news_id": "106763897",
+      "payload": null,
+      "status": "baseline"
+    }
+  ],
+  "companies": [
+    {
+      "key": "500144",
+      "last_success": null
+    },
+    {
+      "key": "500400",
+      "last_success": null
+    },
+    {
+      "key": "504212",
+      "last_success": null
+    },
+    {
+      "key": "504240",
+      "last_success": null
+    },
+    {
+      "key": "505685",
+      "last_success": null
+    },
+    {
+      "key": "517354",
+      "last_success": null
+    },
+    {
+      "key": "517498",
+      "last_success": null
+    },
+    {
+      "key": "517569",
+      "last_success": null
+    },
+    {
+      "key": "522163",
+      "last_success": null
+    },
+    {
+      "key": "530555",
+      "last_success": null
+    },
+    {
+      "key": "532259",
+      "last_success": null
+    },
+    {
+      "key": "532374",
+      "last_success": null
+    },
+    {
+      "key": "532941",
+      "last_success": null
+    },
+    {
+      "key": "534618",
+      "last_success": null
+    },
+    {
+      "key": "538706",
+      "last_success": null
+    },
+    {
+      "key": "538786",
+      "last_success": null
+    },
+    {
+      "key": "540795",
+      "last_success": null
+    },
+    {
+      "key": "542652",
+      "last_success": null
+    },
+    {
+      "key": "543620",
+      "last_success": null
+    },
+    {
+      "key": "543981",
+      "last_success": null
+    },
+    {
+      "key": "544238",
+      "last_success": null
+    },
+    {
+      "key": "544277",
+      "last_success": null
+    },
+    {
+      "key": "544291",
+      "last_success": null
+    },
+    {
+      "key": "544442",
+      "last_success": null
+    },
+    {
+      "key": "544488",
+      "last_success": null
+    },
+    {
+      "key": "544524",
+      "last_success": null
+    },
+    {
+      "key": "544526",
+      "last_success": null
+    },
+    {
+      "key": "544608",
+      "last_success": null
+    },
+    {
+      "key": "544613",
+      "last_success": null
+    },
+    {
+      "key": "544641",
+      "last_success": null
+    },
+    {
+      "key": "544793",
+      "last_success": null
+    },
+    {
+      "key": "544822",
+      "last_success": null
+    },
+    {
+      "key": "544851",
+      "last_success": null
+    },
+    {
+      "key": "544862",
+      "last_success": null
+    },
+    {
+      "key": "NSE:ALPEXSOLAR",
+      "last_success": null
+    },
+    {
+      "key": "NSE:APS",
+      "last_success": null
+    },
+    {
+      "key": "NSE:BHADORA",
+      "last_success": null
+    },
+    {
+      "key": "NSE:GGBL",
+      "last_success": null
+    },
+    {
+      "key": "NSE:SAHAJSOLAR",
+      "last_success": null
+    },
+    {
+      "key": "NSE:VMARCIND",
+      "last_success": null
+    }
+  ],
+  "deliveries": [],
+  "metadata": [
+    {
+      "key": "migration_date",
+      "value": "2026-09-23"
+    }
+  ],
+  "schema_version": 1
+}
