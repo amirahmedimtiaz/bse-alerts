@@ -2405,8 +2405,8 @@
       "company_key": "544613",
       "discovered_at": "2026-09-23T09:32:37.155555+00:00",
       "news_id": "1fabb5c0-8767-444e-ae5a-ffb153bca7a3",
-      "payload": "{\"NEWSID\": \"1fabb5c0-8767-444e-ae5a-ffb153bca7a3\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_1FABB5C0-8767-444E-AE5A-FFB153BCA7A3\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-09-23T15:00:00.617\", \"NEWS_DT\": \"2026-09-23T15:00:00.617\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3065e23d-b1bf-45cb-b455-c16ba6d8de2d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about Schedule of meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T15:00:00\", \"DissemDT\": \"2026-09-23T15:00:00.617\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 526027, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"1fabb5c0-8767-444e-ae5a-ffb153bca7a3\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14316796, \"DataInsDate\": \"2026-09-23T15:00:00.54\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-09-23T15:00:00.617\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3065e23d-b1bf-45cb-b455-c16ba6d8de2d.pdf\", \"_id\": \"1fabb5c0-8767-444e-ae5a-ffb153bca7a3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -3185,6 +3185,10 @@
     {
       "message_id": "<ad5ea03af72e275ea4af15884f068c8be86d70c012447a505559e0f79fa6baa6@gmail.com>",
       "sent_at": "2026-09-23T07:22:47.354471+00:00"
+    },
+    {
+      "message_id": "<d4731b0c8ad5e55f30dc3da0b332b4ad022a6d85dcd2847c3f8e1beb48b1cfc5@gmail.com>",
+      "sent_at": "2026-09-23T09:32:47.608505+00:00"
     }
   ],
   "metadata": [
