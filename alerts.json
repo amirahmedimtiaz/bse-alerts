@@ -1614,8 +1614,8 @@
       "company_key": "540795",
       "discovered_at": "2026-09-23T12:18:23.048095+00:00",
       "news_id": "3c472bca-b5f5-42a1-ad86-4c1ca031ed26",
-      "payload": "{\"NEWSID\": \"3c472bca-b5f5-42a1-ad86-4c1ca031ed26\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_3C472BCA-B5F5-42A1-AD86-4C1CA031ED26\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-09-23T17:45:29.85\", \"NEWS_DT\": \"2026-09-23T17:45:29.85\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5a7e1c82-5ef9-459f-a48c-82cc58428871.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Diclosure under Regulation 30 of SEBI (Listing Obligations & Disclosre Requirements) Regulations, 2015- Resignation of Senior Management Personnel.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T17:45:29\", \"DissemDT\": \"2026-09-23T17:45:29.85\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1436132, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-09-23T17:45:29.85\", \"_category\": \"Company Update\", \"_headline\": \"Diclosure under Regulation 30 of SEBI (Listing Obligations & Disclosre Requirements) Regulations, 2015- Resignation of Senior Management Personnel.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5a7e1c82-5ef9-459f-a48c-82cc58428871.pdf\", \"_id\": \"3c472bca-b5f5-42a1-ad86-4c1ca031ed26\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -3250,6 +3250,10 @@
     {
       "message_id": "<ad5ea03af72e275ea4af15884f068c8be86d70c012447a505559e0f79fa6baa6@gmail.com>",
       "sent_at": "2026-09-23T07:22:47.354471+00:00"
+    },
+    {
+      "message_id": "<af5afa676e850b4d5a7321ca38cfe5ae65d124168fbd120b663fc0addc93a6f4@gmail.com>",
+      "sent_at": "2026-09-23T12:18:43.069942+00:00"
     },
     {
       "message_id": "<be26d49064a9ecc61171f6a8f27f3d3c25f677748997153c98a3e49b3fcc0b68@gmail.com>",
