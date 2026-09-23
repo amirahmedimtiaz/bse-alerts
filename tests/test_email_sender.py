@@ -13,6 +13,7 @@ from src.email_sender import send_announcement_email
 )
 @patch("src.email_sender.smtplib.SMTP_SSL")
 def test_email_contains_links(smtp_ssl):
+    smtp_ssl.return_value.__enter__.return_value.send_message.return_value = {}
     send_announcement_email(
         {
             "_company_name": "Test Company Ltd",

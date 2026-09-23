@@ -1,11 +1,12 @@
 # BSE Announcement Alert
 
 This service checks the companies listed in `companies.json` for corporate
-announcements on BSE and emails links to new announcements.
+announcements on BSE/NSE and emails links to new announcements.
 
-It checks only announcements published on the current date in India Standard
-Time. The first scheduled run creates a baseline and does not send historical
-alerts. Later runs email only unseen announcements.
+It tracks successful collection dates, overlaps yesterday, and catches up after
+outages. Newly added companies are baselined without historical email. Pending
+emails survive failures and date changes. See [Alert operations](ALERT_OPERATIONS.md)
+for state migration, deployment, pause/resume, email batching, and scaling limits.
 
 ## Local commands
 
@@ -20,11 +21,12 @@ python -m src.main test-email
 Required environment variables are `EMAIL_SENDER`, `EMAIL_PASSWORD`, and
 `EMAIL_RECEIVER`. For Gmail, `EMAIL_PASSWORD` must be an App Password.
 
-GitHub Actions runs the scan every five minutes. Use the **Send Test BSE
-Email** workflow under the Actions tab to send the latest available
-announcement immediately after deployment. The test workflow can use a recent
-announcement when BSE has none published today; this does not change the
-today-only behavior of the scheduled scanner.
+GitHub Actions runs a worker that polls every five minutes and dispatches its
+successor before its time limit, with cron as a recovery watchdog. Transactional
+state is checkpointed on the separate `alert-state` branch. Production verification
+should use the announcement workflow; local `scan` maintains a separate SQLite
+ledger and sends real emails. The **Send Test BSE Email** workflow sends a recent
+filing explicitly and does not use the production delivery ledger or quota.
 
 ## Adding a company
 

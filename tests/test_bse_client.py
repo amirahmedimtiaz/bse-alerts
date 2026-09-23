@@ -10,7 +10,7 @@ def test_fetches_only_today():
     responses.add(
         responses.GET,
         API_URL,
-        json={"Table": [{"NEWSID": "one"}]},
+        json={"Table": [{"NEWSID": "one"}], "Table1": [{"ROWCNT": 1}]},
         status=200,
     )
 

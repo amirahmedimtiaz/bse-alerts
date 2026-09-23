@@ -2,11 +2,18 @@ name: BSE Announcement Alert
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    # Recovery watchdog. Normal cadence is maintained inside the worker.
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:
+    inputs:
+      cycles:
+        description: "Five-minute cycles before handoff (1–60; normally 60)"
+        required: false
+        default: "60"
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: bse-announcement-alert
@@ -14,51 +21,35 @@ concurrency:
 
 jobs:
   scan:
+    if: vars.ALERTS_PAUSED != 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
       - run: pip install -r requirements.txt
-      - run: python -m src.main scan
+      - name: Verify alert pipeline
+        run: python -m pytest -q tests/test_alert_pipeline.py tests/test_bse_client.py tests/test_email_sender.py tests/test_main.py
+      - name: Poll, checkpoint, and deliver
+        id: worker
+        run: python -u -m src.worker --cycles "$WORKER_CYCLES"
         env:
+          WORKER_CYCLES: ${{ inputs.cycles || '60' }}
+          GITHUB_TOKEN: ${{ github.token }}
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
-      - name: Save announcement state
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for attempt in 1 2 3 4 5; do
-            git add state/seen_announcements.json
-            if git diff --cached --quiet; then
-              echo "Announcement state is already up to date."
-              exit 0
-            fi
-
-            git commit -m "Update announcement state"
-            if git push origin HEAD:main; then
-              echo "Announcement state pushed on attempt ${attempt}."
-              exit 0
-            fi
-
-            if [ "${attempt}" -eq 5 ]; then
-              echo "Failed to push announcement state after ${attempt} attempts." >&2
-              exit 1
-            fi
-
-            echo "Remote branch changed during push; reconciling state and retrying."
-            git fetch origin main
-            if git merge-base --is-ancestor HEAD origin/main; then
-              echo "This state commit was already pushed by another runner."
-              exit 0
-            fi
-
-            python scripts/merge_announcement_state.py --remote-ref origin/main
-            # Keep the remote tree as the commit base while retaining the
-            # merged state in the working tree for the next attempt.
-            git reset --mixed origin/main
-          done
+          ALERT_WORKERS: "4"
+          EXCHANGE_REQUESTS_PER_SECOND: "2"
+          EMAIL_BATCH_SIZE: "20"
+          EMAIL_DAILY_LIMIT: "450"
+      - name: Start successor worker
+        if: ${{ !cancelled() && steps.worker.outcome != 'skipped' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run announcement-alert.yml --ref main

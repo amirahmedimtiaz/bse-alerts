@@ -1,56 +1,26 @@
 from unittest.mock import patch
 
+import pytest
+
 from src import main
 
 
-def test_run_continues_when_a_company_fetch_fails():
-    companies = [
-        {
-            "name": "Unavailable Company",
-            "scrip_code": 1,
-            "announcement_url": "https://example.com/unavailable",
-        },
-        {
-            "name": "Available Company",
-            "scrip_code": 2,
-            "announcement_url": "https://example.com/available",
-        },
-    ]
-    announcement = {"NEWSID": "new-id"}
-    saved_state = {}
-
-    def fetch(company, today):
-        if company["name"] == "Unavailable Company":
-            raise TimeoutError("upstream timeout")
-        return [announcement]
-
-    with (
-        patch.object(main, "load_companies", return_value=companies),
-        patch.object(main, "load_state", return_value={"1": set(), "2": set()}),
-        patch.object(main, "fetch_for_company", side_effect=fetch),
-        patch.object(main, "save_state", side_effect=saved_state.update),
-    ):
-        assert main.run(send_alerts=False) == 1
-
-    assert saved_state == {"1": set(), "2": {"new-id"}}
+def test_scan_uses_transactional_pipeline():
+    with patch("src.scanner.run_local", return_value=3) as run:
+        assert main.run() == 3
+        run.assert_called_once_with(send_alerts=True)
 
 
-def test_failed_email_is_retried_on_a_later_run():
-    company = {
-        "name": "Available Company",
-        "scrip_code": 2,
-        "announcement_url": "https://example.com/available",
-    }
-    announcement = {"NEWSID": "new-id"}
-    saved_state = {}
-
-    with (
-        patch.object(main, "load_companies", return_value=[company]),
-        patch.object(main, "load_state", return_value={"2": {"old-id"}}),
-        patch.object(main, "fetch_for_company", return_value=[announcement]),
-        patch.object(main, "send_announcement_email", side_effect=RuntimeError("SMTP down")),
-        patch.object(main, "save_state", side_effect=saved_state.update),
-    ):
-        assert main.run() == 0
-
-    assert saved_state == {"2": {"old-id"}}
+def test_local_scan_reports_failure_and_preserves_migration(tmp_path, monkeypatch):
+    from src import scanner
+    from src.alert_store import AlertStore
+    db = tmp_path / "state.sqlite3"
+    monkeypatch.setenv("ALERT_DB_PATH", str(db))
+    monkeypatch.setattr(scanner, "load_state", lambda: {"2": {"old-id"}})
+    monkeypatch.setattr(scanner, "cycle", lambda *args: {"failed": ["2"], "email_failed": False})
+    with pytest.raises(RuntimeError, match="incomplete"):
+        main.run()
+    store = AlertStore(db)
+    assert store.company("2") is not None
+    assert store.export()["announcements"][0]["news_id"] == "old-id"
+    store.close()

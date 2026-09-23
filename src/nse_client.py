@@ -5,6 +5,8 @@ from typing import Any
 
 import requests
 
+from .http_client import get_json
+
 
 API_URL = "https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi"
 
@@ -24,13 +26,14 @@ def fetch_announcements(
         "Referer": f"https://www.nseindia.com/get-quote/equity/{symbol}/",
         "User-Agent": "bse-announcement-alert/1.0",
     }
-    client = session or requests.Session()
-    response = client.get(API_URL, params=params, headers=headers, timeout=30)
-    response.raise_for_status()
-    payload = response.json()
+    payload = get_json(API_URL, params=params, headers=headers, session=session)
     if isinstance(payload, list):
         return payload
-    return payload.get("data", payload.get("Table", []))
+    if isinstance(payload, dict):
+        rows = payload.get("data", payload.get("Table"))
+        if isinstance(rows, list):
+            return rows
+    raise ValueError("NSE response is missing its announcement table")
 
 
 def fetch_today_announcements(

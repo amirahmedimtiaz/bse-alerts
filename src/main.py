@@ -112,66 +112,8 @@ def fetch_history_for_company(
 
 
 def run(send_alerts: bool = True) -> int:
-    today = datetime.now(INDIA_TZ).date()
-    state = load_state()
-    alert_count = 0
-    failed_companies: list[str] = []
-
-    for company in load_companies():
-        key = state_key(company)
-        exchange = str(company.get("exchange", "BSE"))
-        try:
-            announcements = fetch_for_company(company, today)
-        except Exception as exc:
-            failed_companies.append(str(company["name"]))
-            print(
-                f"Failed to fetch announcements for {company['name']}; "
-                f"it will be retried next run: {exc}"
-            )
-            continue
-
-        seen_in_response: set[str] = set()
-        unique_announcements: list[dict[str, object]] = []
-        for item in announcements:
-            nid = get_announcement_id(item, exchange)
-            if nid and nid not in seen_in_response:
-                seen_in_response.add(nid)
-                unique_announcements.append(item)
-        announcements = unique_announcements
-
-        current_ids = {
-            get_announcement_id(item, exchange) for item in announcements
-            if get_announcement_id(item, exchange)
-        }
-        seen_ids = state.get(key)
-
-        if seen_ids is None:
-            state[key] = current_ids
-            continue
-
-        new_announcements = [
-            add_company_details(item, company)
-            for item in announcements
-            if get_announcement_id(item, exchange) not in seen_ids
-        ]
-        sent_ids: set[str] = set()
-        if send_alerts:
-            for announcement in reversed(new_announcements):
-                try:
-                    send_announcement_email(announcement)
-                except Exception as exc:
-                    print(f"Failed to send email for {company['name']}: {exc}")
-                else:
-                    sent_ids.add(get_announcement_id(announcement, exchange))
-                    alert_count += 1
-        else:
-            alert_count += len(new_announcements)
-        state[key] = seen_ids | (sent_ids if send_alerts else current_ids)
-
-    save_state(state)
-    if failed_companies:
-        print(f"Skipped {len(failed_companies)} company fetch(es); see warnings above.")
-    return alert_count
+    from .scanner import run_local
+    return run_local(send_alerts=send_alerts)
 
 
 def test_email() -> None:
