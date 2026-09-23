@@ -323,6 +323,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "517498",
+      "discovered_at": "2026-09-23T11:13:12.351976+00:00",
+      "news_id": "f3a04f97-2243-4b79-8157-64a5bce4e2ad",
+      "payload": "{\"NEWSID\": \"f3a04f97-2243-4b79-8157-64a5bce4e2ad\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_F3A04F97-2243-4B79-8157-64A5BCE4E2AD\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-23T16:38:34.387\", \"NEWS_DT\": \"2026-09-23T16:38:34.387\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d8ef8739-349c-4848-aebb-1d76e73e302f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Scrutinizer's Report of the 36th Annual General Meeting held on 22nd September, 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T16:38:34\", \"DissemDT\": \"2026-09-23T16:38:34.387\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4907472, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-23T16:38:34.387\", \"_category\": \"AGM/EGM\", \"_headline\": \"Scrutinizer's Report of the 36th Annual General Meeting held on 22nd September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d8ef8739-349c-4848-aebb-1d76e73e302f.pdf\", \"_id\": \"f3a04f97-2243-4b79-8157-64a5bce4e2ad\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "517569",
       "discovered_at": "2026-09-23T05:12:07.584359+00:00",
       "news_id": "0160eb35-0b3d-4d34-81fe-629ac8b61625",
