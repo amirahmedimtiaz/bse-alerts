@@ -1990,6 +1990,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-09-23T12:38:32.471590+00:00",
+      "news_id": "26249204-dd08-4e3e-ad60-511f760d5c8e",
+      "payload": "{\"NEWSID\": \"26249204-dd08-4e3e-ad60-511f760d5c8e\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_26249204-DD08-4E3E-AD60-511F760D5C8E\", \"NEWSSUB\": \"Incorporation Of A Wholly Owned Subsidiary In Singapore\", \"DT_TM\": \"2026-09-23T18:07:56.437\", \"NEWS_DT\": \"2026-09-23T18:07:56.437\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3eabb7cc-4c50-481a-9dd2-dd6a6fd7aac7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Incorporation of a Wholly Owned Subsidiary\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T18:07:56\", \"DissemDT\": \"2026-09-23T18:07:56.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 579009, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Incorporation Of A Wholly Owned Subsidiary In Singapore\", \"_published\": \"2026-09-23T18:07:56.437\", \"_category\": \"Company Update\", \"_headline\": \"Incorporation of a Wholly Owned Subsidiary\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3eabb7cc-4c50-481a-9dd2-dd6a6fd7aac7.pdf\", \"_id\": \"26249204-dd08-4e3e-ad60-511f760d5c8e\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584741+00:00",
       "news_id": "373f62ed-c8ec-4c2c-9ad7-74fb18f06fce",
       "payload": null,
@@ -2456,6 +2463,13 @@
       "news_id": "5551ebce-6c36-4419-b91b-f8607239d5c2",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "544613",
+      "discovered_at": "2026-09-23T12:38:33.951177+00:00",
+      "news_id": "bdf74832-9c18-4b01-847d-ce16d05fa3b3",
+      "payload": "{\"NEWSID\": \"bdf74832-9c18-4b01-847d-ce16d05fa3b3\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_BDF74832-9C18-4B01-847D-CE16D05FA3B3\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-09-23T18:07:13.2\", \"NEWS_DT\": \"2026-09-23T18:07:13.2\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a0955f63-081a-40da-863a-c4bfd46a305e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about Schedule of meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T18:07:13\", \"DissemDT\": \"2026-09-23T18:07:13.2\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 337956, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-09-23T18:07:13.2\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0955f63-081a-40da-863a-c4bfd46a305e.pdf\", \"_id\": \"bdf74832-9c18-4b01-847d-ce16d05fa3b3\"}",
+      "status": "pending"
     },
     {
       "company_key": "544793",
