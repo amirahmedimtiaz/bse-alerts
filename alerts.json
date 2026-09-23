@@ -253,6 +253,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "517354",
+      "discovered_at": "2026-09-23T10:58:08.299582+00:00",
+      "news_id": "fe5fd5be-014a-46b3-a841-ed1fd4f11643",
+      "payload": "{\"NEWSID\": \"fe5fd5be-014a-46b3-a841-ed1fd4f11643\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_FE5FD5BE-014A-46B3-A841-ED1FD4F11643\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-23T16:28:04.21\", \"NEWS_DT\": \"2026-09-23T16:28:04.21\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9725242f-cd45-4957-ac12-fda7c5fc9636.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading Window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T16:28:04\", \"DissemDT\": \"2026-09-23T16:28:04.21\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 726934, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-23T16:28:04.21\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading Window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9725242f-cd45-4957-ac12-fda7c5fc9636.pdf\", \"_id\": \"fe5fd5be-014a-46b3-a841-ed1fd4f11643\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584317+00:00",
       "news_id": "192ab2fd-191e-4863-8e6b-d14ab6b22357",
