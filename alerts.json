@@ -3289,7 +3289,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T12:33:39.394699+00:00\", \"seconds\": 16.81}"
+      "value": "{\"companies\": 40, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T12:38:44.724121+00:00\", \"seconds\": 22.09}"
     },
     {
       "key": "migration_date",
