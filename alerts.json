@@ -1430,6 +1430,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-09-23T11:53:12.994033+00:00",
+      "news_id": "add50ba4-afee-469e-a5b1-06e2bd73b700",
+      "payload": "{\"NEWSID\": \"add50ba4-afee-469e-a5b1-06e2bd73b700\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_ADD50BA4-AFEE-469E-A5B1-06E2BD73B700\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-23T17:22:13.07\", \"NEWS_DT\": \"2026-09-23T17:22:13.07\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7aaced11-9d78-4639-a296-30c5697af8ae.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Outcome of AGM held on 23rd September 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T17:22:13\", \"DissemDT\": \"2026-09-23T17:22:13.07\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 668704, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-23T17:22:13.07\", \"_category\": \"AGM/EGM\", \"_headline\": \"Please find attached herewith Outcome of AGM held on 23rd September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7aaced11-9d78-4639-a296-30c5697af8ae.pdf\", \"_id\": \"add50ba4-afee-469e-a5b1-06e2bd73b700\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-09-23T05:12:07.584598+00:00",
       "news_id": "af85ff73-f519-4449-bf3e-451451ca226e",
       "payload": null,
