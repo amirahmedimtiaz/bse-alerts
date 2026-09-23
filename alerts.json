@@ -2594,8 +2594,8 @@
       "company_key": "544822",
       "discovered_at": "2026-09-23T09:37:36.818671+00:00",
       "news_id": "52a4df8a-b6d6-46f5-837b-fef439474583",
-      "payload": "{\"NEWSID\": \"52a4df8a-b6d6-46f5-837b-fef439474583\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_52A4DF8A-B6D6-46F5-837B-FEF439474583\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Resignation of Company Secretary / Compliance Officer\", \"DT_TM\": \"2026-09-23T15:03:29.557\", \"NEWS_DT\": \"2026-09-23T15:03:29.557\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ab66bfd2-9eff-4482-aaa7-c587d5337a00.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 158, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-23T15:03:29\", \"DissemDT\": \"2026-09-23T15:03:29.557\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2850372, \"SUBCATNAME\": \"Resignation of Company Secretary / Compliance Officer\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Resignation of Company Secretary / Compliance Officer\", \"_published\": \"2026-09-23T15:03:29.557\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ab66bfd2-9eff-4482-aaa7-c587d5337a00.pdf\", \"_id\": \"52a4df8a-b6d6-46f5-837b-fef439474583\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -3192,6 +3192,10 @@
     {
       "message_id": "<ad5ea03af72e275ea4af15884f068c8be86d70c012447a505559e0f79fa6baa6@gmail.com>",
       "sent_at": "2026-09-23T07:22:47.354471+00:00"
+    },
+    {
+      "message_id": "<ceb9c423aab46c41c016382f87bdab4bdce0dfb601491c1b7b54364869941069@gmail.com>",
+      "sent_at": "2026-09-23T09:37:47.454756+00:00"
     },
     {
       "message_id": "<d4731b0c8ad5e55f30dc3da0b332b4ad022a6d85dcd2847c3f8e1beb48b1cfc5@gmail.com>",
