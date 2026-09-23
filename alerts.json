@@ -3205,7 +3205,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [\"542652\", \"517569\", \"543981\", \"504212\", \"530555\", \"532259\", \"522163\", \"532374\", \"517354\", \"517498\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T10:19:07.897428+00:00\", \"seconds\": 84.6}"
+      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T10:24:21.971695+00:00\", \"seconds\": 78.04}"
     },
     {
       "key": "migration_date",
