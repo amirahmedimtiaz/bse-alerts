@@ -2974,6 +2974,13 @@
       "news_id": "106763897",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-23T06:12:35.266022+00:00",
+      "news_id": "106788836",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Trading Window\", \"dt\": \"23-Sep-2026 11:41:55\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_23092026114145_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"23-Sep-2026 11:41:55\", \"sort_date\": \"2026-09-23 11:41:55\", \"seq_id\": \"106788836\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"748.90 KB\", \"attFileSize\": \"748.90 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-09-23 11:41:55\", \"_category\": \"Trading Window\", \"_headline\": \"V Marc India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_23092026114145_VIL.pdf\", \"_id\": \"106788836\"}",
+      "status": "pending"
     }
   ],
   "companies": [
