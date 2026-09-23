@@ -3154,7 +3154,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T06:22:43.242868+00:00\", \"seconds\": 16.78}"
+      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-23T06:27:43.819670+00:00\", \"seconds\": 17.36}"
     },
     {
       "key": "migration_date",
