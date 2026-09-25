@@ -3091,8 +3091,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-09-25T13:52:52.726284+00:00",
       "news_id": "106794806",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Shareholders meeting\", \"dt\": \"25-Sep-2026 19:19:19\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_25092026191911_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"25-Sep-2026 19:19:19\", \"sort_date\": \"2026-09-25 19:19:19\", \"seq_id\": \"106794806\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"14.73 MB\", \"attFileSize\": \"14.73 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-25 19:19:19\", \"_category\": \"Shareholders meeting\", \"_headline\": \"V Marc India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_25092026191911_VIL.pdf\", \"_id\": \"106794806\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -3259,36 +3259,12 @@
   ],
   "deliveries": [
     {
-      "message_id": "<12ae081acac81177b0fad4166abeb0acc3a198e2366c1815e13b5fb6c7e175d1@gmail.com>",
-      "sent_at": "2026-09-23T11:03:23.540701+00:00"
-    },
-    {
-      "message_id": "<17e946820ce0e33118e33a587763f547dd6edcd8f503b767639fd5b2935d9e33@gmail.com>",
-      "sent_at": "2026-09-23T12:38:43.093308+00:00"
-    },
-    {
-      "message_id": "<196ff9544aebc6f56a23630f4a06aebbceca998e49252a2418db7c18a16451bc@gmail.com>",
-      "sent_at": "2026-09-23T11:53:31.644193+00:00"
-    },
-    {
-      "message_id": "<45599d3898733e82eb65308222f678d894606baa2cc105ef5dac8c1380b5560c@gmail.com>",
-      "sent_at": "2026-09-23T10:28:23.831581+00:00"
-    },
-    {
       "message_id": "<524c9f7560f7eecf2b776991d6ee3f1345353bb41d94466eb3e2730cfe8cb414@gmail.com>",
       "sent_at": "2026-09-25T10:20:57.321441+00:00"
     },
     {
-      "message_id": "<78706f5f58e648c52bb124ffa561542f01bc554e738f6ef6414b1222cf20eaf1@gmail.com>",
-      "sent_at": "2026-09-23T11:13:23.795949+00:00"
-    },
-    {
-      "message_id": "<af5afa676e850b4d5a7321ca38cfe5ae65d124168fbd120b663fc0addc93a6f4@gmail.com>",
-      "sent_at": "2026-09-23T12:18:43.069942+00:00"
-    },
-    {
-      "message_id": "<be26d49064a9ecc61171f6a8f27f3d3c25f677748997153c98a3e49b3fcc0b68@gmail.com>",
-      "sent_at": "2026-09-23T10:58:23.696575+00:00"
+      "message_id": "<6a7b5106db773880268b658fdbae8dc563f8727b4b2bc40ff718817543d7d389@gmail.com>",
+      "sent_at": "2026-09-25T13:53:03.492060+00:00"
     },
     {
       "message_id": "<c59e02936b3397b71e99faa911f1e75653520f94edb8d70ee17052a5fc822daf@gmail.com>",
