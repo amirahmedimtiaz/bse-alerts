@@ -2832,8 +2832,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-09-25T05:42:12.689129+00:00",
       "news_id": "106792833",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Trading Window\", \"dt\": \"25-Sep-2026 11:10:07\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_25092026110952_Trading_window_closure.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"25-Sep-2026 11:10:07\", \"sort_date\": \"2026-09-25 11:10:07\", \"seq_id\": \"106792833\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"400.86 KB\", \"attFileSize\": \"400.86 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-09-25 11:10:07\", \"_category\": \"Trading Window\", \"_headline\": \"Alpex Solar Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_25092026110952_Trading_window_closure.pdf\", \"_id\": \"106792833\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -3283,6 +3283,10 @@
     {
       "message_id": "<be26d49064a9ecc61171f6a8f27f3d3c25f677748997153c98a3e49b3fcc0b68@gmail.com>",
       "sent_at": "2026-09-23T10:58:23.696575+00:00"
+    },
+    {
+      "message_id": "<c59e02936b3397b71e99faa911f1e75653520f94edb8d70ee17052a5fc822daf@gmail.com>",
+      "sent_at": "2026-09-25T05:42:22.358092+00:00"
     },
     {
       "message_id": "<ceb9c423aab46c41c016382f87bdab4bdce0dfb601491c1b7b54364869941069@gmail.com>",
