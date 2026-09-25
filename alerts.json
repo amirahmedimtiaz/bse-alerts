@@ -3086,6 +3086,13 @@
       "news_id": "106793743",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-09-25T13:52:52.726284+00:00",
+      "news_id": "106794806",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Shareholders meeting\", \"dt\": \"25-Sep-2026 19:19:19\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_25092026191911_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"25-Sep-2026 19:19:19\", \"sort_date\": \"2026-09-25 19:19:19\", \"seq_id\": \"106794806\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"14.73 MB\", \"attFileSize\": \"14.73 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-25 19:19:19\", \"_category\": \"Shareholders meeting\", \"_headline\": \"V Marc India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 25, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_25092026191911_VIL.pdf\", \"_id\": \"106794806\"}",
+      "status": "pending"
     }
   ],
   "companies": [
