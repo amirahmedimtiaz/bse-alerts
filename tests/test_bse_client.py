@@ -22,8 +22,9 @@ def test_fetches_only_today():
     )
     request_headers = responses.calls[0].request.headers
     assert request_headers["Origin"] == "https://www.bseindia.com"
-    assert request_headers["Referer"] == "https://www.bseindia.com/corporates/ann"
-    assert "Mozilla/5.0" in request_headers["User-Agent"]
+    assert request_headers["Referer"] == "https://www.bseindia.com/"
+    assert '"Google Chrome";v="153"' in request_headers["Sec-CH-UA"]
+    assert "Chrome/153" in request_headers["User-Agent"]
 
 
 def test_pdf_url():

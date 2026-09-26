@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import re
 from datetime import date
 from typing import Any
 
@@ -12,7 +13,7 @@ from .http_client import get_json
 API_URL = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
 PDF_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
 BSE_BROWSER_USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 )
 
@@ -33,11 +34,22 @@ def fetch_announcements(
         "strType": "C",
         "subcategory": -1,
     }
+    user_agent = os.getenv("BSE_BROWSER_USER_AGENT", BSE_BROWSER_USER_AGENT)
+    version = re.search(r"Chrome/(\d+)", user_agent)
+    if not version:
+        raise ValueError("BSE_BROWSER_USER_AGENT must be a Chrome browser user agent")
     headers = {
-        "Accept": "application/json, text/plain, */*",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.9",
         "Origin": "https://www.bseindia.com",
-        "Referer": "https://www.bseindia.com/corporates/ann",
-        "User-Agent": os.getenv("BSE_BROWSER_USER_AGENT", BSE_BROWSER_USER_AGENT),
+        "Referer": "https://www.bseindia.com/",
+        "Sec-CH-UA": f'"Google Chrome";v="{version[1]}", "Not_A Brand";v="8", "Chromium";v="{version[1]}"',
+        "Sec-CH-UA-Mobile": "?0",
+        "Sec-CH-UA-Platform": '"macOS"',
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "User-Agent": user_agent,
     }
     result: list[dict[str, Any]] = []
     seen: set[str] = set()
