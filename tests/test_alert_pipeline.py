@@ -279,7 +279,7 @@ def test_worker_returns_failure_after_checkpointed_partial_cycle(monkeypatch):
     sleep = Mock()
     monkeypatch.setattr(worker.time, "sleep", sleep)
     assert worker.run_worker(1) == 1
-    assert sleep.call_count == 1
+    sleep.assert_not_called()
 
 
 def test_worker_yields_when_deployment_changes(monkeypatch):

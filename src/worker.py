@@ -55,11 +55,10 @@ def run_worker(cycles: int, interval: int = 300) -> int:
                         summary.write(f"### Cycle {index + 1}\n\n```json\n{json.dumps(report, indent=2)}\n```\n\n")
                 failed = bool(report["failed"] or report["email_failed"])
                 if failed:
-                    print("::error::Cycle incomplete; progress retained; successor will retry.", flush=True)
+                    print("::error::Cycle incomplete; progress retained; watchdog will retry.", flush=True)
+                    return 1
                 # Wait after the last scan too: no extra immediate successor poll.
                 time.sleep(max(0, min(deadline - time.monotonic(), interval - (time.monotonic() - started))))
-                if failed:
-                    return 1
                 if time.monotonic() >= deadline:
                     break
             return 0
@@ -76,7 +75,6 @@ def main() -> None:
         result = run_worker(args.cycles)
     except Exception as exc:
         print(f"::error::Worker initialization/recovery failed: {type(exc).__name__}: {exc}", flush=True)
-        time.sleep(300)
         result = 1
     raise SystemExit(result)
 
