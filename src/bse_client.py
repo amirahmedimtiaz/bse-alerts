@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from datetime import date
 from typing import Any
 
@@ -10,6 +11,10 @@ from .http_client import get_json
 
 API_URL = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
 PDF_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
+BSE_BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+)
 
 
 def fetch_announcements(
@@ -30,8 +35,9 @@ def fetch_announcements(
     }
     headers = {
         "Accept": "application/json, text/plain, */*",
-        "Referer": "https://www.bseindia.com/",
-        "User-Agent": "bse-announcement-alert/1.0",
+        "Origin": "https://www.bseindia.com",
+        "Referer": "https://www.bseindia.com/corporates/ann",
+        "User-Agent": os.getenv("BSE_BROWSER_USER_AGENT", BSE_BROWSER_USER_AGENT),
     }
     result: list[dict[str, Any]] = []
     seen: set[str] = set()

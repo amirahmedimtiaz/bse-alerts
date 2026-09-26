@@ -35,6 +35,13 @@ incomplete pages. An invalid response fails collection instead of marking it
 as empty. NSE still relies on the history returned by its existing quote API;
 upstream truncation/completeness is not proven by this application.
 
+BSE's announcement API requires requests to carry the current website's
+browser context (`Origin`, announcement-page `Referer`, and a browser user
+agent). The default user agent was verified against the live API on 26 September
+2026. If BSE changes its access checks, set `BSE_BROWSER_USER_AGENT` to a
+verified working value and confirm a complete read-only scan before treating
+the worker as recovered. A 403 does not advance the collection watermark.
+
 Successful collection dates are stored per company. Every scan overlaps the
 previous date; an outage spanning many days is recovered in seven-day chunks.
 The watermark advances only for successfully collected companies. New companies
