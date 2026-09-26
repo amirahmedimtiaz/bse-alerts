@@ -130,8 +130,8 @@
       "company_key": "500400",
       "discovered_at": "2026-09-26T14:20:35.204337+00:00",
       "news_id": "106832a0-dda7-4a84-8e30-95018834ef19",
-      "payload": "{\"NEWSID\": \"106832a0-dda7-4a84-8e30-95018834ef19\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_106832A0-DDA7-4A84-8E30-95018834EF19\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-09-24T14:26:47.623\", \"NEWS_DT\": \"2026-09-24T14:26:47.623\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"db1babe1-57c3-44b9-b860-680cca5ec248.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Schedule of Analyst/ Institutional Investor Meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 80, \"News_submission_dt\": \"2026-09-24T14:26:47\", \"DissemDT\": \"2026-09-24T14:26:47.623\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 212292, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-09-24T14:26:47.623\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Schedule of Analyst/ Institutional Investor Meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/db1babe1-57c3-44b9-b860-680cca5ec248.pdf\", \"_id\": \"106832a0-dda7-4a84-8e30-95018834ef19\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -151,8 +151,8 @@
       "company_key": "500400",
       "discovered_at": "2026-09-26T14:20:35.204460+00:00",
       "news_id": "687c3d79-78e5-4bbb-86f8-969ca83e26dc",
-      "payload": "{\"NEWSID\": \"687c3d79-78e5-4bbb-86f8-969ca83e26dc\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_687C3D79-78E5-4BBB-86F8-969CA83E26DC\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of The SEBI ( Listing Obligations And Disclosure Requirements) Regulations, 2015 - Update\", \"DT_TM\": \"2026-09-26T14:16:05.82\", \"NEWS_DT\": \"2026-09-26T14:16:05.82\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"326502f2-d469-4cd8-8d3a-5aa707b6d4e7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Regulation 30 - Update\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 1, \"News_submission_dt\": \"2026-09-26T14:16:05\", \"DissemDT\": \"2026-09-26T14:16:05.82\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 203781, \"SUBCATNAME\": \"General\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of The SEBI ( Listing Obligations And Disclosure Requirements) Regulations, 2015 - Update\", \"_published\": \"2026-09-26T14:16:05.82\", \"_category\": \"Company Update\", \"_headline\": \"Regulation 30 - Update\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/326502f2-d469-4cd8-8d3a-5aa707b6d4e7.pdf\", \"_id\": \"687c3d79-78e5-4bbb-86f8-969ca83e26dc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -221,8 +221,8 @@
       "company_key": "504240",
       "discovered_at": "2026-09-26T14:20:32.730034+00:00",
       "news_id": "c7c2122a-71b9-4ad3-99a7-27e18b5535b8",
-      "payload": "{\"NEWSID\": \"c7c2122a-71b9-4ad3-99a7-27e18b5535b8\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_C7C2122A-71B9-4AD3-99A7-27E18B5535B8\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-24T16:45:38.223\", \"NEWS_DT\": \"2026-09-24T16:45:38.223\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a7bd5d02-5386-48c2-9e58-c524703e99b0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Closure of Trading Window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-24T16:45:38\", \"DissemDT\": \"2026-09-24T16:45:38.223\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 437370, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-24T16:45:38.223\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation of Closure of Trading Window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a7bd5d02-5386-48c2-9e58-c524703e99b0.pdf\", \"_id\": \"c7c2122a-71b9-4ad3-99a7-27e18b5535b8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -1719,8 +1719,8 @@
       "company_key": "538786",
       "discovered_at": "2026-09-26T14:20:33.171757+00:00",
       "news_id": "8e2bfc41-efe7-4bf4-9c17-55e14e480f45",
-      "payload": "{\"NEWSID\": \"8e2bfc41-efe7-4bf4-9c17-55e14e480f45\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_8E2BFC41-EFE7-4BF4-9C17-55E14E480F45\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-25T13:24:01.837\", \"NEWS_DT\": \"2026-09-25T13:24:01.837\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b454c0ed-6db2-41dc-8f05-cab1ad74e134.pdf\", \"MORE\": \"Pursuant to the SEBI (PIT) Regulations, 2015 and in terms of Company''s code of conduct to regulate, monitor and report trading by insiders, the trading window for dealing in shares of the Company for all the designated persons and their immediate relatives shall remain closed.\", \"HEADLINE\": \"Pursuant to the SEBI (PIT) Regulations, 2015 and in terms of Company''s code of conduct to regulate, monitor and report trading by insiders, the trading window for dealing in shares of ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-25T13:24:01\", \"DissemDT\": \"2026-09-25T13:24:01.837\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3428081, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-25T13:24:01.837\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Pursuant to the SEBI (PIT) Regulations, 2015 and in terms of Company''s code of conduct to regulate, monitor and report trading by insiders, the trading window for dealing in shares of ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b454c0ed-6db2-41dc-8f05-cab1ad74e134.pdf\", \"_id\": \"8e2bfc41-efe7-4bf4-9c17-55e14e480f45\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "538786",
@@ -2020,8 +2020,8 @@
       "company_key": "543620",
       "discovered_at": "2026-09-26T14:20:36.732954+00:00",
       "news_id": "d8863248-e8ca-44e3-9a1a-b576b4e8eed5",
-      "payload": "{\"NEWSID\": \"d8863248-e8ca-44e3-9a1a-b576b4e8eed5\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_D8863248-E8CA-44E3-9A1A-B576B4E8EED5\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-25T18:46:57.103\", \"NEWS_DT\": \"2026-09-25T18:46:57.103\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e3dbd63d-6710-4bdd-930b-85a895e8c6cf.pdf\", \"MORE\": \"This is to inform you that in accordance with the provisions of  SEBI (Prohibition of Insider Trading) Regulations, 2015 as amended or any other law for the time being in force and code of conduct and code of fair disclosure for the prohibition of insider trading and unpublished price sensitive information of Insolation Energy Limited, the Trading Window for dealing in the securities of the Company, for designated persons and their immediate relatives shall be closed from 01st October, 2026 till 48 hours after the declaration of the Unaudited Financial Results of the Company for the quarter and half year ending on 30th September, 2026. The date of the Board Meeting for consideration and approval of Unaudited Financial Results of the Company for the quarter and half year ending on 30th September, 2026 will be intimated separately in due course of time.\", \"HEADLINE\": \"This is to inform you that in accordance with the provisions of  SEBI (Prohibition of Insider Trading) Regulations, 2015 as amended or any other law for the time being in force and code ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-25T18:46:57\", \"DissemDT\": \"2026-09-25T18:46:57.103\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 685882, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-25T18:46:57.103\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"This is to inform you that in accordance with the provisions of  SEBI (Prohibition of Insider Trading) Regulations, 2015 as amended or any other law for the time being in force and code ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e3dbd63d-6710-4bdd-930b-85a895e8c6cf.pdf\", \"_id\": \"d8863248-e8ca-44e3-9a1a-b576b4e8eed5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -2447,43 +2447,43 @@
       "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677353+00:00",
       "news_id": "304868ff-1bad-4d71-89b8-21b1cebc381e",
-      "payload": "{\"NEWSID\": \"304868ff-1bad-4d71-89b8-21b1cebc381e\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_304868FF-1BAD-4D71-89B8-21B1CEBC381E\", \"NEWSSUB\": \"Disclosure Under Regulations 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-09-24T17:15:12.31\", \"NEWS_DT\": \"2026-09-24T17:15:12.31\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a2b6c9f3-55ee-4347-95aa-7f46eace63df.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 30 of SEBI (LODR),2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 1, \"News_submission_dt\": \"2026-09-24T17:15:12\", \"DissemDT\": \"2026-09-24T17:15:12.31\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 366734, \"SUBCATNAME\": \"General\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Disclosure Under Regulations 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-09-24T17:15:12.31\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 30 of SEBI (LODR),2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a2b6c9f3-55ee-4347-95aa-7f46eace63df.pdf\", \"_id\": \"304868ff-1bad-4d71-89b8-21b1cebc381e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677397+00:00",
       "news_id": "3f6ef75e-7cdc-4ad2-bec4-f5cecba1e0da",
-      "payload": "{\"NEWSID\": \"3f6ef75e-7cdc-4ad2-bec4-f5cecba1e0da\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_3F6EF75E-7CDC-4AD2-BEC4-F5CECBA1E0DA\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-25T16:53:22.813\", \"NEWS_DT\": \"2026-09-25T16:53:22.813\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2488ab9d-e000-45c2-8d82-d8f55e36e06a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Scrutinizer Report and E Voting Results for Annual General Meeting held on September 24,2026.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 3, \"News_submission_dt\": \"2026-09-25T16:53:22\", \"DissemDT\": \"2026-09-25T16:53:22.813\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 969483, \"SUBCATNAME\": \"AGM\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-25T16:53:22.813\", \"_category\": \"AGM/EGM\", \"_headline\": \"Scrutinizer Report and E Voting Results for Annual General Meeting held on September 24,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2488ab9d-e000-45c2-8d82-d8f55e36e06a.pdf\", \"_id\": \"3f6ef75e-7cdc-4ad2-bec4-f5cecba1e0da\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677437+00:00",
       "news_id": "5872facb-fa3a-4fa7-9da4-a4bd81a9c8d9",
-      "payload": "{\"NEWSID\": \"5872facb-fa3a-4fa7-9da4-a4bd81a9c8d9\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_5872FACB-FA3A-4FA7-9DA4-A4BD81A9C8D9\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-26T11:48:53.337\", \"NEWS_DT\": \"2026-09-26T11:48:53.337\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3ee7d38a-772e-49e8-9200-0b82131b614d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation for Closure of Trading Window form Thursday, October 1,2026 till 48 hours after declaration of Unaudited results for half year ended on September 30,2026.\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-26T11:48:53\", \"DissemDT\": \"2026-09-26T11:48:53.337\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 329272, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-26T11:48:53.337\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation for Closure of Trading Window form Thursday, October 1,2026 till 48 hours after declaration of Unaudited results for half year ended on September 30,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ee7d38a-772e-49e8-9200-0b82131b614d.pdf\", \"_id\": \"5872facb-fa3a-4fa7-9da4-a4bd81a9c8d9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677416+00:00",
       "news_id": "84174d8d-6575-4640-a377-b19ebf747b34",
-      "payload": "{\"NEWSID\": \"84174d8d-6575-4640-a377-b19ebf747b34\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_84174D8D-6575-4640-A377-B19EBF747B34\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-09-25T18:26:34.203\", \"NEWS_DT\": \"2026-09-25T18:26:34.203\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"38bcf2c3-3d27-4a2a-9044-b29cef786469.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of copy of Newspaper Advertisement for Variation of Objects of Utilization of Initial Public Offering (\\\"IPO\\\")\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 144, \"News_submission_dt\": \"2026-09-25T18:26:34\", \"DissemDT\": \"2026-09-25T18:26:34.203\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 24063744, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-09-25T18:26:34.203\", \"_category\": \"Company Update\", \"_headline\": \"Submission of copy of Newspaper Advertisement for Variation of Objects of Utilization of Initial Public Offering (\\\"IPO\\\")\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/38bcf2c3-3d27-4a2a-9044-b29cef786469.pdf\", \"_id\": \"84174d8d-6575-4640-a377-b19ebf747b34\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677222+00:00",
       "news_id": "977e95e8-c581-456a-8a25-4dc055b26c73",
-      "payload": "{\"NEWSID\": \"977e95e8-c581-456a-8a25-4dc055b26c73\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_977E95E8-C581-456A-8A25-4DC055B26C73\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-24T16:19:01.58\", \"NEWS_DT\": \"2026-09-24T16:19:01.58\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8e47d0c6-23fd-4a3e-9070-9a13e78dcad7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Proceedings of 17th Annual General Meeting of the Company on Thursday, September 24,2026.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 3, \"News_submission_dt\": \"2026-09-24T16:19:01\", \"DissemDT\": \"2026-09-24T16:19:01.58\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 382138, \"SUBCATNAME\": \"AGM\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-24T16:19:01.58\", \"_category\": \"AGM/EGM\", \"_headline\": \"Proceedings of 17th Annual General Meeting of the Company on Thursday, September 24,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8e47d0c6-23fd-4a3e-9070-9a13e78dcad7.pdf\", \"_id\": \"977e95e8-c581-456a-8a25-4dc055b26c73\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
       "discovered_at": "2026-09-26T14:20:35.691979+00:00",
       "news_id": "a03bd29a-aecd-4cd7-afac-c3e7e513608a",
-      "payload": "{\"NEWSID\": \"a03bd29a-aecd-4cd7-afac-c3e7e513608a\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_A03BD29A-AECD-4CD7-AFAC-C3E7E513608A\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-26T13:44:21.843\", \"NEWS_DT\": \"2026-09-26T13:44:21.843\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3207a25e-92f3-4a89-a54b-1505883aeb7a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure for Closure of Trading Window w.e.f. 1st October 2026.\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-26T13:44:21\", \"DissemDT\": \"2026-09-26T13:44:21.843\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 350658, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-26T13:44:21.843\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Disclosure for Closure of Trading Window w.e.f. 1st October 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3207a25e-92f3-4a89-a54b-1505883aeb7a.pdf\", \"_id\": \"a03bd29a-aecd-4cd7-afac-c3e7e513608a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -2797,8 +2797,8 @@
       "company_key": "544613",
       "discovered_at": "2026-09-26T14:20:31.696452+00:00",
       "news_id": "aba94536-95d6-4697-8a87-71e6588f4ba1",
-      "payload": "{\"NEWSID\": \"aba94536-95d6-4697-8a87-71e6588f4ba1\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_ABA94536-95D6-4697-8A87-71E6588F4BA1\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-25T19:03:52.873\", \"NEWS_DT\": \"2026-09-25T19:03:52.873\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b334ef13-fef3-45d6-a76d-babb110ded8f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Proceedings of 09th Annual General Meeting of the Company held on September 25, 2026.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 3, \"News_submission_dt\": \"2026-09-25T19:03:52\", \"DissemDT\": \"2026-09-25T19:03:52.873\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1627433, \"SUBCATNAME\": \"AGM\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-25T19:03:52.873\", \"_category\": \"AGM/EGM\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Proceedings of 09th Annual General Meeting of the Company held on September 25, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b334ef13-fef3-45d6-a76d-babb110ded8f.pdf\", \"_id\": \"aba94536-95d6-4697-8a87-71e6588f4ba1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -3021,15 +3021,15 @@
       "company_key": "544851",
       "discovered_at": "2026-09-26T14:20:33.671713+00:00",
       "news_id": "d8744650-8df7-49f7-a819-246ab8cb09d7",
-      "payload": "{\"NEWSID\": \"d8744650-8df7-49f7-a819-246ab8cb09d7\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_D8744650-8DF7-49F7-A819-246AB8CB09D7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-09-25T18:35:54.903\", \"NEWS_DT\": \"2026-09-25T18:35:54.903\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a392172f-aca0-449b-8d69-9d3dabeb53d5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor meeting\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 80, \"News_submission_dt\": \"2026-09-25T18:35:54\", \"DissemDT\": \"2026-09-25T18:35:54.903\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 643135, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-09-25T18:35:54.903\", \"_category\": \"Company Update\", \"_headline\": \"Investor meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a392172f-aca0-449b-8d69-9d3dabeb53d5.pdf\", \"_id\": \"d8744650-8df7-49f7-a819-246ab8cb09d7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
       "discovered_at": "2026-09-26T14:20:33.671543+00:00",
       "news_id": "f0913b5d-7376-4529-b88f-625049b35053",
-      "payload": "{\"NEWSID\": \"f0913b5d-7376-4529-b88f-625049b35053\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_F0913B5D-7376-4529-B88F-625049B35053\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-25T16:31:25.49\", \"NEWS_DT\": \"2026-09-25T16:31:25.49\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"069029c7-b1a0-49c7-afcf-aa7ba99a292e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading Window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 66, \"News_submission_dt\": \"2026-09-25T16:31:25\", \"DissemDT\": \"2026-09-25T16:31:25.49\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 644345, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-25T16:31:25.49\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading Window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/069029c7-b1a0-49c7-afcf-aa7ba99a292e.pdf\", \"_id\": \"f0913b5d-7376-4529-b88f-625049b35053\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -3077,8 +3077,8 @@
       "company_key": "544862",
       "discovered_at": "2026-09-26T14:20:31.174479+00:00",
       "news_id": "aaa79d70-e2cc-4842-87e0-bcfb28f75e5f",
-      "payload": "{\"NEWSID\": \"aaa79d70-e2cc-4842-87e0-bcfb28f75e5f\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_AAA79D70-E2CC-4842-87E0-BCFB28F75E5F\", \"NEWSSUB\": \"Transcript Of 12Th Annual General Meeting\", \"DT_TM\": \"2026-09-26T16:44:50.74\", \"NEWS_DT\": \"2026-09-26T16:44:50.74\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"47bb938d-e5fe-4845-8ff1-15dc6ccc76b0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of 12th Annual General Meeting\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 3, \"News_submission_dt\": \"2026-09-26T16:44:50\", \"DissemDT\": \"2026-09-26T16:44:50.74\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 399219, \"SUBCATNAME\": \"AGM\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Transcript Of 12Th Annual General Meeting\", \"_published\": \"2026-09-26T16:44:50.74\", \"_category\": \"AGM/EGM\", \"_headline\": \"Transcript of 12th Annual General Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/47bb938d-e5fe-4845-8ff1-15dc6ccc76b0.pdf\", \"_id\": \"aaa79d70-e2cc-4842-87e0-bcfb28f75e5f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -3653,6 +3653,10 @@
     {
       "message_id": "<524c9f7560f7eecf2b776991d6ee3f1345353bb41d94466eb3e2730cfe8cb414@gmail.com>",
       "sent_at": "2026-09-25T10:20:57.321441+00:00"
+    },
+    {
+      "message_id": "<689ffa0adeaeaf25f1807742b72d09dca4fc6f17d5d23343bb0eb236994de342@gmail.com>",
+      "sent_at": "2026-09-26T14:22:39.862712+00:00"
     },
     {
       "message_id": "<6a7b5106db773880268b658fdbae8dc563f8727b4b2bc40ff718817543d7d389@gmail.com>",
