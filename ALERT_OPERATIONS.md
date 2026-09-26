@@ -13,8 +13,12 @@ For an initial short verification run set `cycles=1`; its successor uses the
 normal 60-cycle duration. Inspect the workflow summary and the `alert-state`
 branch's `alerts.json`, including its `metadata` health entry. A running worker
 is expected to stay in progress for hours. A cycle with fetch/send failures
-checkpoints successful work, finishes with a failed job, and dispatches a retry.
-For a checkpoint failure, external delivery stops immediately.
+checkpoints successful work and finishes with a failed job. The successor is
+dispatched only after a successful worker. A failed job retains successful
+collection and queued email state. The watchdog retries on its next scheduled
+dispatch (nominally every twenty minutes, subject to GitHub schedule delays).
+This avoids repeated self-dispatch when an exchange blocks every request. For
+a checkpoint failure, external delivery stops immediately.
 
 To pause: set repository Actions variable `ALERTS_PAUSED` to `true`, then cancel
 the current run. Cancellation intentionally does not dispatch a successor.

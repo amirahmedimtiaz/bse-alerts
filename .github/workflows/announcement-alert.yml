@@ -49,7 +49,7 @@ jobs:
           EMAIL_BATCH_SIZE: "20"
           EMAIL_DAILY_LIMIT: "450"
       - name: Start successor worker
-        if: ${{ !cancelled() && steps.worker.outcome != 'skipped' }}
+        if: ${{ steps.worker.outcome == 'success' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run announcement-alert.yml --ref main

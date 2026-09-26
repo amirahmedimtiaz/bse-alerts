@@ -83,6 +83,27 @@ def test_fetch_failure_does_not_advance_watermark_and_other_company_continues(st
     assert windows[1] == (date(2026, 9, 19), date(2026, 9, 23))
 
 
+@responses.activate
+def test_bse_access_denied_keeps_catch_up_window_while_nse_continues(store, monkeypatch):
+    store.seed_legacy({"1": set(), "NSE:APS": set()}, as_of="2026-09-23")
+    store.collect("1", "2026-09-23", [])
+    store.collect("NSE:APS", "2026-09-23", [])
+    responses.add(responses.GET, bse_client.API_URL, status=403)
+    monkeypatch.setattr(nse_client, "fetch_announcements", lambda *args: [
+        {"seq_id": "new-nse", "sort_date": "2026-09-25 12:00:00", "desc": "Filing"},
+    ])
+    nse_company = {**company(2), "exchange": "NSE", "symbol": "APS"}
+
+    report = scanner.collect(store, [company(), nse_company],
+                             today=date(2026, 9, 26), workers=1)
+
+    assert report["failed"] == ["1"]
+    assert report["collected"] == 1
+    assert store.company("1")["last_success"] == "2026-09-23"
+    assert store.company("NSE:APS")["last_success"] == "2026-09-26"
+    assert store.pending_count() == 1
+
+
 def test_long_outage_recovers_from_watermark_in_chunks(store):
     store.collect("1", "2026-08-01", [])
     windows = []
