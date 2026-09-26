@@ -2979,8 +2979,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-09-26T11:49:09.757911+00:00",
       "news_id": "106795890",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Trading Window\", \"dt\": \"26-Sep-2026 17:14:37\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_26092026170802_Closure_of_Trading_Window_30092026.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"26-Sep-2026 17:14:37\", \"sort_date\": \"2026-09-26 17:14:37\", \"seq_id\": \"106795890\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"347.11 KB\", \"attFileSize\": \"347.11 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-09-26 17:14:37\", \"_category\": \"Trading Window\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_26092026170802_Closure_of_Trading_Window_30092026.pdf\", \"_id\": \"106795890\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -3272,6 +3272,10 @@
     {
       "message_id": "<6a7b5106db773880268b658fdbae8dc563f8727b4b2bc40ff718817543d7d389@gmail.com>",
       "sent_at": "2026-09-25T13:53:03.492060+00:00"
+    },
+    {
+      "message_id": "<c00bdfd9e211fd48ecd8607e87853feb45802ea99f3d75b5b983913240a4632f@gmail.com>",
+      "sent_at": "2026-09-26T11:49:17.239952+00:00"
     },
     {
       "message_id": "<c59e02936b3397b71e99faa911f1e75653520f94edb8d70ee17052a5fc822daf@gmail.com>",
