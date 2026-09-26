@@ -11,8 +11,8 @@ from typing import Any
 def _single_message(announcement: dict[str, Any]) -> EmailMessage:
     sender = os.environ["EMAIL_SENDER"]
     receiver = os.environ["EMAIL_RECEIVER"]
-    company_name = announcement["_company_name"]
-    subject = announcement["_subject"]
+    company_name = " ".join(str(announcement["_company_name"]).split())
+    subject = " ".join(str(announcement["_subject"]).split())
     published = announcement.get("_published", "Unknown")
     category = announcement.get("_category", "Unknown")
     headline = announcement.get("_headline", "")
