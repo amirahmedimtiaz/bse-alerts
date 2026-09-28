@@ -3973,7 +3973,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T14:31:21.593782+00:00\", \"seconds\": 60.27}"
+      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [\"500144\", \"517498\", \"544851\", \"505685\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T14:40:33.239465+00:00\", \"seconds\": 311.92}"
     },
     {
       "key": "migration_date",
