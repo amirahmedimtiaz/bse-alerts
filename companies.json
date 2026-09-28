@@ -215,5 +215,12 @@
     "name": "Farm Peace Ltd",
     "scrip_code": 544905,
     "announcement_url": "https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements"
+  },
+  {
+    "name": "TBI Corn Limited",
+    "exchange": "NSE",
+    "symbol": "TBI",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited"
   }
 ]
