@@ -2909,8 +2909,8 @@
       "company_key": "544793",
       "discovered_at": "2026-09-28T10:30:08.744344+00:00",
       "news_id": "98cabc37-1b2a-4ff1-92e9-788feaf82796",
-      "payload": "{\"NEWSID\": \"98cabc37-1b2a-4ff1-92e9-788feaf82796\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_98CABC37-1B2A-4FF1-92E9-788FEAF82796\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Dated 28.09.2026\", \"DT_TM\": \"2026-09-28T15:56:19.09\", \"NEWS_DT\": \"2026-09-28T15:56:19.09\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d1a4e163-7e1d-40a2-87d8-8ecf58a5bf6f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting Dated 28.09.2026\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 223, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T15:56:18\", \"DissemDT\": \"2026-09-28T15:56:19.09\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 374448, \"SUBCATNAME\": \"Outcome without intimation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Dated 28.09.2026\", \"_published\": \"2026-09-28T15:56:19.09\", \"_category\": \"Others\", \"_headline\": \"Outcome of the Board Meeting Dated 28.09.2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1a4e163-7e1d-40a2-87d8-8ecf58a5bf6f.pdf\", \"_id\": \"98cabc37-1b2a-4ff1-92e9-788feaf82796\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -3702,6 +3702,10 @@
     {
       "message_id": "<0edd2b8a181663a5f348928fddb5be637090b39a6821bdc1996f4751dd449820@gmail.com>",
       "sent_at": "2026-09-28T09:20:26.864319+00:00"
+    },
+    {
+      "message_id": "<1b1a41af42f6c861512ab2d914cddb48b082aa6b261bcb7d81c010fdc57dc973@gmail.com>",
+      "sent_at": "2026-09-28T10:30:26.405340+00:00"
     },
     {
       "message_id": "<5100972ee9860deafc8c40606a50b29df42a518905686cc05e5164b0ee9822ce@gmail.com>",
