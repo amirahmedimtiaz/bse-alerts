@@ -1243,8 +1243,8 @@
       "company_key": "532374",
       "discovered_at": "2026-09-28T11:00:13.205351+00:00",
       "news_id": "484d8741-3da7-42d6-8790-61f3a9626e74",
-      "payload": "{\"NEWSID\": \"484d8741-3da7-42d6-8790-61f3a9626e74\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_484D8741-3DA7-42D6-8790-61F3A9626E74\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T16:28:03.83\", \"NEWS_DT\": \"2026-09-28T16:28:03.83\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"27b76544-b073-406c-9694-e6e1fa593ebb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation for Trading Window Closure for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:28:03\", \"DissemDT\": \"2026-09-28T16:28:03.83\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3501503, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T16:28:03.83\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation for Trading Window Closure for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/27b76544-b073-406c-9694-e6e1fa593ebb.pdf\", \"_id\": \"484d8741-3da7-42d6-8790-61f3a9626e74\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -3035,8 +3035,8 @@
       "company_key": "544822",
       "discovered_at": "2026-09-28T11:00:17.312357+00:00",
       "news_id": "0a2d5309-6823-45f2-a556-c5f6dcf1c308",
-      "payload": "{\"NEWSID\": \"0a2d5309-6823-45f2-a556-c5f6dcf1c308\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_0A2D5309-6823-45F2-A556-C5F6DCF1C308\", \"NEWSSUB\": \"Intimation Of Submission Of Application For Re-Classification From 'Promoter And Promoter Group' Category To 'Public' Category Pursuant To Regulation 31A Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-09-28T16:26:44.44\", \"NEWS_DT\": \"2026-09-28T16:26:44.44\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"26f85548-0a2b-4442-8076-b9f11e1f04dd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:26:44\", \"DissemDT\": \"2026-09-28T16:26:44.44\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 517770, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Intimation Of Submission Of Application For Re-Classification From 'Promoter And Promoter Group' Category To 'Public' Category Pursuant To Regulation 31A Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-09-28T16:26:44.44\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/26f85548-0a2b-4442-8076-b9f11e1f04dd.pdf\", \"_id\": \"0a2d5309-6823-45f2-a556-c5f6dcf1c308\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -3750,6 +3750,10 @@
     {
       "message_id": "<689ffa0adeaeaf25f1807742b72d09dca4fc6f17d5d23343bb0eb236994de342@gmail.com>",
       "sent_at": "2026-09-26T14:22:39.862712+00:00"
+    },
+    {
+      "message_id": "<6eed812b1a341dfda345a08c2e366b0d538a51ea6d2850bfc6dd9a82a299f79b@gmail.com>",
+      "sent_at": "2026-09-28T11:00:26.384266+00:00"
     },
     {
       "message_id": "<a7ff45ab9001e03dbe696bf0978c40a07c0a43f99c132dea1e50699d2a337cdf@gmail.com>",
