@@ -2270,6 +2270,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-09-28T12:45:31.154852+00:00",
+      "news_id": "2fd86b6d-5cfc-40ae-a36f-19d8e01d70db",
+      "payload": "{\"NEWSID\": \"2fd86b6d-5cfc-40ae-a36f-19d8e01d70db\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_2FD86B6D-5CFC-40AE-A36F-19D8E01D70DB\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T18:10:36.25\", \"NEWS_DT\": \"2026-09-28T18:10:36.25\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a14d414b-01f5-4d90-8d8f-8e12f0f048ff.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading Window for the Quarter ending September 30, 2026\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T18:10:36\", \"DissemDT\": \"2026-09-28T18:10:36.25\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 413455, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T18:10:36.25\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading Window for the Quarter ending September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a14d414b-01f5-4d90-8d8f-8e12f0f048ff.pdf\", \"_id\": \"2fd86b6d-5cfc-40ae-a36f-19d8e01d70db\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584741+00:00",
       "news_id": "373f62ed-c8ec-4c2c-9ad7-74fb18f06fce",
       "payload": null,
