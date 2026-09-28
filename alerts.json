@@ -2284,6 +2284,13 @@
     },
     {
       "company_key": "544277",
+      "discovered_at": "2026-09-28T09:20:14.248661+00:00",
+      "news_id": "0e643b8e-a34e-4eae-99e4-da702a4851a1",
+      "payload": "{\"NEWSID\": \"0e643b8e-a34e-4eae-99e4-da702a4851a1\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_0E643B8E-A34E-4EAE-99E4-DA702A4851A1\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T14:46:43.62\", \"NEWS_DT\": \"2026-09-28T14:46:43.62\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a412949d-e33c-4eb0-af1f-498a0fff4bd5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading Window.\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T14:46:43\", \"DissemDT\": \"2026-09-28T14:46:43.62\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 259524, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T14:46:43.62\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading Window.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a412949d-e33c-4eb0-af1f-498a0fff4bd5.pdf\", \"_id\": \"0e643b8e-a34e-4eae-99e4-da702a4851a1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544277",
       "discovered_at": "2026-09-26T14:20:29.704647+00:00",
       "news_id": "1023f4d1-7325-494f-b0a6-0e22ceca5edb",
       "payload": null,
