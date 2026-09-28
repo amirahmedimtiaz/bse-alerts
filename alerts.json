@@ -3787,7 +3787,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T10:55:22.243539+00:00\", \"seconds\": 16.79}"
+      "value": "{\"companies\": 40, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T11:00:27.732449+00:00\", \"seconds\": 22.28}"
     },
     {
       "key": "migration_date",
