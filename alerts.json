@@ -499,6 +499,13 @@
     },
     {
       "company_key": "517569",
+      "discovered_at": "2026-09-28T13:30:25.600670+00:00",
+      "news_id": "39b874bc-ec26-4cc6-a274-7906fb544c63",
+      "payload": "{\"NEWSID\": \"39b874bc-ec26-4cc6-a274-7906fb544c63\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_39B874BC-EC26-4CC6-A274-7906FB544C63\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-28T18:59:02.067\", \"NEWS_DT\": \"2026-09-28T18:59:02.067\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d9d5cc95-4bd1-4970-a159-4a66d5fb9047.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Proceedings of 34th Annual General Meeting (AGM) under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T18:59:02\", \"DissemDT\": \"2026-09-28T18:59:02.067\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 960513, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-28T18:59:02.067\", \"_category\": \"AGM/EGM\", \"_headline\": \"Proceedings of 34th Annual General Meeting (AGM) under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d9d5cc95-4bd1-4970-a159-4a66d5fb9047.pdf\", \"_id\": \"39b874bc-ec26-4cc6-a274-7906fb544c63\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517569",
       "discovered_at": "2026-09-23T05:12:07.584351+00:00",
       "news_id": "3e3b2e2b-eba2-4697-a0ca-28987abce6e1",
       "payload": null,
