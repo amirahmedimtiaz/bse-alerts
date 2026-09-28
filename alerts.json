@@ -324,6 +324,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-09-28T09:30:14.277105+00:00",
+      "news_id": "2c0a60ee-7195-4c94-80be-e416e3cb0f54",
+      "payload": "{\"NEWSID\": \"2c0a60ee-7195-4c94-80be-e416e3cb0f54\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_2C0A60EE-7195-4C94-80BE-E416E3CB0F54\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T14:56:04.117\", \"NEWS_DT\": \"2026-09-28T14:56:04.117\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"91d3e5c5-4d9a-4443-8428-72b3d0417084.pdf\", \"MORE\": \"This is to inform you that the Trading Window to deal with Securities of the Company will remain closed for all designated persons and their immediate relatives from 01 October 2026 till 48 hours after the declaration of un-audited financial results for the quarter and half year ended 30 September 2026.\", \"HEADLINE\": \"This is to inform you that the Trading Window to deal with Securities of the Company will remain closed for all designated persons and their immediate relatives from 01 October 2026 till ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T14:56:04\", \"DissemDT\": \"2026-09-28T14:56:04.117\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 549514, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T14:56:04.117\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"This is to inform you that the Trading Window to deal with Securities of the Company will remain closed for all designated persons and their immediate relatives from 01 October 2026 till ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/91d3e5c5-4d9a-4443-8428-72b3d0417084.pdf\", \"_id\": \"2c0a60ee-7195-4c94-80be-e416e3cb0f54\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584319+00:00",
       "news_id": "41f1423d-f7fe-4c40-81ff-c2c60e75f3ca",
       "payload": null,
