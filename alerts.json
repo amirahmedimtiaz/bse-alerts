@@ -2907,6 +2907,13 @@
     },
     {
       "company_key": "544608",
+      "discovered_at": "2026-09-28T14:15:23.551488+00:00",
+      "news_id": "d15d1a28-e03a-42d1-8fe1-4be06f771ba8",
+      "payload": "{\"NEWSID\": \"d15d1a28-e03a-42d1-8fe1-4be06f771ba8\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_D15D1A28-E03A-42D1-8FE1-4BE06F771BA8\", \"NEWSSUB\": \"19Th AGM Voting Results And Scrutinizer''s Report\", \"DT_TM\": \"2026-09-28T19:41:58.777\", \"NEWS_DT\": \"2026-09-28T19:41:58.777\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f7920f77-2550-4c4e-8892-85602d0748ab.pdf\", \"MORE\": \"\", \"HEADLINE\": \"19th AGM voting results and Scrutinizer''s report\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T19:41:58\", \"DissemDT\": \"2026-09-28T19:41:58.777\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1104370, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"19Th AGM Voting Results And Scrutinizer''s Report\", \"_published\": \"2026-09-28T19:41:58.777\", \"_category\": \"AGM/EGM\", \"_headline\": \"19th AGM voting results and Scrutinizer''s report\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7920f77-2550-4c4e-8892-85602d0748ab.pdf\", \"_id\": \"d15d1a28-e03a-42d1-8fe1-4be06f771ba8\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544608",
       "discovered_at": "2026-09-23T05:12:07.584854+00:00",
       "news_id": "ea080226-1627-4c39-a8f4-007845d3346a",
       "payload": null,
