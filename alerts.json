@@ -851,8 +851,8 @@
       "company_key": "522163",
       "discovered_at": "2026-09-28T14:00:56.369408+00:00",
       "news_id": "f2bdf281-9554-4b28-b8da-62b374b3463a",
-      "payload": "{\"NEWSID\": \"f2bdf281-9554-4b28-b8da-62b374b3463a\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_F2BDF281-9554-4B28-B8DA-62B374B3463A\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T19:26:29.03\", \"NEWS_DT\": \"2026-09-28T19:26:29.03\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ae6774f8-a06b-441c-a869-ca8cd687cec9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Trading Window Closure for the purpose of Q2FY2027 financial results\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T19:26:29\", \"DissemDT\": \"2026-09-28T19:26:29.033\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 181382, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T19:26:29.03\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Trading Window Closure for the purpose of Q2FY2027 financial results\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae6774f8-a06b-441c-a869-ca8cd687cec9.pdf\", \"_id\": \"f2bdf281-9554-4b28-b8da-62b374b3463a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -3865,6 +3865,10 @@
     {
       "message_id": "<252f86aa5e00c5252b8520d51a69ab897aaecc93a238eae8dff7ebc09b39b07d@gmail.com>",
       "sent_at": "2026-09-28T11:50:42.644953+00:00"
+    },
+    {
+      "message_id": "<2e5c251c054fc67b94c01e727efea9b5ae7dc0aec63453b88480b08b9b20de1c@gmail.com>",
+      "sent_at": "2026-09-28T14:01:25.173453+00:00"
     },
     {
       "message_id": "<2f689b25c593014ee4f94eb0cea91fdc527fc689d793da6cc2fae50d6b6adeb0@gmail.com>",
