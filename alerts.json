@@ -116,8 +116,8 @@
       "company_key": "500144",
       "discovered_at": "2026-09-28T11:10:07.300654+00:00",
       "news_id": "db39bb09-2c96-4c96-a67d-bfe1737ac420",
-      "payload": "{\"NEWSID\": \"db39bb09-2c96-4c96-a67d-bfe1737ac420\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_DB39BB09-2C96-4C96-A67D-BFE1737AC420\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-28T16:39:32.287\", \"NEWS_DT\": \"2026-09-28T16:39:32.287\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b79212c9-136a-487f-b5fe-9015a5c1d933.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Gist of Proceedings of the 58th AGM of Finolex Cables Ltd. held on Monday 28th September 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:39:32\", \"DissemDT\": \"2026-09-28T16:39:32.287\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 862132, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-28T16:39:32.287\", \"_category\": \"AGM/EGM\", \"_headline\": \"Gist of Proceedings of the 58th AGM of Finolex Cables Ltd. held on Monday 28th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b79212c9-136a-487f-b5fe-9015a5c1d933.pdf\", \"_id\": \"db39bb09-2c96-4c96-a67d-bfe1737ac420\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -3741,6 +3741,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<03138c4164d03d0a75bcf3d1df00b704b915ebec0e8ac1915238dfbf74a53910@gmail.com>",
+      "sent_at": "2026-09-28T11:10:26.669314+00:00"
+    },
     {
       "message_id": "<0edd2b8a181663a5f348928fddb5be637090b39a6821bdc1996f4751dd449820@gmail.com>",
       "sent_at": "2026-09-28T09:20:26.864319+00:00"
