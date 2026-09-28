@@ -3896,7 +3896,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T12:40:42.611407+00:00\", \"seconds\": 21.3}"
+      "value": "{\"companies\": 40, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T12:45:41.939942+00:00\", \"seconds\": 20.62}"
     },
     {
       "key": "migration_date",
