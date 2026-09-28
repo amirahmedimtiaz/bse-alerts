@@ -3809,7 +3809,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T11:10:28.109299+00:00\", \"seconds\": 22.61}"
+      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T11:15:22.237776+00:00\", \"seconds\": 16.78}"
     },
     {
       "key": "migration_date",
