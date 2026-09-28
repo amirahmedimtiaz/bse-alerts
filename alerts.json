@@ -3005,6 +3005,13 @@
     },
     {
       "company_key": "544822",
+      "discovered_at": "2026-09-28T06:40:16.279587+00:00",
+      "news_id": "5f8bf22d-a4b6-4f42-813b-fd88b7d3155c",
+      "payload": "{\"NEWSID\": \"5f8bf22d-a4b6-4f42-813b-fd88b7d3155c\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_5F8BF22D-A4B6-4F42-813B-FD88B7D3155C\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T12:08:09.897\", \"NEWS_DT\": \"2026-09-28T12:08:09.897\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"029b3e92-7aed-403f-a37e-327ca199f655.pdf\", \"MORE\": \"This is to inform you that the trading window to deal with securities of the Company shall remain closed for all Designated Persons (including their immediate relatives) from Thursday, 01 October, 2026 till completion of 48hours after the declaration of Unaudited Financial Results of the Company for the quarter and half year ended 30 September, 2026\", \"HEADLINE\": \"This is to inform you that the trading window to deal with securities of the Company shall remain closed for all Designated Persons (including their immediate relatives) from Thursday, ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T12:08:09\", \"DissemDT\": \"2026-09-28T12:08:09.897\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 761888, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T12:08:09.897\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"This is to inform you that the trading window to deal with securities of the Company shall remain closed for all Designated Persons (including their immediate relatives) from Thursday, ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/029b3e92-7aed-403f-a37e-327ca199f655.pdf\", \"_id\": \"5f8bf22d-a4b6-4f42-813b-fd88b7d3155c\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544822",
       "discovered_at": "2026-09-23T05:12:07.584907+00:00",
       "news_id": "837b3d92-98ce-48d6-88bb-62df24e3e970",
       "payload": null,
