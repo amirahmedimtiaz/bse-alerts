@@ -2013,8 +2013,8 @@
       "company_key": "543620",
       "discovered_at": "2026-09-28T10:50:18.156561+00:00",
       "news_id": "6234545b-9307-49ba-864c-0b5a4dc7586d",
-      "payload": "{\"NEWSID\": \"6234545b-9307-49ba-864c-0b5a4dc7586d\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_6234545B-9307-49BA-864C-0B5A4DC7586D\", \"NEWSSUB\": \"Board Meeting Outcome for Disclosure Under Regulation 30 And Other Applicable Regulations Of The Securities And Exchange Board\\r\\nOf India (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations'): Outcome\\r\\nOf The Board Meeting\", \"DT_TM\": \"2026-09-28T16:18:02.503\", \"NEWS_DT\": \"2026-09-28T16:18:02.503\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"22ce3ee9-07e0-4933-9661-bed672d66b30.pdf\", \"MORE\": \"Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, (the\\r\\n'Listing Regulations'), as amended from time to time, we would like to inform that the Board of Directors of the\\r\\nCompany at their meeting held today (i.e. Monday, 28th September, 2026) has inter-alia considered and approved\\r\\nthe item as mentioned in the letter.\", \"HEADLINE\": \"Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, (the\\r\\n'Listing Regulations'), as amended from time to time, we would like to inform ....\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 223, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:18:00\", \"DissemDT\": \"2026-09-28T16:18:02.503\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 779660, \"SUBCATNAME\": \"Outcome without intimation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Disclosure Under Regulation 30 And Other Applicable Regulations Of The Securities And Exchange Board\\r\\nOf India (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations'): Outcome\\r\\nOf The Board Meeting\", \"_published\": \"2026-09-28T16:18:02.503\", \"_category\": \"Others\", \"_headline\": \"Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, (the\\r\\n'Listing Regulations'), as amended from time to time, we would like to inform ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/22ce3ee9-07e0-4933-9661-bed672d66b30.pdf\", \"_id\": \"6234545b-9307-49ba-864c-0b5a4dc7586d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -3744,6 +3744,10 @@
     {
       "message_id": "<c00bdfd9e211fd48ecd8607e87853feb45802ea99f3d75b5b983913240a4632f@gmail.com>",
       "sent_at": "2026-09-26T11:49:17.239952+00:00"
+    },
+    {
+      "message_id": "<db3f4cf5cd6cf1c93958ca1ac725f5ba788d9cccae13a2410b233e052aa08bfd@gmail.com>",
+      "sent_at": "2026-09-28T10:50:26.328269+00:00"
     },
     {
       "message_id": "<ee674d456468a53a5f0660e641ee436466973f0f57fcf9362ffe7172362861da@gmail.com>",
