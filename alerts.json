@@ -74,8 +74,8 @@
       "company_key": "500144",
       "discovered_at": "2026-09-28T11:30:22.626888+00:00",
       "news_id": "68a9087a-1741-423f-9493-2f4e9d1c0760",
-      "payload": "{\"NEWSID\": \"68a9087a-1741-423f-9493-2f4e9d1c0760\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_68A9087A-1741-423F-9493-2F4E9D1C0760\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-28T16:58:10.86\", \"NEWS_DT\": \"2026-09-28T16:58:10.86\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"371417ca-3a61-4ceb-9532-fe3337d1cdc1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Chairman Speech delivered at 58th AGM\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:58:10\", \"DissemDT\": \"2026-09-28T16:58:10.86\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1545499, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-28T16:58:10.86\", \"_category\": \"AGM/EGM\", \"_headline\": \"Chairman Speech delivered at 58th AGM\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/371417ca-3a61-4ceb-9532-fe3337d1cdc1.pdf\", \"_id\": \"68a9087a-1741-423f-9493-2f4e9d1c0760\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -2041,8 +2041,8 @@
       "company_key": "543620",
       "discovered_at": "2026-09-28T11:30:37.115110+00:00",
       "news_id": "43d5b901-eb6e-42c6-bdc4-534cefaea475",
-      "payload": "{\"NEWSID\": \"43d5b901-eb6e-42c6-bdc4-534cefaea475\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_43D5B901-EB6E-42C6-BDC4-534CEFAEA475\", \"NEWSSUB\": \"Grant Of Options To The Eligible Employees Under - Insolation Energy Employee Stock Option Plan 2024 ('ESOP 2024'/'Plan')\", \"DT_TM\": \"2026-09-28T16:59:48.347\", \"NEWS_DT\": \"2026-09-28T16:59:48.347\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"879280ad-ef91-4d44-be31-3c337a067b20.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended, this is to inform that the Nomination and Remuneration Committee of the board of directors of the company at its meeting held on 28th September, 2026 has approved the grant of 1,06,500 (One Lakh Six Thousand Five Hundred Only) options pursuant to the Insolation Energy Employee Stock Option Plan 2024 (\\\"ESOP 2024\\\"/\\\"Plan\\\") at the exercise price of Rs. 3.80/- to the eligible employees of the Company and its subsidiary, associate and group companies.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended, this is to inform that the Nomination and Remuneration ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:59:48\", \"DissemDT\": \"2026-09-28T16:59:48.347\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 720950, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Grant Of Options To The Eligible Employees Under - Insolation Energy Employee Stock Option Plan 2024 ('ESOP 2024'/'Plan')\", \"_published\": \"2026-09-28T16:59:48.347\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended, this is to inform that the Nomination and Remuneration ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/879280ad-ef91-4d44-be31-3c337a067b20.pdf\", \"_id\": \"43d5b901-eb6e-42c6-bdc4-534cefaea475\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -3809,6 +3809,10 @@
     {
       "message_id": "<c00bdfd9e211fd48ecd8607e87853feb45802ea99f3d75b5b983913240a4632f@gmail.com>",
       "sent_at": "2026-09-26T11:49:17.239952+00:00"
+    },
+    {
+      "message_id": "<d00fb99af5b147986cede45d0efa895fd7240b21209e8bf71e38f76224cb7500@gmail.com>",
+      "sent_at": "2026-09-28T11:30:42.309391+00:00"
     },
     {
       "message_id": "<db3f4cf5cd6cf1c93958ca1ac725f5ba788d9cccae13a2410b233e052aa08bfd@gmail.com>",
