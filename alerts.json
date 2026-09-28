@@ -3105,8 +3105,8 @@
       "company_key": "544862",
       "discovered_at": "2026-09-28T07:40:16.170804+00:00",
       "news_id": "eb581877-ccb1-4a4c-ac92-8bf6a9f2f1f5",
-      "payload": "{\"NEWSID\": \"eb581877-ccb1-4a4c-ac92-8bf6a9f2f1f5\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_EB581877-CCB1-4A4C-AC92-8BF6A9F2F1F5\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T13:07:28.117\", \"NEWS_DT\": \"2026-09-28T13:07:28.117\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"dda32956-3073-4c13-92f3-031c66dc798c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading Window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T13:07:28\", \"DissemDT\": \"2026-09-28T13:07:28.117\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 456773, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T13:07:28.117\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading Window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/dda32956-3073-4c13-92f3-031c66dc798c.pdf\", \"_id\": \"eb581877-ccb1-4a4c-ac92-8bf6a9f2f1f5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:ALPEXSOLAR",
@@ -3674,6 +3674,10 @@
     {
       "message_id": "<689ffa0adeaeaf25f1807742b72d09dca4fc6f17d5d23343bb0eb236994de342@gmail.com>",
       "sent_at": "2026-09-26T14:22:39.862712+00:00"
+    },
+    {
+      "message_id": "<a7ff45ab9001e03dbe696bf0978c40a07c0a43f99c132dea1e50699d2a337cdf@gmail.com>",
+      "sent_at": "2026-09-28T07:40:25.829225+00:00"
     },
     {
       "message_id": "<c00bdfd9e211fd48ecd8607e87853feb45802ea99f3d75b5b983913240a4632f@gmail.com>",
