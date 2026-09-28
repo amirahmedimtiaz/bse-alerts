@@ -239,6 +239,13 @@
       "status": "sent"
     },
     {
+      "company_key": "505685",
+      "discovered_at": "2026-09-28T11:50:38.107876+00:00",
+      "news_id": "870774da-9244-4623-9b51-a6df9c132ff5",
+      "payload": "{\"NEWSID\": \"870774da-9244-4623-9b51-a6df9c132ff5\", \"SCRIP_CD\": 505685, \"XML_NAME\": \"ANN_505685_870774DA-9244-4623-9B51-A6DF9C132FF5\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T17:19:45.863\", \"NEWS_DT\": \"2026-09-28T17:19:45.863\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b46146c7-07dc-463e-8ff9-785bd250b327.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Closure of Trading window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/\", \"SLONGNAME\": \"Taparia Tools Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T17:19:45\", \"DissemDT\": \"2026-09-28T17:19:45.863\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 622281, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Taparia Tools Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T17:19:45.863\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Closure of Trading window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b46146c7-07dc-463e-8ff9-785bd250b327.pdf\", \"_id\": \"870774da-9244-4623-9b51-a6df9c132ff5\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "517354",
       "discovered_at": "2026-09-23T05:12:07.584298+00:00",
       "news_id": "4a742e7d-4abf-46be-9b7d-d58fdc5c8bca",
