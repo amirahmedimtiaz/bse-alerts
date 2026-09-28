@@ -2909,8 +2909,8 @@
       "company_key": "544608",
       "discovered_at": "2026-09-28T14:15:23.551488+00:00",
       "news_id": "d15d1a28-e03a-42d1-8fe1-4be06f771ba8",
-      "payload": "{\"NEWSID\": \"d15d1a28-e03a-42d1-8fe1-4be06f771ba8\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_D15D1A28-E03A-42D1-8FE1-4BE06F771BA8\", \"NEWSSUB\": \"19Th AGM Voting Results And Scrutinizer''s Report\", \"DT_TM\": \"2026-09-28T19:41:58.777\", \"NEWS_DT\": \"2026-09-28T19:41:58.777\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f7920f77-2550-4c4e-8892-85602d0748ab.pdf\", \"MORE\": \"\", \"HEADLINE\": \"19th AGM voting results and Scrutinizer''s report\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T19:41:58\", \"DissemDT\": \"2026-09-28T19:41:58.777\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1104370, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"19Th AGM Voting Results And Scrutinizer''s Report\", \"_published\": \"2026-09-28T19:41:58.777\", \"_category\": \"AGM/EGM\", \"_headline\": \"19th AGM voting results and Scrutinizer''s report\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7920f77-2550-4c4e-8892-85602d0748ab.pdf\", \"_id\": \"d15d1a28-e03a-42d1-8fe1-4be06f771ba8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -3940,6 +3940,10 @@
     {
       "message_id": "<db3f4cf5cd6cf1c93958ca1ac725f5ba788d9cccae13a2410b233e052aa08bfd@gmail.com>",
       "sent_at": "2026-09-28T10:50:26.328269+00:00"
+    },
+    {
+      "message_id": "<e8ba490e268e08782c96e076de2fa5d13ef7b5c9e30c7121d9962f40e5d877b0@gmail.com>",
+      "sent_at": "2026-09-28T14:15:41.241107+00:00"
     },
     {
       "message_id": "<ee674d456468a53a5f0660e641ee436466973f0f57fcf9362ffe7172362861da@gmail.com>",
