@@ -1563,6 +1563,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-09-28T13:05:30.178133+00:00",
+      "news_id": "6adb65c8-5a2a-41b9-b26c-037a428b7407",
+      "payload": "{\"NEWSID\": \"6adb65c8-5a2a-41b9-b26c-037a428b7407\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_6ADB65C8-5A2A-41B9-B26C-037A428B7407\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-09-28T18:31:21.16\", \"NEWS_DT\": \"2026-09-28T18:31:21.16\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"75903eea-975a-4bf3-89ea-47718d1589c8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith update on order for the earlier intimation provided on November 27, 2024, June 20, 2025 and July 30, 2025\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T18:31:21\", \"DissemDT\": \"2026-09-28T18:31:21.16\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 679263, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-09-28T18:31:21.16\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith update on order for the earlier intimation provided on November 27, 2024, June 20, 2025 and July 30, 2025\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/75903eea-975a-4bf3-89ea-47718d1589c8.pdf\", \"_id\": \"6adb65c8-5a2a-41b9-b26c-037a428b7407\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-09-23T05:12:07.584594+00:00",
       "news_id": "7f228147-5e23-4863-a246-951eb3b0ab56",
       "payload": null,
