@@ -2746,6 +2746,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-09-28T12:40:32.217320+00:00",
+      "news_id": "3a21ad17-2121-4ebc-98ec-fa4193cbe087",
+      "payload": "{\"NEWSID\": \"3a21ad17-2121-4ebc-98ec-fa4193cbe087\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_3A21AD17-2121-4EBC-98EC-FA4193CBE087\", \"NEWSSUB\": \"Intimation Regarding Conversion Of Subsidiary Company From Private Limited To Public Limited Pursuant To Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-09-28T18:08:11.61\", \"NEWS_DT\": \"2026-09-28T18:08:11.61\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"26d7a095-f617-4237-8c98-45c9923dd710.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Conversion of Subsidiary Company  from Private Limited to Public Company pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulations , 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T18:08:11\", \"DissemDT\": \"2026-09-28T18:08:11.613\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 230317, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Intimation Regarding Conversion Of Subsidiary Company From Private Limited To Public Limited Pursuant To Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-09-28T18:08:11.61\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Conversion of Subsidiary Company  from Private Limited to Public Company pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulations , 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/26d7a095-f617-4237-8c98-45c9923dd710.pdf\", \"_id\": \"3a21ad17-2121-4ebc-98ec-fa4193cbe087\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584847+00:00",
       "news_id": "4fab137c-e922-4a21-bd83-1f16ec8e1ecd",
       "payload": null,
@@ -2904,6 +2911,13 @@
       "news_id": "bdf74832-9c18-4b01-847d-ce16d05fa3b3",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "544613",
+      "discovered_at": "2026-09-28T12:40:33.399639+00:00",
+      "news_id": "d08e9a0f-1187-48e8-9331-1cf80515a06d",
+      "payload": "{\"NEWSID\": \"d08e9a0f-1187-48e8-9331-1cf80515a06d\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_D08E9A0F-1187-48E8-9331-1CF80515A06D\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-28T18:08:03.567\", \"NEWS_DT\": \"2026-09-28T18:08:03.567\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"78306721-0d6d-4d14-8543-fbb5af05aebc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding the Trading Window Closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T18:08:03\", \"DissemDT\": \"2026-09-28T18:08:03.567\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 384734, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-28T18:08:03.567\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding the Trading Window Closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/78306721-0d6d-4d14-8543-fbb5af05aebc.pdf\", \"_id\": \"d08e9a0f-1187-48e8-9331-1cf80515a06d\"}",
+      "status": "pending"
     },
     {
       "company_key": "544793",
