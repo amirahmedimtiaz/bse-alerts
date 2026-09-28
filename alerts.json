@@ -683,8 +683,8 @@
       "company_key": "522163",
       "discovered_at": "2026-09-28T13:40:29.566974+00:00",
       "news_id": "562a25df-f0c6-48b7-acfb-cd351433d10a",
-      "payload": "{\"NEWSID\": \"562a25df-f0c6-48b7-acfb-cd351433d10a\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_562A25DF-F0C6-48B7-ACFB-CD351433D10A\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-28T19:08:29.357\", \"NEWS_DT\": \"2026-09-28T19:08:29.357\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3b2562d5-9944-4fc3-8034-6798ee73e95b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submitting herewith Voting Results together with Scrutinizer Report on consolidated results of 34th AGM\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T19:08:29\", \"DissemDT\": \"2026-09-28T19:08:29.357\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 14200485, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-28T19:08:29.357\", \"_category\": \"AGM/EGM\", \"_headline\": \"Submitting herewith Voting Results together with Scrutinizer Report on consolidated results of 34th AGM\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3b2562d5-9944-4fc3-8034-6798ee73e95b.pdf\", \"_id\": \"562a25df-f0c6-48b7-acfb-cd351433d10a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -3906,6 +3906,10 @@
     {
       "message_id": "<ac96f00f2bd9ce307ac14f69d857dd02fb5d1e3236b9d1e307a3627fd7dd2063@gmail.com>",
       "sent_at": "2026-09-28T13:35:41.031543+00:00"
+    },
+    {
+      "message_id": "<ceff0848d1d1b0799c049fa9342a6e7aa0589954564326aa7eec0d06579e1557@gmail.com>",
+      "sent_at": "2026-09-28T13:40:41.154092+00:00"
     },
     {
       "message_id": "<d00fb99af5b147986cede45d0efa895fd7240b21209e8bf71e38f76224cb7500@gmail.com>",
