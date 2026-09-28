@@ -1404,8 +1404,8 @@
       "company_key": "532941",
       "discovered_at": "2026-09-28T11:20:10.803054+00:00",
       "news_id": "0914a9e2-31f4-4fb5-9ce4-d2f7ed4e1ccf",
-      "payload": "{\"NEWSID\": \"0914a9e2-31f4-4fb5-9ce4-d2f7ed4e1ccf\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_0914A9E2-31F4-4FB5-9CE4-D2F7ED4E1CCF\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-28T16:48:08.773\", \"NEWS_DT\": \"2026-09-28T16:48:08.773\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7556cfc3-c2ae-4bd5-879c-0fd93c5f3e13.pdf\", \"MORE\": \"Pursuant to Reg 30 of SEBI (LODR)Reg 2015. Please find enclosed herewith summary of proceeding of 35th AGM  held on Monday, September 28, 2026 at 10:00 a.m. at ISKCON to transact the business as stated in the notice of AGM.\", \"HEADLINE\": \"Pursuant to Reg 30 of SEBI (LODR)Reg 2015. Please find enclosed herewith summary of proceeding of 35th AGM  held on Monday, September 28, 2026 at 10:00 a.m. at ISKCON to transact the business ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:48:08\", \"DissemDT\": \"2026-09-28T16:48:08.773\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4237956, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-28T16:48:08.773\", \"_category\": \"AGM/EGM\", \"_headline\": \"Pursuant to Reg 30 of SEBI (LODR)Reg 2015. Please find enclosed herewith summary of proceeding of 35th AGM  held on Monday, September 28, 2026 at 10:00 a.m. at ISKCON to transact the business ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7556cfc3-c2ae-4bd5-879c-0fd93c5f3e13.pdf\", \"_id\": \"0914a9e2-31f4-4fb5-9ce4-d2f7ed4e1ccf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -3751,6 +3751,10 @@
     {
       "message_id": "<03138c4164d03d0a75bcf3d1df00b704b915ebec0e8ac1915238dfbf74a53910@gmail.com>",
       "sent_at": "2026-09-28T11:10:26.669314+00:00"
+    },
+    {
+      "message_id": "<0dfc70e64bf22d97d49ae74c8e6614e64f2402ea09fb7b0b503a6e48f0603a5d@gmail.com>",
+      "sent_at": "2026-09-28T11:20:26.489673+00:00"
     },
     {
       "message_id": "<0edd2b8a181663a5f348928fddb5be637090b39a6821bdc1996f4751dd449820@gmail.com>",
