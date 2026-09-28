@@ -3546,8 +3546,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-28T12:50:33.507421+00:00",
       "news_id": "106798454",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Trading Window\", \"dt\": \"28-Sep-2026 18:18:15\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_28092026181756_280926_SSL_Trading_Window_Closure_Signed.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"28-Sep-2026 18:18:15\", \"sort_date\": \"2026-09-28 18:18:15\", \"seq_id\": \"106798454\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"280.94 KB\", \"attFileSize\": \"280.94 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-09-28 18:18:15\", \"_category\": \"Trading Window\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_28092026181756_280926_SSL_Trading_Window_Closure_Signed.pdf\", \"_id\": \"106798454\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -3858,6 +3858,10 @@
     {
       "message_id": "<6eed812b1a341dfda345a08c2e366b0d538a51ea6d2850bfc6dd9a82a299f79b@gmail.com>",
       "sent_at": "2026-09-28T11:00:26.384266+00:00"
+    },
+    {
+      "message_id": "<795b0213b86fd2d6c56fc492893947a8a8cd7fd5317fcfbeb7ccf18e36e54efc@gmail.com>",
+      "sent_at": "2026-09-28T12:50:41.579838+00:00"
     },
     {
       "message_id": "<a617a9a00d3a7cb482462bb61c4216c5700dca9a798b0749479f77320c8ef468@gmail.com>",
