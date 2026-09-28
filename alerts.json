@@ -1815,6 +1815,13 @@
     },
     {
       "company_key": "540795",
+      "discovered_at": "2026-09-28T10:45:05.711210+00:00",
+      "news_id": "7f832134-e1f1-47c5-968f-cc2e44bcd4b5",
+      "payload": "{\"NEWSID\": \"7f832134-e1f1-47c5-968f-cc2e44bcd4b5\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_7F832134-E1F1-47C5-968F-CC2E44BCD4B5\", \"NEWSSUB\": \"Reporting Of Violation Of Code Of Conduct Under SEBI (Prohibition Of Insider Trading) Regulations, 2015\", \"DT_TM\": \"2026-09-28T16:14:48.093\", \"NEWS_DT\": \"2026-09-28T16:14:48.093\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"be656562-16b3-4206-b5e7-284850d87cfd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Reporting of Violation of Code of Conduct under SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T16:14:48\", \"DissemDT\": \"2026-09-28T16:14:48.093\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1036100, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Reporting Of Violation Of Code Of Conduct Under SEBI (Prohibition Of Insider Trading) Regulations, 2015\", \"_published\": \"2026-09-28T16:14:48.093\", \"_category\": \"Company Update\", \"_headline\": \"Reporting of Violation of Code of Conduct under SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/be656562-16b3-4206-b5e7-284850d87cfd.pdf\", \"_id\": \"7f832134-e1f1-47c5-968f-cc2e44bcd4b5\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "540795",
       "discovered_at": "2026-09-23T05:12:07.584651+00:00",
       "news_id": "8a72d0af-1126-4c0e-8904-1a201fdfc446",
       "payload": null,
