@@ -2122,6 +2122,13 @@
       "status": "sent"
     },
     {
+      "company_key": "543620",
+      "discovered_at": "2026-09-28T13:35:36.151021+00:00",
+      "news_id": "fe7759dd-7d1f-40de-bd8a-521a09b11cd9",
+      "payload": "{\"NEWSID\": \"fe7759dd-7d1f-40de-bd8a-521a09b11cd9\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_FE7759DD-7D1F-40DE-BD8A-521A09B11CD9\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-28T19:01:26.49\", \"NEWS_DT\": \"2026-09-28T19:01:26.49\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7d911c0a-22ed-4a06-98f9-3898912efb1f.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule  III of SEBI (Listing Obligations and Disclosure requirements) Regulations, 2015, as amended from time to time, we enclose herewith a summary of proceedings of 11th Annual General Meeting of the Company held today on Monday, 28th September, 2026 at 3.00 P.M. (IST) through Video Conferencing (VC) / Other Audio Visual Means (OAVM).\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule  III of SEBI (Listing Obligations and Disclosure requirements) Regulations, 2015, as amended from time to time, we enclose ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-28T19:01:26\", \"DissemDT\": \"2026-09-28T19:01:26.49\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 426030, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-28T19:01:26.49\", \"_category\": \"AGM/EGM\", \"_headline\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule  III of SEBI (Listing Obligations and Disclosure requirements) Regulations, 2015, as amended from time to time, we enclose ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d911c0a-22ed-4a06-98f9-3898912efb1f.pdf\", \"_id\": \"fe7759dd-7d1f-40de-bd8a-521a09b11cd9\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "543981",
       "discovered_at": "2026-09-23T05:12:07.584717+00:00",
       "news_id": "03f4827e-2649-41fe-90cb-c2720fdacc58",
