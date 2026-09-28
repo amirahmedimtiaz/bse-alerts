@@ -3962,7 +3962,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 40, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T13:55:38.241053+00:00\", \"seconds\": 16.92}"
+      "value": "{\"companies\": 40, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-28T14:01:26.549068+00:00\", \"seconds\": 65.18}"
     },
     {
       "key": "migration_date",
