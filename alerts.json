@@ -4119,7 +4119,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 42, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T14:16:15.528109+00:00\", \"seconds\": 21.81}"
+      "value": "{\"companies\": 42, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T14:21:23.352245+00:00\", \"seconds\": 29.58}"
     },
     {
       "key": "migration_date",
