@@ -2125,8 +2125,8 @@
       "company_key": "543620",
       "discovered_at": "2026-09-29T14:16:06.084786+00:00",
       "news_id": "6a1ad260-56de-44b0-ae4d-1629ea9dc10f",
-      "payload": "{\"NEWSID\": \"6a1ad260-56de-44b0-ae4d-1629ea9dc10f\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_6A1AD260-56DE-44B0-AE4D-1629EA9DC10F\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-29T19:44:15.88\", \"NEWS_DT\": \"2026-09-29T19:44:15.88\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8a190dad-d4d1-4d07-85cf-8c4224780bd9.pdf\", \"MORE\": \"With reference to the captioned subject, we hereby inform you that the 11th Annual General Meeting (\\\"AGM\\\") of the Company was held on Monday, 28th September, 2026 at 03.00 P.M. (IST) through Video Conferencing / Other Audio Visual Means. In this regard, please find enclosed the Scrutinizer Report.\", \"HEADLINE\": \"With reference to the captioned subject, we hereby inform you that the 11th Annual General Meeting (\\\"AGM\\\") of the Company was held on Monday, 28th September, 2026 at 03.00 P.M. (IST) through ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T19:44:15\", \"DissemDT\": \"2026-09-29T19:44:15.88\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2973099, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-29T19:44:15.88\", \"_category\": \"AGM/EGM\", \"_headline\": \"With reference to the captioned subject, we hereby inform you that the 11th Annual General Meeting (\\\"AGM\\\") of the Company was held on Monday, 28th September, 2026 at 03.00 P.M. (IST) through ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a190dad-d4d1-4d07-85cf-8c4224780bd9.pdf\", \"_id\": \"6a1ad260-56de-44b0-ae4d-1629ea9dc10f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -4055,6 +4055,10 @@
     {
       "message_id": "<b9b4b59c6c3f03aedd78bd3f8134748c6de7f5688330936c49fd2e945a94e9a9@gmail.com>",
       "sent_at": "2026-09-29T11:56:13.954790+00:00"
+    },
+    {
+      "message_id": "<bdccb019fbc51e4b280c687a6912c81ced2d4f098081eac77bba1b478a7b5051@gmail.com>",
+      "sent_at": "2026-09-29T14:16:14.136217+00:00"
     },
     {
       "message_id": "<ceff0848d1d1b0799c049fa9342a6e7aa0589954564326aa7eec0d06579e1557@gmail.com>",
