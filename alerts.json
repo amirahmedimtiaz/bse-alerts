@@ -3004,6 +3004,13 @@
       "status": "sent"
     },
     {
+      "company_key": "544641",
+      "discovered_at": "2026-09-29T13:36:10.681457+00:00",
+      "news_id": "e64c8beb-c53a-4696-9d0c-6373c7c64dd4",
+      "payload": "{\"NEWSID\": \"e64c8beb-c53a-4696-9d0c-6373c7c64dd4\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_E64C8BEB-C53A-4696-9D0C-6373C7C64DD4\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-29T19:04:05.22\", \"NEWS_DT\": \"2026-09-29T19:04:05.22\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d4e0a511-3684-459e-a7dc-cb69982b57bf.pdf\", \"MORE\": \"Pursuant to the SEBI(Prohibition of Insider Trading) Regulation, 2015, we hereby inform that the Trading Window of the Company shall remain close w.e.f. 1st October, 2026 till 48 hours after the declaration of Unaudited Financial results for the Half year ended 30th September, 2026.\", \"HEADLINE\": \"Pursuant to the SEBI(Prohibition of Insider Trading) Regulation, 2015, we hereby inform that the Trading Window of the Company shall remain close w.e.f. 1st October, 2026 till 48 hours ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T19:04:05\", \"DissemDT\": \"2026-09-29T19:04:05.223\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 484645, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-29T19:04:05.22\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Pursuant to the SEBI(Prohibition of Insider Trading) Regulation, 2015, we hereby inform that the Trading Window of the Company shall remain close w.e.f. 1st October, 2026 till 48 hours ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d4e0a511-3684-459e-a7dc-cb69982b57bf.pdf\", \"_id\": \"e64c8beb-c53a-4696-9d0c-6373c7c64dd4\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "544793",
       "discovered_at": "2026-09-23T05:12:07.584884+00:00",
       "news_id": "10898a14-2bf1-4dc8-8360-52ec317e7e0c",
