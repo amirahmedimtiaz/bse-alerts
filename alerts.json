@@ -3501,6 +3501,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-09-29T11:31:03.689241+00:00",
+      "news_id": "106800362",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Shareholders meeting\", \"dt\": \"29-Sep-2026 16:56:20\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_29092026165430_Proceedings_of_13th_AGM_29092026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"29-Sep-2026 16:56:20\", \"sort_date\": \"2026-09-29 16:56:20\", \"seq_id\": \"106800362\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.17 MB\", \"attFileSize\": \"3.17 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-29 16:56:20\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_29092026165430_Proceedings_of_13th_AGM_29092026.pdf\", \"_id\": \"106800362\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-23T05:12:07.584970+00:00",
       "news_id": "106750101",
