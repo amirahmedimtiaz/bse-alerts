@@ -3627,6 +3627,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-09-29T13:26:05.723271+00:00",
+      "news_id": "106800935",
+      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Shareholders meeting\", \"dt\": \"29-Sep-2026 18:54:05\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_29092026185134_Proceeding_of__7th_AGM.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"29-Sep-2026 18:54:05\", \"sort_date\": \"2026-09-29 18:54:05\", \"seq_id\": \"106800935\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"4.22 MB\", \"attFileSize\": \"4.22 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-29 18:54:05\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_29092026185134_Proceeding_of__7th_AGM.pdf\", \"_id\": \"106800935\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584989+00:00",
       "news_id": "106779261",
