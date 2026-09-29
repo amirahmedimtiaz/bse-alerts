@@ -452,8 +452,8 @@
       "company_key": "517569",
       "discovered_at": "2026-09-29T13:50:54.569933+00:00",
       "news_id": "05cae776-7792-41a1-80f2-96dbeebefeac",
-      "payload": "{\"NEWSID\": \"05cae776-7792-41a1-80f2-96dbeebefeac\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_05CAE776-7792-41A1-80F2-96DBEEBEFEAC\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-29T19:18:11.523\", \"NEWS_DT\": \"2026-09-29T19:18:11.523\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9edf203b-ad81-424f-8081-f6d847aae20c.pdf\", \"MORE\": \"Submission of Minutes of 34th Annual General Meeting of the Company and Scrutinizer''s Report along with Voting Results under Regulation 44 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"HEADLINE\": \"Submission of Minutes of 34th Annual General Meeting of the Company and Scrutinizer''s Report along with Voting Results under Regulation 44 of the SEBI (Listing Obligations and Disclosure ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T19:18:11\", \"DissemDT\": \"2026-09-29T19:18:11.523\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 15066396, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-29T19:18:11.523\", \"_category\": \"AGM/EGM\", \"_headline\": \"Submission of Minutes of 34th Annual General Meeting of the Company and Scrutinizer''s Report along with Voting Results under Regulation 44 of the SEBI (Listing Obligations and Disclosure ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9edf203b-ad81-424f-8081-f6d847aae20c.pdf\", \"_id\": \"05cae776-7792-41a1-80f2-96dbeebefeac\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -4032,6 +4032,10 @@
     {
       "message_id": "<a617a9a00d3a7cb482462bb61c4216c5700dca9a798b0749479f77320c8ef468@gmail.com>",
       "sent_at": "2026-09-28T11:55:42.242432+00:00"
+    },
+    {
+      "message_id": "<a7b9651eba90b915fa11e0ee72181e0a3b63a7eaace72d632cdc0ae2fb60961d@gmail.com>",
+      "sent_at": "2026-09-29T13:51:13.969627+00:00"
     },
     {
       "message_id": "<a7ff45ab9001e03dbe696bf0978c40a07c0a43f99c132dea1e50699d2a337cdf@gmail.com>",
