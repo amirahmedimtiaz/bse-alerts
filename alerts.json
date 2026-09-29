@@ -1045,6 +1045,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-09-29T12:55:57.176478+00:00",
+      "news_id": "0e9dd3d5-0792-481d-bc3f-4eab5c9882dc",
+      "payload": "{\"NEWSID\": \"0e9dd3d5-0792-481d-bc3f-4eab5c9882dc\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_0E9DD3D5-0792-481D-BC3F-4EAB5C9882DC\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-29T18:25:48.67\", \"NEWS_DT\": \"2026-09-29T18:25:48.67\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c7c2b4bc-556d-4ea8-9843-86f6129f10f7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Closure of Trading Window\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T18:25:48\", \"DissemDT\": \"2026-09-29T18:25:48.67\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 158004, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-29T18:25:48.67\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation of Closure of Trading Window\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c7c2b4bc-556d-4ea8-9843-86f6129f10f7.pdf\", \"_id\": \"0e9dd3d5-0792-481d-bc3f-4eab5c9882dc\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-09-23T05:12:07.584492+00:00",
       "news_id": "146a4cbf-19bb-4a63-82eb-c0813764c407",
       "payload": null,
