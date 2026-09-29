@@ -2942,6 +2942,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-09-29T11:51:04.613707+00:00",
+      "news_id": "4b78bcf8-9f6c-4058-9c09-f1d921a862ca",
+      "payload": "{\"NEWSID\": \"4b78bcf8-9f6c-4058-9c09-f1d921a862ca\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_4B78BCF8-9F6C-4058-9C09-F1D921A862CA\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-29T17:17:25.757\", \"NEWS_DT\": \"2026-09-29T17:17:25.757\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6ad793b3-c1e9-4ad0-80d9-14fa0e0e999e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has submitted to the Exchange a copy of Scrutinizer''s Report of Annual General Meeting held on September 25, 2026 along with its Voting Results.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T17:17:25\", \"DissemDT\": \"2026-09-29T17:17:25.757\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4951258, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-29T17:17:25.757\", \"_category\": \"AGM/EGM\", \"_headline\": \"Fujiyama Power Systems Limited has submitted to the Exchange a copy of Scrutinizer''s Report of Annual General Meeting held on September 25, 2026 along with its Voting Results.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6ad793b3-c1e9-4ad0-80d9-14fa0e0e999e.pdf\", \"_id\": \"4b78bcf8-9f6c-4058-9c09-f1d921a862ca\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-09-23T05:12:07.584865+00:00",
       "news_id": "51a46bb2-a6ba-42a8-a3d0-b631e5ba97c3",
       "payload": null,
