@@ -3427,8 +3427,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-09-29T11:16:04.027195+00:00",
       "news_id": "106800311",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Shareholders meeting\", \"dt\": \"29-Sep-2026 16:43:22\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_29092026164251_Proceedings_of_AGM.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"29-Sep-2026 16:43:22\", \"sort_date\": \"2026-09-29 16:43:22\", \"seq_id\": \"106800311\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"708.12 KB\", \"attFileSize\": \"708.12 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-29 16:43:22\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Alpex Solar Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_29092026164251_Proceedings_of_AGM.pdf\", \"_id\": \"106800311\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -3945,6 +3945,10 @@
     {
       "message_id": "<867ee07e77ae1334bb585a7d2ed587f94ad0736afc08e96fe04ba6abba3b46ec@gmail.com>",
       "sent_at": "2026-09-29T10:26:14.066195+00:00"
+    },
+    {
+      "message_id": "<8992460ac69d1d8d6a8af3d0eb467eef56fc6da463f43265e9fb97c24e1a5cbf@gmail.com>",
+      "sent_at": "2026-09-29T11:16:26.806433+00:00"
     },
     {
       "message_id": "<a617a9a00d3a7cb482462bb61c4216c5700dca9a798b0749479f77320c8ef468@gmail.com>",
