@@ -4086,7 +4086,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 42, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T13:31:16.336895+00:00\", \"seconds\": 22.52}"
+      "value": "{\"companies\": 42, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T13:36:30.928196+00:00\", \"seconds\": 37.21}"
     },
     {
       "key": "migration_date",
