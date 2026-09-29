@@ -3201,6 +3201,13 @@
     },
     {
       "company_key": "544851",
+      "discovered_at": "2026-09-29T07:05:50.091173+00:00",
+      "news_id": "2c4d850d-1694-4c8d-9baa-d74cb9899848",
+      "payload": "{\"NEWSID\": \"2c4d850d-1694-4c8d-9baa-d74cb9899848\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_2C4D850D-1694-4C8D-9BAA-D74CB9899848\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-29T12:33:10.043\", \"NEWS_DT\": \"2026-09-29T12:33:10.043\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"370ce0d1-0081-499b-8503-da729318de3d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Proceeding of the 17th Annual General Meeting (AGM) of the Company held today i.e. Tuesday, September 29, 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T12:33:10\", \"DissemDT\": \"2026-09-29T12:33:10.043\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 780443, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-29T12:33:10.043\", \"_category\": \"AGM/EGM\", \"_headline\": \"Proceeding of the 17th Annual General Meeting (AGM) of the Company held today i.e. Tuesday, September 29, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/370ce0d1-0081-499b-8503-da729318de3d.pdf\", \"_id\": \"2c4d850d-1694-4c8d-9baa-d74cb9899848\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544851",
       "discovered_at": "2026-09-26T14:20:33.671713+00:00",
       "news_id": "d8744650-8df7-49f7-a819-246ab8cb09d7",
       "payload": null,
