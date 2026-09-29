@@ -3203,8 +3203,8 @@
       "company_key": "544851",
       "discovered_at": "2026-09-29T07:05:50.091173+00:00",
       "news_id": "2c4d850d-1694-4c8d-9baa-d74cb9899848",
-      "payload": "{\"NEWSID\": \"2c4d850d-1694-4c8d-9baa-d74cb9899848\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_2C4D850D-1694-4C8D-9BAA-D74CB9899848\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-29T12:33:10.043\", \"NEWS_DT\": \"2026-09-29T12:33:10.043\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"370ce0d1-0081-499b-8503-da729318de3d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Proceeding of the 17th Annual General Meeting (AGM) of the Company held today i.e. Tuesday, September 29, 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T12:33:10\", \"DissemDT\": \"2026-09-29T12:33:10.043\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 780443, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-29T12:33:10.043\", \"_category\": \"AGM/EGM\", \"_headline\": \"Proceeding of the 17th Annual General Meeting (AGM) of the Company held today i.e. Tuesday, September 29, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/370ce0d1-0081-499b-8503-da729318de3d.pdf\", \"_id\": \"2c4d850d-1694-4c8d-9baa-d74cb9899848\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -3877,6 +3877,10 @@
       "sent_at": "2026-09-28T11:20:26.489673+00:00"
     },
     {
+      "message_id": "<0ebfdf27c30c30fa422c41f303b0179055dbf2fb0502ff794e8f9bb4e331116f@gmail.com>",
+      "sent_at": "2026-09-29T07:05:52.765244+00:00"
+    },
+    {
       "message_id": "<0edd2b8a181663a5f348928fddb5be637090b39a6821bdc1996f4751dd449820@gmail.com>",
       "sent_at": "2026-09-28T09:20:26.864319+00:00"
     },
@@ -3915,10 +3919,6 @@
     {
       "message_id": "<609c128fd70b4f6a7713d33f5ae219aedd011af279c0ef2d9f67d9e5e0b1806e@gmail.com>",
       "sent_at": "2026-09-28T13:05:41.570584+00:00"
-    },
-    {
-      "message_id": "<689ffa0adeaeaf25f1807742b72d09dca4fc6f17d5d23343bb0eb236994de342@gmail.com>",
-      "sent_at": "2026-09-26T14:22:39.862712+00:00"
     },
     {
       "message_id": "<6eed812b1a341dfda345a08c2e366b0d538a51ea6d2850bfc6dd9a82a299f79b@gmail.com>",
@@ -3961,24 +3961,12 @@
       "sent_at": "2026-09-28T14:15:41.241107+00:00"
     },
     {
-      "message_id": "<ee674d456468a53a5f0660e641ee436466973f0f57fcf9362ffe7172362861da@gmail.com>",
-      "sent_at": "2026-09-26T14:20:39.529083+00:00"
-    },
-    {
-      "message_id": "<efc55c6f4362cee7fa0b930ef7b568cf98436c672e6824a9d13439e98879e610@gmail.com>",
-      "sent_at": "2026-09-26T15:37:57.698319+00:00"
-    },
-    {
       "message_id": "<f2d7f2b67155de1415e8201ddcc892ec6c5df0a63c4fc780ed64a06c6d0f2364@gmail.com>",
       "sent_at": "2026-09-28T12:45:40.527436+00:00"
     },
     {
       "message_id": "<f9d5fe6d5e8e58f974f5daac9280c97b6c807226b2fa9cb62e3f57032ad0346b@gmail.com>",
       "sent_at": "2026-09-28T06:40:26.089612+00:00"
-    },
-    {
-      "message_id": "<fcad973f3035d5d3097423c9bea30b62189dece8f16485beea53eba31f7cebbc@gmail.com>",
-      "sent_at": "2026-09-26T14:22:37.942375+00:00"
     },
     {
       "message_id": "<fececb29dd9e32a114cb0c8dde613e0a318ef3679eb043199e901ce8c7cd792d@gmail.com>",
