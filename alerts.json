@@ -3981,7 +3981,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 42, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T04:56:20.242220+00:00\", \"seconds\": 47.54}"
+      "value": "{\"companies\": 42, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-29T05:02:13.255199+00:00\", \"seconds\": 100.5}"
     },
     {
       "key": "migration_date",
