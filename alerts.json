@@ -2090,8 +2090,8 @@
       "company_key": "543620",
       "discovered_at": "2026-09-29T14:21:06.075071+00:00",
       "news_id": "01c8486a-59f1-4b8f-a7dc-2a8d3652067f",
-      "payload": "{\"NEWSID\": \"01c8486a-59f1-4b8f-a7dc-2a8d3652067f\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_01C8486A-59F1-4B8F-A7DC-2A8D3652067F\", \"NEWSSUB\": \"Voting Results And Scrutinizer Report Of 11Th Annual General Meeting (AGM) Of The Company\", \"DT_TM\": \"2026-09-29T19:50:08.243\", \"NEWS_DT\": \"2026-09-29T19:50:08.243\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"55342f1b-cf61-4364-b920-9fc08ac1ff82.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find Enclosed Voting Results of  11th Annual General Meeting\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T19:50:08\", \"DissemDT\": \"2026-09-29T19:50:08.243\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2973099, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Voting Results And Scrutinizer Report Of 11Th Annual General Meeting (AGM) Of The Company\", \"_published\": \"2026-09-29T19:50:08.243\", \"_category\": \"AGM/EGM\", \"_headline\": \"Please find Enclosed Voting Results of  11th Annual General Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/55342f1b-cf61-4364-b920-9fc08ac1ff82.pdf\", \"_id\": \"01c8486a-59f1-4b8f-a7dc-2a8d3652067f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -4066,6 +4066,10 @@
     {
       "message_id": "<bdccb019fbc51e4b280c687a6912c81ced2d4f098081eac77bba1b478a7b5051@gmail.com>",
       "sent_at": "2026-09-29T14:16:14.136217+00:00"
+    },
+    {
+      "message_id": "<c978fc32c9ea5dae22dc41179273228198473e0a424a97f577b50ac0d0580e1b@gmail.com>",
+      "sent_at": "2026-09-29T14:21:21.517097+00:00"
     },
     {
       "message_id": "<ceff0848d1d1b0799c049fa9342a6e7aa0589954564326aa7eec0d06579e1557@gmail.com>",
