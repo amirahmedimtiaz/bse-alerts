@@ -1465,6 +1465,13 @@
     },
     {
       "company_key": "532941",
+      "discovered_at": "2026-09-29T12:25:59.119199+00:00",
+      "news_id": "2868cc79-70c9-45da-89c3-9952496f282e",
+      "payload": "{\"NEWSID\": \"2868cc79-70c9-45da-89c3-9952496f282e\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_2868CC79-70C9-45DA-89C3-9952496F282E\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-29T17:53:57.36\", \"NEWS_DT\": \"2026-09-29T17:53:57.36\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5473fefb-fd4c-4810-b672-69a20a494f69.pdf\", \"MORE\": \"The 35th Annual General Meeting of the company was held on Monday 28th September,2026 at 10:00 a.m. at ISKCON in accordance with the relevant circulars issued by MCA and SEBI. Please find attached Voting Results of AGM in compliance with Reg 44(3) of SEBI(LODR) Regulations,2015 and consolidated Scrutinizer''s Report.\", \"HEADLINE\": \"The 35th Annual General Meeting of the company was held on Monday 28th September,2026 at 10:00 a.m. at ISKCON in accordance with the relevant circulars issued by MCA and SEBI. Please find ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-29T17:53:57\", \"DissemDT\": \"2026-09-29T17:53:57.36\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6881474, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-29T17:53:57.36\", \"_category\": \"AGM/EGM\", \"_headline\": \"The 35th Annual General Meeting of the company was held on Monday 28th September,2026 at 10:00 a.m. at ISKCON in accordance with the relevant circulars issued by MCA and SEBI. Please find ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5473fefb-fd4c-4810-b672-69a20a494f69.pdf\", \"_id\": \"2868cc79-70c9-45da-89c3-9952496f282e\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532941",
       "discovered_at": "2026-09-23T05:12:07.584578+00:00",
       "news_id": "2f249cfd-7e10-4d66-b8a9-41fa058143c7",
       "payload": null,
