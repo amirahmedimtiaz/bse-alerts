@@ -2559,8 +2559,8 @@
       "company_key": "544277",
       "discovered_at": "2026-09-30T14:15:20.626186+00:00",
       "news_id": "3f5b7b5a-f58d-4ef3-a1b0-8b59496ab538",
-      "payload": "{\"NEWSID\": \"3f5b7b5a-f58d-4ef3-a1b0-8b59496ab538\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_3F5B7B5A-F58D-4EF3-A1B0-8B59496AB538\", \"NEWSSUB\": \"Commencement Of Commercial Production By Waaree Power Private Limited, A Wholly Owned Subsidiary Of The Company At Sarodhi, Valsad, Gujarat.\", \"DT_TM\": \"2026-09-30T19:43:28.057\", \"NEWS_DT\": \"2026-09-30T19:43:28.057\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e2b73493-32fc-4aeb-8992-4e4ba32c84e4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Commencement of Commercial Production by Waaree Power Private Limited, a wholly owned subsidiary of the Company at Sarodhi, Valsad, Gujarat.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T19:43:28\", \"DissemDT\": \"2026-09-30T19:43:28.057\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 238028, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Commencement Of Commercial Production By Waaree Power Private Limited, A Wholly Owned Subsidiary Of The Company At Sarodhi, Valsad, Gujarat.\", \"_published\": \"2026-09-30T19:43:28.057\", \"_category\": \"Company Update\", \"_headline\": \"Commencement of Commercial Production by Waaree Power Private Limited, a wholly owned subsidiary of the Company at Sarodhi, Valsad, Gujarat.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e2b73493-32fc-4aeb-8992-4e4ba32c84e4.pdf\", \"_id\": \"3f5b7b5a-f58d-4ef3-a1b0-8b59496ab538\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -4085,8 +4085,8 @@
       "sent_at": "2026-09-30T11:33:03.285607+00:00"
     },
     {
-      "message_id": "<2e5c251c054fc67b94c01e727efea9b5ae7dc0aec63453b88480b08b9b20de1c@gmail.com>",
-      "sent_at": "2026-09-28T14:01:25.173453+00:00"
+      "message_id": "<1fcc689bb21925ca2c36dbdd39c9d26c6ba0a237cfd9166fb061882a63e59d19@gmail.com>",
+      "sent_at": "2026-09-30T14:15:32.584831+00:00"
     },
     {
       "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
@@ -4117,10 +4117,6 @@
       "sent_at": "2026-09-29T13:51:13.969627+00:00"
     },
     {
-      "message_id": "<ac96f00f2bd9ce307ac14f69d857dd02fb5d1e3236b9d1e307a3627fd7dd2063@gmail.com>",
-      "sent_at": "2026-09-28T13:35:41.031543+00:00"
-    },
-    {
       "message_id": "<ad7073eac8deca6bf52d2fa91c1eab8ee5672f6bdb38105b08ebd983b7d6187a@gmail.com>",
       "sent_at": "2026-09-30T12:13:06.515260+00:00"
     },
@@ -4147,10 +4143,6 @@
     {
       "message_id": "<c978fc32c9ea5dae22dc41179273228198473e0a424a97f577b50ac0d0580e1b@gmail.com>",
       "sent_at": "2026-09-29T14:21:21.517097+00:00"
-    },
-    {
-      "message_id": "<ceff0848d1d1b0799c049fa9342a6e7aa0589954564326aa7eec0d06579e1557@gmail.com>",
-      "sent_at": "2026-09-28T13:40:41.154092+00:00"
     },
     {
       "message_id": "<d2ab6035f2f85d0c0e48dc2965616788b35ab11da034c2805a6ac8c5c61fb9c3@gmail.com>",
