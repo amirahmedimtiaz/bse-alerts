@@ -1523,8 +1523,8 @@
       "company_key": "532941",
       "discovered_at": "2026-09-30T11:37:46.746228+00:00",
       "news_id": "5b4ce6bc-44c4-4085-bcdc-ee0cc7687ae5",
-      "payload": "{\"NEWSID\": \"5b4ce6bc-44c4-4085-bcdc-ee0cc7687ae5\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_5B4CE6BC-44C4-4085-BCDC-EE0CC7687AE5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s\", \"DT_TM\": \"2026-09-30T17:05:14.593\", \"NEWS_DT\": \"2026-09-30T17:05:14.593\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"90bfd7ae-6c95-4df7-b623-b802c7703934.pdf\", \"MORE\": \"We wish to inform the exchanges that the Members of company at their 35th AGM held on Monday, September 28, 2026 have approved the appointment of M/S GVKN & Associates, Chartered Accountants (Firm Registration No. 016479N), as the statutory auditors of the company for a term of five (5) consecutive years, commencing from the conclusion of the 35th Annual General Meeting untill the conclusion of the 40th Annual General Meeting.\", \"HEADLINE\": \"We wish to inform the exchanges that the Members of company at their 35th AGM held on Monday, September 28, 2026 have approved the appointment of M/S GVKN & Associates, Chartered Accountants ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 156, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T17:05:14\", \"DissemDT\": \"2026-09-30T17:05:14.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 635144, \"SUBCATNAME\": \"Appointment of Statutory Auditor/s\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s\", \"_published\": \"2026-09-30T17:05:14.593\", \"_category\": \"Company Update\", \"_headline\": \"We wish to inform the exchanges that the Members of company at their 35th AGM held on Monday, September 28, 2026 have approved the appointment of M/S GVKN & Associates, Chartered Accountants ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/90bfd7ae-6c95-4df7-b623-b802c7703934.pdf\", \"_id\": \"5b4ce6bc-44c4-4085-bcdc-ee0cc7687ae5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -4067,6 +4067,10 @@
     {
       "message_id": "<31a014cb7604e17c3e1d67dd60fe04eae60969291f74adf4abaa7f0671c3618e@gmail.com>",
       "sent_at": "2026-09-28T11:45:42.189005+00:00"
+    },
+    {
+      "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
+      "sent_at": "2026-09-30T11:38:04.904358+00:00"
     },
     {
       "message_id": "<609c128fd70b4f6a7713d33f5ae219aedd011af279c0ef2d9f67d9e5e0b1806e@gmail.com>",
