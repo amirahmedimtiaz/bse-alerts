@@ -2760,6 +2760,13 @@
     },
     {
       "company_key": "544524",
+      "discovered_at": "2026-09-30T11:27:42.277272+00:00",
+      "news_id": "1b0f8b66-b473-45cc-8cce-41721b7c8758",
+      "payload": "{\"NEWSID\": \"1b0f8b66-b473-45cc-8cce-41721b7c8758\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_1B0F8B66-B473-45CC-8CCE-41721B7C8758\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-30T16:55:03.243\", \"NEWS_DT\": \"2026-09-30T16:55:03.243\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8fea3648-d526-4391-923c-c9fb326531ae.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation for the outcome of the AGM.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T16:55:03\", \"DissemDT\": \"2026-09-30T16:55:03.243\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 615169, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-30T16:55:03.243\", \"_category\": \"AGM/EGM\", \"_headline\": \"BSE Intimation for the outcome of the AGM.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8fea3648-d526-4391-923c-c9fb326531ae.pdf\", \"_id\": \"1b0f8b66-b473-45cc-8cce-41721b7c8758\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544524",
       "discovered_at": "2026-09-23T05:12:07.584819+00:00",
       "news_id": "361f1d37-9be2-4889-b142-c09f888a1543",
       "payload": null,
