@@ -222,5 +222,10 @@
     "symbol": "TBI",
     "market_type": "sme",
     "announcement_url": "https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited"
+  },
+  {
+    "name": "Neopolitan Pizza and Foods Ltd",
+    "scrip_code": 544269,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements"
   }
 ]
