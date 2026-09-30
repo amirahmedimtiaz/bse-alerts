@@ -1621,8 +1621,8 @@
       "company_key": "534618",
       "discovered_at": "2026-09-30T11:22:47.342562+00:00",
       "news_id": "390e77a1-24d8-462d-bd8d-2f0cefea1aba",
-      "payload": "{\"NEWSID\": \"390e77a1-24d8-462d-bd8d-2f0cefea1aba\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_390E77A1-24D8-462D-BD8D-2F0CEFEA1ABA\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-30T16:49:19.18\", \"NEWS_DT\": \"2026-09-30T16:49:19.18\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d919a179-fba4-4083-8684-4524612bc326.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith intimation of trading window closure.\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T16:49:19\", \"DissemDT\": \"2026-09-30T16:49:19.18\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 621170, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-30T16:49:19.18\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Please find attached herewith intimation of trading window closure.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d919a179-fba4-4083-8684-4524612bc326.pdf\", \"_id\": \"390e77a1-24d8-462d-bd8d-2f0cefea1aba\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -4020,16 +4020,8 @@
   ],
   "deliveries": [
     {
-      "message_id": "<03138c4164d03d0a75bcf3d1df00b704b915ebec0e8ac1915238dfbf74a53910@gmail.com>",
-      "sent_at": "2026-09-28T11:10:26.669314+00:00"
-    },
-    {
       "message_id": "<0d1cc6ed5689ae38ca5c913153770fd05236bc7b9764ca2dc9510beef4e4c536@gmail.com>",
       "sent_at": "2026-09-29T12:56:15.325545+00:00"
-    },
-    {
-      "message_id": "<0dfc70e64bf22d97d49ae74c8e6614e64f2402ea09fb7b0b503a6e48f0603a5d@gmail.com>",
-      "sent_at": "2026-09-28T11:20:26.489673+00:00"
     },
     {
       "message_id": "<0ebfdf27c30c30fa422c41f303b0179055dbf2fb0502ff794e8f9bb4e331116f@gmail.com>",
@@ -4040,10 +4032,6 @@
       "sent_at": "2026-09-29T11:31:13.626372+00:00"
     },
     {
-      "message_id": "<1b1a41af42f6c861512ab2d914cddb48b082aa6b261bcb7d81c010fdc57dc973@gmail.com>",
-      "sent_at": "2026-09-28T10:30:26.405340+00:00"
-    },
-    {
       "message_id": "<252f86aa5e00c5252b8520d51a69ab897aaecc93a238eae8dff7ebc09b39b07d@gmail.com>",
       "sent_at": "2026-09-28T11:50:42.644953+00:00"
     },
@@ -4052,28 +4040,12 @@
       "sent_at": "2026-09-28T14:01:25.173453+00:00"
     },
     {
-      "message_id": "<2f689b25c593014ee4f94eb0cea91fdc527fc689d793da6cc2fae50d6b6adeb0@gmail.com>",
-      "sent_at": "2026-09-28T11:05:26.357016+00:00"
-    },
-    {
       "message_id": "<31a014cb7604e17c3e1d67dd60fe04eae60969291f74adf4abaa7f0671c3618e@gmail.com>",
       "sent_at": "2026-09-28T11:45:42.189005+00:00"
     },
     {
-      "message_id": "<40a5950edccc7525a59ab4eff38d330c049dc347417399c318bac4225f3cfa1e@gmail.com>",
-      "sent_at": "2026-09-28T10:45:25.537584+00:00"
-    },
-    {
-      "message_id": "<5100972ee9860deafc8c40606a50b29df42a518905686cc05e5164b0ee9822ce@gmail.com>",
-      "sent_at": "2026-09-28T10:25:26.284324+00:00"
-    },
-    {
       "message_id": "<609c128fd70b4f6a7713d33f5ae219aedd011af279c0ef2d9f67d9e5e0b1806e@gmail.com>",
       "sent_at": "2026-09-28T13:05:41.570584+00:00"
-    },
-    {
-      "message_id": "<6eed812b1a341dfda345a08c2e366b0d538a51ea6d2850bfc6dd9a82a299f79b@gmail.com>",
-      "sent_at": "2026-09-28T11:00:26.384266+00:00"
     },
     {
       "message_id": "<6f9091d521f5080213da53a0f8ee937521726f970a00516727b390dba13f5310@gmail.com>",
@@ -4106,6 +4078,10 @@
     {
       "message_id": "<ac96f00f2bd9ce307ac14f69d857dd02fb5d1e3236b9d1e307a3627fd7dd2063@gmail.com>",
       "sent_at": "2026-09-28T13:35:41.031543+00:00"
+    },
+    {
+      "message_id": "<b488a411a3d9bc3be8d5ed65bb01731da2248153aff1d6b1e6f067d8de3862d8@gmail.com>",
+      "sent_at": "2026-09-30T11:23:01.455691+00:00"
     },
     {
       "message_id": "<b9b4b59c6c3f03aedd78bd3f8134748c6de7f5688330936c49fd2e945a94e9a9@gmail.com>",
@@ -4142,10 +4118,6 @@
     {
       "message_id": "<d9f1179b2d9dc249922e78282608f55e9a3f3e02357c196d4fce3f9e3c330caf@gmail.com>",
       "sent_at": "2026-09-28T12:40:40.906118+00:00"
-    },
-    {
-      "message_id": "<db3f4cf5cd6cf1c93958ca1ac725f5ba788d9cccae13a2410b233e052aa08bfd@gmail.com>",
-      "sent_at": "2026-09-28T10:50:26.328269+00:00"
     },
     {
       "message_id": "<df661a8b533c3b44667bcdd28c54917daab5d466778719364a90dc73dffb642d@gmail.com>",
