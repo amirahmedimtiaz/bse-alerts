@@ -3690,6 +3690,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-09-30T12:12:49.532549+00:00",
+      "news_id": "106802970",
+      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Shareholders meeting\", \"dt\": \"30-Sep-2026 17:38:47\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30092026173832_proceedings.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"30-Sep-2026 17:38:47\", \"sort_date\": \"2026-09-30 17:38:47\", \"seq_id\": \"106802970\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"986.93 KB\", \"attFileSize\": \"986.93 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-30 17:38:47\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30092026173832_proceedings.pdf\", \"_id\": \"106802970\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-09-23T05:12:07.584982+00:00",
       "news_id": "106771308",
