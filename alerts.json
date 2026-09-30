@@ -240,6 +240,13 @@
     },
     {
       "company_key": "504240",
+      "discovered_at": "2026-09-30T09:47:33.716490+00:00",
+      "news_id": "3a3540b8-791e-4056-a450-2a38274acfc5",
+      "payload": "{\"NEWSID\": \"3a3540b8-791e-4056-a450-2a38274acfc5\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_3A3540B8-791E-4056-A450-2A38274ACFC5\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-30T15:13:51.157\", \"NEWS_DT\": \"2026-09-30T15:13:51.157\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4250c488-e73a-41f4-acfb-7f18b627d7e9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Clarification and submission of the complete Scrutinizer''s Report of the 61st Annual General Meeting.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T15:13:51\", \"DissemDT\": \"2026-09-30T15:13:51.157\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2825796, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-30T15:13:51.157\", \"_category\": \"AGM/EGM\", \"_headline\": \"Clarification and submission of the complete Scrutinizer''s Report of the 61st Annual General Meeting.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4250c488-e73a-41f4-acfb-7f18b627d7e9.pdf\", \"_id\": \"3a3540b8-791e-4056-a450-2a38274acfc5\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504240",
       "discovered_at": "2026-09-29T18:16:41.968790+00:00",
       "news_id": "537159df-d639-41ed-a6c7-f2e619b830c5",
       "payload": null,
