@@ -3355,6 +3355,13 @@
     },
     {
       "company_key": "544851",
+      "discovered_at": "2026-09-30T13:35:27.616482+00:00",
+      "news_id": "704b412b-f78b-4f4d-9478-4a0f7fb80b18",
+      "payload": "{\"NEWSID\": \"704b412b-f78b-4f4d-9478-4a0f7fb80b18\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_704B412B-F78B-4F4D-9478-4A0F7FB80B18\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-09-30T18:44:03.933\", \"NEWS_DT\": \"2026-09-30T18:44:03.933\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b78c8572-3105-4748-affc-d3610c39b89d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Scrutinizer report and voting results of the 17th AGM\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T18:44:03\", \"DissemDT\": \"2026-09-30T18:44:03.933\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1444687, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-09-30T18:44:03.933\", \"_category\": \"AGM/EGM\", \"_headline\": \"Scrutinizer report and voting results of the 17th AGM\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b78c8572-3105-4748-affc-d3610c39b89d.pdf\", \"_id\": \"704b412b-f78b-4f4d-9478-4a0f7fb80b18\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544851",
       "discovered_at": "2026-09-26T14:20:33.671713+00:00",
       "news_id": "d8744650-8df7-49f7-a819-246ab8cb09d7",
       "payload": null,
