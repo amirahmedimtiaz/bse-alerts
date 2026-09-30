@@ -3693,8 +3693,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-30T12:12:49.532549+00:00",
       "news_id": "106802970",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Shareholders meeting\", \"dt\": \"30-Sep-2026 17:38:47\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30092026173832_proceedings.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"30-Sep-2026 17:38:47\", \"sort_date\": \"2026-09-30 17:38:47\", \"seq_id\": \"106802970\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"986.93 KB\", \"attFileSize\": \"986.93 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-09-30 17:38:47\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30092026173832_proceedings.pdf\", \"_id\": \"106802970\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:GGBL",
@@ -4064,16 +4064,8 @@
       "sent_at": "2026-09-30T11:33:03.285607+00:00"
     },
     {
-      "message_id": "<252f86aa5e00c5252b8520d51a69ab897aaecc93a238eae8dff7ebc09b39b07d@gmail.com>",
-      "sent_at": "2026-09-28T11:50:42.644953+00:00"
-    },
-    {
       "message_id": "<2e5c251c054fc67b94c01e727efea9b5ae7dc0aec63453b88480b08b9b20de1c@gmail.com>",
       "sent_at": "2026-09-28T14:01:25.173453+00:00"
-    },
-    {
-      "message_id": "<31a014cb7604e17c3e1d67dd60fe04eae60969291f74adf4abaa7f0671c3618e@gmail.com>",
-      "sent_at": "2026-09-28T11:45:42.189005+00:00"
     },
     {
       "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
@@ -4104,16 +4096,16 @@
       "sent_at": "2026-09-29T11:16:26.806433+00:00"
     },
     {
-      "message_id": "<a617a9a00d3a7cb482462bb61c4216c5700dca9a798b0749479f77320c8ef468@gmail.com>",
-      "sent_at": "2026-09-28T11:55:42.242432+00:00"
-    },
-    {
       "message_id": "<a7b9651eba90b915fa11e0ee72181e0a3b63a7eaace72d632cdc0ae2fb60961d@gmail.com>",
       "sent_at": "2026-09-29T13:51:13.969627+00:00"
     },
     {
       "message_id": "<ac96f00f2bd9ce307ac14f69d857dd02fb5d1e3236b9d1e307a3627fd7dd2063@gmail.com>",
       "sent_at": "2026-09-28T13:35:41.031543+00:00"
+    },
+    {
+      "message_id": "<ad7073eac8deca6bf52d2fa91c1eab8ee5672f6bdb38105b08ebd983b7d6187a@gmail.com>",
+      "sent_at": "2026-09-30T12:13:06.515260+00:00"
     },
     {
       "message_id": "<b488a411a3d9bc3be8d5ed65bb01731da2248153aff1d6b1e6f067d8de3862d8@gmail.com>",
