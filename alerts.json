@@ -2458,6 +2458,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "544269",
+      "discovered_at": "2026-09-30T09:37:39.234767+00:00",
+      "news_id": "0f664c0b-71fe-46f1-a231-dbe7802992f2",
+      "payload": "{\"NEWSID\": \"0f664c0b-71fe-46f1-a231-dbe7802992f2\", \"SCRIP_CD\": 544269, \"XML_NAME\": \"ANN_544269_0F664C0B-71FE-46F1-A231-DBE7802992F2\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"DT_TM\": \"2026-09-30T15:06:12.657\", \"NEWS_DT\": \"2026-09-30T15:06:12.657\", \"CRITICALNEWS\": 1, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a42f483c-3fa8-4ff3-af2f-4c6169caf8d8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the 15th Annual general Meeting of the Company held today i.e. 30th September, 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/\", \"SLONGNAME\": \"Neopolitan Pizza And Foods Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T15:06:12\", \"DissemDT\": \"2026-09-30T15:06:12.657\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 650674, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Neopolitan Pizza and Foods Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of AGM\", \"_published\": \"2026-09-30T15:06:12.657\", \"_category\": \"AGM/EGM\", \"_headline\": \"Outcome of the 15th Annual general Meeting of the Company held today i.e. 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a42f483c-3fa8-4ff3-af2f-4c6169caf8d8.pdf\", \"_id\": \"0f664c0b-71fe-46f1-a231-dbe7802992f2\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "544277",
       "discovered_at": "2026-09-23T05:12:07.584778+00:00",
       "news_id": "059edf35-3846-406e-bb7b-fe0f652d7a59",
