@@ -2741,8 +2741,8 @@
       "company_key": "544488",
       "discovered_at": "2026-09-30T12:17:53.795140+00:00",
       "news_id": "eaee7506-f876-4cdc-aed5-895c3bcb3240",
-      "payload": "{\"NEWSID\": \"eaee7506-f876-4cdc-aed5-895c3bcb3240\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_EAEE7506-F876-4CDC-AED5-895C3BCB3240\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-30T17:45:06.283\", \"NEWS_DT\": \"2026-09-30T17:45:06.283\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e04551a2-b49b-4cd3-8476-9ad1a3ed4957.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed the Intimation for Closure of Trading Window pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T17:45:06\", \"DissemDT\": \"2026-09-30T17:45:06.283\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 366632, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-30T17:45:06.283\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Please find enclosed the Intimation for Closure of Trading Window pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e04551a2-b49b-4cd3-8476-9ad1a3ed4957.pdf\", \"_id\": \"eaee7506-f876-4cdc-aed5-895c3bcb3240\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -4153,6 +4153,10 @@
     {
       "message_id": "<d9f1179b2d9dc249922e78282608f55e9a3f3e02357c196d4fce3f9e3c330caf@gmail.com>",
       "sent_at": "2026-09-28T12:40:40.906118+00:00"
+    },
+    {
+      "message_id": "<df0bc0da5e68b1411005c6013cc88627a741f235b93edb4212dc53d7c3c318e8@gmail.com>",
+      "sent_at": "2026-09-30T12:18:09.492477+00:00"
     },
     {
       "message_id": "<df661a8b533c3b44667bcdd28c54917daab5d466778719364a90dc73dffb642d@gmail.com>",
