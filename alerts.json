@@ -3455,8 +3455,8 @@
       "company_key": "544905",
       "discovered_at": "2026-09-30T14:55:28.206760+00:00",
       "news_id": "775d6dc1-7b18-44ad-87a2-7e37f5423b11",
-      "payload": "{\"NEWSID\": \"775d6dc1-7b18-44ad-87a2-7e37f5423b11\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_775D6DC1-7B18-44AD-87A2-7E37F5423B11\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-30T20:22:52.35\", \"NEWS_DT\": \"2026-09-30T20:22:52.35\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"29f499ef-d21c-42a4-84bc-1f8d690fa316.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Closure of Trading Window for the Half Year Ended on 30th September, 2026\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T20:22:52\", \"DissemDT\": \"2026-09-30T20:22:52.35\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 439676, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-30T20:22:52.35\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation of Closure of Trading Window for the Half Year Ended on 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/29f499ef-d21c-42a4-84bc-1f8d690fa316.pdf\", \"_id\": \"775d6dc1-7b18-44ad-87a2-7e37f5423b11\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:ALPEXSOLAR",
@@ -4100,6 +4100,10 @@
       "sent_at": "2026-09-30T11:38:04.904358+00:00"
     },
     {
+      "message_id": "<6b0f4a2534c369f1020bb6e4016b6b9c2cb63e2d133556ce8944bfda94f79b78@gmail.com>",
+      "sent_at": "2026-09-30T14:55:33.018891+00:00"
+    },
+    {
       "message_id": "<6f9091d521f5080213da53a0f8ee937521726f970a00516727b390dba13f5310@gmail.com>",
       "sent_at": "2026-09-29T13:06:14.482131+00:00"
     },
@@ -4166,10 +4170,6 @@
     {
       "message_id": "<df661a8b533c3b44667bcdd28c54917daab5d466778719364a90dc73dffb642d@gmail.com>",
       "sent_at": "2026-09-29T13:26:23.958771+00:00"
-    },
-    {
-      "message_id": "<e8ba490e268e08782c96e076de2fa5d13ef7b5c9e30c7121d9962f40e5d877b0@gmail.com>",
-      "sent_at": "2026-09-28T14:15:41.241107+00:00"
     },
     {
       "message_id": "<ee754a889543bd1be6d3b31455e9918ba5185febed02878afedff53ee4e1a093@gmail.com>",
