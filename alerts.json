@@ -4177,7 +4177,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [\"534618\", \"544822\", \"544613\", \"544862\", \"544526\", \"544488\", \"543620\", \"544238\", \"504240\", \"544851\", \"544291\", \"538786\", \"544641\", \"544442\", \"544905\", \"544269\", \"500400\", \"505685\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-30T12:32:58.282493+00:00\", \"seconds\": 17.84}"
+      "value": "{\"companies\": 43, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-09-30T13:35:33.637725+00:00\", \"seconds\": 22.35}"
     },
     {
       "key": "migration_date",
