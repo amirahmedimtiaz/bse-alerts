@@ -2823,6 +2823,13 @@
     },
     {
       "company_key": "544524",
+      "discovered_at": "2026-09-30T11:32:44.293780+00:00",
+      "news_id": "7dc95f0c-e916-4104-9a11-32bb272f53d3",
+      "payload": "{\"NEWSID\": \"7dc95f0c-e916-4104-9a11-32bb272f53d3\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_7DC95F0C-E916-4104-9A11-32BB272F53D3\", \"NEWSSUB\": \"Attendance For AGM 30.09.2026\", \"DT_TM\": \"2026-09-30T17:02:43.71\", \"NEWS_DT\": \"2026-09-30T17:02:43.71\", \"CRITICALNEWS\": 0, \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"627c992b-fdcf-4da1-9841-7f0340454bad.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation regarding the attendance of AGM\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T17:02:43\", \"DissemDT\": \"2026-09-30T17:02:43.71\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 834883, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Attendance For AGM 30.09.2026\", \"_published\": \"2026-09-30T17:02:43.71\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation regarding the attendance of AGM\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/627c992b-fdcf-4da1-9841-7f0340454bad.pdf\", \"_id\": \"7dc95f0c-e916-4104-9a11-32bb272f53d3\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544524",
       "discovered_at": "2026-09-23T05:12:07.584814+00:00",
       "news_id": "7f2ef187-c944-440c-b387-01009500dc5e",
       "payload": null,
