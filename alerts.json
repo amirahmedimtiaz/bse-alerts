@@ -3452,6 +3452,13 @@
       "status": "sent"
     },
     {
+      "company_key": "544905",
+      "discovered_at": "2026-09-30T14:55:28.206760+00:00",
+      "news_id": "775d6dc1-7b18-44ad-87a2-7e37f5423b11",
+      "payload": "{\"NEWSID\": \"775d6dc1-7b18-44ad-87a2-7e37f5423b11\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_775D6DC1-7B18-44AD-87A2-7E37F5423B11\", \"NEWSSUB\": \"Closure of Trading Window\", \"DT_TM\": \"2026-09-30T20:22:52.35\", \"NEWS_DT\": \"2026-09-30T20:22:52.35\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"29f499ef-d21c-42a4-84bc-1f8d690fa316.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Closure of Trading Window for the Half Year Ended on 30th September, 2026\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 66, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-09-30T20:22:52\", \"DissemDT\": \"2026-09-30T20:22:52.35\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 439676, \"SUBCATNAME\": \"Closure of Trading Window\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Closure of Trading Window\", \"_published\": \"2026-09-30T20:22:52.35\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"Intimation of Closure of Trading Window for the Half Year Ended on 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/29f499ef-d21c-42a4-84bc-1f8d690fa316.pdf\", \"_id\": \"775d6dc1-7b18-44ad-87a2-7e37f5423b11\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584936+00:00",
       "news_id": "106738890",
