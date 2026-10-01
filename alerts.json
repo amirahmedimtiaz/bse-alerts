@@ -53,8 +53,8 @@
       "company_key": "500144",
       "discovered_at": "2026-10-01T05:35:51.242616+00:00",
       "news_id": "414989fc-f6cb-4c89-9ea3-fb993cf66eee",
-      "payload": "{\"NEWSID\": \"414989fc-f6cb-4c89-9ea3-fb993cf66eee\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_414989FC-F6CB-4C89-9EA3-FB993CF66EEE\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-01T11:03:29.26\", \"NEWS_DT\": \"2026-10-01T11:03:29.26\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ff49c4c2-05c4-4f91-95f6-b7a0f288f06e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Announcement Under Regulation 30\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T11:03:29\", \"DissemDT\": \"2026-10-01T11:03:29.26\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 994854, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-01T11:03:29.26\", \"_category\": \"Company Update\", \"_headline\": \"Announcement Under Regulation 30\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff49c4c2-05c4-4f91-95f6-b7a0f288f06e.pdf\", \"_id\": \"414989fc-f6cb-4c89-9ea3-fb993cf66eee\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -4101,6 +4101,10 @@
     {
       "message_id": "<1fcc689bb21925ca2c36dbdd39c9d26c6ba0a237cfd9166fb061882a63e59d19@gmail.com>",
       "sent_at": "2026-09-30T14:15:32.584831+00:00"
+    },
+    {
+      "message_id": "<2dc423910c6a980a564794c8a5979e237f407b06b39ab0624ea690ebb6f498f1@gmail.com>",
+      "sent_at": "2026-10-01T05:36:09.718822+00:00"
     },
     {
       "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
