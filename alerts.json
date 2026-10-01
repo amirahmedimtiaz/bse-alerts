@@ -1474,8 +1474,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-01T15:22:54.814327+00:00",
       "news_id": "c233b3e4-72d1-443e-b3c9-0eb577e0661c",
-      "payload": "{\"NEWSID\": \"c233b3e4-72d1-443e-b3c9-0eb577e0661c\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_C233B3E4-72D1-443E-B3C9-0EB577E0661C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-01T18:45:16.997\", \"NEWS_DT\": \"2026-10-01T18:45:16.997\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7a559424-5979-4d07-95c2-4a262e93ced9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Newspaper Advertisement for opening of Special Window for Lodgment/ Re-lodgment of transfer of shares in physical form.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T18:45:16\", \"DissemDT\": \"2026-10-01T18:45:16.997\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6667967, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-01T18:45:16.997\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Newspaper Advertisement for opening of Special Window for Lodgment/ Re-lodgment of transfer of shares in physical form.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7a559424-5979-4d07-95c2-4a262e93ced9.pdf\", \"_id\": \"c233b3e4-72d1-443e-b3c9-0eb577e0661c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -3070,15 +3070,15 @@
       "company_key": "544608",
       "discovered_at": "2026-10-01T15:22:46.808806+00:00",
       "news_id": "70f4488f-e204-4e74-a04f-7ac0bbd3f0ac",
-      "payload": "{\"NEWSID\": \"70f4488f-e204-4e74-a04f-7ac0bbd3f0ac\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_70F4488F-E204-4E74-A04F-7AC0BBD3F0AC\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of SEBI LODR\", \"DT_TM\": \"2026-10-01T19:04:07.46\", \"NEWS_DT\": \"2026-10-01T19:04:07.46\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fb2187ea-6c26-4be5-8172-2af6d0d026d2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T19:04:07\", \"DissemDT\": \"2026-10-01T19:04:07.46\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3441655, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement Under Regulation 30 Of SEBI LODR\", \"_published\": \"2026-10-01T19:04:07.46\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fb2187ea-6c26-4be5-8172-2af6d0d026d2.pdf\", \"_id\": \"70f4488f-e204-4e74-a04f-7ac0bbd3f0ac\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
       "discovered_at": "2026-10-01T15:22:46.808973+00:00",
       "news_id": "7c1a8837-e16b-425b-bd89-95f359c449b0",
-      "payload": "{\"NEWSID\": \"7c1a8837-e16b-425b-bd89-95f359c449b0\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_7C1A8837-E16B-425B-BD89-95F359C449B0\", \"NEWSSUB\": \"Update\", \"DT_TM\": \"2026-10-01T19:07:06.83\", \"NEWS_DT\": \"2026-10-01T19:07:06.83\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0bf389a2-6393-44e6-909d-0ed0bbd0caaf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Update\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T19:07:06\", \"DissemDT\": \"2026-10-01T19:07:06.83\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3532285, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Update\", \"_published\": \"2026-10-01T19:07:06.83\", \"_category\": \"Company Update\", \"_headline\": \"Update\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0bf389a2-6393-44e6-909d-0ed0bbd0caaf.pdf\", \"_id\": \"7c1a8837-e16b-425b-bd89-95f359c449b0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -3518,8 +3518,8 @@
       "company_key": "544905",
       "discovered_at": "2026-10-01T15:23:03.729598+00:00",
       "news_id": "4a786165-7e2c-4ec4-8f70-c654f810f5b9",
-      "payload": "{\"NEWSID\": \"4a786165-7e2c-4ec4-8f70-c654f810f5b9\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_4A786165-7E2C-4EC4-8F70-C654F810F5B9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Resignation of Statutory Auditors\", \"DT_TM\": \"2026-10-01T19:45:00.9\", \"NEWS_DT\": \"2026-10-01T19:45:00.9\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1ae3ff97-d7af-444c-9ba1-f9726497664f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Resignation of Statutory Auditor dated 01st October, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 108, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T19:45:00\", \"DissemDT\": \"2026-10-01T19:45:00.9\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 8468030, \"SUBCATNAME\": \"Resignation of Statutory Auditors\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Resignation of Statutory Auditors\", \"_published\": \"2026-10-01T19:45:00.9\", \"_category\": \"Company Update\", \"_headline\": \"Resignation of Statutory Auditor dated 01st October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1ae3ff97-d7af-444c-9ba1-f9726497664f.pdf\", \"_id\": \"4a786165-7e2c-4ec4-8f70-c654f810f5b9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544905",
@@ -3532,8 +3532,8 @@
       "company_key": "544905",
       "discovered_at": "2026-10-01T15:23:03.729715+00:00",
       "news_id": "f1493f77-cb8e-418e-bdea-9616e7a41ca5",
-      "payload": "{\"NEWSID\": \"f1493f77-cb8e-418e-bdea-9616e7a41ca5\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_F1493F77-CB8E-418E-BDEA-9616E7A41CA5\", \"NEWSSUB\": \"Clarification Sought From Farm Peace Limited\", \"DT_TM\": \"2026-10-01T19:54:28.833\", \"NEWS_DT\": \"2026-10-01T19:54:28.833\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3d91c0ab-c66d-4fe3-bd57-aeae593e05ce.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Reply to Clarification sought from Farm Peace Limited\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T19:54:28\", \"DissemDT\": \"2026-10-01T19:54:28.833\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2865432, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Clarification Sought From Farm Peace Limited\", \"_published\": \"2026-10-01T19:54:28.833\", \"_category\": \"Company Update\", \"_headline\": \"Reply to Clarification sought from Farm Peace Limited\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3d91c0ab-c66d-4fe3-bd57-aeae593e05ce.pdf\", \"_id\": \"f1493f77-cb8e-418e-bdea-9616e7a41ca5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:ALPEXSOLAR",
@@ -3861,8 +3861,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-10-01T15:22:58.085473+00:00",
       "news_id": "106805579",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Shareholders meeting\", \"dt\": \"01-Oct-2026 20:01:58\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_01102026200055_VOTINGRESUTSOF7THAGMOFGGBL.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"01-Oct-2026 20:01:58\", \"sort_date\": \"2026-10-01 20:01:58\", \"seq_id\": \"106805579\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.44 MB\", \"attFileSize\": \"3.44 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-10-01 20:01:58\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Ganesh Green Bharat Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_01102026200055_VOTINGRESUTSOF7THAGMOFGGBL.pdf\", \"_id\": \"106805579\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -4171,10 +4171,6 @@
       "sent_at": "2026-10-01T12:11:27.334249+00:00"
     },
     {
-      "message_id": "<0d1cc6ed5689ae38ca5c913153770fd05236bc7b9764ca2dc9510beef4e4c536@gmail.com>",
-      "sent_at": "2026-09-29T12:56:15.325545+00:00"
-    },
-    {
       "message_id": "<16a03aace8cfd56ab8b1fbc0fe16213cecca242b55dcefed716a8cd4d08e0d13@gmail.com>",
       "sent_at": "2026-09-30T11:33:03.285607+00:00"
     },
@@ -4195,16 +4191,12 @@
       "sent_at": "2026-09-30T14:55:33.018891+00:00"
     },
     {
-      "message_id": "<6f9091d521f5080213da53a0f8ee937521726f970a00516727b390dba13f5310@gmail.com>",
-      "sent_at": "2026-09-29T13:06:14.482131+00:00"
-    },
-    {
-      "message_id": "<86636a747cd2c7a7fda535573ef5aa2a490c61c5ee4c59f23dead6a146cb48c5@gmail.com>",
-      "sent_at": "2026-09-29T12:26:14.091347+00:00"
-    },
-    {
       "message_id": "<87bbf3f4fbd598a311eb8a2ab7c7989ee9dae89dee6b240de92baa7397a2cc0f@gmail.com>",
       "sent_at": "2026-09-30T13:35:32.102342+00:00"
+    },
+    {
+      "message_id": "<8c4ee5d5fea693ddea4cf9f68b51d55eb1d39a4749778a15ca8258dd5c87f334@gmail.com>",
+      "sent_at": "2026-10-01T15:23:07.968269+00:00"
     },
     {
       "message_id": "<91030393ecf3040f34acbdf0da6718e9ce039014f6a5b4832f8993a0368cde6c@gmail.com>",
@@ -4213,10 +4205,6 @@
     {
       "message_id": "<a2e842790365047fbdd5ce9e2a4dcf4687646734b65141669c355fd81b9d4c05@gmail.com>",
       "sent_at": "2026-10-01T11:36:27.450311+00:00"
-    },
-    {
-      "message_id": "<a7b9651eba90b915fa11e0ee72181e0a3b63a7eaace72d632cdc0ae2fb60961d@gmail.com>",
-      "sent_at": "2026-09-29T13:51:13.969627+00:00"
     },
     {
       "message_id": "<ad7073eac8deca6bf52d2fa91c1eab8ee5672f6bdb38105b08ebd983b7d6187a@gmail.com>",
@@ -4231,20 +4219,12 @@
       "sent_at": "2026-10-01T10:11:28.033533+00:00"
     },
     {
-      "message_id": "<bdccb019fbc51e4b280c687a6912c81ced2d4f098081eac77bba1b478a7b5051@gmail.com>",
-      "sent_at": "2026-09-29T14:16:14.136217+00:00"
-    },
-    {
       "message_id": "<c135c179abe750fecbbcac3c796ebd9cbbbdef5cdceb6b04ecbed9329c737e5c@gmail.com>",
       "sent_at": "2026-09-30T09:47:43.041156+00:00"
     },
     {
       "message_id": "<c44ed935ff99291d1ff1bc3924311eb534dc8a2c05d76aed57c0efe73317ee9b@gmail.com>",
       "sent_at": "2026-09-30T09:37:43.418171+00:00"
-    },
-    {
-      "message_id": "<c978fc32c9ea5dae22dc41179273228198473e0a424a97f577b50ac0d0580e1b@gmail.com>",
-      "sent_at": "2026-09-29T14:21:21.517097+00:00"
     },
     {
       "message_id": "<cdc88ef588ceda6fe146fff30875c56c1c0d91743bcbb460ac3ee2aad13a252c@gmail.com>",
@@ -4263,16 +4243,8 @@
       "sent_at": "2026-09-30T12:18:09.492477+00:00"
     },
     {
-      "message_id": "<df661a8b533c3b44667bcdd28c54917daab5d466778719364a90dc73dffb642d@gmail.com>",
-      "sent_at": "2026-09-29T13:26:23.958771+00:00"
-    },
-    {
       "message_id": "<e44bd6a41ce81ade7fee50da200b63e9816a2ed51cdd54554bb9681860cf14ab@gmail.com>",
       "sent_at": "2026-10-01T09:36:30.062547+00:00"
-    },
-    {
-      "message_id": "<ee754a889543bd1be6d3b31455e9918ba5185febed02878afedff53ee4e1a093@gmail.com>",
-      "sent_at": "2026-09-29T13:36:19.889433+00:00"
     }
   ],
   "metadata": [
