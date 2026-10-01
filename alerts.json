@@ -634,8 +634,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-01T12:11:07.495400+00:00",
       "news_id": "8b78d5c0-30ad-4127-b3c8-c2e8d1222385",
-      "payload": "{\"NEWSID\": \"8b78d5c0-30ad-4127-b3c8-c2e8d1222385\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_8B78D5C0-30AD-4127-B3C8-C2E8D1222385\", \"NEWSSUB\": \"Disclosure Pursuant To Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligation And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-01T17:39:12.897\", \"NEWS_DT\": \"2026-10-01T17:39:12.897\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bbf2c5b5-2db8-41a2-87a7-b89958613f5a.pdf\", \"MORE\": \"We would like to inform you that the Company has received a GST demand order from the Office of Superintendent, Range IV, Division IV, Central GST, Ahmedabad South.\\r\\n\\r\\nThe details required under Regulation 30 of the SEBI (LODR) Regulations, 2015 read with SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 is enclosed herewith as Annexure A.\", \"HEADLINE\": \"We would like to inform you that the Company has received a GST demand order from the Office of Superintendent, Range IV, Division IV, Central GST, Ahmedabad South.\\r\\n\\r\\nThe details required ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T17:39:12\", \"DissemDT\": \"2026-10-01T17:39:12.897\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 931766, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Disclosure Pursuant To Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligation And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-01T17:39:12.897\", \"_category\": \"Company Update\", \"_headline\": \"We would like to inform you that the Company has received a GST demand order from the Office of Superintendent, Range IV, Division IV, Central GST, Ahmedabad South.\\r\\n\\r\\nThe details required ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bbf2c5b5-2db8-41a2-87a7-b89958613f5a.pdf\", \"_id\": \"8b78d5c0-30ad-4127-b3c8-c2e8d1222385\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -4125,6 +4125,10 @@
   ],
   "deliveries": [
     {
+      "message_id": "<095ce706408b6fd4bc1bbd007ab51b1c0c66b30d4a788e048ef7cf9c344ebfe0@gmail.com>",
+      "sent_at": "2026-10-01T12:11:27.334249+00:00"
+    },
+    {
       "message_id": "<0d1cc6ed5689ae38ca5c913153770fd05236bc7b9764ca2dc9510beef4e4c536@gmail.com>",
       "sent_at": "2026-09-29T12:56:15.325545+00:00"
     },
@@ -4185,10 +4189,6 @@
       "sent_at": "2026-10-01T10:11:28.033533+00:00"
     },
     {
-      "message_id": "<b9b4b59c6c3f03aedd78bd3f8134748c6de7f5688330936c49fd2e945a94e9a9@gmail.com>",
-      "sent_at": "2026-09-29T11:56:13.954790+00:00"
-    },
-    {
       "message_id": "<bdccb019fbc51e4b280c687a6912c81ced2d4f098081eac77bba1b478a7b5051@gmail.com>",
       "sent_at": "2026-09-29T14:16:14.136217+00:00"
     },
@@ -4231,10 +4231,6 @@
     {
       "message_id": "<ee754a889543bd1be6d3b31455e9918ba5185febed02878afedff53ee4e1a093@gmail.com>",
       "sent_at": "2026-09-29T13:36:19.889433+00:00"
-    },
-    {
-      "message_id": "<ff2ea1667398f0245bc05e87327c653315037d680f569889052f4c66df4faf45@gmail.com>",
-      "sent_at": "2026-09-29T11:51:14.176820+00:00"
     }
   ],
   "metadata": [
