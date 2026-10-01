@@ -4264,7 +4264,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T21:29:43.390818+00:00\", \"seconds\": 18.23}"
+      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T21:34:42.919487+00:00\", \"seconds\": 17.76}"
     },
     {
       "key": "migration_date",
