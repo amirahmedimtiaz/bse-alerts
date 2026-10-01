@@ -4183,7 +4183,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T05:06:06.574063+00:00\", \"seconds\": 17.76}"
+      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T05:11:06.997593+00:00\", \"seconds\": 18.19}"
     },
     {
       "key": "migration_date",
