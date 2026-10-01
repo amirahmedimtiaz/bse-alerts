@@ -3613,6 +3613,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-10-01T09:36:16.932512+00:00",
+      "news_id": "106804742",
+      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Shareholders meeting\", \"dt\": \"01-Oct-2026 15:01:09\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_01102026150048_Intimation-final.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"01-Oct-2026 15:01:09\", \"sort_date\": \"2026-10-01 15:01:09\", \"seq_id\": \"106804742\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has submitted the Exchange a copy Scrutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.91 MB\", \"attFileSize\": \"2.91 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-10-01 15:01:09\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Alpex Solar Limited has submitted the Exchange a copy Scrutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_01102026150048_Intimation-final.pdf\", \"_id\": \"106804742\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:APS",
       "discovered_at": "2026-09-23T05:12:07.584954+00:00",
       "news_id": "106753974",
