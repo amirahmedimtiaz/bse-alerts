@@ -3364,8 +3364,8 @@
       "company_key": "544822",
       "discovered_at": "2026-10-01T20:24:37.946727+00:00",
       "news_id": "15b1d4a0-8316-4708-b3cf-d5599258e786",
-      "payload": "{\"NEWSID\": \"15b1d4a0-8316-4708-b3cf-d5599258e786\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_15B1D4A0-8316-4708-B3CF-D5599258E786\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-01T23:10:19.94\", \"NEWS_DT\": \"2026-10-01T23:10:19.94\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e8d781cb-bd6e-4e0b-8902-91ba56cd41b6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 8, \"News_submission_dt\": \"2026-10-01T23:10:19\", \"DissemDT\": \"2026-10-01T23:10:19.94\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 561050, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-01T23:10:19.94\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e8d781cb-bd6e-4e0b-8902-91ba56cd41b6.pdf\", \"_id\": \"15b1d4a0-8316-4708-b3cf-d5599258e786\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -3819,8 +3819,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-10-01T20:24:34.412333+00:00",
       "news_id": "106805797",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Shareholders meeting\", \"dt\": \"01-Oct-2026 23:29:58\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_01102026232938_FinaluploadVR.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"01-Oct-2026 23:29:58\", \"sort_date\": \"2026-10-01 23:29:58\", \"seq_id\": \"106805797\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.86 MB\", \"attFileSize\": \"1.86 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-10-01 23:29:58\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Bhadora Industries Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_01102026232938_FinaluploadVR.pdf\", \"_id\": \"106805797\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:GGBL",
@@ -4197,6 +4197,10 @@
       "sent_at": "2026-10-01T05:36:09.718822+00:00"
     },
     {
+      "message_id": "<3e251e497187fb300c6b715b0ab5646565dc108de8b49e62874082dac7c96f58@gmail.com>",
+      "sent_at": "2026-10-01T20:24:45.364254+00:00"
+    },
+    {
       "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
       "sent_at": "2026-09-30T11:38:04.904358+00:00"
     },
@@ -4243,10 +4247,6 @@
     {
       "message_id": "<cdc88ef588ceda6fe146fff30875c56c1c0d91743bcbb460ac3ee2aad13a252c@gmail.com>",
       "sent_at": "2026-10-01T05:51:10.380514+00:00"
-    },
-    {
-      "message_id": "<d2ab6035f2f85d0c0e48dc2965616788b35ab11da034c2805a6ac8c5c61fb9c3@gmail.com>",
-      "sent_at": "2026-09-29T18:16:47.237626+00:00"
     },
     {
       "message_id": "<d8ec0b9b91e6df4cb34e25e6ebaa0497f8b2fabd906e139a3cf3b029c3138812@gmail.com>",
