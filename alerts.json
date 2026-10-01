@@ -347,8 +347,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-01T11:36:10.551929+00:00",
       "news_id": "aa818bcc-580e-4eaf-b5be-c2d679e44ea5",
-      "payload": "{\"NEWSID\": \"aa818bcc-580e-4eaf-b5be-c2d679e44ea5\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_AA818BCC-580E-4EAF-B5BE-C2D679E44EA5\", \"NEWSSUB\": \"Intimation Of Grant And Vesting Under ESPS 2022\", \"DT_TM\": \"2026-10-01T17:03:33.383\", \"NEWS_DT\": \"2026-10-01T17:03:33.383\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2336dcf4-a19f-4828-a7d9-865783bec37d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Grant and Vesting under ESPS 2022.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T17:03:33\", \"DissemDT\": \"2026-10-01T17:03:33.383\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 731140, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Intimation Of Grant And Vesting Under ESPS 2022\", \"_published\": \"2026-10-01T17:03:33.383\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Grant and Vesting under ESPS 2022.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2336dcf4-a19f-4828-a7d9-865783bec37d.pdf\", \"_id\": \"aa818bcc-580e-4eaf-b5be-c2d679e44ea5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -4122,10 +4122,6 @@
       "sent_at": "2026-09-29T12:56:15.325545+00:00"
     },
     {
-      "message_id": "<0ee914ae7972d23b1dd4b6277a6149f48c28cfde4eb5e7b63070a2b500910ffe@gmail.com>",
-      "sent_at": "2026-09-29T11:31:13.626372+00:00"
-    },
-    {
       "message_id": "<16a03aace8cfd56ab8b1fbc0fe16213cecca242b55dcefed716a8cd4d08e0d13@gmail.com>",
       "sent_at": "2026-09-30T11:33:03.285607+00:00"
     },
@@ -4154,20 +4150,16 @@
       "sent_at": "2026-09-29T12:26:14.091347+00:00"
     },
     {
-      "message_id": "<867ee07e77ae1334bb585a7d2ed587f94ad0736afc08e96fe04ba6abba3b46ec@gmail.com>",
-      "sent_at": "2026-09-29T10:26:14.066195+00:00"
-    },
-    {
       "message_id": "<87bbf3f4fbd598a311eb8a2ab7c7989ee9dae89dee6b240de92baa7397a2cc0f@gmail.com>",
       "sent_at": "2026-09-30T13:35:32.102342+00:00"
     },
     {
-      "message_id": "<8992460ac69d1d8d6a8af3d0eb467eef56fc6da463f43265e9fb97c24e1a5cbf@gmail.com>",
-      "sent_at": "2026-09-29T11:16:26.806433+00:00"
-    },
-    {
       "message_id": "<91030393ecf3040f34acbdf0da6718e9ce039014f6a5b4832f8993a0368cde6c@gmail.com>",
       "sent_at": "2026-10-01T06:41:10.566656+00:00"
+    },
+    {
+      "message_id": "<a2e842790365047fbdd5ce9e2a4dcf4687646734b65141669c355fd81b9d4c05@gmail.com>",
+      "sent_at": "2026-10-01T11:36:27.450311+00:00"
     },
     {
       "message_id": "<a7b9651eba90b915fa11e0ee72181e0a3b63a7eaace72d632cdc0ae2fb60961d@gmail.com>",
