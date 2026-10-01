@@ -3616,8 +3616,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-10-01T09:36:16.932512+00:00",
       "news_id": "106804742",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Shareholders meeting\", \"dt\": \"01-Oct-2026 15:01:09\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_01102026150048_Intimation-final.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"01-Oct-2026 15:01:09\", \"sort_date\": \"2026-10-01 15:01:09\", \"seq_id\": \"106804742\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has submitted the Exchange a copy Scrutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.91 MB\", \"attFileSize\": \"2.91 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-10-01 15:01:09\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Alpex Solar Limited has submitted the Exchange a copy Scrutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_01102026150048_Intimation-final.pdf\", \"_id\": \"106804742\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -4108,10 +4108,6 @@
       "sent_at": "2026-09-29T12:56:15.325545+00:00"
     },
     {
-      "message_id": "<0ebfdf27c30c30fa422c41f303b0179055dbf2fb0502ff794e8f9bb4e331116f@gmail.com>",
-      "sent_at": "2026-09-29T07:05:52.765244+00:00"
-    },
-    {
       "message_id": "<0ee914ae7972d23b1dd4b6277a6149f48c28cfde4eb5e7b63070a2b500910ffe@gmail.com>",
       "sent_at": "2026-09-29T11:31:13.626372+00:00"
     },
@@ -4210,6 +4206,10 @@
     {
       "message_id": "<df661a8b533c3b44667bcdd28c54917daab5d466778719364a90dc73dffb642d@gmail.com>",
       "sent_at": "2026-09-29T13:26:23.958771+00:00"
+    },
+    {
+      "message_id": "<e44bd6a41ce81ade7fee50da200b63e9816a2ed51cdd54554bb9681860cf14ab@gmail.com>",
+      "sent_at": "2026-10-01T09:36:30.062547+00:00"
     },
     {
       "message_id": "<ee754a889543bd1be6d3b31455e9918ba5185febed02878afedff53ee4e1a093@gmail.com>",
