@@ -3362,6 +3362,13 @@
     },
     {
       "company_key": "544822",
+      "discovered_at": "2026-10-01T20:24:37.946727+00:00",
+      "news_id": "15b1d4a0-8316-4708-b3cf-d5599258e786",
+      "payload": "{\"NEWSID\": \"15b1d4a0-8316-4708-b3cf-d5599258e786\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_15B1D4A0-8316-4708-B3CF-D5599258E786\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-01T23:10:19.94\", \"NEWS_DT\": \"2026-10-01T23:10:19.94\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e8d781cb-bd6e-4e0b-8902-91ba56cd41b6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 8, \"News_submission_dt\": \"2026-10-01T23:10:19\", \"DissemDT\": \"2026-10-01T23:10:19.94\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 561050, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-01T23:10:19.94\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e8d781cb-bd6e-4e0b-8902-91ba56cd41b6.pdf\", \"_id\": \"15b1d4a0-8316-4708-b3cf-d5599258e786\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544822",
       "discovered_at": "2026-09-26T14:20:29.655759+00:00",
       "news_id": "2f72b0c7-abdf-4449-a21b-29c21a507118",
       "payload": null,
@@ -3809,6 +3816,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-10-01T20:24:34.412333+00:00",
+      "news_id": "106805797",
+      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Shareholders meeting\", \"dt\": \"01-Oct-2026 23:29:58\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_01102026232938_FinaluploadVR.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"01-Oct-2026 23:29:58\", \"sort_date\": \"2026-10-01 23:29:58\", \"seq_id\": \"106805797\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.86 MB\", \"attFileSize\": \"1.86 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-10-01 23:29:58\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Bhadora Industries Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_01102026232938_FinaluploadVR.pdf\", \"_id\": \"106805797\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-09-23T05:12:07.584982+00:00",
       "news_id": "106771308",
@@ -3994,175 +4008,175 @@
   "companies": [
     {
       "key": "500144",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "500400",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "504212",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "504240",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "505685",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "517354",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "517498",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "517569",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "522163",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "530555",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "532259",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "532374",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "532941",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "534618",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "538706",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "538786",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "540795",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "542652",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "543620",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "543981",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544238",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544269",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544277",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544291",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544442",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544488",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544524",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544526",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544608",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544613",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544641",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544793",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544822",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544851",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544862",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "544905",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:ALPEXSOLAR",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:APS",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:BHADORA",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:GGBL",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:SAHAJSOLAR",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:TBI",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     },
     {
       "key": "NSE:VMARCIND",
-      "last_success": "2026-10-01"
+      "last_success": "2026-10-02"
     }
   ],
   "deliveries": [
