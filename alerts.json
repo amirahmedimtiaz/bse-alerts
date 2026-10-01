@@ -345,6 +345,13 @@
     },
     {
       "company_key": "517354",
+      "discovered_at": "2026-10-01T11:36:10.551929+00:00",
+      "news_id": "aa818bcc-580e-4eaf-b5be-c2d679e44ea5",
+      "payload": "{\"NEWSID\": \"aa818bcc-580e-4eaf-b5be-c2d679e44ea5\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_AA818BCC-580E-4EAF-B5BE-C2D679E44EA5\", \"NEWSSUB\": \"Intimation Of Grant And Vesting Under ESPS 2022\", \"DT_TM\": \"2026-10-01T17:03:33.383\", \"NEWS_DT\": \"2026-10-01T17:03:33.383\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2336dcf4-a19f-4828-a7d9-865783bec37d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Grant and Vesting under ESPS 2022.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T17:03:33\", \"DissemDT\": \"2026-10-01T17:03:33.383\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 731140, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Intimation Of Grant And Vesting Under ESPS 2022\", \"_published\": \"2026-10-01T17:03:33.383\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Grant and Vesting under ESPS 2022.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2336dcf4-a19f-4828-a7d9-865783bec37d.pdf\", \"_id\": \"aa818bcc-580e-4eaf-b5be-c2d679e44ea5\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517354",
       "discovered_at": "2026-09-23T05:12:07.584301+00:00",
       "news_id": "c299a6eb-83ac-4d22-bf71-274a5dcb4129",
       "payload": null,
