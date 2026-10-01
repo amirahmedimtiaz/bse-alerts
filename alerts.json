@@ -4264,7 +4264,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 43, \"collected\": 0, \"failed\": [\"NSE:BHADORA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T17:09:27.639094+00:00\", \"seconds\": 101.54}"
+      "value": "{\"companies\": 43, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-01T20:24:46.592953+00:00\", \"seconds\": 21.43}"
     },
     {
       "key": "migration_date",
