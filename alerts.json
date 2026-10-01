@@ -2503,8 +2503,8 @@
       "company_key": "544269",
       "discovered_at": "2026-10-01T10:11:23.705307+00:00",
       "news_id": "efef07af-9149-457a-9542-001fb790a76e",
-      "payload": "{\"NEWSID\": \"efef07af-9149-457a-9542-001fb790a76e\", \"SCRIP_CD\": 544269, \"XML_NAME\": \"ANN_544269_EFEF07AF-9149-457A-9542-001FB790A76E\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-10-01T15:39:53.817\", \"NEWS_DT\": \"2026-10-01T15:39:53.817\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b4a81cd9-1fc0-48f8-bff9-8fdd6944d14d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Scrutinizer''s Report for the 15th AGM of the Company\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/\", \"SLONGNAME\": \"Neopolitan Pizza And Foods Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T15:39:53\", \"DissemDT\": \"2026-10-01T15:39:53.817\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1742900, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Neopolitan Pizza and Foods Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-10-01T15:39:53.817\", \"_category\": \"AGM/EGM\", \"_headline\": \"Scrutinizer''s Report for the 15th AGM of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b4a81cd9-1fc0-48f8-bff9-8fdd6944d14d.pdf\", \"_id\": \"efef07af-9149-457a-9542-001fb790a76e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -4173,6 +4173,10 @@
     {
       "message_id": "<b488a411a3d9bc3be8d5ed65bb01731da2248153aff1d6b1e6f067d8de3862d8@gmail.com>",
       "sent_at": "2026-09-30T11:23:01.455691+00:00"
+    },
+    {
+      "message_id": "<b9973f53cba395ea79d2eec8c374f2a2021f4c2105944f8ae0987a3c4ec7ad91@gmail.com>",
+      "sent_at": "2026-10-01T10:11:28.033533+00:00"
     },
     {
       "message_id": "<b9b4b59c6c3f03aedd78bd3f8134748c6de7f5688330936c49fd2e945a94e9a9@gmail.com>",
