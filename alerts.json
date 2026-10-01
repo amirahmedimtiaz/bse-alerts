@@ -2860,8 +2860,8 @@
       "company_key": "544524",
       "discovered_at": "2026-10-01T06:40:50.065022+00:00",
       "news_id": "7487e85e-8d9d-4ba7-ae59-b21ae8cccf39",
-      "payload": "{\"NEWSID\": \"7487e85e-8d9d-4ba7-ae59-b21ae8cccf39\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_7487E85E-8D9D-4BA7-AE59-B21AE8CCCF39\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-10-01T12:10:15.397\", \"NEWS_DT\": \"2026-10-01T12:10:15.397\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1c725294-7514-42a9-b98d-76f2258d404d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation for Consolidated Scrutinizer Report with Voting Results for AGM 30.09.2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-01T12:10:15\", \"DissemDT\": \"2026-10-01T12:10:15.397\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3010100, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-10-01T12:10:15.397\", \"_category\": \"AGM/EGM\", \"_headline\": \"BSE Intimation for Consolidated Scrutinizer Report with Voting Results for AGM 30.09.2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1c725294-7514-42a9-b98d-76f2258d404d.pdf\", \"_id\": \"7487e85e-8d9d-4ba7-ae59-b21ae8cccf39\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -4147,6 +4147,10 @@
     {
       "message_id": "<8992460ac69d1d8d6a8af3d0eb467eef56fc6da463f43265e9fb97c24e1a5cbf@gmail.com>",
       "sent_at": "2026-09-29T11:16:26.806433+00:00"
+    },
+    {
+      "message_id": "<91030393ecf3040f34acbdf0da6718e9ce039014f6a5b4832f8993a0368cde6c@gmail.com>",
+      "sent_at": "2026-10-01T06:41:10.566656+00:00"
     },
     {
       "message_id": "<a7b9651eba90b915fa11e0ee72181e0a3b63a7eaace72d632cdc0ae2fb60961d@gmail.com>",
