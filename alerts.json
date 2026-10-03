@@ -4214,7 +4214,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 44, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-03T22:12:43.329872+00:00\", \"seconds\": 17.81}"
+      "value": "{\"companies\": 44, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-03T22:17:43.299650+00:00\", \"seconds\": 17.78}"
     },
     {
       "key": "migration_date",
