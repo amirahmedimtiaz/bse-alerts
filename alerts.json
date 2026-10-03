@@ -3474,6 +3474,13 @@
     },
     {
       "company_key": "544862",
+      "discovered_at": "2026-10-03T12:32:02.274985+00:00",
+      "news_id": "613e8f5c-2f8e-4a67-8c33-f51e4026f3ea",
+      "payload": "{\"NEWSID\": \"613e8f5c-2f8e-4a67-8c33-f51e4026f3ea\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_613E8F5C-2F8E-4A67-8C33-F51E4026F3EA\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-03T18:00:47.683\", \"NEWS_DT\": \"2026-10-03T18:00:47.683\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"58004f35-def0-4037-b884-69447b95f4b5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Receipt of Work Orders\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-03T18:00:47\", \"DissemDT\": \"2026-10-03T18:00:47.683\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 304573, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-03T18:00:47.683\", \"_category\": \"Company Update\", \"_headline\": \"Receipt of Work Orders\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/58004f35-def0-4037-b884-69447b95f4b5.pdf\", \"_id\": \"613e8f5c-2f8e-4a67-8c33-f51e4026f3ea\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544862",
       "discovered_at": "2026-09-23T05:12:07.584916+00:00",
       "news_id": "784140fc-6218-4ea6-9cad-0370714ac6ec",
       "payload": null,
