@@ -4207,7 +4207,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 44, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-03T12:27:09.282240+00:00\", \"seconds\": 17.9}"
+      "value": "{\"companies\": 44, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-03T12:32:15.371565+00:00\", \"seconds\": 23.99}"
     },
     {
       "key": "migration_date",
