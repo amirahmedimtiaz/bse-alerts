@@ -3476,8 +3476,8 @@
       "company_key": "544862",
       "discovered_at": "2026-10-03T12:32:02.274985+00:00",
       "news_id": "613e8f5c-2f8e-4a67-8c33-f51e4026f3ea",
-      "payload": "{\"NEWSID\": \"613e8f5c-2f8e-4a67-8c33-f51e4026f3ea\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_613E8F5C-2F8E-4A67-8C33-F51E4026F3EA\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-03T18:00:47.683\", \"NEWS_DT\": \"2026-10-03T18:00:47.683\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"58004f35-def0-4037-b884-69447b95f4b5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Receipt of Work Orders\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-03T18:00:47\", \"DissemDT\": \"2026-10-03T18:00:47.683\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 304573, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-03T18:00:47.683\", \"_category\": \"Company Update\", \"_headline\": \"Receipt of Work Orders\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/58004f35-def0-4037-b884-69447b95f4b5.pdf\", \"_id\": \"613e8f5c-2f8e-4a67-8c33-f51e4026f3ea\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -4192,84 +4192,16 @@
   ],
   "deliveries": [
     {
-      "message_id": "<095ce706408b6fd4bc1bbd007ab51b1c0c66b30d4a788e048ef7cf9c344ebfe0@gmail.com>",
-      "sent_at": "2026-10-01T12:11:27.334249+00:00"
-    },
-    {
-      "message_id": "<16a03aace8cfd56ab8b1fbc0fe16213cecca242b55dcefed716a8cd4d08e0d13@gmail.com>",
-      "sent_at": "2026-09-30T11:33:03.285607+00:00"
-    },
-    {
-      "message_id": "<1fcc689bb21925ca2c36dbdd39c9d26c6ba0a237cfd9166fb061882a63e59d19@gmail.com>",
-      "sent_at": "2026-09-30T14:15:32.584831+00:00"
-    },
-    {
-      "message_id": "<2dc423910c6a980a564794c8a5979e237f407b06b39ab0624ea690ebb6f498f1@gmail.com>",
-      "sent_at": "2026-10-01T05:36:09.718822+00:00"
-    },
-    {
       "message_id": "<3e251e497187fb300c6b715b0ab5646565dc108de8b49e62874082dac7c96f58@gmail.com>",
       "sent_at": "2026-10-01T20:24:45.364254+00:00"
-    },
-    {
-      "message_id": "<5b0aabc7012ef53b414f67cd3d7ecf791d2fe849a82c547800dda0ce3cbf8465@gmail.com>",
-      "sent_at": "2026-09-30T11:38:04.904358+00:00"
-    },
-    {
-      "message_id": "<6b0f4a2534c369f1020bb6e4016b6b9c2cb63e2d133556ce8944bfda94f79b78@gmail.com>",
-      "sent_at": "2026-09-30T14:55:33.018891+00:00"
-    },
-    {
-      "message_id": "<87bbf3f4fbd598a311eb8a2ab7c7989ee9dae89dee6b240de92baa7397a2cc0f@gmail.com>",
-      "sent_at": "2026-09-30T13:35:32.102342+00:00"
     },
     {
       "message_id": "<8c4ee5d5fea693ddea4cf9f68b51d55eb1d39a4749778a15ca8258dd5c87f334@gmail.com>",
       "sent_at": "2026-10-01T15:23:07.968269+00:00"
     },
     {
-      "message_id": "<91030393ecf3040f34acbdf0da6718e9ce039014f6a5b4832f8993a0368cde6c@gmail.com>",
-      "sent_at": "2026-10-01T06:41:10.566656+00:00"
-    },
-    {
-      "message_id": "<a2e842790365047fbdd5ce9e2a4dcf4687646734b65141669c355fd81b9d4c05@gmail.com>",
-      "sent_at": "2026-10-01T11:36:27.450311+00:00"
-    },
-    {
-      "message_id": "<ad7073eac8deca6bf52d2fa91c1eab8ee5672f6bdb38105b08ebd983b7d6187a@gmail.com>",
-      "sent_at": "2026-09-30T12:13:06.515260+00:00"
-    },
-    {
-      "message_id": "<b488a411a3d9bc3be8d5ed65bb01731da2248153aff1d6b1e6f067d8de3862d8@gmail.com>",
-      "sent_at": "2026-09-30T11:23:01.455691+00:00"
-    },
-    {
-      "message_id": "<b9973f53cba395ea79d2eec8c374f2a2021f4c2105944f8ae0987a3c4ec7ad91@gmail.com>",
-      "sent_at": "2026-10-01T10:11:28.033533+00:00"
-    },
-    {
-      "message_id": "<c135c179abe750fecbbcac3c796ebd9cbbbdef5cdceb6b04ecbed9329c737e5c@gmail.com>",
-      "sent_at": "2026-09-30T09:47:43.041156+00:00"
-    },
-    {
-      "message_id": "<c44ed935ff99291d1ff1bc3924311eb534dc8a2c05d76aed57c0efe73317ee9b@gmail.com>",
-      "sent_at": "2026-09-30T09:37:43.418171+00:00"
-    },
-    {
-      "message_id": "<cdc88ef588ceda6fe146fff30875c56c1c0d91743bcbb460ac3ee2aad13a252c@gmail.com>",
-      "sent_at": "2026-10-01T05:51:10.380514+00:00"
-    },
-    {
-      "message_id": "<d8ec0b9b91e6df4cb34e25e6ebaa0497f8b2fabd906e139a3cf3b029c3138812@gmail.com>",
-      "sent_at": "2026-09-30T11:28:02.383069+00:00"
-    },
-    {
-      "message_id": "<df0bc0da5e68b1411005c6013cc88627a741f235b93edb4212dc53d7c3c318e8@gmail.com>",
-      "sent_at": "2026-09-30T12:18:09.492477+00:00"
-    },
-    {
-      "message_id": "<e44bd6a41ce81ade7fee50da200b63e9816a2ed51cdd54554bb9681860cf14ab@gmail.com>",
-      "sent_at": "2026-10-01T09:36:30.062547+00:00"
+      "message_id": "<941768610f8bec15db3a613a3655b303977440f1bd2f70ffacfd3a6a8b32b8b5@gmail.com>",
+      "sent_at": "2026-10-03T12:32:13.502368+00:00"
     }
   ],
   "metadata": [
