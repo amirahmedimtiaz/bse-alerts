@@ -809,8 +809,8 @@
       "company_key": "522163",
       "discovered_at": "2026-10-03T15:57:14.907243+00:00",
       "news_id": "7e0a5aa2-17a0-4375-90a3-f7c06767d975",
-      "payload": "{\"NEWSID\": \"7e0a5aa2-17a0-4375-90a3-f7c06767d975\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_7E0A5AA2-17A0-4375-90A3-F7C06767D975\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-03T21:22:57.417\", \"NEWS_DT\": \"2026-10-03T21:22:57.417\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a970a834-4682-4cf4-9379-fb7836adc777.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Appointment of Mr. Ashwani Saraf as Chief Operating officer and Senior Management Personnel of the Company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-03T21:22:57\", \"DissemDT\": \"2026-10-03T21:22:57.417\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 392950, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-03T21:22:57.417\", \"_category\": \"Company Update\", \"_headline\": \"Appointment of Mr. Ashwani Saraf as Chief Operating officer and Senior Management Personnel of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a970a834-4682-4cf4-9379-fb7836adc777.pdf\", \"_id\": \"7e0a5aa2-17a0-4375-90a3-f7c06767d975\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -4203,12 +4203,12 @@
       "sent_at": "2026-10-01T20:24:45.364254+00:00"
     },
     {
-      "message_id": "<8c4ee5d5fea693ddea4cf9f68b51d55eb1d39a4749778a15ca8258dd5c87f334@gmail.com>",
-      "sent_at": "2026-10-01T15:23:07.968269+00:00"
-    },
-    {
       "message_id": "<941768610f8bec15db3a613a3655b303977440f1bd2f70ffacfd3a6a8b32b8b5@gmail.com>",
       "sent_at": "2026-10-03T12:32:13.502368+00:00"
+    },
+    {
+      "message_id": "<fff8a966309d8dc409720f26ebd1a8330b1399f84d17ce7f7850e925a5959806@gmail.com>",
+      "sent_at": "2026-10-03T15:57:30.607255+00:00"
     }
   ],
   "metadata": [
