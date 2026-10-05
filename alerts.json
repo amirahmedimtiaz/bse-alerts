@@ -3469,8 +3469,8 @@
       "company_key": "544862",
       "discovered_at": "2026-10-05T09:29:53.597353+00:00",
       "news_id": "0e4f6838-2a96-421c-807e-76b39516148e",
-      "payload": "{\"NEWSID\": \"0e4f6838-2a96-421c-807e-76b39516148e\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_0E4F6838-2A96-421C-807E-76B39516148E\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-05T14:58:38.31\", \"NEWS_DT\": \"2026-10-05T14:58:38.31\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8032ff9e-06cd-44bc-a71f-7519cca4ff7f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release dated October 5, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T14:58:38\", \"DissemDT\": \"2026-10-05T14:58:38.31\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 790852, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-05T14:58:38.31\", \"_category\": \"Company Update\", \"_headline\": \"Press Release dated October 5, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8032ff9e-06cd-44bc-a71f-7519cca4ff7f.pdf\", \"_id\": \"0e4f6838-2a96-421c-807e-76b39516148e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -4219,6 +4219,10 @@
     {
       "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
       "sent_at": "2026-10-05T07:15:03.175839+00:00"
+    },
+    {
+      "message_id": "<8ba762b8bd7fe3c37384aeb4fa455bc1809097fdfd9c646e20be89b8c8e49717@gmail.com>",
+      "sent_at": "2026-10-05T09:30:01.557248+00:00"
     },
     {
       "message_id": "<941768610f8bec15db3a613a3655b303977440f1bd2f70ffacfd3a6a8b32b8b5@gmail.com>",
