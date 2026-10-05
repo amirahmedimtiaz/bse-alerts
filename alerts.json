@@ -158,8 +158,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-05T07:14:53.530798+00:00",
       "news_id": "04896ce6-f989-4a32-aa18-96da9e7e6fa3",
-      "payload": "{\"NEWSID\": \"04896ce6-f989-4a32-aa18-96da9e7e6fa3\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_04896CE6-F989-4A32-AA18-96DA9E7E6FA3\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-05T12:43:01.197\", \"NEWS_DT\": \"2026-10-05T12:43:01.197\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a0e05523-06c7-44a8-8cb3-dce92ece3ceb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74 (5) of SEBI (DP) Regulation 2018 for the Quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T12:43:01\", \"DissemDT\": \"2026-10-05T12:43:01.197\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 211423, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-05T12:43:01.197\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74 (5) of SEBI (DP) Regulation 2018 for the Quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0e05523-06c7-44a8-8cb3-dce92ece3ceb.pdf\", \"_id\": \"04896ce6-f989-4a32-aa18-96da9e7e6fa3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -4210,8 +4210,8 @@
   ],
   "deliveries": [
     {
-      "message_id": "<3e251e497187fb300c6b715b0ab5646565dc108de8b49e62874082dac7c96f58@gmail.com>",
-      "sent_at": "2026-10-01T20:24:45.364254+00:00"
+      "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
+      "sent_at": "2026-10-05T07:15:03.175839+00:00"
     },
     {
       "message_id": "<941768610f8bec15db3a613a3655b303977440f1bd2f70ffacfd3a6a8b32b8b5@gmail.com>",
