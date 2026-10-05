@@ -3439,6 +3439,13 @@
     },
     {
       "company_key": "544822",
+      "discovered_at": "2026-10-05T11:35:08.632157+00:00",
+      "news_id": "c4fd534b-6f1a-4490-b79a-78b0bbb80374",
+      "payload": "{\"NEWSID\": \"c4fd534b-6f1a-4490-b79a-78b0bbb80374\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_C4FD534B-6F1A-4490-B79A-78B0BBB80374\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-05T17:02:35.577\", \"NEWS_DT\": \"2026-10-05T17:02:35.577\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"767fa235-6ad4-449d-9a54-6c9a6d0fdd30.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith the press release titled \\\" Laser Power & Infra secures  Rs. 72.76 crore HTLS reconductoring order from POWERGRID\\\".\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T17:02:35\", \"DissemDT\": \"2026-10-05T17:02:35.577\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1742887, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-05T17:02:35.577\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith the press release titled \\\" Laser Power & Infra secures  Rs. 72.76 crore HTLS reconductoring order from POWERGRID\\\".\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/767fa235-6ad4-449d-9a54-6c9a6d0fdd30.pdf\", \"_id\": \"c4fd534b-6f1a-4490-b79a-78b0bbb80374\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544822",
       "discovered_at": "2026-09-23T05:12:07.584908+00:00",
       "news_id": "fc24b256-3f1e-4b4f-ad13-147e4ed0d6b5",
       "payload": null,
