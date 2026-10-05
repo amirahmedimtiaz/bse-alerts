@@ -1789,8 +1789,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-05T13:20:07.678372+00:00",
       "news_id": "cad2cc67-3fa1-46ff-9d4b-c18057a6c3ee",
-      "payload": "{\"NEWSID\": \"cad2cc67-3fa1-46ff-9d4b-c18057a6c3ee\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_CAD2CC67-3FA1-46FF-9D4B-C18057A6C3EE\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-05T18:45:53.647\", \"NEWS_DT\": \"2026-10-05T18:45:53.647\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f37d8c1a-f9c7-4fe5-9d5c-63f079cbe666.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith disclosure for Regulation 74(5) of DP regulations for quarter ended 30.09.2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T18:45:53\", \"DissemDT\": \"2026-10-05T18:45:53.647\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1250070, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-05T18:45:53.647\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith disclosure for Regulation 74(5) of DP regulations for quarter ended 30.09.2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f37d8c1a-f9c7-4fe5-9d5c-63f079cbe666.pdf\", \"_id\": \"cad2cc67-3fa1-46ff-9d4b-c18057a6c3ee\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -4261,8 +4261,8 @@
       "sent_at": "2026-10-05T09:30:01.557248+00:00"
     },
     {
-      "message_id": "<941768610f8bec15db3a613a3655b303977440f1bd2f70ffacfd3a6a8b32b8b5@gmail.com>",
-      "sent_at": "2026-10-03T12:32:13.502368+00:00"
+      "message_id": "<8f9059800587dcc54faad34581ea398b73dd10d59fcc97e33982f7ee3bdafae7@gmail.com>",
+      "sent_at": "2026-10-05T13:20:25.639898+00:00"
     },
     {
       "message_id": "<f06cccae26b221f432f6744c6c6fa5719940c4086017709cb94ad100cbf847a4@gmail.com>",
