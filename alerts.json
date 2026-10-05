@@ -2454,8 +2454,8 @@
       "company_key": "544238",
       "discovered_at": "2026-10-05T11:55:13.835491+00:00",
       "news_id": "336ad011-a14c-4d6b-921f-ae42e96487b7",
-      "payload": "{\"NEWSID\": \"336ad011-a14c-4d6b-921f-ae42e96487b7\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_336AD011-A14C-4D6B-921F-AE42E96487B7\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-05T17:20:53.787\", \"NEWS_DT\": \"2026-10-05T17:20:53.787\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fbbd0df8-0143-4c12-a04c-895e36197d54.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Reg. 74(5) of SEBI (DP) Regulations, 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T17:20:53\", \"DissemDT\": \"2026-10-05T17:20:53.787\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 798440, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-05T17:20:53.787\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Reg. 74(5) of SEBI (DP) Regulations, 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fbbd0df8-0143-4c12-a04c-895e36197d54.pdf\", \"_id\": \"336ad011-a14c-4d6b-921f-ae42e96487b7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -4240,6 +4240,10 @@
     {
       "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
       "sent_at": "2026-10-05T07:15:03.175839+00:00"
+    },
+    {
+      "message_id": "<7b92a7e22732242df4a5236a3f3a6a916ad5b14508379e1589a5bc472fa28987@gmail.com>",
+      "sent_at": "2026-10-05T11:55:20.172013+00:00"
     },
     {
       "message_id": "<886f5b1d0cc8e6ca12c11031eb30aacc57576505f9e015920a37c00bf7de10e1@gmail.com>",
