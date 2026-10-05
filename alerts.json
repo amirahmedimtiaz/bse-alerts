@@ -394,6 +394,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-10-05T10:15:07.262364+00:00",
+      "news_id": "1c275a96-1d91-427b-936c-5adf975c1b7d",
+      "payload": "{\"NEWSID\": \"1c275a96-1d91-427b-936c-5adf975c1b7d\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_1C275A96-1D91-427B-936C-5ADF975C1B7D\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-05T15:44:26.83\", \"NEWS_DT\": \"2026-10-05T15:44:26.83\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0e55e3a7-cd65-43ca-8c61-4bfc435dbd38.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-05T15:44:26\", \"DissemDT\": \"2026-10-05T15:44:26.83\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 777059, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-05T15:44:26.83\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0e55e3a7-cd65-43ca-8c61-4bfc435dbd38.pdf\", \"_id\": \"1c275a96-1d91-427b-936c-5adf975c1b7d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-26T14:20:28.662580+00:00",
       "news_id": "24077dcb-c189-4ba3-ab84-16c749e29801",
       "payload": null,
