@@ -4374,7 +4374,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-06T10:33:29.231316+00:00\", \"seconds\": 18.79}"
+      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-06T10:38:39.707734+00:00\", \"seconds\": 29.27}"
     },
     {
       "key": "migration_date",
