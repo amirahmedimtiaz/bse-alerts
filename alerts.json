@@ -1702,6 +1702,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "532941",
+      "discovered_at": "2026-10-06T11:33:16.273701+00:00",
+      "news_id": "efcf1bbc-4080-4f8d-b1d8-7b4cbe6fcf3a",
+      "payload": "{\"NEWSID\": \"efcf1bbc-4080-4f8d-b1d8-7b4cbe6fcf3a\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_EFCF1BBC-4080-4F8D-B1D8-7B4CBE6FCF3A\", \"NEWSSUB\": \"AGM Minutes\", \"DT_TM\": \"2026-10-06T16:59:51.213\", \"NEWS_DT\": \"2026-10-06T16:59:51.213\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"44dba21e-7f67-4774-83e9-396ef7195f29.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Minutes of 35th AGM of members of Cords Cable Industries Limited held on Monday, September 28,2026 at 10:00 a.m.  at ISKCON to transact business items as mentioned in notice.\\r\\n\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T16:59:51\", \"DissemDT\": \"2026-10-06T16:59:51.213\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 8086532, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"AGM Minutes\", \"_published\": \"2026-10-06T16:59:51.213\", \"_category\": \"AGM/EGM\", \"_headline\": \"Minutes of 35th AGM of members of Cords Cable Industries Limited held on Monday, September 28,2026 at 10:00 a.m.  at ISKCON to transact business items as mentioned in notice.\\r\\n\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/44dba21e-7f67-4774-83e9-396ef7195f29.pdf\", \"_id\": \"efcf1bbc-4080-4f8d-b1d8-7b4cbe6fcf3a\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "534618",
       "discovered_at": "2026-09-23T05:12:07.584592+00:00",
       "news_id": "15636949-a1ae-41a4-9d1f-929321bf4bd0",
