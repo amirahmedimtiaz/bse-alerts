@@ -130,8 +130,8 @@
       "company_key": "500144",
       "discovered_at": "2026-10-06T06:31:20.871935+00:00",
       "news_id": "ca86cb78-c82b-4623-897a-07382cdc53c7",
-      "payload": "{\"NEWSID\": \"ca86cb78-c82b-4623-897a-07382cdc53c7\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_CA86CB78-C82B-4623-897A-07382CDC53C7\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-06T11:57:59.3\", \"NEWS_DT\": \"2026-10-06T11:57:59.3\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"72a70ec7-3a00-4453-9209-a16b651bda8a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Compliance Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T11:57:59\", \"DissemDT\": \"2026-10-06T11:57:59.3\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 787843, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-06T11:57:59.3\", \"_category\": \"Company Update\", \"_headline\": \"Compliance Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/72a70ec7-3a00-4453-9209-a16b651bda8a.pdf\", \"_id\": \"ca86cb78-c82b-4623-897a-07382cdc53c7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -4267,6 +4267,10 @@
       "sent_at": "2026-10-05T15:45:43.402513+00:00"
     },
     {
+      "message_id": "<7a3b22150e44facbe30dc8202ec1ca705d22fce3126c67b3bf0449dcfa991e32@gmail.com>",
+      "sent_at": "2026-10-06T06:31:39.408110+00:00"
+    },
+    {
       "message_id": "<7b92a7e22732242df4a5236a3f3a6a916ad5b14508379e1589a5bc472fa28987@gmail.com>",
       "sent_at": "2026-10-05T11:55:20.172013+00:00"
     },
@@ -4285,10 +4289,6 @@
     {
       "message_id": "<f06cccae26b221f432f6744c6c6fa5719940c4086017709cb94ad100cbf847a4@gmail.com>",
       "sent_at": "2026-10-05T10:15:19.718191+00:00"
-    },
-    {
-      "message_id": "<fff8a966309d8dc409720f26ebd1a8330b1399f84d17ce7f7850e925a5959806@gmail.com>",
-      "sent_at": "2026-10-03T15:57:30.607255+00:00"
     }
   ],
   "metadata": [
