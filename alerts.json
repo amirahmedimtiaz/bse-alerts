@@ -2193,6 +2193,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-06T08:31:19.360898+00:00",
+      "news_id": "f9a8d62d-22da-49b6-aa15-0cda83b3c904",
+      "payload": "{\"NEWSID\": \"f9a8d62d-22da-49b6-aa15-0cda83b3c904\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_F9A8D62D-22DA-49B6-AA15-0CDA83B3C904\", \"NEWSSUB\": \"Board Meeting Intimation for Unaudited Quarterly Results For Q2 FY 2026-27\", \"DT_TM\": \"2026-10-06T13:57:24.69\", \"NEWS_DT\": \"2026-10-06T13:57:24.69\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7f0076d6-8db5-497d-8bca-89b7ade9455e.pdf\", \"MORE\": \"Polycab India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/10/2026 ,inter alia, to consider and approve unaudited standalone and consolidated financial results of the Company along with limited review reports for the quarter & half year ended 30th September 2026\", \"HEADLINE\": \"Polycab India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/10/2026 ,inter alia, to consider and approve unaudited standalone and consolidated ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T13:57:23\", \"DissemDT\": \"2026-10-06T13:57:24.69\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 258907, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Unaudited Quarterly Results For Q2 FY 2026-27\", \"_published\": \"2026-10-06T13:57:24.69\", \"_category\": \"Board Meeting\", \"_headline\": \"Polycab India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/10/2026 ,inter alia, to consider and approve unaudited standalone and consolidated ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7f0076d6-8db5-497d-8bca-89b7ade9455e.pdf\", \"_id\": \"f9a8d62d-22da-49b6-aa15-0cda83b3c904\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-28T11:55:23.091341+00:00",
       "news_id": "fd08f52e-6104-40a1-b882-c7e6b15dbdef",
       "payload": null,
