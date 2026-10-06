@@ -228,8 +228,8 @@
       "company_key": "504212",
       "discovered_at": "2026-10-06T06:51:19.857292+00:00",
       "news_id": "4803a105-b66b-48fb-86db-e23ec089c95b",
-      "payload": "{\"NEWSID\": \"4803a105-b66b-48fb-86db-e23ec089c95b\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_4803A105-B66B-48FB-86DB-E23EC089C95B\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-06T12:17:02.393\", \"NEWS_DT\": \"2026-10-06T12:17:02.393\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"308eede8-4c10-4978-9b52-e83141ea8a78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate Under Regulation 74(5) of the SEBI (Depositories and Participants ) Regulations, 2018 for the quarter ended on 30th September, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T12:17:02\", \"DissemDT\": \"2026-10-06T12:17:02.393\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 734458, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-06T12:17:02.393\", \"_category\": \"Company Update\", \"_headline\": \"Certificate Under Regulation 74(5) of the SEBI (Depositories and Participants ) Regulations, 2018 for the quarter ended on 30th September, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/308eede8-4c10-4978-9b52-e83141ea8a78.pdf\", \"_id\": \"4803a105-b66b-48fb-86db-e23ec089c95b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -3588,8 +3588,8 @@
       "company_key": "544862",
       "discovered_at": "2026-10-06T06:51:30.188595+00:00",
       "news_id": "b421e8c7-9046-4e8d-9023-0c1f2411742c",
-      "payload": "{\"NEWSID\": \"b421e8c7-9046-4e8d-9023-0c1f2411742c\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_B421E8C7-9046-4E8D-9023-0C1F2411742C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-06T12:17:05.127\", \"NEWS_DT\": \"2026-10-06T12:17:05.127\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"327bcb94-6164-477f-9b32-0d824bf3377f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Receipt of Work Order\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T12:17:05\", \"DissemDT\": \"2026-10-06T12:17:05.127\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1848772, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-06T12:17:05.127\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Receipt of Work Order\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/327bcb94-6164-477f-9b32-0d824bf3377f.pdf\", \"_id\": \"b421e8c7-9046-4e8d-9023-0c1f2411742c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -4272,6 +4272,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<4972d48d3b8cdc6acff7dcad5821168397df84a2ebc3496330c569d49ce1ed20@gmail.com>",
+      "sent_at": "2026-10-06T06:51:41.101865+00:00"
+    },
     {
       "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
       "sent_at": "2026-10-05T07:15:03.175839+00:00"
