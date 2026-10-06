@@ -1474,8 +1474,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-06T14:03:16.209686+00:00",
       "news_id": "6f73e3fd-7677-4d1d-9f69-2296d1079bf4",
-      "payload": "{\"NEWSID\": \"6f73e3fd-7677-4d1d-9f69-2296d1079bf4\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_6F73E3FD-7677-4D1D-9F69-2296D1079BF4\", \"NEWSSUB\": \"Board Meeting Intimation for Approval Of Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026.\", \"DT_TM\": \"2026-10-06T19:28:31.467\", \"NEWS_DT\": \"2026-10-06T19:28:31.467\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7ebac731-99be-480e-9899-62c64ece97eb.pdf\", \"MORE\": \"Sterlite Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve Unaudited Standalone and Consolidated Financial Results for the Quarter and Half Year ended September 30, 2026.\", \"HEADLINE\": \"Sterlite Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve Unaudited Standalone ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T19:28:30\", \"DissemDT\": \"2026-10-06T19:28:31.467\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 3590886, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Approval Of Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026.\", \"_published\": \"2026-10-06T19:28:31.467\", \"_category\": \"Board Meeting\", \"_headline\": \"Sterlite Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve Unaudited Standalone ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7ebac731-99be-480e-9899-62c64ece97eb.pdf\", \"_id\": \"6f73e3fd-7677-4d1d-9f69-2296d1079bf4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -4404,6 +4404,10 @@
     {
       "message_id": "<9734ce69659f84628e6bcfd207e171e6e5026b090db3d6d30887c0d7dd8251d1@gmail.com>",
       "sent_at": "2026-10-06T08:31:39.431602+00:00"
+    },
+    {
+      "message_id": "<c8d10ea63277fcc1525dfa410a06fbb979007f023d6ce8f043dd8d56e46ea524@gmail.com>",
+      "sent_at": "2026-10-06T14:03:32.199581+00:00"
     },
     {
       "message_id": "<dfee5eeb6fe3c594697b1145b208ab25ae8790bfd728c4451da34a8931e4b2a5@gmail.com>",
