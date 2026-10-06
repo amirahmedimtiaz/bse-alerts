@@ -128,6 +128,13 @@
     },
     {
       "company_key": "500144",
+      "discovered_at": "2026-10-06T06:31:20.871935+00:00",
+      "news_id": "ca86cb78-c82b-4623-897a-07382cdc53c7",
+      "payload": "{\"NEWSID\": \"ca86cb78-c82b-4623-897a-07382cdc53c7\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_CA86CB78-C82B-4623-897A-07382CDC53C7\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-06T11:57:59.3\", \"NEWS_DT\": \"2026-10-06T11:57:59.3\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"72a70ec7-3a00-4453-9209-a16b651bda8a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Compliance Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T11:57:59\", \"DissemDT\": \"2026-10-06T11:57:59.3\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 787843, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-06T11:57:59.3\", \"_category\": \"Company Update\", \"_headline\": \"Compliance Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/72a70ec7-3a00-4453-9209-a16b651bda8a.pdf\", \"_id\": \"ca86cb78-c82b-4623-897a-07382cdc53c7\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "500144",
       "discovered_at": "2026-09-23T05:12:07.584236+00:00",
       "news_id": "d90d9d2a-1305-4941-8a68-7af5171e3c7e",
       "payload": null,
