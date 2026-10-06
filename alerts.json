@@ -765,6 +765,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-10-06T10:58:15.224813+00:00",
+      "news_id": "45b667db-3421-44de-bd80-611f73a8bd06",
+      "payload": "{\"NEWSID\": \"45b667db-3421-44de-bd80-611f73a8bd06\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_45B667DB-3421-44DE-BD80-611F73A8BD06\", \"NEWSSUB\": \"General Announcement\", \"DT_TM\": \"2026-10-06T16:25:07.707\", \"NEWS_DT\": \"2026-10-06T16:25:07.707\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"07aa3b73-5520-4d36-9064-bbb17f15243b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"submit herewith clarification\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T16:25:07\", \"DissemDT\": \"2026-10-06T16:25:07.707\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 361571, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"General Announcement\", \"_published\": \"2026-10-06T16:25:07.707\", \"_category\": \"Company Update\", \"_headline\": \"submit herewith clarification\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/07aa3b73-5520-4d36-9064-bbb17f15243b.pdf\", \"_id\": \"45b667db-3421-44de-bd80-611f73a8bd06\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584398+00:00",
       "news_id": "51781095-74e8-44a2-bd69-837e4c0bcbe1",
       "payload": null,
