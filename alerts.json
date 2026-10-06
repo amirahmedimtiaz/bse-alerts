@@ -1236,8 +1236,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-06T09:56:20.849270+00:00",
       "news_id": "6c379436-e5db-418e-bb4d-4e07ca90c2dd",
-      "payload": "{\"NEWSID\": \"6c379436-e5db-418e-bb4d-4e07ca90c2dd\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_6C379436-E5DB-418E-BB4D-4E07CA90C2DD\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-06T15:22:31.57\", \"NEWS_DT\": \"2026-10-06T15:22:31.57\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f8b6fb77-7144-46ef-8c13-648a6684fd56.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Certificate under Regulation 74(5) of the SEBI for the Quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T15:22:31\", \"DissemDT\": \"2026-10-06T15:22:31.57\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 256287, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-06T15:22:31.57\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Certificate under Regulation 74(5) of the SEBI for the Quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f8b6fb77-7144-46ef-8c13-648a6684fd56.pdf\", \"_id\": \"6c379436-e5db-418e-bb4d-4e07ca90c2dd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -4318,6 +4318,10 @@
     {
       "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
       "sent_at": "2026-10-05T07:15:03.175839+00:00"
+    },
+    {
+      "message_id": "<657f9390fe13b7f20310a16fd9fae3c4d2c894a5bbe736dab705d4f0e88d4f0a@gmail.com>",
+      "sent_at": "2026-10-06T09:56:39.250334+00:00"
     },
     {
       "message_id": "<7313e1a3097c3d544f53d5263b081b3393db78db45b818ae9c6b474aee921ed6@gmail.com>",
