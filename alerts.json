@@ -1292,8 +1292,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-06T10:01:20.863850+00:00",
       "news_id": "c18d0c15-db51-4219-9bb2-26696425a4ca",
-      "payload": "{\"NEWSID\": \"c18d0c15-db51-4219-9bb2-26696425a4ca\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_C18D0C15-DB51-4219-9BB2-26696425A4CA\", \"NEWSSUB\": \"Board Meeting Intimation for Un-Audited Financial Results For The Second Quarter And Half-Year Ended September 30, 2026\", \"DT_TM\": \"2026-10-06T15:27:41.68\", \"NEWS_DT\": \"2026-10-06T15:27:41.68\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"934dd57e-cc9b-4a3d-8c12-21b0a4058f92.pdf\", \"MORE\": \"Apar Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Un-audited Financial Results for the Second Quarter and Half-year ended September 30, 2026\", \"HEADLINE\": \"Apar Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Un-audited Financial Results ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-06T15:27:40\", \"DissemDT\": \"2026-10-06T15:27:41.68\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 161215, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Un-Audited Financial Results For The Second Quarter And Half-Year Ended September 30, 2026\", \"_published\": \"2026-10-06T15:27:41.68\", \"_category\": \"Board Meeting\", \"_headline\": \"Apar Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Un-audited Financial Results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/934dd57e-cc9b-4a3d-8c12-21b0a4058f92.pdf\", \"_id\": \"c18d0c15-db51-4219-9bb2-26696425a4ca\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -4365,6 +4365,10 @@
     {
       "message_id": "<f06cccae26b221f432f6744c6c6fa5719940c4086017709cb94ad100cbf847a4@gmail.com>",
       "sent_at": "2026-10-05T10:15:19.718191+00:00"
+    },
+    {
+      "message_id": "<f3c8c5de38dca855c806949813415a05eed30f922351f5a129d512638356833f@gmail.com>",
+      "sent_at": "2026-10-06T10:01:39.402380+00:00"
     }
   ],
   "metadata": [
