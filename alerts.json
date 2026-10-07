@@ -1901,8 +1901,8 @@
       "company_key": "538706",
       "discovered_at": "2026-10-07T07:49:43.869527+00:00",
       "news_id": "852f3dca-06c7-4d6f-8f1d-9664a3bc68a2",
-      "payload": "{\"NEWSID\": \"852f3dca-06c7-4d6f-8f1d-9664a3bc68a2\", \"SCRIP_CD\": 538706, \"XML_NAME\": \"ANN_538706_852F3DCA-06C7-4D6F-8F1D-9664A3BC68A2\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-07T13:18:09.007\", \"NEWS_DT\": \"2026-10-07T13:18:09.007\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8a6c8cf9-bb44-415c-8ceb-97817c81336d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith certificate under Regulation 74 (5) of SEBI (DP) Regulations, 2018 for the quarter ended on September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/\", \"SLONGNAME\": \"Ultracab (India) Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T13:18:08\", \"DissemDT\": \"2026-10-07T13:18:09.007\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 4093666, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Ultracab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-07T13:18:09.007\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith certificate under Regulation 74 (5) of SEBI (DP) Regulations, 2018 for the quarter ended on September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a6c8cf9-bb44-415c-8ceb-97817c81336d.pdf\", \"_id\": \"852f3dca-06c7-4d6f-8f1d-9664a3bc68a2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "538706",
@@ -4429,6 +4429,10 @@
     {
       "message_id": "<c8d10ea63277fcc1525dfa410a06fbb979007f023d6ce8f043dd8d56e46ea524@gmail.com>",
       "sent_at": "2026-10-06T14:03:32.199581+00:00"
+    },
+    {
+      "message_id": "<ca79edad4484144b0989c5cc6d6d40f28c913b61135273c9fad137b25e8767ec@gmail.com>",
+      "sent_at": "2026-10-07T07:49:56.591599+00:00"
     },
     {
       "message_id": "<dfee5eeb6fe3c594697b1145b208ab25ae8790bfd728c4451da34a8931e4b2a5@gmail.com>",
