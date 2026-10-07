@@ -4440,7 +4440,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-07T00:39:18.751272+00:00\", \"seconds\": 21.88}"
+      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-07T00:44:15.208958+00:00\", \"seconds\": 18.34}"
     },
     {
       "key": "migration_date",
