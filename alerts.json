@@ -4469,7 +4469,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-07T08:14:54.131012+00:00\", \"seconds\": 18.38}"
+      "value": "{\"companies\": 45, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-07T08:20:11.383089+00:00\", \"seconds\": 35.64}"
     },
     {
       "key": "migration_date",
