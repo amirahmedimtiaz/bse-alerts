@@ -4078,8 +4078,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-07T07:34:48.098933+00:00",
       "news_id": "106809554",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"General Updates\", \"dt\": \"07-Oct-2026 13:04:06\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_07102026130354_071026_SSL_Intimiation_Signed.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"07-Oct-2026 13:04:06\", \"sort_date\": \"2026-10-07 13:04:06\", \"seq_id\": \"106809554\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Intimation in respect of completion of subscription to the share capital Sahaj Energies Limited, Wholly Owned Subsidiary Company in Mauritius\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"323.43 KB\", \"attFileSize\": \"323.43 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-10-07 13:04:06\", \"_category\": \"General Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Intimation in respect of completion of subscription to the share capital Sahaj Energies Limited, Wholly Owned Subsidiary Company in Mauritius\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_07102026130354_071026_SSL_Intimiation_Signed.pdf\", \"_id\": \"106809554\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -4372,10 +4372,6 @@
       "sent_at": "2026-10-06T09:21:39.240234+00:00"
     },
     {
-      "message_id": "<52e66a450aa767304f5b59353c532b14946c728a2fe115ec714709af75f1f452@gmail.com>",
-      "sent_at": "2026-10-05T07:15:03.175839+00:00"
-    },
-    {
       "message_id": "<657f9390fe13b7f20310a16fd9fae3c4d2c894a5bbe736dab705d4f0e88d4f0a@gmail.com>",
       "sent_at": "2026-10-06T09:56:39.250334+00:00"
     },
@@ -4434,6 +4430,10 @@
     {
       "message_id": "<f06cccae26b221f432f6744c6c6fa5719940c4086017709cb94ad100cbf847a4@gmail.com>",
       "sent_at": "2026-10-05T10:15:19.718191+00:00"
+    },
+    {
+      "message_id": "<f1a80f242e6d4e44e6ed54364b220fbaedbe162b5bd47d67650369ac25837ffb@gmail.com>",
+      "sent_at": "2026-10-07T07:34:56.123198+00:00"
     },
     {
       "message_id": "<f3c8c5de38dca855c806949813415a05eed30f922351f5a129d512638356833f@gmail.com>",
