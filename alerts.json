@@ -1684,8 +1684,8 @@
       "company_key": "532941",
       "discovered_at": "2026-10-07T10:19:42.601943+00:00",
       "news_id": "95973dbe-005c-4d02-b02a-5bbfeef93849",
-      "payload": "{\"NEWSID\": \"95973dbe-005c-4d02-b02a-5bbfeef93849\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_95973DBE-005C-4D02-B02A-5BBFEEF93849\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-07T15:47:52.467\", \"NEWS_DT\": \"2026-10-07T15:47:52.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a85f374a-e4ae-4259-955b-5507ed3122e0.pdf\", \"MORE\": \"With reference to above captioned subject, we submit herewith the confirmation certificate received from our RTA M/s MUFG Intime India Private Limited Pursuant to Reg 74 (5) of SEBI( Depository & Participants) Reg,2018 for the quarter ended on September 30, 2026.\", \"HEADLINE\": \"With reference to above captioned subject, we submit herewith the confirmation certificate received from our RTA M/s MUFG Intime India Private Limited Pursuant to Reg 74 (5) of SEBI( Depository ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T15:47:52\", \"DissemDT\": \"2026-10-07T15:47:52.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 423780, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-07T15:47:52.467\", \"_category\": \"Company Update\", \"_headline\": \"With reference to above captioned subject, we submit herewith the confirmation certificate received from our RTA M/s MUFG Intime India Private Limited Pursuant to Reg 74 (5) of SEBI( Depository ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a85f374a-e4ae-4259-955b-5507ed3122e0.pdf\", \"_id\": \"95973dbe-005c-4d02-b02a-5bbfeef93849\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -4455,6 +4455,10 @@
       "sent_at": "2026-10-06T08:31:39.431602+00:00"
     },
     {
+      "message_id": "<acb3138d57a508beffab7b56bad9e9384c792eea5fd72412cdf7ec2cdb35c75b@gmail.com>",
+      "sent_at": "2026-10-07T10:19:56.111364+00:00"
+    },
+    {
       "message_id": "<b65c9651460dff7d46b182c782b3bff6e919b151255088a65da00d1f409c11dd@gmail.com>",
       "sent_at": "2026-10-06T14:13:31.117596+00:00"
     },
@@ -4473,10 +4477,6 @@
     {
       "message_id": "<dfee5eeb6fe3c594697b1145b208ab25ae8790bfd728c4451da34a8931e4b2a5@gmail.com>",
       "sent_at": "2026-10-06T10:58:31.167213+00:00"
-    },
-    {
-      "message_id": "<f06cccae26b221f432f6744c6c6fa5719940c4086017709cb94ad100cbf847a4@gmail.com>",
-      "sent_at": "2026-10-05T10:15:19.718191+00:00"
     },
     {
       "message_id": "<f1a80f242e6d4e44e6ed54364b220fbaedbe162b5bd47d67650369ac25837ffb@gmail.com>",
