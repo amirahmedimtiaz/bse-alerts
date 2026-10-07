@@ -170,11 +170,18 @@ class GitState:
         temporary.replace(snapshot)
         self.git("add", "alerts.json")
         self.git("commit", "-m", "Checkpoint alert outbox and collection progress")
-        for attempt in range(3):
+        for attempt in range(5):
             try:
                 self.git("push", "origin", "HEAD:refs/heads/alert-state")
                 return
-            except self._subprocess.SubprocessError:
-                if attempt == 2:
+            except self._subprocess.SubprocessError as exc:
+                # Preserve Git's diagnostic: CalledProcessError.__str__ omits it.
+                detail = (getattr(exc, "stderr", None) or str(exc)).strip()
+                print(f"Checkpoint push attempt {attempt + 1}/5 failed: {detail}", flush=True)
+                # Another writer must never be overwritten or automatically merged.
+                conflict = any(token in detail.lower() for token in
+                               ("non-fast-forward", "fetch first", "stale info"))
+                if conflict or attempt == 4:
                     raise
-                time.sleep(2 ** attempt)
+                # Allow a transient GitHub/network outage time to recover.
+                time.sleep(min(60, 5 * 2 ** attempt))

@@ -58,7 +58,7 @@ rolling email counts. Hosted workers restore/export a JSON snapshot on the
 separate `alert-state` branch; production state no longer creates commits on
 main. The original `state/seen_announcements.json` is retained for migration
 and historical reference; it is no longer the live alert ledger. Git fast-forward
-pushes provide durable checkpoints; conflicts stop delivery rather than
+pushes provide durable checkpoints; transient push failures retry five times with 5/10/20/40-second waits and Git diagnostics are logged; conflicts stop delivery rather than
 overwriting another writer. Do not run an independent production sender against
 the same watchlist concurrently.
 

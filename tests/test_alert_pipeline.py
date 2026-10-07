@@ -327,3 +327,35 @@ def test_simulated_5000_company_collection_and_outbox():
         assert store.pending_count() == 0
     finally:
         store.close()
+
+
+def test_checkpoint_retries_transient_push_with_diagnostic(tmp_path, monkeypatch, capsys):
+    monkeypatch.delenv("GITHUB_TOKEN", raising=False)
+    bare = tmp_path / "remote.git"
+    subprocess.run(["git", "init", "--bare", str(bare)], check=True, capture_output=True)
+    state = GitState(tmp_path / "state", str(bare))
+    store = AlertStore(":memory:")
+    real_git = state.git
+    attempts = []
+    def flaky_git(*args):
+        if args[0] == "push":
+            attempts.append(args)
+            if len(attempts) < 4:
+                raise subprocess.CalledProcessError(128, ["git", *args], stderr="remote: HTTP 503")
+        return real_git(*args)
+    monkeypatch.setattr(state, "git", flaky_git)
+    sleep = Mock()
+    monkeypatch.setattr("time.sleep", sleep)
+    try:
+        state.save(store)
+        assert len(attempts) == 4
+        assert [call.args[0] for call in sleep.call_args_list] == [5, 10, 20]
+        assert "HTTP 503" in capsys.readouterr().out
+        restored = AlertStore(":memory:")
+        try:
+            assert GitState(tmp_path / "restored", str(bare)).restore(restored)
+            assert restored.export() == store.export()
+        finally:
+            restored.close()
+    finally:
+        store.close()
