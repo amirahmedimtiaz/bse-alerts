@@ -4075,6 +4075,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-10-07T07:34:48.098933+00:00",
+      "news_id": "106809554",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"General Updates\", \"dt\": \"07-Oct-2026 13:04:06\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_07102026130354_071026_SSL_Intimiation_Signed.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"07-Oct-2026 13:04:06\", \"sort_date\": \"2026-10-07 13:04:06\", \"seq_id\": \"106809554\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Intimation in respect of completion of subscription to the share capital Sahaj Energies Limited, Wholly Owned Subsidiary Company in Mauritius\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"323.43 KB\", \"attFileSize\": \"323.43 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-10-07 13:04:06\", \"_category\": \"General Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Intimation in respect of completion of subscription to the share capital Sahaj Energies Limited, Wholly Owned Subsidiary Company in Mauritius\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_07102026130354_071026_SSL_Intimiation_Signed.pdf\", \"_id\": \"106809554\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-09-23T05:12:07.585000+00:00",
       "news_id": "106734677",
