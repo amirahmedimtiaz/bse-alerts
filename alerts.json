@@ -2648,6 +2648,13 @@
     },
     {
       "company_key": "544269",
+      "discovered_at": "2026-10-07T09:44:53.661694+00:00",
+      "news_id": "4864b7d1-c8a6-4ba5-b2be-bc9b24d38de2",
+      "payload": "{\"NEWSID\": \"4864b7d1-c8a6-4ba5-b2be-bc9b24d38de2\", \"SCRIP_CD\": 544269, \"XML_NAME\": \"ANN_544269_4864B7D1-C8A6-4BA5-B2BE-BC9B24D38DE2\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-07T15:13:03.363\", \"NEWS_DT\": \"2026-10-07T15:13:03.363\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"eec106a8-8148-420b-a691-5122869916c4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/\", \"SLONGNAME\": \"Neopolitan Pizza And Foods Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T15:13:03\", \"DissemDT\": \"2026-10-07T15:13:03.363\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1374249, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Neopolitan Pizza and Foods Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-07T15:13:03.363\", \"_category\": \"Company Update\", \"_headline\": \"Press Release\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/eec106a8-8148-420b-a691-5122869916c4.pdf\", \"_id\": \"4864b7d1-c8a6-4ba5-b2be-bc9b24d38de2\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544269",
       "discovered_at": "2026-10-01T10:11:23.705307+00:00",
       "news_id": "efef07af-9149-457a-9542-001fb790a76e",
       "payload": null,
