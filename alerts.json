@@ -3511,8 +3511,8 @@
       "company_key": "544822",
       "discovered_at": "2026-10-07T08:04:46.075705+00:00",
       "news_id": "36c0012c-1fcc-44da-8a2a-02ed0e321ecc",
-      "payload": "{\"NEWSID\": \"36c0012c-1fcc-44da-8a2a-02ed0e321ecc\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_36C0012C-1FCC-44DA-8A2A-02ED0E321ECC\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-07T13:31:32.23\", \"NEWS_DT\": \"2026-10-07T13:31:32.23\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"080ac5b6-722a-430a-a095-e14e807493da.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T13:31:32\", \"DissemDT\": \"2026-10-07T13:31:32.23\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 791851, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-07T13:31:32.23\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/080ac5b6-722a-430a-a095-e14e807493da.pdf\", \"_id\": \"36c0012c-1fcc-44da-8a2a-02ed0e321ecc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -4388,6 +4388,10 @@
     {
       "message_id": "<657f9390fe13b7f20310a16fd9fae3c4d2c894a5bbe736dab705d4f0e88d4f0a@gmail.com>",
       "sent_at": "2026-10-06T09:56:39.250334+00:00"
+    },
+    {
+      "message_id": "<6a5c327f71e5890eec3c57c69540a47b941d57c053a306a08f30f01ceeae6d16@gmail.com>",
+      "sent_at": "2026-10-07T08:04:56.191135+00:00"
     },
     {
       "message_id": "<7224162848c8cd81c748483482ac2ab6f3c750dc22a3b8230eaeaf07d73bdb52@gmail.com>",
