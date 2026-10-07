@@ -291,8 +291,8 @@
       "company_key": "504240",
       "discovered_at": "2026-10-07T12:30:06.731238+00:00",
       "news_id": "1dc2ec3c-6989-4db7-ad36-8b2ae3256d49",
-      "payload": "{\"NEWSID\": \"1dc2ec3c-6989-4db7-ad36-8b2ae3256d49\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_1DC2EC3C-6989-4DB7-AD36-8B2AE3256D49\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-07T17:58:33.04\", \"NEWS_DT\": \"2026-10-07T17:58:33.04\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fd42cf1f-5179-445c-855c-3442631b578d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed the Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T17:58:33\", \"DissemDT\": \"2026-10-07T17:58:33.04\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 681066, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-07T17:58:33.04\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed the Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fd42cf1f-5179-445c-855c-3442631b578d.pdf\", \"_id\": \"1dc2ec3c-6989-4db7-ad36-8b2ae3256d49\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504240",
@@ -4419,6 +4419,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<076025a7ee978763f9245dde1b3b4ddc2a92d873b1dc3b3629415800569f370d@gmail.com>",
+      "sent_at": "2026-10-07T12:30:30.143309+00:00"
+    },
     {
       "message_id": "<308c6df5117fcb1b7542c0e718ea3da3f5307fe51d59dd22a1e909a31881097a@gmail.com>",
       "sent_at": "2026-10-07T09:44:57.325396+00:00"
