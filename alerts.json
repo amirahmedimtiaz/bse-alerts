@@ -214,8 +214,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-07T12:15:06.728891+00:00",
       "news_id": "a8c6d1ec-661b-4d68-8b6d-46e9885dd4dc",
-      "payload": "{\"NEWSID\": \"a8c6d1ec-661b-4d68-8b6d-46e9885dd4dc\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_A8C6D1EC-661B-4D68-8B6D-46E9885DD4DC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-07T17:41:37.82\", \"NEWS_DT\": \"2026-10-07T17:41:37.82\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b96ee12e-a6e1-4943-9b9b-7174e587fdad.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\"Tata Power partners with Norway''s Ocean Sun to bring innovative membrane - based floating solar technology to India.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T17:41:37\", \"DissemDT\": \"2026-10-07T17:41:37.82\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 344468, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-07T17:41:37.82\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\"Tata Power partners with Norway''s Ocean Sun to bring innovative membrane - based floating solar technology to India.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b96ee12e-a6e1-4943-9b9b-7174e587fdad.pdf\", \"_id\": \"a8c6d1ec-661b-4d68-8b6d-46e9885dd4dc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -4438,16 +4438,8 @@
       "sent_at": "2026-10-06T06:31:39.408110+00:00"
     },
     {
-      "message_id": "<7b92a7e22732242df4a5236a3f3a6a916ad5b14508379e1589a5bc472fa28987@gmail.com>",
-      "sent_at": "2026-10-05T11:55:20.172013+00:00"
-    },
-    {
       "message_id": "<8008ecc55dcf2f16316494d679c68af6737690225e8fd1006b4feeb60fba648d@gmail.com>",
       "sent_at": "2026-10-06T11:33:31.521050+00:00"
-    },
-    {
-      "message_id": "<886f5b1d0cc8e6ca12c11031eb30aacc57576505f9e015920a37c00bf7de10e1@gmail.com>",
-      "sent_at": "2026-10-05T11:35:19.650358+00:00"
     },
     {
       "message_id": "<8eefb50c4a81122c879c33ba2cbb2078b9b20d1fe2e9dcb141b96b38147a4401@gmail.com>",
@@ -4492,6 +4484,10 @@
     {
       "message_id": "<f3c8c5de38dca855c806949813415a05eed30f922351f5a129d512638356833f@gmail.com>",
       "sent_at": "2026-10-06T10:01:39.402380+00:00"
+    },
+    {
+      "message_id": "<fa9a2b4da57fc4653796e307e1d7be0267edf7ea4b1b2b2f8eb97211602deacb@gmail.com>",
+      "sent_at": "2026-10-07T12:15:15.147045+00:00"
     },
     {
       "message_id": "<fbb8e0d14060413f24561a8769f1ad44ef10ff18482590191954f2d9de289b48@gmail.com>",
