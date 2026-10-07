@@ -639,6 +639,13 @@
     },
     {
       "company_key": "517569",
+      "discovered_at": "2026-10-07T12:39:53.837666+00:00",
+      "news_id": "51788d55-da8a-4c63-8092-ad57218e65a4",
+      "payload": "{\"NEWSID\": \"51788d55-da8a-4c63-8092-ad57218e65a4\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_51788D55-DA8A-4C63-8092-AD57218E65A4\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-10-07T18:07:41.42\", \"NEWS_DT\": \"2026-10-07T18:07:41.42\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a64c771d-c0da-41d2-acee-af4ed1b644c0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Allotment of 45,000 equity shares pursuant to exercise of stock options under KEI Employees Stock Option scheme - 2015.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T18:07:41\", \"DissemDT\": \"2026-10-07T18:07:41.42\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1062691, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-10-07T18:07:41.42\", \"_category\": \"Company Update\", \"_headline\": \"Allotment of 45,000 equity shares pursuant to exercise of stock options under KEI Employees Stock Option scheme - 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a64c771d-c0da-41d2-acee-af4ed1b644c0.pdf\", \"_id\": \"51788d55-da8a-4c63-8092-ad57218e65a4\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517569",
       "discovered_at": "2026-09-23T05:12:07.584360+00:00",
       "news_id": "55318e0a-945c-438b-ba21-16d0f616b447",
       "payload": null,
