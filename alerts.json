@@ -2193,6 +2193,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-07T21:23:48.293166+00:00",
+      "news_id": "37b18ff0-2192-4f56-ab40-62a302e34a84",
+      "payload": "{\"NEWSID\": \"37b18ff0-2192-4f56-ab40-62a302e34a84\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_37B18FF0-2192-4F56-AB40-62A302E34A84\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015\", \"DT_TM\": \"2026-10-07T22:42:34.393\", \"NEWS_DT\": \"2026-10-07T22:42:34.393\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0642c007-0688-4bcf-aab0-5b77cfd3dd5c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of NCLT order\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"News_submission_dt\": \"2026-10-07T22:42:34\", \"DissemDT\": \"2026-10-07T22:42:34.393\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 270930, \"SUBCATNAME\": \"General\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015\", \"_published\": \"2026-10-07T22:42:34.393\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of NCLT order\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0642c007-0688-4bcf-aab0-5b77cfd3dd5c.pdf\", \"_id\": \"37b18ff0-2192-4f56-ab40-62a302e34a84\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-10-06T09:01:18.440537+00:00",
       "news_id": "4288f405-8778-4ed8-8ae0-eeff1a7f3ed7",
       "payload": null,
@@ -4260,183 +4267,183 @@
   "companies": [
     {
       "key": "500144",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "500400",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "504212",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "504240",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "505685",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "517354",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "517498",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "517569",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "522163",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "530555",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "532259",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "532374",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "532941",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "534618",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "538706",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "538786",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "540795",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "542652",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "543620",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "543981",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544238",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544269",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544272",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544277",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544291",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544442",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544488",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544524",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544526",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544608",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544613",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544641",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544793",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544822",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544851",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544862",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "544905",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:ALPEXSOLAR",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:APS",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:BHADORA",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:BIOPOL",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:GGBL",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:SAHAJSOLAR",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:TBI",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     },
     {
       "key": "NSE:VMARCIND",
-      "last_success": "2026-10-07"
+      "last_success": "2026-10-08"
     }
   ],
   "deliveries": [
