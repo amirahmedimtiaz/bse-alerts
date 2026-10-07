@@ -3327,6 +3327,13 @@
     },
     {
       "company_key": "544641",
+      "discovered_at": "2026-10-07T12:20:10.951248+00:00",
+      "news_id": "00b2dcc7-b2b0-4a7f-bc18-8c6d44bea2f3",
+      "payload": "{\"NEWSID\": \"00b2dcc7-b2b0-4a7f-bc18-8c6d44bea2f3\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_00B2DCC7-B2B0-4A7F-BC18-8C6D44BEA2F3\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-07T17:49:04.893\", \"NEWS_DT\": \"2026-10-07T17:49:04.893\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"06006c42-c16c-4272-9909-d2ec66ccf7bb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Confirmation Certificate in the matter of Regulation 74(5) of Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018 for the Half Year ended 30th September, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T17:49:04\", \"DissemDT\": \"2026-10-07T17:49:04.893\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 584564, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-07T17:49:04.893\", \"_category\": \"Company Update\", \"_headline\": \"Confirmation Certificate in the matter of Regulation 74(5) of Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018 for the Half Year ended 30th September, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/06006c42-c16c-4272-9909-d2ec66ccf7bb.pdf\", \"_id\": \"00b2dcc7-b2b0-4a7f-bc18-8c6d44bea2f3\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544641",
       "discovered_at": "2026-09-29T13:36:10.681457+00:00",
       "news_id": "e64c8beb-c53a-4696-9d0c-6373c7c64dd4",
       "payload": null,
