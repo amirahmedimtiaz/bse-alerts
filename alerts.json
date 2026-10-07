@@ -3250,6 +3250,13 @@
     },
     {
       "company_key": "544608",
+      "discovered_at": "2026-10-07T16:20:26.523549+00:00",
+      "news_id": "779292a6-1b5b-45b2-b155-374bee86e719",
+      "payload": "{\"NEWSID\": \"779292a6-1b5b-45b2-b155-374bee86e719\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_779292A6-1B5B-45B2-B155-374BEE86E719\", \"NEWSSUB\": \"Board Meeting Intimation for Consider And Approve The Unaudited Financial Results (Standalone And Consolidated) Of The Company For The Quarter And Half Year Ended September 30, 2026.\", \"DT_TM\": \"2026-10-07T21:10:23.82\", \"NEWS_DT\": \"2026-10-07T21:10:23.82\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"54eed0f0-e60f-4d58-acac-dd81211a762b.pdf\", \"MORE\": \"Emmvee Photovoltaic Power Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/10/2026 ,inter alia, to consider and approve the unaudited financial results (Standalone and Consolidated) of the Company for the quarter and half year ended September 30, 2026.\", \"HEADLINE\": \"Emmvee Photovoltaic Power Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/10/2026 ,inter alia, to consider and approve the unaudited financial ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T21:10:21\", \"DissemDT\": \"2026-10-07T21:10:23.82\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 3851191, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Board Meeting Intimation for Consider And Approve The Unaudited Financial Results (Standalone And Consolidated) Of The Company For The Quarter And Half Year Ended September 30, 2026.\", \"_published\": \"2026-10-07T21:10:23.82\", \"_category\": \"Board Meeting\", \"_headline\": \"Emmvee Photovoltaic Power Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/10/2026 ,inter alia, to consider and approve the unaudited financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/54eed0f0-e60f-4d58-acac-dd81211a762b.pdf\", \"_id\": \"779292a6-1b5b-45b2-b155-374bee86e719\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544608",
       "discovered_at": "2026-10-01T15:22:46.808973+00:00",
       "news_id": "7c1a8837-e16b-425b-bd89-95f359c449b0",
       "payload": null,
@@ -3268,6 +3275,13 @@
       "news_id": "99ae419e-e85a-4602-85b6-6e8601572d5b",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-10-07T16:20:26.523721+00:00",
+      "news_id": "c3dabf91-d0b2-4ede-8ab0-4e4a363c89e8",
+      "payload": "{\"NEWSID\": \"c3dabf91-d0b2-4ede-8ab0-4e4a363c89e8\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_C3DABF91-D0B2-4EDE-8AB0-4E4A363C89E8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-07T21:14:36.92\", \"NEWS_DT\": \"2026-10-07T21:14:36.92\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ce8e7f9c-f0d5-4155-90eb-2160167f4757.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Q2FY2027 earnings call intimation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-07T21:14:36\", \"DissemDT\": \"2026-10-07T21:14:36.92\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3851191, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"c3dabf91-d0b2-4ede-8ab0-4e4a363c89e8\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14464276, \"DataInsDate\": \"2026-10-07T21:14:36.833\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-07T21:14:36.92\", \"_category\": \"Company Update\", \"_headline\": \"Q2FY2027 earnings call intimation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ce8e7f9c-f0d5-4155-90eb-2160167f4757.pdf\", \"_id\": \"c3dabf91-d0b2-4ede-8ab0-4e4a363c89e8\"}",
+      "status": "pending"
     },
     {
       "company_key": "544608",
