@@ -3098,8 +3098,8 @@
       "company_key": "544524",
       "discovered_at": "2026-10-08T05:52:36.028792+00:00",
       "news_id": "89484714-6211-4447-ac39-e37a9ba76c57",
-      "payload": "{\"NEWSID\": \"89484714-6211-4447-ac39-e37a9ba76c57\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_89484714-6211-4447-AC39-E37A9BA76C57\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T11:19:13.75\", \"NEWS_DT\": \"2026-10-08T11:19:13.75\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4228d1de-1561-4369-9f60-82584486687e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation pursuant to Regulation 74(5) of SEBI (LODR Regulations) 2015 regarding the RTA Certificate for the half year ended as on 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T11:19:13\", \"DissemDT\": \"2026-10-08T11:19:13.75\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1020484, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T11:19:13.75\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation pursuant to Regulation 74(5) of SEBI (LODR Regulations) 2015 regarding the RTA Certificate for the half year ended as on 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4228d1de-1561-4369-9f60-82584486687e.pdf\", \"_id\": \"89484714-6211-4447-ac39-e37a9ba76c57\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -4495,6 +4495,10 @@
     {
       "message_id": "<4b4d6dd786d545a8df71d2eca2aff5627fcb823f4f27fd36259f314c238ae3fe@gmail.com>",
       "sent_at": "2026-10-06T09:21:39.240234+00:00"
+    },
+    {
+      "message_id": "<550f1b3609638def5a57de2e91c023a58e26096f193b0d8753756b9c78f21135@gmail.com>",
+      "sent_at": "2026-10-08T05:53:13.062148+00:00"
     },
     {
       "message_id": "<59759b0dc4e75d674a9a48cc32bf9691aa126c088f4e04f6b5262b4e8ae625b2@gmail.com>",
