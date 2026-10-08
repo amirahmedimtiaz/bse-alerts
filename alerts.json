@@ -4243,6 +4243,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-10-08T12:48:04.397714+00:00",
+      "news_id": "106811538",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"08-Oct-2026 18:13:31\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_08102026181302_081026_SSL_Reg_74_5__Signed.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 18:13:31\", \"sort_date\": \"2026-10-08 18:13:31\", \"seq_id\": \"106811538\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"704.24 KB\", \"attFileSize\": \"704.24 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-08 18:13:31\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_08102026181302_081026_SSL_Reg_74_5__Signed.pdf\", \"_id\": \"106811538\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:TBI",
       "discovered_at": "2026-10-08T12:13:18.964018+00:00",
       "news_id": "106811469",
