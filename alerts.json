@@ -2381,6 +2381,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "543415",
+      "discovered_at": "2026-10-08T22:14:04.720565+00:00",
+      "news_id": "663df1b7-c064-45ac-890d-6d75593be9a4",
+      "payload": null,
+      "status": "baseline"
+    },
+    {
       "company_key": "543620",
       "discovered_at": "2026-09-29T14:21:06.075071+00:00",
       "news_id": "01c8486a-59f1-4b8f-a7dc-2a8d3652067f",
@@ -4461,6 +4468,10 @@
     },
     {
       "key": "542652",
+      "last_success": "2026-10-09"
+    },
+    {
+      "key": "543415",
       "last_success": "2026-10-09"
     },
     {
