@@ -4599,7 +4599,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T06:27:53.117682+00:00\", \"seconds\": 18.44}"
+      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T06:32:53.116619+00:00\", \"seconds\": 18.43}"
     },
     {
       "key": "migration_date",
