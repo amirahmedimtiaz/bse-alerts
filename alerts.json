@@ -4243,6 +4243,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:TBI",
+      "discovered_at": "2026-10-08T12:13:18.964018+00:00",
+      "news_id": "106811469",
+      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"08-Oct-2026 17:42:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_08102026174134_Proposal_Incorporation_TBI.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 17:42:39\", \"sort_date\": \"2026-10-08 17:42:39\", \"seq_id\": \"106811469\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange regarding Outcome of Board Meeting held on October 08, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"215.42 KB\", \"attFileSize\": \"215.42 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-10-08 17:42:39\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"TBI Corn Limited has informed the Exchange regarding Outcome of Board Meeting held on October 08, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_08102026174134_Proposal_Incorporation_TBI.pdf\", \"_id\": \"106811469\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-09-23T05:12:07.585000+00:00",
       "news_id": "106734677",
