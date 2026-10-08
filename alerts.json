@@ -3187,6 +3187,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-10-08T06:37:45.665833+00:00",
+      "news_id": "67aca2d2-18ed-404a-80c7-1268ec9125e1",
+      "payload": "{\"NEWSID\": \"67aca2d2-18ed-404a-80c7-1268ec9125e1\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_67ACA2D2-18ED-404A-80C7-1268EC9125E1\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T12:03:46.903\", \"NEWS_DT\": \"2026-10-08T12:03:46.903\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4b68c813-fed8-45f3-b66b-10066eaa12c6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate pursuant to Regulation 74(5) of SEBI(Depositary Participants) Regulation,2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T12:03:46\", \"DissemDT\": \"2026-10-08T12:03:46.903\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 686345, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T12:03:46.903\", \"_category\": \"Company Update\", \"_headline\": \"Certificate pursuant to Regulation 74(5) of SEBI(Depositary Participants) Regulation,2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b68c813-fed8-45f3-b66b-10066eaa12c6.pdf\", \"_id\": \"67aca2d2-18ed-404a-80c7-1268ec9125e1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584844+00:00",
       "news_id": "85b45567-fdeb-493b-a080-298f5a038860",
       "payload": null,
