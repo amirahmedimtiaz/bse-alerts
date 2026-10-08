@@ -4222,6 +4222,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-10-08T13:28:03.512311+00:00",
+      "news_id": "106811633",
+      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"08-Oct-2026 18:56:02\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026185505_Reg76ReconciliationofsharecapitalFINAL.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 18:56:02\", \"sort_date\": \"2026-10-08 18:56:02\", \"seq_id\": \"106811633\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"658.73 KB\", \"attFileSize\": \"658.73 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-08 18:56:02\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026185505_Reg76ReconciliationofsharecapitalFINAL.pdf\", \"_id\": \"106811633\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584989+00:00",
       "news_id": "106779261",
