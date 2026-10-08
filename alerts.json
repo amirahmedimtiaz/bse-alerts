@@ -3133,8 +3133,8 @@
       "company_key": "544524",
       "discovered_at": "2026-10-08T05:07:23.450419+00:00",
       "news_id": "eacc2a61-a7eb-4ff8-8233-58012793750f",
-      "payload": "{\"NEWSID\": \"eacc2a61-a7eb-4ff8-8233-58012793750f\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_EACC2A61-A7EB-4FF8-8233-58012793750F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-08T10:34:08.21\", \"NEWS_DT\": \"2026-10-08T10:34:08.21\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cffb077f-0d20-47b6-a7ef-fe7e595002ff.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation persuant to Regulation 30 of SEBI (LODR Regulations) 2015, regarding the receipt of order from reputed government and private entities\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T10:34:08\", \"DissemDT\": \"2026-10-08T10:34:08.21\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 612233, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-08T10:34:08.21\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation persuant to Regulation 30 of SEBI (LODR Regulations) 2015, regarding the receipt of order from reputed government and private entities\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cffb077f-0d20-47b6-a7ef-fe7e595002ff.pdf\", \"_id\": \"eacc2a61-a7eb-4ff8-8233-58012793750f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -4469,6 +4469,10 @@
     {
       "message_id": "<4972d48d3b8cdc6acff7dcad5821168397df84a2ebc3496330c569d49ce1ed20@gmail.com>",
       "sent_at": "2026-10-06T06:51:41.101865+00:00"
+    },
+    {
+      "message_id": "<4a16c7bbc414c77685b0518955e3bd995c14bd9dfff46d142f2fbc2f3dd21474@gmail.com>",
+      "sent_at": "2026-10-08T05:07:40.022931+00:00"
     },
     {
       "message_id": "<4b4d6dd786d545a8df71d2eca2aff5627fcb823f4f27fd36259f314c238ae3fe@gmail.com>",
