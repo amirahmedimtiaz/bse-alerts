@@ -1082,8 +1082,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-08T09:37:39.283831+00:00",
       "news_id": "67eca67e-45d7-4f26-a198-3940fc0dbb9f",
-      "payload": "{\"NEWSID\": \"67eca67e-45d7-4f26-a198-3940fc0dbb9f\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_67ECA67E-45D7-4F26-A198-3940FC0DBB9F\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T15:04:42.487\", \"NEWS_DT\": \"2026-10-08T15:04:42.487\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"05329600-717f-4225-b50e-1d6b6e80c147.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations,2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T15:04:42\", \"DissemDT\": \"2026-10-08T15:04:42.487\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 925419, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T15:04:42.487\", \"_category\": \"Company Update\", \"_headline\": \"Certificate Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations,2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/05329600-717f-4225-b50e-1d6b6e80c147.pdf\", \"_id\": \"67eca67e-45d7-4f26-a198-3940fc0dbb9f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -2055,8 +2055,8 @@
       "company_key": "538786",
       "discovered_at": "2026-10-08T09:37:46.595321+00:00",
       "news_id": "e256a199-fef0-47a9-ab5c-31d3953d2cf8",
-      "payload": "{\"NEWSID\": \"e256a199-fef0-47a9-ab5c-31d3953d2cf8\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_E256A199-FEF0-47A9-AB5C-31D3953D2CF8\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T15:06:02.863\", \"NEWS_DT\": \"2026-10-08T15:06:02.863\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"938047a1-efaa-45e2-bd7a-ea580bbb51aa.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 attached herewith the confirmation certificate from our RTA for the quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T15:06:02\", \"DissemDT\": \"2026-10-08T15:06:02.863\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1102901, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T15:06:02.863\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 attached herewith the confirmation certificate from our RTA for the quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/938047a1-efaa-45e2-bd7a-ea580bbb51aa.pdf\", \"_id\": \"e256a199-fef0-47a9-ab5c-31d3953d2cf8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -4524,10 +4524,6 @@
       "sent_at": "2026-10-08T05:07:40.022931+00:00"
     },
     {
-      "message_id": "<4b4d6dd786d545a8df71d2eca2aff5627fcb823f4f27fd36259f314c238ae3fe@gmail.com>",
-      "sent_at": "2026-10-06T09:21:39.240234+00:00"
-    },
-    {
       "message_id": "<550f1b3609638def5a57de2e91c023a58e26096f193b0d8753756b9c78f21135@gmail.com>",
       "sent_at": "2026-10-08T05:53:13.062148+00:00"
     },
@@ -4552,20 +4548,16 @@
       "sent_at": "2026-10-06T12:43:30.963469+00:00"
     },
     {
+      "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
+      "sent_at": "2026-10-08T09:38:15.021279+00:00"
+    },
+    {
       "message_id": "<8008ecc55dcf2f16316494d679c68af6737690225e8fd1006b4feeb60fba648d@gmail.com>",
       "sent_at": "2026-10-06T11:33:31.521050+00:00"
     },
     {
       "message_id": "<87b130220be2a8be7055c65444fcf979d645c947e11c1d6668a1c19defabe094@gmail.com>",
       "sent_at": "2026-10-08T06:17:55.023687+00:00"
-    },
-    {
-      "message_id": "<8eefb50c4a81122c879c33ba2cbb2078b9b20d1fe2e9dcb141b96b38147a4401@gmail.com>",
-      "sent_at": "2026-10-06T09:01:39.405727+00:00"
-    },
-    {
-      "message_id": "<9734ce69659f84628e6bcfd207e171e6e5026b090db3d6d30887c0d7dd8251d1@gmail.com>",
-      "sent_at": "2026-10-06T08:31:39.431602+00:00"
     },
     {
       "message_id": "<a64672999871bd473606b4e32aa6eccd48ac46ffbe55f8b917bd9e48e50c8412@gmail.com>",
