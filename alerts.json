@@ -410,8 +410,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-08T13:12:56.949246+00:00",
       "news_id": "bcc5e6b2-ecec-4855-8a02-cc8d3b1b6df5",
-      "payload": "{\"NEWSID\": \"bcc5e6b2-ecec-4855-8a02-cc8d3b1b6df5\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_BCC5E6B2-ECEC-4855-8A02-CC8D3B1B6DF5\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T18:38:13.49\", \"NEWS_DT\": \"2026-10-08T18:38:13.49\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"049b24c0-d8c9-4b14-bbb3-7766e4794b70.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate received from MUFG Intime India Pvt Ltd, the RTA of the Company, confirming compliance of Regulation 74(5) of the SEBI (DP) Regulations, 2018, for the quarter ended 30th September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T18:38:13\", \"DissemDT\": \"2026-10-08T18:38:13.49\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1594766, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T18:38:13.49\", \"_category\": \"Company Update\", \"_headline\": \"Certificate received from MUFG Intime India Pvt Ltd, the RTA of the Company, confirming compliance of Regulation 74(5) of the SEBI (DP) Regulations, 2018, for the quarter ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/049b24c0-d8c9-4b14-bbb3-7766e4794b70.pdf\", \"_id\": \"bcc5e6b2-ecec-4855-8a02-cc8d3b1b6df5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -4579,6 +4579,10 @@
     {
       "message_id": "<308c6df5117fcb1b7542c0e718ea3da3f5307fe51d59dd22a1e909a31881097a@gmail.com>",
       "sent_at": "2026-10-07T09:44:57.325396+00:00"
+    },
+    {
+      "message_id": "<3ef6c7a2f319ef1cfe3211fabdec0bf4a47c9007455046e6dd8f04127706df31@gmail.com>",
+      "sent_at": "2026-10-08T13:13:12.931916+00:00"
     },
     {
       "message_id": "<4a16c7bbc414c77685b0518955e3bd995c14bd9dfff46d142f2fbc2f3dd21474@gmail.com>",
