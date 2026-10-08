@@ -4672,7 +4672,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 46, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T13:08:32.017816+00:00\", \"seconds\": 39.9}"
+      "value": "{\"companies\": 46, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T13:13:14.024969+00:00\", \"seconds\": 21.91}"
     },
     {
       "key": "migration_date",
