@@ -4613,7 +4613,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T07:58:16.417701+00:00\", \"seconds\": 41.73}"
+      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T08:02:53.009264+00:00\", \"seconds\": 18.32}"
     },
     {
       "key": "migration_date",
