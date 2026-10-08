@@ -4246,8 +4246,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-08T12:48:04.397714+00:00",
       "news_id": "106811538",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"08-Oct-2026 18:13:31\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_08102026181302_081026_SSL_Reg_74_5__Signed.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 18:13:31\", \"sort_date\": \"2026-10-08 18:13:31\", \"seq_id\": \"106811538\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"704.24 KB\", \"attFileSize\": \"704.24 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-08 18:13:31\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_08102026181302_081026_SSL_Reg_74_5__Signed.pdf\", \"_id\": \"106811538\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -4555,6 +4555,10 @@
       "sent_at": "2026-10-08T05:37:55.185502+00:00"
     },
     {
+      "message_id": "<134aa60aac114025135bac62312c2cd2ae010daa98436049e90a039626040916@gmail.com>",
+      "sent_at": "2026-10-08T12:48:13.703161+00:00"
+    },
+    {
       "message_id": "<20f12a118f152c3a2fb65979bc03bfb9011f0a31dcd3a72299f490facfb4d147@gmail.com>",
       "sent_at": "2026-10-08T10:48:13.926220+00:00"
     },
@@ -4585,10 +4589,6 @@
     {
       "message_id": "<6a5c327f71e5890eec3c57c69540a47b941d57c053a306a08f30f01ceeae6d16@gmail.com>",
       "sent_at": "2026-10-07T08:04:56.191135+00:00"
-    },
-    {
-      "message_id": "<7224162848c8cd81c748483482ac2ab6f3c750dc22a3b8230eaeaf07d73bdb52@gmail.com>",
-      "sent_at": "2026-10-06T12:43:30.963469+00:00"
     },
     {
       "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
