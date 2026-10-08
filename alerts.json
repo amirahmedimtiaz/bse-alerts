@@ -4204,8 +4204,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-10-08T12:08:03.810896+00:00",
       "news_id": "106811456",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Integrated Filing- Governance\", \"dt\": \"08-Oct-2026 17:35:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026173051_NonapplicabilityofCORPORATEGOVERNANCE.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 17:35:39\", \"sort_date\": \"2026-10-08 17:35:39\", \"seq_id\": \"106811456\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Integrated Filing- Governance for quarter ended 30 September 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"848.41 KB\", \"attFileSize\": \"848.41 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Integrated Filing- Governance\", \"_published\": \"2026-10-08 17:35:39\", \"_category\": \"Integrated Filing- Governance\", \"_headline\": \"Integrated Filing- Governance for quarter ended 30 September 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026173051_NonapplicabilityofCORPORATEGOVERNANCE.pdf\", \"_id\": \"106811456\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -4533,6 +4533,10 @@
       "sent_at": "2026-10-07T12:30:30.143309+00:00"
     },
     {
+      "message_id": "<07a3e8ef9d7e9de1e063a07b536c0a3fc7e28f47e5b52ddee08dd460bbd16222@gmail.com>",
+      "sent_at": "2026-10-08T12:08:13.094334+00:00"
+    },
+    {
       "message_id": "<0a47f5c7e60c0eca5ee74a26b20870bcbc9ead0afa9a0ed530f2ff8718ebe957@gmail.com>",
       "sent_at": "2026-10-08T05:37:55.185502+00:00"
     },
@@ -4571,10 +4575,6 @@
     {
       "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
       "sent_at": "2026-10-08T09:38:15.021279+00:00"
-    },
-    {
-      "message_id": "<8008ecc55dcf2f16316494d679c68af6737690225e8fd1006b4feeb60fba648d@gmail.com>",
-      "sent_at": "2026-10-06T11:33:31.521050+00:00"
     },
     {
       "message_id": "<87b130220be2a8be7055c65444fcf979d645c947e11c1d6668a1c19defabe094@gmail.com>",
@@ -4617,10 +4617,6 @@
       "sent_at": "2026-10-07T12:20:16.502888+00:00"
     },
     {
-      "message_id": "<dfee5eeb6fe3c594697b1145b208ab25ae8790bfd728c4451da34a8931e4b2a5@gmail.com>",
-      "sent_at": "2026-10-06T10:58:31.167213+00:00"
-    },
-    {
       "message_id": "<f1a80f242e6d4e44e6ed54364b220fbaedbe162b5bd47d67650369ac25837ffb@gmail.com>",
       "sent_at": "2026-10-07T07:34:56.123198+00:00"
     },
@@ -4631,10 +4627,6 @@
     {
       "message_id": "<fa9a2b4da57fc4653796e307e1d7be0267edf7ea4b1b2b2f8eb97211602deacb@gmail.com>",
       "sent_at": "2026-10-07T12:15:15.147045+00:00"
-    },
-    {
-      "message_id": "<fbb8e0d14060413f24561a8769f1ad44ef10ff18482590191954f2d9de289b48@gmail.com>",
-      "sent_at": "2026-10-06T10:48:31.432784+00:00"
     }
   ],
   "metadata": [
