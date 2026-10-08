@@ -683,8 +683,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-08T10:47:53.038551+00:00",
       "news_id": "695bdbf1-910a-446e-b1b1-e503814762e8",
-      "payload": "{\"NEWSID\": \"695bdbf1-910a-446e-b1b1-e503814762e8\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_695BDBF1-910A-446E-B1B1-E503814762E8\", \"NEWSSUB\": \"Disclosure Pursuant To Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligation And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-08T16:14:03.61\", \"NEWS_DT\": \"2026-10-08T16:14:03.61\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"57726e4b-429d-4f70-9e60-dd7ab3774e1b.pdf\", \"MORE\": \"This is with reference to our earlier communication dated 04.02.2025 intimating the GST Demand Order received from Joint Commissioner ( Office of Commissioner of Central Goods & Service Tax) Noida Audit Commissionerate, Noida dated February 03, 2025 in respect of GST Demand. We now to wish to inform you that the Company had further filed appeals against the aforesaid order and after due consideration the Commissioner (Appeals) Noida vide its order dated September 29, 2026 received on  October 07, 2026 has further reduced the aforesaid GST demand.\", \"HEADLINE\": \"This is with reference to our earlier communication dated 04.02.2025 intimating the GST Demand Order received from Joint Commissioner ( Office of Commissioner of Central Goods & Service ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T16:14:03\", \"DissemDT\": \"2026-10-08T16:14:03.61\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1048431, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Disclosure Pursuant To Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligation And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-08T16:14:03.61\", \"_category\": \"Company Update\", \"_headline\": \"This is with reference to our earlier communication dated 04.02.2025 intimating the GST Demand Order received from Joint Commissioner ( Office of Commissioner of Central Goods & Service ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/57726e4b-429d-4f70-9e60-dd7ab3774e1b.pdf\", \"_id\": \"695bdbf1-910a-446e-b1b1-e503814762e8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -4530,6 +4530,10 @@
       "sent_at": "2026-10-08T05:37:55.185502+00:00"
     },
     {
+      "message_id": "<20f12a118f152c3a2fb65979bc03bfb9011f0a31dcd3a72299f490facfb4d147@gmail.com>",
+      "sent_at": "2026-10-08T10:48:13.926220+00:00"
+    },
+    {
       "message_id": "<308c6df5117fcb1b7542c0e718ea3da3f5307fe51d59dd22a1e909a31881097a@gmail.com>",
       "sent_at": "2026-10-07T09:44:57.325396+00:00"
     },
@@ -4544,10 +4548,6 @@
     {
       "message_id": "<59759b0dc4e75d674a9a48cc32bf9691aa126c088f4e04f6b5262b4e8ae625b2@gmail.com>",
       "sent_at": "2026-10-07T16:20:46.768139+00:00"
-    },
-    {
-      "message_id": "<657f9390fe13b7f20310a16fd9fae3c4d2c894a5bbe736dab705d4f0e88d4f0a@gmail.com>",
-      "sent_at": "2026-10-06T09:56:39.250334+00:00"
     },
     {
       "message_id": "<6591f6b4321a4c80eca31920c6363a6bc8d7dd7456e684388c83b71506f7568c@gmail.com>",
@@ -4616,10 +4616,6 @@
     {
       "message_id": "<f1a80f242e6d4e44e6ed54364b220fbaedbe162b5bd47d67650369ac25837ffb@gmail.com>",
       "sent_at": "2026-10-07T07:34:56.123198+00:00"
-    },
-    {
-      "message_id": "<f3c8c5de38dca855c806949813415a05eed30f922351f5a129d512638356833f@gmail.com>",
-      "sent_at": "2026-10-06T10:01:39.402380+00:00"
     },
     {
       "message_id": "<f65b243a2dca419edacb5ed8ca9961779e7a2bda9c48d96add924c7906138159@gmail.com>",
