@@ -226,6 +226,13 @@
     },
     {
       "company_key": "500400",
+      "discovered_at": "2026-10-08T05:37:50.090441+00:00",
+      "news_id": "d18ba403-4844-4404-9b53-c44e567f0a01",
+      "payload": "{\"NEWSID\": \"d18ba403-4844-4404-9b53-c44e567f0a01\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_D18BA403-4844-4404-9B53-C44E567F0A01\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-08T11:06:52.77\", \"NEWS_DT\": \"2026-10-08T11:06:52.77\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f81bccb7-bfb7-4d9a-9c97-8f3a16b945ba.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\"TP Solar, Manufacturing Arm of Tata Power Renewables, Records 1GW Module and 0.9GW Cell Production in Q2 FY27Achieves 2GW Module and 1.8GW Cell Output in the H1 FY27.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T11:06:52\", \"DissemDT\": \"2026-10-08T11:06:52.77\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 470756, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-08T11:06:52.77\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\"TP Solar, Manufacturing Arm of Tata Power Renewables, Records 1GW Module and 0.9GW Cell Production in Q2 FY27Achieves 2GW Module and 1.8GW Cell Output in the H1 FY27.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f81bccb7-bfb7-4d9a-9c97-8f3a16b945ba.pdf\", \"_id\": \"d18ba403-4844-4404-9b53-c44e567f0a01\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "500400",
       "discovered_at": "2026-10-07T09:04:50.207274+00:00",
       "news_id": "ee7b6ae5-f6f4-4c63-b219-9d9c56bf7b1d",
       "payload": null,
