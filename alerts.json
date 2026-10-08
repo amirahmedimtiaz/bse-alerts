@@ -1481,8 +1481,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-08T09:42:41.164334+00:00",
       "news_id": "4d11741b-a52f-4d56-ac4c-00d1449491d7",
-      "payload": "{\"NEWSID\": \"4d11741b-a52f-4d56-ac4c-00d1449491d7\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_4D11741B-A52F-4D56-AC4C-00D1449491D7\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T15:08:08.74\", \"NEWS_DT\": \"2026-10-08T15:08:08.74\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b86bceef-c07e-4cd2-a321-11152aff83cb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T15:08:08\", \"DissemDT\": \"2026-10-08T15:08:08.74\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 593520, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T15:08:08.74\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b86bceef-c07e-4cd2-a321-11152aff83cb.pdf\", \"_id\": \"4d11741b-a52f-4d56-ac4c-00d1449491d7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -4613,6 +4613,10 @@
     {
       "message_id": "<f3c8c5de38dca855c806949813415a05eed30f922351f5a129d512638356833f@gmail.com>",
       "sent_at": "2026-10-06T10:01:39.402380+00:00"
+    },
+    {
+      "message_id": "<f65b243a2dca419edacb5ed8ca9961779e7a2bda9c48d96add924c7906138159@gmail.com>",
+      "sent_at": "2026-10-08T09:42:55.099613+00:00"
     },
     {
       "message_id": "<fa9a2b4da57fc4653796e307e1d7be0267edf7ea4b1b2b2f8eb97211602deacb@gmail.com>",
