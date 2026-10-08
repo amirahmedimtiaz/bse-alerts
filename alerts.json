@@ -4201,6 +4201,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-10-08T12:08:03.810896+00:00",
+      "news_id": "106811456",
+      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Integrated Filing- Governance\", \"dt\": \"08-Oct-2026 17:35:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026173051_NonapplicabilityofCORPORATEGOVERNANCE.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 17:35:39\", \"sort_date\": \"2026-10-08 17:35:39\", \"seq_id\": \"106811456\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Integrated Filing- Governance for quarter ended 30 September 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"848.41 KB\", \"attFileSize\": \"848.41 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Integrated Filing- Governance\", \"_published\": \"2026-10-08 17:35:39\", \"_category\": \"Integrated Filing- Governance\", \"_headline\": \"Integrated Filing- Governance for quarter ended 30 September 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026173051_NonapplicabilityofCORPORATEGOVERNANCE.pdf\", \"_id\": \"106811456\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584989+00:00",
       "news_id": "106779261",
