@@ -2403,6 +2403,13 @@
     },
     {
       "company_key": "543620",
+      "discovered_at": "2026-10-08T07:17:47.544833+00:00",
+      "news_id": "c7276d01-6dab-49ad-8988-99a585762300",
+      "payload": "{\"NEWSID\": \"c7276d01-6dab-49ad-8988-99a585762300\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_C7276D01-6DAB-49AD-8988-99A585762300\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-08T12:46:30.277\", \"NEWS_DT\": \"2026-10-08T12:46:30.277\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"270ad5a1-733b-4c2a-acb3-10a043a21408.pdf\", \"MORE\": \"We Submit herewith the confirmation Certificate received from Bigshare Service Private Limited, Registrar and Share Transfer Agent (RTA) pursuant to Regulation 74(5) of the SEBI (Depositories and Participants) Regulation, 2018 for the quarter ended 30th September, 2026.\", \"HEADLINE\": \"We Submit herewith the confirmation Certificate received from Bigshare Service Private Limited, Registrar and Share Transfer Agent (RTA) pursuant to Regulation 74(5) of the SEBI (Depositories ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-08T12:46:30\", \"DissemDT\": \"2026-10-08T12:46:30.277\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1161222, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-08T12:46:30.277\", \"_category\": \"Company Update\", \"_headline\": \"We Submit herewith the confirmation Certificate received from Bigshare Service Private Limited, Registrar and Share Transfer Agent (RTA) pursuant to Regulation 74(5) of the SEBI (Depositories ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/270ad5a1-733b-4c2a-acb3-10a043a21408.pdf\", \"_id\": \"c7276d01-6dab-49ad-8988-99a585762300\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543620",
       "discovered_at": "2026-09-26T14:20:36.732954+00:00",
       "news_id": "d8863248-e8ca-44e3-9a1a-b576b4e8eed5",
       "payload": null,
