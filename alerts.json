@@ -4225,8 +4225,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-10-08T13:28:03.512311+00:00",
       "news_id": "106811633",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"08-Oct-2026 18:56:02\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026185505_Reg76ReconciliationofsharecapitalFINAL.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"08-Oct-2026 18:56:02\", \"sort_date\": \"2026-10-08 18:56:02\", \"seq_id\": \"106811633\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"658.73 KB\", \"attFileSize\": \"658.73 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-08 18:56:02\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_08102026185505_Reg76ReconciliationofsharecapitalFINAL.pdf\", \"_id\": \"106811633\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -4598,6 +4598,10 @@
     {
       "message_id": "<4a5e55059f6ac3028f747401dd71d0efbd38a413dde47e265320d25f60522ae9@gmail.com>",
       "sent_at": "2026-10-08T12:13:23.497985+00:00"
+    },
+    {
+      "message_id": "<528b1bad806873dafa97ee941a2161f4ac55024fcc1263a7afaa7684bde7f66c@gmail.com>",
+      "sent_at": "2026-10-08T13:28:13.102965+00:00"
     },
     {
       "message_id": "<550f1b3609638def5a57de2e91c023a58e26096f193b0d8753756b9c78f21135@gmail.com>",
