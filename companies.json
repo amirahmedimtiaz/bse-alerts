@@ -239,5 +239,12 @@
     "name": "Shiv Texchem Ltd",
     "scrip_code": 544272,
     "announcement_url": "https://www.bseindia.com/stock-share-price/shiv-texchem-ltd/shivtexchem/544272/corp-announcements"
+  },
+  {
+    "name": "Propshop Events and Exhibitions Limited",
+    "exchange": "NSE",
+    "symbol": "PROPSHOP",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited"
   }
 ]
