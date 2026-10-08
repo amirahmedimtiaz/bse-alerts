@@ -4697,7 +4697,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T16:08:49.158507+00:00\", \"seconds\": 36.94}"
+      "value": "{\"companies\": 46, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T16:13:33.017103+00:00\", \"seconds\": 20.85}"
     },
     {
       "key": "migration_date",
