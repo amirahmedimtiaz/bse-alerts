@@ -4643,7 +4643,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 46, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T12:08:14.096844+00:00\", \"seconds\": 21.63}"
+      "value": "{\"companies\": 46, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-08T12:13:24.554223+00:00\", \"seconds\": 32.34}"
     },
     {
       "key": "migration_date",
