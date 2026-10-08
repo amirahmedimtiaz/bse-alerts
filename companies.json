@@ -246,5 +246,10 @@
     "symbol": "PROPSHOP",
     "market_type": "sme",
     "announcement_url": "https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited"
+  },
+  {
+    "name": "Anand Rathi Wealth Ltd",
+    "scrip_code": 543415,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements"
   }
 ]
