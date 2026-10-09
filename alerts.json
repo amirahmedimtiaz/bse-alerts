@@ -2284,6 +2284,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-09T11:15:32.051096+00:00",
+      "news_id": "58a1c574-ce5f-4633-8d75-19f63327b2ce",
+      "payload": "{\"NEWSID\": \"58a1c574-ce5f-4633-8d75-19f63327b2ce\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_58A1C574-CE5F-4633-8D75-19F63327B2CE\", \"NEWSSUB\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"DT_TM\": \"2026-10-09T16:42:44.05\", \"NEWS_DT\": \"2026-10-09T16:42:44.05\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"24b2c5f0-3922-47a2-b527-11189f3ed1e4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Update on Corporate Insolvency Resolution Process (CIRP)\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 173, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T16:42:44\", \"DissemDT\": \"2026-10-09T16:42:44.05\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 575617, \"SUBCATNAME\": \"Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"_published\": \"2026-10-09T16:42:44.05\", \"_category\": \"Company Update\", \"_headline\": \"Update on Corporate Insolvency Resolution Process (CIRP)\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/24b2c5f0-3922-47a2-b527-11189f3ed1e4.pdf\", \"_id\": \"58a1c574-ce5f-4633-8d75-19f63327b2ce\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584679+00:00",
       "news_id": "6ab64020-f869-40c8-bcf9-48699fb442ad",
       "payload": null,
