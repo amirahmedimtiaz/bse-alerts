@@ -2405,8 +2405,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-09T12:10:48.067122+00:00",
       "news_id": "c17cb3e3-cbb7-432e-93d7-4844153f0078",
-      "payload": "{\"NEWSID\": \"c17cb3e3-cbb7-432e-93d7-4844153f0078\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_C17CB3E3-CBB7-432E-93D7-4844153F0078\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Friday, 09Th October, 2026\", \"DT_TM\": \"2026-10-09T17:39:55.85\", \"NEWS_DT\": \"2026-10-09T17:39:55.85\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"02b9b640-f73c-4fc9-9475-36c90d15d237.pdf\", \"MORE\": \"Board has approved/taken on record the following matters:    \\r\\n1.Unaudited financial results (standalone and consolidated) for the second quarter and half year ended 30th September, 2026;\\r\\n2.Limited Review Report on the unaudited financial results (standalone and consolidated) of the Company for the second quarter and half year ended 30th September, 2026 issued by Statutory Auditor, M/s kkc & associates llp, Chartered Accountants.\\r\\n3.Declared the Interim dividend of Rs. 4.00 per Equity Share (80% of face value of Rs. 5/- each) for the financial year 2026-27. \\r\\n\", \"HEADLINE\": \"Board has approved/taken on record the following matters:    \\r\\n1.Unaudited financial results (standalone and consolidated) for the second quarter and half year ended 30th September, 2026;\\r\\n2.Limited ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T17:39:54\", \"DissemDT\": \"2026-10-09T17:39:55.85\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 6605980, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Friday, 09Th October, 2026\", \"_published\": \"2026-10-09T17:39:55.85\", \"_category\": \"Board Meeting\", \"_headline\": \"Board has approved/taken on record the following matters:    \\r\\n1.Unaudited financial results (standalone and consolidated) for the second quarter and half year ended 30th September, 2026;\\r\\n2.Limited ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/02b9b640-f73c-4fc9-9475-36c90d15d237.pdf\", \"_id\": \"c17cb3e3-cbb7-432e-93d7-4844153f0078\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -4719,6 +4719,10 @@
     {
       "message_id": "<6591f6b4321a4c80eca31920c6363a6bc8d7dd7456e684388c83b71506f7568c@gmail.com>",
       "sent_at": "2026-10-08T07:17:55.128558+00:00"
+    },
+    {
+      "message_id": "<65d8723a1d8dfa11934b0befe6c141e753ea4856027acae7d69ab9ff0b504efc@gmail.com>",
+      "sent_at": "2026-10-09T12:10:53.757766+00:00"
     },
     {
       "message_id": "<67f63f77bc83b3dc8d54cfb66212b819916cb494ec5e5be3ade8eeda9419b6f4@gmail.com>",
