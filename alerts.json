@@ -3021,8 +3021,8 @@
       "company_key": "544387",
       "discovered_at": "2026-10-09T07:20:38.533250+00:00",
       "news_id": "eaf19e36-0caf-4c44-9db2-f33522ac6349",
-      "payload": "{\"NEWSID\": \"eaf19e36-0caf-4c44-9db2-f33522ac6349\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_EAF19E36-0CAF-4C44-9DB2-F33522AC6349\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"DT_TM\": \"2026-10-09T12:45:06.017\", \"NEWS_DT\": \"2026-10-09T12:45:06.017\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b8de4e14-8d79-4740-8053-93c16d7c15f9.pdf\", \"MORE\": \"Desco Infratech Limited has submitted the voting results along with the Scrutinizer''s Report of Adjourned 15th Annual General Meeting of the Company held on Wednesday, 07th October 2026 through VC/ OVAM.\", \"HEADLINE\": \"Desco Infratech Limited has submitted the voting results along with the Scrutinizer''s Report of Adjourned 15th Annual General Meeting of the Company held on Wednesday, 07th October 2026 ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 3, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T12:45:05\", \"DissemDT\": \"2026-10-09T12:45:06.017\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 13036772, \"SUBCATNAME\": \"AGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Scrutinizer''s Report\", \"_published\": \"2026-10-09T12:45:06.017\", \"_category\": \"AGM/EGM\", \"_headline\": \"Desco Infratech Limited has submitted the voting results along with the Scrutinizer''s Report of Adjourned 15th Annual General Meeting of the Company held on Wednesday, 07th October 2026 ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b8de4e14-8d79-4740-8053-93c16d7c15f9.pdf\", \"_id\": \"eaf19e36-0caf-4c44-9db2-f33522ac6349\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
@@ -4699,6 +4699,10 @@
     {
       "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
       "sent_at": "2026-10-08T09:38:15.021279+00:00"
+    },
+    {
+      "message_id": "<80d7656227a8cde54fc3be618fef6e2afc00813a21bb9f9fe41991f552ffc3a3@gmail.com>",
+      "sent_at": "2026-10-09T07:20:43.462812+00:00"
     },
     {
       "message_id": "<87b130220be2a8be7055c65444fcf979d645c947e11c1d6668a1c19defabe094@gmail.com>",
