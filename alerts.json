@@ -4414,8 +4414,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-10-09T06:35:39.468080+00:00",
       "news_id": "106812264",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"09-Oct-2026 12:01:28\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09102026120119_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"09-Oct-2026 12:01:28\", \"sort_date\": \"2026-10-09 12:01:28\", \"seq_id\": \"106812264\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"558.51 KB\", \"attFileSize\": \"558.51 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-09 12:01:28\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"V Marc India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09102026120119_VIL.pdf\", \"_id\": \"106812264\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -4636,6 +4636,10 @@
     {
       "message_id": "<134aa60aac114025135bac62312c2cd2ae010daa98436049e90a039626040916@gmail.com>",
       "sent_at": "2026-10-08T12:48:13.703161+00:00"
+    },
+    {
+      "message_id": "<15b76588b89ec3c9a2d2c8e7231d380499ec68745e6689fae24beaf28d399c4f@gmail.com>",
+      "sent_at": "2026-10-09T06:36:22.857229+00:00"
     },
     {
       "message_id": "<196eabf979f5679e871060b5cf74f017ad9a192d9348a2d30c81bf43e21d81bd@gmail.com>",
