@@ -2419,8 +2419,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-09T12:25:49.547892+00:00",
       "news_id": "ccc6fbba-222d-4b4e-a88e-500a8fd882f6",
-      "payload": "{\"NEWSID\": \"ccc6fbba-222d-4b4e-a88e-500a8fd882f6\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_CCC6FBBA-222D-4B4E-A88E-500A8FD882F6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-09T17:53:21.877\", \"NEWS_DT\": \"2026-10-09T17:53:21.877\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"dda5520e-92d0-477b-81e8-f115dfac76ed.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release dated 09th October, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T17:53:21\", \"DissemDT\": \"2026-10-09T17:53:21.877\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 730276, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-09T17:53:21.877\", \"_category\": \"Company Update\", \"_headline\": \"Press Release dated 09th October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/dda5520e-92d0-477b-81e8-f115dfac76ed.pdf\", \"_id\": \"ccc6fbba-222d-4b4e-a88e-500a8fd882f6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -4775,8 +4775,8 @@
       "sent_at": "2026-10-07T12:40:14.076690+00:00"
     },
     {
-      "message_id": "<cc55b22a553870151f38340b5264ca899b694c21dcb0d8100b3582ca11960486@gmail.com>",
-      "sent_at": "2026-10-07T12:20:16.502888+00:00"
+      "message_id": "<e87f6525cffd50134e5b17914bf8bf10c07cafae49ae6a66aab5274f663e1c2e@gmail.com>",
+      "sent_at": "2026-10-09T12:25:55.412983+00:00"
     },
     {
       "message_id": "<f242a18830b6761a3e633a43132f934ec7ab51d9d9f587127cb323efd56a7d56@gmail.com>",
