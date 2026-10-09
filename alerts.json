@@ -2412,8 +2412,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-09T12:35:50.184852+00:00",
       "news_id": "a3180e0e-65e1-4f03-afb8-4a808bd149d2",
-      "payload": "{\"NEWSID\": \"a3180e0e-65e1-4f03-afb8-4a808bd149d2\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_A3180E0E-65E1-4F03-AFB8-4A808BD149D2\", \"NEWSSUB\": \"Corporate Action-Board approves Dividend\", \"DT_TM\": \"2026-10-09T18:01:21.8\", \"NEWS_DT\": \"2026-10-09T18:01:21.8\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3c4d9c23-ca0e-4c08-9fe3-61a3945c513b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Board declared the first Interim Dividend of Rs 4.00 per equity share (80% of face value of Rs 5 /- each) for the financial year 2026 -27\", \"CATEGORYNAME\": \"Corp. Action\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 27, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T18:01:21\", \"DissemDT\": \"2026-10-09T18:01:21.8\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6605980, \"SUBCATNAME\": \"Dividend\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Corporate Action-Board approves Dividend\", \"_published\": \"2026-10-09T18:01:21.8\", \"_category\": \"Corp. Action\", \"_headline\": \"Board declared the first Interim Dividend of Rs 4.00 per equity share (80% of face value of Rs 5 /- each) for the financial year 2026 -27\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3c4d9c23-ca0e-4c08-9fe3-61a3945c513b.pdf\", \"_id\": \"a3180e0e-65e1-4f03-afb8-4a808bd149d2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -4678,10 +4678,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<076025a7ee978763f9245dde1b3b4ddc2a92d873b1dc3b3629415800569f370d@gmail.com>",
-      "sent_at": "2026-10-07T12:30:30.143309+00:00"
-    },
-    {
       "message_id": "<07a3e8ef9d7e9de1e063a07b536c0a3fc7e28f47e5b52ddee08dd460bbd16222@gmail.com>",
       "sent_at": "2026-10-08T12:08:13.094334+00:00"
     },
@@ -4764,6 +4760,10 @@
     {
       "message_id": "<87b130220be2a8be7055c65444fcf979d645c947e11c1d6668a1c19defabe094@gmail.com>",
       "sent_at": "2026-10-08T06:17:55.023687+00:00"
+    },
+    {
+      "message_id": "<8f4ab2c3d9a29bb6133a6392c4dc9d1210bf5e454170fe2c3d1a5b201e6448cb@gmail.com>",
+      "sent_at": "2026-10-09T12:35:55.936446+00:00"
     },
     {
       "message_id": "<a64672999871bd473606b4e32aa6eccd48ac46ffbe55f8b917bd9e48e50c8412@gmail.com>",
