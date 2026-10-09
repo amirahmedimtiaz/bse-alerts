@@ -4409,6 +4409,13 @@
       "news_id": "106794806",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-10-09T06:35:39.468080+00:00",
+      "news_id": "106812264",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"09-Oct-2026 12:01:28\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09102026120119_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"09-Oct-2026 12:01:28\", \"sort_date\": \"2026-10-09 12:01:28\", \"seq_id\": \"106812264\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"558.51 KB\", \"attFileSize\": \"558.51 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-09 12:01:28\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"V Marc India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09102026120119_VIL.pdf\", \"_id\": \"106812264\"}",
+      "status": "pending"
     }
   ],
   "companies": [
