@@ -256,5 +256,15 @@
     "name": "Desco Infratech Ltd",
     "scrip_code": 544387,
     "announcement_url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements"
+  },
+  {
+    "name": "Likhitha Infrastructure Ltd",
+    "scrip_code": 543240,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/corp-announcements"
+  },
+  {
+    "name": "Rudra Gas Enterprise Ltd",
+    "scrip_code": 544121,
+    "announcement_url": "https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/corp-announcements"
   }
 ]
