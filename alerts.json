@@ -4719,7 +4719,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 48, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T00:34:26.133013+00:00\", \"seconds\": 19.3}"
+      "value": "{\"companies\": 48, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T00:39:26.187888+00:00\", \"seconds\": 19.46}"
     },
     {
       "key": "migration_date",
