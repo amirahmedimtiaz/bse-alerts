@@ -4738,7 +4738,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T05:19:43.832221+00:00\", \"seconds\": 20.99}"
+      "value": "{\"companies\": 50, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T05:24:47.818530+00:00\", \"seconds\": 24.98}"
     },
     {
       "key": "migration_date",
