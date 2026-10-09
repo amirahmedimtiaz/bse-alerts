@@ -2405,8 +2405,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-09T12:15:49.669017+00:00",
       "news_id": "7a5ca235-bdff-47ca-905a-89660af2daf3",
-      "payload": "{\"NEWSID\": \"7a5ca235-bdff-47ca-905a-89660af2daf3\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_7A5CA235-BDFF-47CA-905A-89660AF2DAF3\", \"NEWSSUB\": \"Integrated Filing For The Second Quarter And Half Year Ended 30Th September, 2026\", \"DT_TM\": \"2026-10-09T17:44:34.107\", \"NEWS_DT\": \"2026-10-09T17:44:34.107\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e0073fcd-64f4-4baf-b51a-d4b3bb3bf29b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Financial Results (Standalone and consolidated) for the second quarter and half year ended 30th September, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T17:44:34\", \"DissemDT\": \"2026-10-09T17:44:34.107\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6605980, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Integrated Filing For The Second Quarter And Half Year Ended 30Th September, 2026\", \"_published\": \"2026-10-09T17:44:34.107\", \"_category\": \"Result\", \"_headline\": \"Unaudited Financial Results (Standalone and consolidated) for the second quarter and half year ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0073fcd-64f4-4baf-b51a-d4b3bb3bf29b.pdf\", \"_id\": \"7a5ca235-bdff-47ca-905a-89660af2daf3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -4724,6 +4724,10 @@
       "sent_at": "2026-10-09T11:26:15.932178+00:00"
     },
     {
+      "message_id": "<5df9430cb644ebfed71d6bcbb8f4f6e5f5abb827b5d92bb40617f14ca5d106ae@gmail.com>",
+      "sent_at": "2026-10-09T12:15:55.005998+00:00"
+    },
+    {
       "message_id": "<6591f6b4321a4c80eca31920c6363a6bc8d7dd7456e684388c83b71506f7568c@gmail.com>",
       "sent_at": "2026-10-08T07:17:55.128558+00:00"
     },
@@ -4774,10 +4778,6 @@
     {
       "message_id": "<f65b243a2dca419edacb5ed8ca9961779e7a2bda9c48d96add924c7906138159@gmail.com>",
       "sent_at": "2026-10-08T09:42:55.099613+00:00"
-    },
-    {
-      "message_id": "<fa9a2b4da57fc4653796e307e1d7be0267edf7ea4b1b2b2f8eb97211602deacb@gmail.com>",
-      "sent_at": "2026-10-07T12:15:15.147045+00:00"
     },
     {
       "message_id": "<fd64e64cde17239b2f18a7aa6b269d82aea1b94650d59b87636043dfa6dfe591@gmail.com>",
