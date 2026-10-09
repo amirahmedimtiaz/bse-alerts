@@ -3487,6 +3487,13 @@
       "status": "sent"
     },
     {
+      "company_key": "544613",
+      "discovered_at": "2026-10-09T11:25:44.590103+00:00",
+      "news_id": "dd93b37f-0f83-45b0-b182-94a624301ff2",
+      "payload": "{\"NEWSID\": \"dd93b37f-0f83-45b0-b182-94a624301ff2\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_DD93B37F-0F83-45B0-B182-94A624301FF2\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-09T16:55:33.8\", \"NEWS_DT\": \"2026-10-09T16:55:33.8\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"51427b39-1392-4a68-be8a-50ba96359ba4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T16:55:33\", \"DissemDT\": \"2026-10-09T16:55:33.8\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 501532, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-09T16:55:33.8\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/51427b39-1392-4a68-be8a-50ba96359ba4.pdf\", \"_id\": \"dd93b37f-0f83-45b0-b182-94a624301ff2\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "544641",
       "discovered_at": "2026-10-07T12:20:10.951248+00:00",
       "news_id": "00b2dcc7-b2b0-4a7f-bc18-8c6d44bea2f3",
