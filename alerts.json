@@ -4057,8 +4057,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-10-09T10:35:57.592150+00:00",
       "news_id": "106812619",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"09-Oct-2026 16:05:52\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_09102026160540_File.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"09-Oct-2026 16:05:52\", \"sort_date\": \"2026-10-09 16:05:52\", \"seq_id\": \"106812619\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.07 MB\", \"attFileSize\": \"2.07 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-09 16:05:52\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_09102026160540_File.pdf\", \"_id\": \"106812619\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -4664,10 +4664,6 @@
       "sent_at": "2026-10-08T10:48:13.926220+00:00"
     },
     {
-      "message_id": "<308c6df5117fcb1b7542c0e718ea3da3f5307fe51d59dd22a1e909a31881097a@gmail.com>",
-      "sent_at": "2026-10-07T09:44:57.325396+00:00"
-    },
-    {
       "message_id": "<3ef6c7a2f319ef1cfe3211fabdec0bf4a47c9007455046e6dd8f04127706df31@gmail.com>",
       "sent_at": "2026-10-08T13:13:12.931916+00:00"
     },
@@ -4700,10 +4696,6 @@
       "sent_at": "2026-10-08T13:08:30.922772+00:00"
     },
     {
-      "message_id": "<6a5c327f71e5890eec3c57c69540a47b941d57c053a306a08f30f01ceeae6d16@gmail.com>",
-      "sent_at": "2026-10-07T08:04:56.191135+00:00"
-    },
-    {
       "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
       "sent_at": "2026-10-08T09:38:15.021279+00:00"
     },
@@ -4724,32 +4716,16 @@
       "sent_at": "2026-10-07T21:24:07.798328+00:00"
     },
     {
-      "message_id": "<acb3138d57a508beffab7b56bad9e9384c792eea5fd72412cdf7ec2cdb35c75b@gmail.com>",
-      "sent_at": "2026-10-07T10:19:56.111364+00:00"
-    },
-    {
       "message_id": "<b929d80b4ddbb298360a81cb57a657fa506af17a8a4cc33541a06a9bbadae6db@gmail.com>",
       "sent_at": "2026-10-08T13:38:12.796671+00:00"
-    },
-    {
-      "message_id": "<bd7a6d1a7b51ddef682ce5a920e210f20fde4392a9b72b7141c29f3178599e15@gmail.com>",
-      "sent_at": "2026-10-07T09:04:56.332702+00:00"
     },
     {
       "message_id": "<be6ecba5e4d8a05719675e09142e990b77496f7c65c65fb147715c445708db91@gmail.com>",
       "sent_at": "2026-10-07T12:40:14.076690+00:00"
     },
     {
-      "message_id": "<ca79edad4484144b0989c5cc6d6d40f28c913b61135273c9fad137b25e8767ec@gmail.com>",
-      "sent_at": "2026-10-07T07:49:56.591599+00:00"
-    },
-    {
       "message_id": "<cc55b22a553870151f38340b5264ca899b694c21dcb0d8100b3582ca11960486@gmail.com>",
       "sent_at": "2026-10-07T12:20:16.502888+00:00"
-    },
-    {
-      "message_id": "<f1a80f242e6d4e44e6ed54364b220fbaedbe162b5bd47d67650369ac25837ffb@gmail.com>",
-      "sent_at": "2026-10-07T07:34:56.123198+00:00"
     },
     {
       "message_id": "<f242a18830b6761a3e633a43132f934ec7ab51d9d9f587127cb323efd56a7d56@gmail.com>",
@@ -4762,6 +4738,10 @@
     {
       "message_id": "<fa9a2b4da57fc4653796e307e1d7be0267edf7ea4b1b2b2f8eb97211602deacb@gmail.com>",
       "sent_at": "2026-10-07T12:15:15.147045+00:00"
+    },
+    {
+      "message_id": "<fd64e64cde17239b2f18a7aa6b269d82aea1b94650d59b87636043dfa6dfe591@gmail.com>",
+      "sent_at": "2026-10-09T10:37:05.990387+00:00"
     }
   ],
   "metadata": [
