@@ -1738,6 +1738,13 @@
     },
     {
       "company_key": "532941",
+      "discovered_at": "2026-10-09T05:24:32.094859+00:00",
+      "news_id": "8423f8a8-a5b0-4130-a8f6-80910ee9ae72",
+      "payload": "{\"NEWSID\": \"8423f8a8-a5b0-4130-a8f6-80910ee9ae72\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_8423F8A8-A5B0-4130-A8F6-80910EE9AE72\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"DT_TM\": \"2026-10-09T10:52:09.053\", \"NEWS_DT\": \"2026-10-09T10:52:09.053\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"dc68d2af-c0fe-447d-92e7-49d1ffa5e309.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Cords Cable Industries Limited has informed the exchanges about the Credit Rating for Banking Facilities.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 46, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T10:52:09\", \"DissemDT\": \"2026-10-09T10:52:09.053\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 463316, \"SUBCATNAME\": \"Credit Rating\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"_published\": \"2026-10-09T10:52:09.053\", \"_category\": \"Company Update\", \"_headline\": \"Cords Cable Industries Limited has informed the exchanges about the Credit Rating for Banking Facilities.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/dc68d2af-c0fe-447d-92e7-49d1ffa5e309.pdf\", \"_id\": \"8423f8a8-a5b0-4130-a8f6-80910ee9ae72\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532941",
       "discovered_at": "2026-09-23T05:12:07.584573+00:00",
       "news_id": "8dc8b715-ad83-44b9-9250-f67b89c10543",
       "payload": null,
