@@ -3560,8 +3560,8 @@
       "company_key": "544641",
       "discovered_at": "2026-10-09T14:45:44.573483+00:00",
       "news_id": "a3696367-1046-47e2-acd6-59c23e76c4ee",
-      "payload": "{\"NEWSID\": \"a3696367-1046-47e2-acd6-59c23e76c4ee\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_A3696367-1046-47E2-ACD6-59C23E76C4EE\", \"NEWSSUB\": \"Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ? Business Update For H1 FY27\", \"DT_TM\": \"2026-10-09T20:12:00.483\", \"NEWS_DT\": \"2026-10-09T20:12:00.483\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"aa858656-4eb2-464a-a8ba-d0ea6afee4c3.pdf\", \"MORE\": \"Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we enclose herewith the Business Update of K.V. Toys India Limited (\\\"the Company\\\") titled \\\"H1 FY27 Business Update - Building India''s Next-Generation House of Play\\\".\", \"HEADLINE\": \"Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we enclose herewith the Business Update of K.V. ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T20:12:00\", \"DissemDT\": \"2026-10-09T20:12:00.483\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2267901, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ? Business Update For H1 FY27\", \"_published\": \"2026-10-09T20:12:00.483\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we enclose herewith the Business Update of K.V. ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/aa858656-4eb2-464a-a8ba-d0ea6afee4c3.pdf\", \"_id\": \"a3696367-1046-47e2-acd6-59c23e76c4ee\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544641",
@@ -4815,6 +4815,10 @@
     {
       "message_id": "<9464240111e3a66f34b09a807547fadddd96c0efae0ebab79a584fd721b36d0f@gmail.com>",
       "sent_at": "2026-10-09T13:11:19.082104+00:00"
+    },
+    {
+      "message_id": "<9fa8a19f0da4ba2552d944f979c183dd0ac035cd1d363505834ee90a17e26349@gmail.com>",
+      "sent_at": "2026-10-09T14:45:54.225677+00:00"
     },
     {
       "message_id": "<a64672999871bd473606b4e32aa6eccd48ac46ffbe55f8b917bd9e48e50c8412@gmail.com>",
