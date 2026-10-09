@@ -2776,8 +2776,8 @@
       "company_key": "544238",
       "discovered_at": "2026-10-09T13:55:40.547465+00:00",
       "news_id": "847bf407-a84d-4223-8650-bf715a7049c9",
-      "payload": "{\"NEWSID\": \"847bf407-a84d-4223-8650-bf715a7049c9\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_847BF407-A84D-4223-8650-BF715A7049C9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-09T19:23:24.987\", \"NEWS_DT\": \"2026-10-09T19:23:24.987\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cc2b984c-6f36-4802-b4c0-3401fe8ceb60.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Premier Energies Secures New Orders Worth Rs. 4,001 Crore in Q2 FY 2027\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T19:23:24\", \"DissemDT\": \"2026-10-09T19:23:24.987\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 530953, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-09T19:23:24.987\", \"_category\": \"Company Update\", \"_headline\": \"Premier Energies Secures New Orders Worth Rs. 4,001 Crore in Q2 FY 2027\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc2b984c-6f36-4802-b4c0-3401fe8ceb60.pdf\", \"_id\": \"847bf407-a84d-4223-8650-bf715a7049c9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -4729,6 +4729,10 @@
     {
       "message_id": "<3ef6c7a2f319ef1cfe3211fabdec0bf4a47c9007455046e6dd8f04127706df31@gmail.com>",
       "sent_at": "2026-10-08T13:13:12.931916+00:00"
+    },
+    {
+      "message_id": "<478edff46c9ce134dc6c93e36532960c4977ea0d69f640945eecbf847cd878b8@gmail.com>",
+      "sent_at": "2026-10-09T13:55:53.415264+00:00"
     },
     {
       "message_id": "<4a16c7bbc414c77685b0518955e3bd995c14bd9dfff46d142f2fbc2f3dd21474@gmail.com>",
