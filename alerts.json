@@ -4819,7 +4819,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T13:11:20.304811+00:00\", \"seconds\": 50.11}"
+      "value": "{\"companies\": 50, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-09T13:15:54.132036+00:00\", \"seconds\": 23.94}"
     },
     {
       "key": "migration_date",
