@@ -989,6 +989,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-10-09T13:10:36.743464+00:00",
+      "news_id": "d6fd51ff-d4d3-42f0-8968-2d373a4e2eed",
+      "payload": "{\"NEWSID\": \"d6fd51ff-d4d3-42f0-8968-2d373a4e2eed\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_D6FD51FF-D4D3-42F0-8968-2D373A4E2EED\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-09T18:38:27.44\", \"NEWS_DT\": \"2026-10-09T18:38:27.44\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a4dff452-d6cf-46d1-b246-37ddff2b57d0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-09T18:38:27\", \"DissemDT\": \"2026-10-09T18:38:27.44\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 735967, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-09T18:38:27.44\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a4dff452-d6cf-46d1-b246-37ddff2b57d0.pdf\", \"_id\": \"d6fd51ff-d4d3-42f0-8968-2d373a4e2eed\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584389+00:00",
       "news_id": "d70dee09-f50d-493a-8d99-341d8d81670c",
       "payload": null,
