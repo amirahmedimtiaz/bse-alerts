@@ -4884,7 +4884,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [\"NSE:VMARCIND\", \"NSE:BHADORA\", \"NSE:ALPEXSOLAR\", \"NSE:APS\", \"NSE:GGBL\", \"NSE:SAHAJSOLAR\", \"NSE:TBI\", \"NSE:BIOPOL\", \"NSE:PROPSHOP\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-10T13:10:37.637386+00:00\", \"seconds\": 20.3}"
+      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [\"NSE:VMARCIND\", \"NSE:BHADORA\", \"NSE:APS\", \"NSE:ALPEXSOLAR\", \"NSE:GGBL\", \"NSE:SAHAJSOLAR\", \"NSE:TBI\", \"NSE:BIOPOL\", \"NSE:PROPSHOP\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-10T13:15:37.674278+00:00\", \"seconds\": 20.34}"
     },
     {
       "key": "migration_date",
