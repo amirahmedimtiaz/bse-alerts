@@ -4299,6 +4299,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BIOPOL",
+      "discovered_at": "2026-10-10T10:05:15.892629+00:00",
+      "news_id": "106813560",
+      "payload": "{\"symbol\": \"BIOPOL\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"10-Oct-2026 15:32:56\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026152711_Reg_74_5__Signed.pdf\", \"sm_name\": \"Biopol Chemicals Limited\", \"sm_isin\": null, \"an_dt\": \"10-Oct-2026 15:32:56\", \"sort_date\": \"2026-10-10 15:32:56\", \"seq_id\": \"106813560\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Submission of Certificate under Regulation 74(5) of SEBI (Depositories and Participants)Regulations, 2018, for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.42 MB\", \"attFileSize\": \"1.42 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Biopol Chemicals Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BIOPOL/Biopol-Chemicals-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-10 15:32:56\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Submission of Certificate under Regulation 74(5) of SEBI (Depositories and Participants)Regulations, 2018, for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026152711_Reg_74_5__Signed.pdf\", \"_id\": \"106813560\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-09-23T05:12:07.584982+00:00",
       "news_id": "106771308",
