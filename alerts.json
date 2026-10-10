@@ -4884,7 +4884,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [\"NSE:BHADORA\", \"NSE:GGBL\", \"NSE:SAHAJSOLAR\", \"NSE:TBI\", \"NSE:BIOPOL\", \"NSE:PROPSHOP\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-10T13:55:37.645744+00:00\", \"seconds\": 20.31}"
+      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-10T14:00:38.067738+00:00\", \"seconds\": 20.73}"
     },
     {
       "key": "migration_date",
