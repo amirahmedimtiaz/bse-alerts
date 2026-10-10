@@ -2846,8 +2846,8 @@
       "company_key": "544269",
       "discovered_at": "2026-10-10T11:30:34.174954+00:00",
       "news_id": "defb1d0b-0bac-4cc3-b5fc-fd7279838037",
-      "payload": "{\"NEWSID\": \"defb1d0b-0bac-4cc3-b5fc-fd7279838037\", \"SCRIP_CD\": 544269, \"XML_NAME\": \"ANN_544269_DEFB1D0B-0BAC-4CC3-B5FC-FD7279838037\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-10T17:00:20.93\", \"NEWS_DT\": \"2026-10-10T17:00:20.93\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"06371125-72bb-4279-8e37-5fc3b2625b61.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under regulation 74(5) for the Quarter ended on 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/\", \"SLONGNAME\": \"Neopolitan Pizza And Foods Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T17:00:20\", \"DissemDT\": \"2026-10-10T17:00:20.93\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1040372, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Neopolitan Pizza and Foods Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-10T17:00:20.93\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under regulation 74(5) for the Quarter ended on 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/06371125-72bb-4279-8e37-5fc3b2625b61.pdf\", \"_id\": \"defb1d0b-0bac-4cc3-b5fc-fd7279838037\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544269",
@@ -4770,16 +4770,16 @@
       "sent_at": "2026-10-08T12:48:13.703161+00:00"
     },
     {
+      "message_id": "<13d1278450728cff57e0663ced21819a0de007a5c2fab6d552166a9276fb19be@gmail.com>",
+      "sent_at": "2026-10-10T11:30:42.204744+00:00"
+    },
+    {
       "message_id": "<15b76588b89ec3c9a2d2c8e7231d380499ec68745e6689fae24beaf28d399c4f@gmail.com>",
       "sent_at": "2026-10-09T06:36:22.857229+00:00"
     },
     {
       "message_id": "<196eabf979f5679e871060b5cf74f017ad9a192d9348a2d30c81bf43e21d81bd@gmail.com>",
       "sent_at": "2026-10-08T15:03:12.826070+00:00"
-    },
-    {
-      "message_id": "<20f12a118f152c3a2fb65979bc03bfb9011f0a31dcd3a72299f490facfb4d147@gmail.com>",
-      "sent_at": "2026-10-08T10:48:13.926220+00:00"
     },
     {
       "message_id": "<23051870579a8215e11b188385bc1b81169ec57ed33c4b17f7fdc6a2d5048f97@gmail.com>",
