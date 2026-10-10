@@ -3742,8 +3742,8 @@
       "company_key": "544793",
       "discovered_at": "2026-10-10T08:40:01.340571+00:00",
       "news_id": "dbc18c75-ac77-4477-b837-b6ed78051e31",
-      "payload": "{\"NEWSID\": \"dbc18c75-ac77-4477-b837-b6ed78051e31\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_DBC18C75-AC77-4477-B837-B6ED78051E31\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-10T14:06:27.79\", \"NEWS_DT\": \"2026-10-10T14:06:27.79\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"38682558-9c62-415d-86cf-eab824a23dfd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under regulation 74(5) of SEBI (Depositories and Participants) Regulation 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T14:06:27\", \"DissemDT\": \"2026-10-10T14:06:27.79\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 331829, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-10T14:06:27.79\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under regulation 74(5) of SEBI (Depositories and Participants) Regulation 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/38682558-9c62-415d-86cf-eab824a23dfd.pdf\", \"_id\": \"dbc18c75-ac77-4477-b837-b6ed78051e31\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -4752,6 +4752,10 @@
     {
       "message_id": "<20f12a118f152c3a2fb65979bc03bfb9011f0a31dcd3a72299f490facfb4d147@gmail.com>",
       "sent_at": "2026-10-08T10:48:13.926220+00:00"
+    },
+    {
+      "message_id": "<2f2a8c9142dfc66bdf2fb8f34329afd60539733a2f86b9280592056cc4c404b1@gmail.com>",
+      "sent_at": "2026-10-10T08:40:22.080285+00:00"
     },
     {
       "message_id": "<3b4cd48097a8fd9528cf222798ec12a99cbdd7c3b8c5d36178bd98b49e9d6f09@gmail.com>",
