@@ -4302,8 +4302,8 @@
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-10-10T10:05:15.892629+00:00",
       "news_id": "106813560",
-      "payload": "{\"symbol\": \"BIOPOL\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"10-Oct-2026 15:32:56\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026152711_Reg_74_5__Signed.pdf\", \"sm_name\": \"Biopol Chemicals Limited\", \"sm_isin\": null, \"an_dt\": \"10-Oct-2026 15:32:56\", \"sort_date\": \"2026-10-10 15:32:56\", \"seq_id\": \"106813560\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Submission of Certificate under Regulation 74(5) of SEBI (Depositories and Participants)Regulations, 2018, for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.42 MB\", \"attFileSize\": \"1.42 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Biopol Chemicals Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BIOPOL/Biopol-Chemicals-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-10 15:32:56\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Submission of Certificate under Regulation 74(5) of SEBI (Depositories and Participants)Regulations, 2018, for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026152711_Reg_74_5__Signed.pdf\", \"_id\": \"106813560\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:GGBL",
@@ -4813,10 +4813,6 @@
       "sent_at": "2026-10-10T07:50:21.705996+00:00"
     },
     {
-      "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
-      "sent_at": "2026-10-08T09:38:15.021279+00:00"
-    },
-    {
       "message_id": "<80d7656227a8cde54fc3be618fef6e2afc00813a21bb9f9fe41991f552ffc3a3@gmail.com>",
       "sent_at": "2026-10-09T07:20:43.462812+00:00"
     },
@@ -4849,8 +4845,8 @@
       "sent_at": "2026-10-09T05:24:46.611359+00:00"
     },
     {
-      "message_id": "<f65b243a2dca419edacb5ed8ca9961779e7a2bda9c48d96add924c7906138159@gmail.com>",
-      "sent_at": "2026-10-08T09:42:55.099613+00:00"
+      "message_id": "<fbb5a0bdcbd2a3f13a4b645c6fad06182b5c6f587d7bbbd2e8216573ef5557d6@gmail.com>",
+      "sent_at": "2026-10-10T10:05:22.214980+00:00"
     },
     {
       "message_id": "<fd64e64cde17239b2f18a7aa6b269d82aea1b94650d59b87636043dfa6dfe591@gmail.com>",
