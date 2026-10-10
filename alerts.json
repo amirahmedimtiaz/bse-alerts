@@ -2440,8 +2440,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-10T06:35:17.290620+00:00",
       "news_id": "c036c4d0-d5c4-4b46-9046-bfec372a6c2a",
-      "payload": "{\"NEWSID\": \"c036c4d0-d5c4-4b46-9046-bfec372a6c2a\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_C036C4D0-D5C4-4B46-9046-BFEC372A6C2A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-10T12:04:30.257\", \"NEWS_DT\": \"2026-10-10T12:04:30.257\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c4f57d6a-a235-4e2f-a5d8-15dfe4961d67.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication of Un-audited Consolidated Financial Result for the Second Quarter and Half Year ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T12:04:30\", \"DissemDT\": \"2026-10-10T12:04:30.257\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 9233364, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-10T12:04:30.257\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication of Un-audited Consolidated Financial Result for the Second Quarter and Half Year ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c4f57d6a-a235-4e2f-a5d8-15dfe4961d67.pdf\", \"_id\": \"c036c4d0-d5c4-4b46-9046-bfec372a6c2a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -4724,10 +4724,6 @@
       "sent_at": "2026-10-08T12:08:13.094334+00:00"
     },
     {
-      "message_id": "<0a47f5c7e60c0eca5ee74a26b20870bcbc9ead0afa9a0ed530f2ff8718ebe957@gmail.com>",
-      "sent_at": "2026-10-08T05:37:55.185502+00:00"
-    },
-    {
       "message_id": "<134aa60aac114025135bac62312c2cd2ae010daa98436049e90a039626040916@gmail.com>",
       "sent_at": "2026-10-08T12:48:13.703161+00:00"
     },
@@ -4760,10 +4756,6 @@
       "sent_at": "2026-10-09T13:55:53.415264+00:00"
     },
     {
-      "message_id": "<4a16c7bbc414c77685b0518955e3bd995c14bd9dfff46d142f2fbc2f3dd21474@gmail.com>",
-      "sent_at": "2026-10-08T05:07:40.022931+00:00"
-    },
-    {
       "message_id": "<4a5e55059f6ac3028f747401dd71d0efbd38a413dde47e265320d25f60522ae9@gmail.com>",
       "sent_at": "2026-10-08T12:13:23.497985+00:00"
     },
@@ -4774,14 +4766,6 @@
     {
       "message_id": "<52ee6d99bc800f7412c8f7feafdea80be86cb764799f9b94e1cd3c2baaf8ad39@gmail.com>",
       "sent_at": "2026-10-09T11:15:55.252922+00:00"
-    },
-    {
-      "message_id": "<550f1b3609638def5a57de2e91c023a58e26096f193b0d8753756b9c78f21135@gmail.com>",
-      "sent_at": "2026-10-08T05:53:13.062148+00:00"
-    },
-    {
-      "message_id": "<59759b0dc4e75d674a9a48cc32bf9691aa126c088f4e04f6b5262b4e8ae625b2@gmail.com>",
-      "sent_at": "2026-10-07T16:20:46.768139+00:00"
     },
     {
       "message_id": "<5c66e4b5b43150d8772578e2bba09b15f81f0802200d0c5eb729d9b5dff8abfd@gmail.com>",
@@ -4812,10 +4796,6 @@
       "sent_at": "2026-10-09T07:20:43.462812+00:00"
     },
     {
-      "message_id": "<87b130220be2a8be7055c65444fcf979d645c947e11c1d6668a1c19defabe094@gmail.com>",
-      "sent_at": "2026-10-08T06:17:55.023687+00:00"
-    },
-    {
       "message_id": "<8f4ab2c3d9a29bb6133a6392c4dc9d1210bf5e454170fe2c3d1a5b201e6448cb@gmail.com>",
       "sent_at": "2026-10-09T12:35:55.936446+00:00"
     },
@@ -4832,12 +4812,12 @@
       "sent_at": "2026-10-08T06:37:55.201831+00:00"
     },
     {
-      "message_id": "<ab4ba9d55601d19f37a760db66f9d474decafba6df4a6340876ce3ff9567a06c@gmail.com>",
-      "sent_at": "2026-10-07T21:24:07.798328+00:00"
-    },
-    {
       "message_id": "<b929d80b4ddbb298360a81cb57a657fa506af17a8a4cc33541a06a9bbadae6db@gmail.com>",
       "sent_at": "2026-10-08T13:38:12.796671+00:00"
+    },
+    {
+      "message_id": "<c51f6129cba11bba931ebe9a683fd4b8b0a2f9261adb76da5186543b393b2e4f@gmail.com>",
+      "sent_at": "2026-10-10T06:35:21.918907+00:00"
     },
     {
       "message_id": "<e87f6525cffd50134e5b17914bf8bf10c07cafae49ae6a66aab5274f663e1c2e@gmail.com>",
