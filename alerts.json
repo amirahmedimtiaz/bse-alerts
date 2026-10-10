@@ -3098,8 +3098,8 @@
       "company_key": "544442",
       "discovered_at": "2026-10-10T07:50:13.797225+00:00",
       "news_id": "5585412e-bf60-4cb4-8536-42a11be2c457",
-      "payload": "{\"NEWSID\": \"5585412e-bf60-4cb4-8536-42a11be2c457\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_5585412E-BF60-4CB4-8536-42A11BE2C457\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-10T13:18:52.507\", \"NEWS_DT\": \"2026-10-10T13:18:52.507\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3ce5f174-f795-4aba-80dc-cc557a2956e4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 74(5) for Quarter ended 30th September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T13:18:52\", \"DissemDT\": \"2026-10-10T13:18:52.507\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 489255, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-10T13:18:52.507\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 74(5) for Quarter ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ce5f174-f795-4aba-80dc-cc557a2956e4.pdf\", \"_id\": \"5585412e-bf60-4cb4-8536-42a11be2c457\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
@@ -4783,16 +4783,16 @@
       "sent_at": "2026-10-09T12:15:55.005998+00:00"
     },
     {
-      "message_id": "<6591f6b4321a4c80eca31920c6363a6bc8d7dd7456e684388c83b71506f7568c@gmail.com>",
-      "sent_at": "2026-10-08T07:17:55.128558+00:00"
-    },
-    {
       "message_id": "<65d8723a1d8dfa11934b0befe6c141e753ea4856027acae7d69ab9ff0b504efc@gmail.com>",
       "sent_at": "2026-10-09T12:10:53.757766+00:00"
     },
     {
       "message_id": "<67f63f77bc83b3dc8d54cfb66212b819916cb494ec5e5be3ade8eeda9419b6f4@gmail.com>",
       "sent_at": "2026-10-08T13:08:30.922772+00:00"
+    },
+    {
+      "message_id": "<7bfee8a2005905b901ee0288d91e084a67685b0a36522c01f8f8ce34b2910e6e@gmail.com>",
+      "sent_at": "2026-10-10T07:50:21.705996+00:00"
     },
     {
       "message_id": "<7e11b243f7e4c8ddccf72ace4acde3440334c58b83b423368d2c7cc9b69e6e83@gmail.com>",
@@ -4813,10 +4813,6 @@
     {
       "message_id": "<9fa8a19f0da4ba2552d944f979c183dd0ac035cd1d363505834ee90a17e26349@gmail.com>",
       "sent_at": "2026-10-09T14:45:54.225677+00:00"
-    },
-    {
-      "message_id": "<a64672999871bd473606b4e32aa6eccd48ac46ffbe55f8b917bd9e48e50c8412@gmail.com>",
-      "sent_at": "2026-10-08T06:37:55.201831+00:00"
     },
     {
       "message_id": "<b929d80b4ddbb298360a81cb57a657fa506af17a8a4cc33541a06a9bbadae6db@gmail.com>",
