@@ -13,12 +13,15 @@ For an initial short verification run set `cycles=1`; its successor uses the
 normal 60-cycle duration. Inspect the workflow summary and the `alert-state`
 branch's `alerts.json`, including its `metadata` health entry. A running worker
 is expected to stay in progress for hours. A cycle with fetch/send failures
-checkpoints successful work and finishes with a failed job. The successor is
-dispatched only after a successful worker. A failed job retains successful
-collection and queued email state. The watchdog retries on its next scheduled
-dispatch (nominally every twenty minutes, subject to GitHub schedule delays).
-This avoids repeated self-dispatch when an exchange blocks every request. For
-a checkpoint failure, external delivery stops immediately.
+checkpoints successful work and retries on the next five-minute cycle within
+the same worker. Its health record and cycle summary continue to show failures;
+a running workflow alone is not evidence of healthy coverage. A bounded worker
+ending with unresolved failures exits nonzero, but sets `handoff=true` so its
+successor can continue recovery. It waits the normal interval after its last
+scan before handing off; it never rapidly self-dispatches on a bad response.
+The watchdog supplies additional recovery (nominally every twenty minutes,
+subject to GitHub schedule delays). Initialization and checkpoint failures stop
+external delivery immediately and do not authorize automatic successor handoff.
 
 To pause: set repository Actions variable `ALERTS_PAUSED` to `true`, then cancel
 the current run. Cancellation intentionally does not dispatch a successor.
@@ -34,6 +37,12 @@ handling. BSE pagination checks the reported ROWCNT and detects repeated or
 incomplete pages. An invalid response fails collection instead of marking it
 as empty. NSE still relies on the history returned by its existing quote API;
 upstream truncation/completeness is not proven by this application.
+
+BSE can also return HTTP 200 with `{"Table":[{"Column1":1}]}` instead of
+announcements. Malformed JSON/tables/rows are retried on the same page up to
+three attempts with two- and four-second waits. Persistent invalid responses
+remain collection failures, leave watermarks unchanged, and retry in subsequent
+five-minute cycles. They must never be interpreted as zero announcements.
 
 BSE's announcement API requires requests to carry the current website's
 browser context (`Origin`, announcement-page `Referer`, and a browser user

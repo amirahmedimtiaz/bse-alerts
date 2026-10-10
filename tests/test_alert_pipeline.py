@@ -271,15 +271,78 @@ def test_git_checkpoint_roundtrip_and_conflicting_writer(tmp_path, monkeypatch):
         restored.close()
 
 
-def test_worker_returns_failure_after_checkpointed_partial_cycle(monkeypatch):
+def test_worker_reports_unresolved_failure_but_allows_paced_successor(monkeypatch, tmp_path):
     monkeypatch.setattr(worker.subprocess, "check_output", lambda *args, **kwargs: "unused")
     monkeypatch.setattr(worker, "GitState", Mock(return_value=Mock(restore=Mock(return_value=True))))
     monkeypatch.setattr(worker, "code_changed", lambda: False)
     monkeypatch.setattr(worker, "cycle", lambda *args: {"failed": ["1"], "email_failed": False})
     sleep = Mock()
     monkeypatch.setattr(worker.time, "sleep", sleep)
+    output = tmp_path / "output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
     assert worker.run_worker(1) == 1
-    sleep.assert_not_called()
+    sleep.assert_called_once()
+    assert 299 < sleep.call_args.args[0] <= 300
+    assert output.read_text() == "handoff=true\n"
+
+
+def test_worker_recovers_on_next_cycle_in_same_job(monkeypatch, tmp_path):
+    monkeypatch.setattr(worker.subprocess, "check_output", lambda *args, **kwargs: "unused")
+    monkeypatch.setattr(worker, "GitState", Mock(return_value=Mock(restore=Mock(return_value=True))))
+    monkeypatch.setattr(worker, "code_changed", lambda: False)
+    scan = Mock(side_effect=[
+        {"failed": ["1"], "email_failed": False},
+        {"failed": [], "email_failed": True},
+        {"failed": [], "email_failed": False},
+    ])
+    monkeypatch.setattr(worker, "cycle", scan)
+    sleep = Mock()
+    monkeypatch.setattr(worker.time, "sleep", sleep)
+    output = tmp_path / "output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
+    assert worker.run_worker(3) == 0
+    assert scan.call_count == 3
+    assert sleep.call_count == 3
+    assert output.read_text() == "handoff=true\n"
+
+
+def test_worker_stops_on_unsafe_checkpoint_error_without_handoff(monkeypatch, tmp_path):
+    monkeypatch.setattr(worker.subprocess, "check_output", lambda *args, **kwargs: "unused")
+    monkeypatch.setattr(worker, "GitState", Mock(return_value=Mock(restore=Mock(return_value=True))))
+    monkeypatch.setattr(worker, "code_changed", lambda: False)
+    scan = Mock(side_effect=RuntimeError("cannot persist"))
+    monkeypatch.setattr(worker, "cycle", scan)
+    monkeypatch.setattr(worker.time, "sleep", Mock())
+    output = tmp_path / "output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
+    assert worker.run_worker(3) == 1
+    assert scan.call_count == 1
+    assert not output.exists()
+
+
+@responses.activate
+def test_placeholder_outage_preserves_watermark_then_catches_up_once(store, monkeypatch):
+    monkeypatch.setattr(bse_client.time, "sleep", lambda _: None)
+    store.collect("1", "2026-10-09", [])
+    for _ in range(3):
+        responses.add(responses.GET, bse_client.API_URL, json={"Table": [{"Column1": 1}]})
+    report = scanner.collect(store, [company()], today=date(2026, 10, 10), workers=1)
+    assert report["failed"] == ["1"]
+    assert store.company("1")["last_success"] == "2026-10-09"
+    assert store.pending_count() == 0
+    responses.reset()
+    responses.add(responses.GET, bse_client.API_URL, json={
+        "Table": [{"NEWSID": "during-outage", "DT_TM": "2026-10-09T23:00:00"}],
+        "Table1": [{"ROWCNT": 1}],
+    })
+    mail = sender()
+    for _ in range(2):
+        result = scanner.cycle(store, lambda: None, companies=[company()],
+                               today=date(2026, 10, 10), sender=mail)
+        assert result["failed"] == []
+    assert store.company("1")["last_success"] == "2026-10-10"
+    assert mail.send.call_count == 1
+    assert store.pending_count() == 0
 
 
 def test_worker_yields_when_deployment_changes(monkeypatch):

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 import re
+import time
 from datetime import date
 from typing import Any
 
@@ -16,6 +17,27 @@ BSE_BROWSER_USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 )
+
+
+def _fetch_page(params: dict, headers: dict, session: requests.Session | None) -> dict:
+    """HTTP 200 can contain a temporary placeholder instead of announcements."""
+    for attempt in range(3):
+        try:
+            payload = get_json(API_URL, params=params, headers=headers, session=session)
+            if not isinstance(payload, dict) or not isinstance(payload.get("Table"), list):
+                raise ValueError("BSE response is missing its announcement table")
+            if any(not isinstance(row, dict) or not row.get("NEWSID")
+                   for row in payload["Table"]):
+                raise ValueError("BSE response contains a placeholder or an announcement without NEWSID")
+            return payload
+        except ValueError as exc:
+            if attempt == 2:
+                raise
+            delay = 2 ** (attempt + 1)
+            print(f"::warning::Invalid BSE page {params['pageno']}; retrying in {delay}s: {exc}",
+                  flush=True)
+            time.sleep(delay)
+    raise AssertionError("unreachable")
 
 
 def fetch_announcements(
@@ -56,9 +78,7 @@ def fetch_announcements(
     expected: int | None = None
     for page in range(1, 1001):
         params["pageno"] = page
-        payload = get_json(API_URL, params=params, headers=headers, session=session)
-        if not isinstance(payload, dict) or not isinstance(payload.get("Table"), list):
-            raise ValueError("BSE response is missing its announcement table")
+        payload = _fetch_page(params, headers, session)
         rows = payload["Table"]
         totals = payload.get("Table1") or []
         if totals and totals[0].get("ROWCNT") is not None:

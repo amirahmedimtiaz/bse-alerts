@@ -26,6 +26,14 @@ def code_changed() -> bool:
     return bool(result.stdout.strip())
 
 
+def allow_handoff() -> None:
+    # Only a completed bounded worker (or a deployment change) may self-dispatch.
+    # Fatal checkpoint/init errors must not create a rapid restart loop.
+    if os.getenv("GITHUB_OUTPUT"):
+        with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+            output.write("handoff=true\n")
+
+
 def run_worker(cycles: int, interval: int = 300) -> int:
     if not 1 <= cycles <= 60 or interval < 300:
         raise ValueError("Worker accepts 1–60 cycles with an interval of at least 300 seconds")
@@ -39,10 +47,12 @@ def run_worker(cycles: int, interval: int = 300) -> int:
                 store.seed_legacy(load_state())
                 state.save(store)
                 print("Migrated legacy IDs; initialized transactional state branch.", flush=True)
+            failed = False
             for index in range(cycles):
                 started = time.monotonic()
                 if code_changed():
                     print("Deployment changed; handing off to a worker using current main.", flush=True)
+                    allow_handoff()
                     return 0
                 try:
                     report = cycle(store, lambda: state.save(store))
@@ -55,13 +65,17 @@ def run_worker(cycles: int, interval: int = 300) -> int:
                         summary.write(f"### Cycle {index + 1}\n\n```json\n{json.dumps(report, indent=2)}\n```\n\n")
                 failed = bool(report["failed"] or report["email_failed"])
                 if failed:
-                    print("::error::Cycle incomplete; progress retained; watchdog will retry.", flush=True)
-                    return 1
+                    print("::warning::Cycle incomplete; progress retained; retrying on the next "
+                          "five-minute cycle. Failed company watermarks have not advanced.", flush=True)
                 # Wait after the last scan too: no extra immediate successor poll.
                 time.sleep(max(0, min(deadline - time.monotonic(), interval - (time.monotonic() - started))))
                 if time.monotonic() >= deadline:
                     break
-            return 0
+            allow_handoff()
+            if failed:
+                print("::error::Worker finished with unresolved collection/delivery failures; "
+                      "the successor will continue recovery from saved progress.", flush=True)
+            return int(failed)
         finally:
             store.close()
 
