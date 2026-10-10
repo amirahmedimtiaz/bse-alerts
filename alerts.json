@@ -3096,6 +3096,13 @@
     },
     {
       "company_key": "544442",
+      "discovered_at": "2026-10-10T07:50:13.797225+00:00",
+      "news_id": "5585412e-bf60-4cb4-8536-42a11be2c457",
+      "payload": "{\"NEWSID\": \"5585412e-bf60-4cb4-8536-42a11be2c457\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_5585412E-BF60-4CB4-8536-42A11BE2C457\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-10T13:18:52.507\", \"NEWS_DT\": \"2026-10-10T13:18:52.507\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3ce5f174-f795-4aba-80dc-cc557a2956e4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 74(5) for Quarter ended 30th September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T13:18:52\", \"DissemDT\": \"2026-10-10T13:18:52.507\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 489255, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-10T13:18:52.507\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 74(5) for Quarter ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ce5f174-f795-4aba-80dc-cc557a2956e4.pdf\", \"_id\": \"5585412e-bf60-4cb4-8536-42a11be2c457\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544442",
       "discovered_at": "2026-09-26T14:20:35.691979+00:00",
       "news_id": "a03bd29a-aecd-4cd7-afac-c3e7e513608a",
       "payload": null,
