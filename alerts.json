@@ -4309,8 +4309,8 @@
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-10-10T10:45:15.893898+00:00",
       "news_id": "106813584",
-      "payload": "{\"symbol\": \"BIOPOL\", \"desc\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"dt\": \"10-Oct-2026 16:13:56\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026161315_Reg_27_2_Corporate_Gov__Report.pdf\", \"sm_name\": \"Biopol Chemicals Limited\", \"sm_isin\": null, \"an_dt\": \"10-Oct-2026 16:13:56\", \"sort_date\": \"2026-10-10 16:13:56\", \"seq_id\": \"106813584\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Non-Applicability of Corporate Governance Report under Regulation 27(2) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 for the Quarter and Half Year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"852.03 KB\", \"attFileSize\": \"852.03 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Biopol Chemicals Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BIOPOL/Biopol-Chemicals-Limited\", \"_subject\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_published\": \"2026-10-10 16:13:56\", \"_category\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_headline\": \"Non-Applicability of Corporate Governance Report under Regulation 27(2) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 for the Quarter and Half Year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_10102026161315_Reg_27_2_Corporate_Gov__Report.pdf\", \"_id\": \"106813584\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:GGBL",
@@ -4773,6 +4773,10 @@
     {
       "message_id": "<20f12a118f152c3a2fb65979bc03bfb9011f0a31dcd3a72299f490facfb4d147@gmail.com>",
       "sent_at": "2026-10-08T10:48:13.926220+00:00"
+    },
+    {
+      "message_id": "<23051870579a8215e11b188385bc1b81169ec57ed33c4b17f7fdc6a2d5048f97@gmail.com>",
+      "sent_at": "2026-10-10T10:45:22.478859+00:00"
     },
     {
       "message_id": "<2f2a8c9142dfc66bdf2fb8f34329afd60539733a2f86b9280592056cc4c404b1@gmail.com>",
