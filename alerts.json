@@ -2279,8 +2279,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-10T14:55:22.163301+00:00",
       "news_id": "38a4bda9-38e0-4b9b-96c2-e2c17e575ca9",
-      "payload": "{\"NEWSID\": \"38a4bda9-38e0-4b9b-96c2-e2c17e575ca9\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_38A4BDA9-38E0-4B9B-96C2-E2C17E575CA9\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-10T20:21:32.01\", \"NEWS_DT\": \"2026-10-10T20:21:32.01\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6115074d-88f5-49e6-8355-33600ae7baf9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Conference Call invite for the second quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T20:21:32\", \"DissemDT\": \"2026-10-10T20:21:32.01\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 571837, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-10T20:21:32.01\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Conference Call invite for the second quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6115074d-88f5-49e6-8355-33600ae7baf9.pdf\", \"_id\": \"38a4bda9-38e0-4b9b-96c2-e2c17e575ca9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -4808,16 +4808,8 @@
       "sent_at": "2026-10-09T13:15:52.865999+00:00"
     },
     {
-      "message_id": "<3ef6c7a2f319ef1cfe3211fabdec0bf4a47c9007455046e6dd8f04127706df31@gmail.com>",
-      "sent_at": "2026-10-08T13:13:12.931916+00:00"
-    },
-    {
       "message_id": "<478edff46c9ce134dc6c93e36532960c4977ea0d69f640945eecbf847cd878b8@gmail.com>",
       "sent_at": "2026-10-09T13:55:53.415264+00:00"
-    },
-    {
-      "message_id": "<528b1bad806873dafa97ee941a2161f4ac55024fcc1263a7afaa7684bde7f66c@gmail.com>",
-      "sent_at": "2026-10-08T13:28:13.102965+00:00"
     },
     {
       "message_id": "<52ee6d99bc800f7412c8f7feafdea80be86cb764799f9b94e1cd3c2baaf8ad39@gmail.com>",
@@ -4836,10 +4828,6 @@
       "sent_at": "2026-10-09T12:10:53.757766+00:00"
     },
     {
-      "message_id": "<67f63f77bc83b3dc8d54cfb66212b819916cb494ec5e5be3ade8eeda9419b6f4@gmail.com>",
-      "sent_at": "2026-10-08T13:08:30.922772+00:00"
-    },
-    {
       "message_id": "<735eb003d822a52a35bc78d272f61582a12d47775f8cf522b5f714065a43555c@gmail.com>",
       "sent_at": "2026-10-10T13:00:39.777916+00:00"
     },
@@ -4856,16 +4844,16 @@
       "sent_at": "2026-10-09T12:35:55.936446+00:00"
     },
     {
+      "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
+      "sent_at": "2026-10-10T14:55:41.246415+00:00"
+    },
+    {
       "message_id": "<9464240111e3a66f34b09a807547fadddd96c0efae0ebab79a584fd721b36d0f@gmail.com>",
       "sent_at": "2026-10-09T13:11:19.082104+00:00"
     },
     {
       "message_id": "<9fa8a19f0da4ba2552d944f979c183dd0ac035cd1d363505834ee90a17e26349@gmail.com>",
       "sent_at": "2026-10-09T14:45:54.225677+00:00"
-    },
-    {
-      "message_id": "<b929d80b4ddbb298360a81cb57a657fa506af17a8a4cc33541a06a9bbadae6db@gmail.com>",
-      "sent_at": "2026-10-08T13:38:12.796671+00:00"
     },
     {
       "message_id": "<c51f6129cba11bba931ebe9a683fd4b8b0a2f9261adb76da5186543b393b2e4f@gmail.com>",
