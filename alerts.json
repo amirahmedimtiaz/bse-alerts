@@ -4535,6 +4535,13 @@
       "news_id": "106812264",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-10-10T10:20:08.071089+00:00",
+      "news_id": "106813571",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Structural Digital Database\", \"dt\": \"10-Oct-2026 15:49:26\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_10102026154917_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"10-Oct-2026 15:49:26\", \"sort_date\": \"2026-10-10 15:49:26\", \"seq_id\": \"106813571\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Compliance Certificate of Structured Digital Database for the quarter ended onSeptember 30, 2026 as per new format.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.82 MB\", \"attFileSize\": \"3.82 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Structural Digital Database\", \"_published\": \"2026-10-10 15:49:26\", \"_category\": \"Structural Digital Database\", \"_headline\": \"Compliance Certificate of Structured Digital Database for the quarter ended onSeptember 30, 2026 as per new format.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_10102026154917_VIL.pdf\", \"_id\": \"106813571\"}",
+      "status": "pending"
     }
   ],
   "companies": [
