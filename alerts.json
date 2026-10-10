@@ -3369,6 +3369,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-10-10T13:00:33.133738+00:00",
+      "news_id": "73575655-660d-479c-8d54-f3e7a51cfc22",
+      "payload": "{\"NEWSID\": \"73575655-660d-479c-8d54-f3e7a51cfc22\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_73575655-660D-479C-8D54-F3E7A51CFC22\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-10T18:27:42.73\", \"NEWS_DT\": \"2026-10-10T18:27:42.73\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"52da1155-c81c-4093-ae8c-d74b355c6bc9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under regulation 30 for awarding of the order from MSEDCL\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T18:27:42\", \"DissemDT\": \"2026-10-10T18:27:42.73\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 433914, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-10T18:27:42.73\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under regulation 30 for awarding of the order from MSEDCL\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/52da1155-c81c-4093-ae8c-d74b355c6bc9.pdf\", \"_id\": \"73575655-660d-479c-8d54-f3e7a51cfc22\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584844+00:00",
       "news_id": "85b45567-fdeb-493b-a080-298f5a038860",
       "payload": null,
