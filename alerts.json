@@ -2844,6 +2844,13 @@
     },
     {
       "company_key": "544269",
+      "discovered_at": "2026-10-10T11:30:34.174954+00:00",
+      "news_id": "defb1d0b-0bac-4cc3-b5fc-fd7279838037",
+      "payload": "{\"NEWSID\": \"defb1d0b-0bac-4cc3-b5fc-fd7279838037\", \"SCRIP_CD\": 544269, \"XML_NAME\": \"ANN_544269_DEFB1D0B-0BAC-4CC3-B5FC-FD7279838037\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-10T17:00:20.93\", \"NEWS_DT\": \"2026-10-10T17:00:20.93\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"06371125-72bb-4279-8e37-5fc3b2625b61.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under regulation 74(5) for the Quarter ended on 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/\", \"SLONGNAME\": \"Neopolitan Pizza And Foods Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-10T17:00:20\", \"DissemDT\": \"2026-10-10T17:00:20.93\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1040372, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Neopolitan Pizza and Foods Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/neopolitan-pizza-and-foods-ltd/npfl/544269/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-10T17:00:20.93\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under regulation 74(5) for the Quarter ended on 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/06371125-72bb-4279-8e37-5fc3b2625b61.pdf\", \"_id\": \"defb1d0b-0bac-4cc3-b5fc-fd7279838037\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544269",
       "discovered_at": "2026-10-01T10:11:23.705307+00:00",
       "news_id": "efef07af-9149-457a-9542-001fb790a76e",
       "payload": null,
