@@ -4879,7 +4879,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-11T00:01:10.668885+00:00\", \"seconds\": 20.49}"
+      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-11T00:06:10.935558+00:00\", \"seconds\": 20.8}"
     },
     {
       "key": "migration_date",
