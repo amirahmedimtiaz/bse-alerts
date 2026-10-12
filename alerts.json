@@ -459,8 +459,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-12T12:27:58.068933+00:00",
       "news_id": "ff9ecb11-e27b-44eb-9e1a-156108d4afa1",
-      "payload": "{\"NEWSID\": \"ff9ecb11-e27b-44eb-9e1a-156108d4afa1\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_FF9ECB11-E27B-44EB-9E1A-156108D4AFA1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-12T17:56:44.467\", \"NEWS_DT\": \"2026-10-12T17:56:44.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"45e06438-fc78-4131-8ab3-9b8e250921dc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Change in Senior Management - Appointment\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T17:56:44\", \"DissemDT\": \"2026-10-12T17:56:44.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 723295, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-12T17:56:44.467\", \"_category\": \"Company Update\", \"_headline\": \"Change in Senior Management - Appointment\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/45e06438-fc78-4131-8ab3-9b8e250921dc.pdf\", \"_id\": \"ff9ecb11-e27b-44eb-9e1a-156108d4afa1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -4860,12 +4860,12 @@
   ],
   "deliveries": [
     {
-      "message_id": "<13d1278450728cff57e0663ced21819a0de007a5c2fab6d552166a9276fb19be@gmail.com>",
-      "sent_at": "2026-10-10T11:30:42.204744+00:00"
-    },
-    {
       "message_id": "<2b924665d84e31280f30ce67e9f052b06b1c4fb9a8ae44197167b83bb6e506aa@gmail.com>",
       "sent_at": "2026-10-12T07:37:59.811490+00:00"
+    },
+    {
+      "message_id": "<3204f9163af2654cc3d0c5854f6af2e782653ac2f5f585ecf2013222a4a4205b@gmail.com>",
+      "sent_at": "2026-10-12T12:28:46.474402+00:00"
     },
     {
       "message_id": "<322bd0eec203b42daeca6dc34b53bcb7b44f483658ae4fb9a7c11edd128f08db@gmail.com>",
