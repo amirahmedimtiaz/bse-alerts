@@ -4442,8 +4442,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-10-12T08:07:53.439300+00:00",
       "news_id": "106814256",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"12-Oct-2026 13:35:42\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_12102026133414_PEEL_-_74_5__Sd.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 13:35:42\", \"sort_date\": \"2026-10-12 13:35:42\", \"seq_id\": \"106814256\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"337.24 KB\", \"attFileSize\": \"337.24 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-12 13:35:42\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_12102026133414_PEEL_-_74_5__Sd.pdf\", \"_id\": \"106814256\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -4846,10 +4846,6 @@
       "sent_at": "2026-10-12T04:18:00.364712+00:00"
     },
     {
-      "message_id": "<7bfee8a2005905b901ee0288d91e084a67685b0a36522c01f8f8ce34b2910e6e@gmail.com>",
-      "sent_at": "2026-10-10T07:50:21.705996+00:00"
-    },
-    {
       "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
       "sent_at": "2026-10-10T14:55:41.246415+00:00"
     },
@@ -4864,6 +4860,10 @@
     {
       "message_id": "<f38179df8e28ccbe9d6b9c4eeb9e9819e217dc52aa24a80567864901bbfdffd0@gmail.com>",
       "sent_at": "2026-10-12T05:07:59.967708+00:00"
+    },
+    {
+      "message_id": "<f5d34a1123c20de8aa64de9766230be311607f74d868ac89e57ca25bc77ab4a1@gmail.com>",
+      "sent_at": "2026-10-12T08:08:00.427402+00:00"
     },
     {
       "message_id": "<fbb5a0bdcbd2a3f13a4b645c6fad06182b5c6f587d7bbbd2e8216573ef5557d6@gmail.com>",
