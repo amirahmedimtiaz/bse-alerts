@@ -4512,8 +4512,8 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-10-12T09:18:10.086617+00:00",
       "news_id": "106814308",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"dt\": \"12-Oct-2026 14:43:29\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_12102026144311_TBI_CG_Regulation_27_2_.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 14:43:29\", \"sort_date\": \"2026-10-12 14:43:29\", \"seq_id\": \"106814308\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed regarding Non-Applicability of Regulation 27(2) as per Regulation 15 of Chapter IV of SEBI (LODR) Regulations, 2015 for Quarter Ended 30th September 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"206.59 KB\", \"attFileSize\": \"206.59 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_published\": \"2026-10-12 14:43:29\", \"_category\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_headline\": \"TBI Corn Limited has informed regarding Non-Applicability of Regulation 27(2) as per Regulation 15 of Chapter IV of SEBI (LODR) Regulations, 2015 for Quarter Ended 30th September 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_12102026144311_TBI_CG_Regulation_27_2_.pdf\", \"_id\": \"106814308\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -4862,6 +4862,10 @@
     {
       "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
       "sent_at": "2026-10-10T14:55:41.246415+00:00"
+    },
+    {
+      "message_id": "<b03d9a7b27aa95672c463e45b5a08cb644e44449b58c418c56580facf0f27450@gmail.com>",
+      "sent_at": "2026-10-12T09:18:15.963955+00:00"
     },
     {
       "message_id": "<d4ff668fa2a513aba18ad166e364fb752866772da3d2201c484053c75a5aff54@gmail.com>",
