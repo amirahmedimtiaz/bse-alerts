@@ -4341,6 +4341,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-10-12T13:13:06.289729+00:00",
+      "news_id": "106814907",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"12-Oct-2026 18:40:11\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_12102026183908_ComplianceCertificateRegulation74.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 18:40:11\", \"sort_date\": \"2026-10-12 18:40:11\", \"seq_id\": \"106814907\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"472.78 KB\", \"attFileSize\": \"472.78 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-12 18:40:11\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_12102026183908_ComplianceCertificateRegulation74.pdf\", \"_id\": \"106814907\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-23T05:12:07.584970+00:00",
       "news_id": "106750101",
