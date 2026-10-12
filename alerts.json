@@ -3070,8 +3070,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-12T04:27:49.904740+00:00",
       "news_id": "0e498d11-7594-4397-aa16-54301f14873c",
-      "payload": "{\"NEWSID\": \"0e498d11-7594-4397-aa16-54301f14873c\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_0E498D11-7594-4397-AA16-54301F14873C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-12T09:56:39.337\", \"NEWS_DT\": \"2026-10-12T09:56:39.337\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"30d458cc-b100-49d6-bac5-9264904b3793.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release for Order received from Madhya Gujarat Vij Company Limited (MGVCL).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T09:56:39\", \"DissemDT\": \"2026-10-12T09:56:39.337\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 253844, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-12T09:56:39.337\", \"_category\": \"Company Update\", \"_headline\": \"Press Release for Order received from Madhya Gujarat Vij Company Limited (MGVCL).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/30d458cc-b100-49d6-bac5-9264904b3793.pdf\", \"_id\": \"0e498d11-7594-4397-aa16-54301f14873c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -4824,6 +4824,10 @@
     {
       "message_id": "<c51f6129cba11bba931ebe9a683fd4b8b0a2f9261adb76da5186543b393b2e4f@gmail.com>",
       "sent_at": "2026-10-10T06:35:21.918907+00:00"
+    },
+    {
+      "message_id": "<f15f3b74946a0a1778a0adcbd5a7b5c4da116f73856dcb6842aa44496fbaf4ad@gmail.com>",
+      "sent_at": "2026-10-12T04:27:59.627141+00:00"
     },
     {
       "message_id": "<fbb5a0bdcbd2a3f13a4b645c6fad06182b5c6f587d7bbbd2e8216573ef5557d6@gmail.com>",
