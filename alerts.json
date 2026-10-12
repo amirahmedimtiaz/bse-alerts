@@ -4439,6 +4439,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:PROPSHOP",
+      "discovered_at": "2026-10-12T08:07:53.439300+00:00",
+      "news_id": "106814256",
+      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"12-Oct-2026 13:35:42\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_12102026133414_PEEL_-_74_5__Sd.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 13:35:42\", \"sort_date\": \"2026-10-12 13:35:42\", \"seq_id\": \"106814256\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"337.24 KB\", \"attFileSize\": \"337.24 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-12 13:35:42\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_12102026133414_PEEL_-_74_5__Sd.pdf\", \"_id\": \"106814256\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584989+00:00",
       "news_id": "106779261",
