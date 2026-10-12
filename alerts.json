@@ -4344,8 +4344,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-10-12T13:13:06.289729+00:00",
       "news_id": "106814907",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"12-Oct-2026 18:40:11\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_12102026183908_ComplianceCertificateRegulation74.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 18:40:11\", \"sort_date\": \"2026-10-12 18:40:11\", \"seq_id\": \"106814907\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"472.78 KB\", \"attFileSize\": \"472.78 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-12 18:40:11\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_12102026183908_ComplianceCertificateRegulation74.pdf\", \"_id\": \"106814907\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -4893,16 +4893,16 @@
       "sent_at": "2026-10-12T09:03:40.652619+00:00"
     },
     {
-      "message_id": "<735eb003d822a52a35bc78d272f61582a12d47775f8cf522b5f714065a43555c@gmail.com>",
-      "sent_at": "2026-10-10T13:00:39.777916+00:00"
-    },
-    {
       "message_id": "<77bbc41a0f922f063de1f098db2e26df192997bf11bdfd244d313a2d8b6974fe@gmail.com>",
       "sent_at": "2026-10-12T04:18:00.364712+00:00"
     },
     {
       "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
       "sent_at": "2026-10-10T14:55:41.246415+00:00"
+    },
+    {
+      "message_id": "<9a6c305661b131802b06ad3e6b7f4cd867528fef2ae8856838da610020610e47@gmail.com>",
+      "sent_at": "2026-10-12T13:13:41.283681+00:00"
     },
     {
       "message_id": "<a334eddfd41531a6ba78abe8e86551314e553da2afe8446d89eb630978ee3604@gmail.com>",
