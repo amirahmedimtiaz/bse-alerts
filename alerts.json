@@ -186,8 +186,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-12T05:07:48.435893+00:00",
       "news_id": "2bf94b24-85d4-42e6-b68f-3fc26dd4570f",
-      "payload": "{\"NEWSID\": \"2bf94b24-85d4-42e6-b68f-3fc26dd4570f\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_2BF94B24-85D4-42E6-B68F-3FC26DD4570F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-12T10:34:05.25\", \"NEWS_DT\": \"2026-10-12T10:34:05.25\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2111dee9-bd01-4b0a-a0f7-a2fc319b6360.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press release titled \\\"Tata Power Renewables Records over 130% YoY Growth in the Utility-Scale Execution in Q2  FY27, delivering 419MW Capacity along with 131.2MWhr of the Battery Storage Projects. \\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T10:34:05\", \"DissemDT\": \"2026-10-12T10:34:05.25\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 502686, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-12T10:34:05.25\", \"_category\": \"Company Update\", \"_headline\": \"Press release titled \\\"Tata Power Renewables Records over 130% YoY Growth in the Utility-Scale Execution in Q2  FY27, delivering 419MW Capacity along with 131.2MWhr of the Battery Storage Projects. \\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2111dee9-bd01-4b0a-a0f7-a2fc319b6360.pdf\", \"_id\": \"2bf94b24-85d4-42e6-b68f-3fc26dd4570f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -4835,6 +4835,10 @@
     {
       "message_id": "<f15f3b74946a0a1778a0adcbd5a7b5c4da116f73856dcb6842aa44496fbaf4ad@gmail.com>",
       "sent_at": "2026-10-12T04:27:59.627141+00:00"
+    },
+    {
+      "message_id": "<f38179df8e28ccbe9d6b9c4eeb9e9819e217dc52aa24a80567864901bbfdffd0@gmail.com>",
+      "sent_at": "2026-10-12T05:07:59.967708+00:00"
     },
     {
       "message_id": "<fbb5a0bdcbd2a3f13a4b645c6fad06182b5c6f587d7bbbd2e8216573ef5557d6@gmail.com>",
