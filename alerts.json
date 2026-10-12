@@ -4481,6 +4481,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:TBI",
+      "discovered_at": "2026-10-12T07:22:52.221293+00:00",
+      "news_id": "106814186",
+      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"12-Oct-2026 12:48:22\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_12102026124811_TBI_74_5_.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"12-Oct-2026 12:48:22\", \"sort_date\": \"2026-10-12 12:48:22\", \"seq_id\": \"106814186\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"642.93 KB\", \"attFileSize\": \"642.93 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-12 12:48:22\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"TBI Corn Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_12102026124811_TBI_74_5_.pdf\", \"_id\": \"106814186\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-09-23T05:12:07.585000+00:00",
       "news_id": "106734677",
