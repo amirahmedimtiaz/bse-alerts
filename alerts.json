@@ -3908,6 +3908,13 @@
     },
     {
       "company_key": "544851",
+      "discovered_at": "2026-10-12T07:37:55.413931+00:00",
+      "news_id": "65a7bfe2-0137-4ee6-bd72-16d260a27dd1",
+      "payload": "{\"NEWSID\": \"65a7bfe2-0137-4ee6-bd72-16d260a27dd1\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_65A7BFE2-0137-4EE6-BD72-16D260A27DD1\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T13:03:05.387\", \"NEWS_DT\": \"2026-10-12T13:03:05.387\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"83924055-4782-441f-88d9-b960c039afaf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"certificate under Reg 74(5) of the SEBI (DP) regulation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T13:03:05\", \"DissemDT\": \"2026-10-12T13:03:05.387\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 918829, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T13:03:05.387\", \"_category\": \"Company Update\", \"_headline\": \"certificate under Reg 74(5) of the SEBI (DP) regulation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/83924055-4782-441f-88d9-b960c039afaf.pdf\", \"_id\": \"65a7bfe2-0137-4ee6-bd72-16d260a27dd1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544851",
       "discovered_at": "2026-09-30T13:35:27.616482+00:00",
       "news_id": "704b412b-f78b-4f4d-9478-4a0f7fb80b18",
       "payload": null,
