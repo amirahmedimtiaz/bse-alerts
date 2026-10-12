@@ -3525,8 +3525,8 @@
       "company_key": "544608",
       "discovered_at": "2026-10-12T12:57:54.461735+00:00",
       "news_id": "512916a7-c38f-410d-afc8-474e80e7196f",
-      "payload": "{\"NEWSID\": \"512916a7-c38f-410d-afc8-474e80e7196f\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_512916A7-C38F-410D-AFC8-474E80E7196F\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T18:23:10.177\", \"NEWS_DT\": \"2026-10-12T18:23:10.177\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9d600bec-d626-4856-9f56-90d12e3828ff.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T18:23:10\", \"DissemDT\": \"2026-10-12T18:23:10.177\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3791775, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T18:23:10.177\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9d600bec-d626-4856-9f56-90d12e3828ff.pdf\", \"_id\": \"512916a7-c38f-410d-afc8-474e80e7196f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -4928,6 +4928,10 @@
     {
       "message_id": "<f5d34a1123c20de8aa64de9766230be311607f74d868ac89e57ca25bc77ab4a1@gmail.com>",
       "sent_at": "2026-10-12T08:08:00.427402+00:00"
+    },
+    {
+      "message_id": "<f6b593b2e9cbac3ea3a73be36d493f050319444e84a5640d9b150cf1889cc1ee@gmail.com>",
+      "sent_at": "2026-10-12T12:58:25.226562+00:00"
     },
     {
       "message_id": "<fea282878c6dd35958d9e94f52a6a150de2ac3b8580c98d465c515ce9183a253@gmail.com>",
