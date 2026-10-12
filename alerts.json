@@ -456,6 +456,13 @@
       "status": "sent"
     },
     {
+      "company_key": "517354",
+      "discovered_at": "2026-10-12T12:27:58.068933+00:00",
+      "news_id": "ff9ecb11-e27b-44eb-9e1a-156108d4afa1",
+      "payload": "{\"NEWSID\": \"ff9ecb11-e27b-44eb-9e1a-156108d4afa1\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_FF9ECB11-E27B-44EB-9E1A-156108D4AFA1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-12T17:56:44.467\", \"NEWS_DT\": \"2026-10-12T17:56:44.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"45e06438-fc78-4131-8ab3-9b8e250921dc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Change in Senior Management - Appointment\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T17:56:44\", \"DissemDT\": \"2026-10-12T17:56:44.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 723295, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-12T17:56:44.467\", \"_category\": \"Company Update\", \"_headline\": \"Change in Senior Management - Appointment\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/45e06438-fc78-4131-8ab3-9b8e250921dc.pdf\", \"_id\": \"ff9ecb11-e27b-44eb-9e1a-156108d4afa1\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584317+00:00",
       "news_id": "192ab2fd-191e-4863-8e6b-d14ab6b22357",
