@@ -2216,8 +2216,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-12T09:02:54.034338+00:00",
       "news_id": "bc58f2b7-8b35-41fd-af24-1143b0637fb8",
-      "payload": "{\"NEWSID\": \"bc58f2b7-8b35-41fd-af24-1143b0637fb8\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_BC58F2B7-8B35-41FD-AF24-1143B0637FB8\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T14:32:22.43\", \"NEWS_DT\": \"2026-10-12T14:32:22.43\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f98767c0-a5b3-4069-afa1-42a293151847.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of the Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T14:32:22\", \"DissemDT\": \"2026-10-12T14:32:22.43\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 917651, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T14:32:22.43\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of the Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f98767c0-a5b3-4069-afa1-42a293151847.pdf\", \"_id\": \"bc58f2b7-8b35-41fd-af24-1143b0637fb8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -4837,12 +4837,12 @@
       "sent_at": "2026-10-12T07:37:59.811490+00:00"
     },
     {
-      "message_id": "<2f2a8c9142dfc66bdf2fb8f34329afd60539733a2f86b9280592056cc4c404b1@gmail.com>",
-      "sent_at": "2026-10-10T08:40:22.080285+00:00"
-    },
-    {
       "message_id": "<30790465a2b4c994c01fc0cd8ec6fbecf347f2ee6d7ba7bc059291bc200e5b0a@gmail.com>",
       "sent_at": "2026-10-10T10:20:21.928546+00:00"
+    },
+    {
+      "message_id": "<322bd0eec203b42daeca6dc34b53bcb7b44f483658ae4fb9a7c11edd128f08db@gmail.com>",
+      "sent_at": "2026-10-12T09:03:40.652619+00:00"
     },
     {
       "message_id": "<735eb003d822a52a35bc78d272f61582a12d47775f8cf522b5f714065a43555c@gmail.com>",
