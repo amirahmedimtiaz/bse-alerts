@@ -2720,8 +2720,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-12T12:42:59.520042+00:00",
       "news_id": "ecf2e8c2-6f65-4edd-af60-19cefdbc8159",
-      "payload": "{\"NEWSID\": \"ecf2e8c2-6f65-4edd-af60-19cefdbc8159\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_ECF2E8C2-6F65-4EDD-AF60-19CEFDBC8159\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T18:08:07.753\", \"NEWS_DT\": \"2026-10-12T18:08:07.753\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"718bdf8d-d554-431c-a68b-c2df79768d2a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith certificate for the quarter ended 30 September 2026 pursuant to Regulation 74(5) of the SEBI (Depositories Participants) Regulations, 2018.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T18:08:07\", \"DissemDT\": \"2026-10-12T18:08:07.753\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 751116, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T18:08:07.753\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith certificate for the quarter ended 30 September 2026 pursuant to Regulation 74(5) of the SEBI (Depositories Participants) Regulations, 2018.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/718bdf8d-d554-431c-a68b-c2df79768d2a.pdf\", \"_id\": \"ecf2e8c2-6f65-4edd-af60-19cefdbc8159\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -4889,6 +4889,10 @@
     {
       "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
       "sent_at": "2026-10-10T14:55:41.246415+00:00"
+    },
+    {
+      "message_id": "<a334eddfd41531a6ba78abe8e86551314e553da2afe8446d89eb630978ee3604@gmail.com>",
+      "sent_at": "2026-10-12T12:43:15.986060+00:00"
     },
     {
       "message_id": "<b03d9a7b27aa95672c463e45b5a08cb644e44449b58c418c56580facf0f27450@gmail.com>",
