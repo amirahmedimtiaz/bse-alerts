@@ -3063,8 +3063,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-12T04:17:49.933410+00:00",
       "news_id": "03ff7886-0dbe-4e5b-930b-2c7eaf280884",
-      "payload": "{\"NEWSID\": \"03ff7886-0dbe-4e5b-930b-2c7eaf280884\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_03FF7886-0DBE-4E5B-930B-2C7EAF280884\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-12T09:46:17.893\", \"NEWS_DT\": \"2026-10-12T09:46:17.893\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1ca1a2c9-8e87-4be3-87e9-dfb383eb2cbb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T09:46:17\", \"DissemDT\": \"2026-10-12T09:46:17.893\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 373161, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-12T09:46:17.893\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1ca1a2c9-8e87-4be3-87e9-dfb383eb2cbb.pdf\", \"_id\": \"03ff7886-0dbe-4e5b-930b-2c7eaf280884\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -4787,14 +4787,6 @@
       "sent_at": "2026-10-10T11:30:42.204744+00:00"
     },
     {
-      "message_id": "<15b76588b89ec3c9a2d2c8e7231d380499ec68745e6689fae24beaf28d399c4f@gmail.com>",
-      "sent_at": "2026-10-09T06:36:22.857229+00:00"
-    },
-    {
-      "message_id": "<196eabf979f5679e871060b5cf74f017ad9a192d9348a2d30c81bf43e21d81bd@gmail.com>",
-      "sent_at": "2026-10-08T15:03:12.826070+00:00"
-    },
-    {
       "message_id": "<23051870579a8215e11b188385bc1b81169ec57ed33c4b17f7fdc6a2d5048f97@gmail.com>",
       "sent_at": "2026-10-10T10:45:22.478859+00:00"
     },
@@ -4807,80 +4799,28 @@
       "sent_at": "2026-10-10T10:20:21.928546+00:00"
     },
     {
-      "message_id": "<3b4cd48097a8fd9528cf222798ec12a99cbdd7c3b8c5d36178bd98b49e9d6f09@gmail.com>",
-      "sent_at": "2026-10-09T14:10:53.253101+00:00"
-    },
-    {
-      "message_id": "<3cacdc0f28afb932ea47241ffd42dd26227bcfe5f39dad904daf3e05a6c51e06@gmail.com>",
-      "sent_at": "2026-10-09T13:15:52.865999+00:00"
-    },
-    {
-      "message_id": "<478edff46c9ce134dc6c93e36532960c4977ea0d69f640945eecbf847cd878b8@gmail.com>",
-      "sent_at": "2026-10-09T13:55:53.415264+00:00"
-    },
-    {
-      "message_id": "<52ee6d99bc800f7412c8f7feafdea80be86cb764799f9b94e1cd3c2baaf8ad39@gmail.com>",
-      "sent_at": "2026-10-09T11:15:55.252922+00:00"
-    },
-    {
-      "message_id": "<5c66e4b5b43150d8772578e2bba09b15f81f0802200d0c5eb729d9b5dff8abfd@gmail.com>",
-      "sent_at": "2026-10-09T11:26:15.932178+00:00"
-    },
-    {
-      "message_id": "<5df9430cb644ebfed71d6bcbb8f4f6e5f5abb827b5d92bb40617f14ca5d106ae@gmail.com>",
-      "sent_at": "2026-10-09T12:15:55.005998+00:00"
-    },
-    {
-      "message_id": "<65d8723a1d8dfa11934b0befe6c141e753ea4856027acae7d69ab9ff0b504efc@gmail.com>",
-      "sent_at": "2026-10-09T12:10:53.757766+00:00"
-    },
-    {
       "message_id": "<735eb003d822a52a35bc78d272f61582a12d47775f8cf522b5f714065a43555c@gmail.com>",
       "sent_at": "2026-10-10T13:00:39.777916+00:00"
+    },
+    {
+      "message_id": "<77bbc41a0f922f063de1f098db2e26df192997bf11bdfd244d313a2d8b6974fe@gmail.com>",
+      "sent_at": "2026-10-12T04:18:00.364712+00:00"
     },
     {
       "message_id": "<7bfee8a2005905b901ee0288d91e084a67685b0a36522c01f8f8ce34b2910e6e@gmail.com>",
       "sent_at": "2026-10-10T07:50:21.705996+00:00"
     },
     {
-      "message_id": "<80d7656227a8cde54fc3be618fef6e2afc00813a21bb9f9fe41991f552ffc3a3@gmail.com>",
-      "sent_at": "2026-10-09T07:20:43.462812+00:00"
-    },
-    {
-      "message_id": "<8f4ab2c3d9a29bb6133a6392c4dc9d1210bf5e454170fe2c3d1a5b201e6448cb@gmail.com>",
-      "sent_at": "2026-10-09T12:35:55.936446+00:00"
-    },
-    {
       "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
       "sent_at": "2026-10-10T14:55:41.246415+00:00"
-    },
-    {
-      "message_id": "<9464240111e3a66f34b09a807547fadddd96c0efae0ebab79a584fd721b36d0f@gmail.com>",
-      "sent_at": "2026-10-09T13:11:19.082104+00:00"
-    },
-    {
-      "message_id": "<9fa8a19f0da4ba2552d944f979c183dd0ac035cd1d363505834ee90a17e26349@gmail.com>",
-      "sent_at": "2026-10-09T14:45:54.225677+00:00"
     },
     {
       "message_id": "<c51f6129cba11bba931ebe9a683fd4b8b0a2f9261adb76da5186543b393b2e4f@gmail.com>",
       "sent_at": "2026-10-10T06:35:21.918907+00:00"
     },
     {
-      "message_id": "<e87f6525cffd50134e5b17914bf8bf10c07cafae49ae6a66aab5274f663e1c2e@gmail.com>",
-      "sent_at": "2026-10-09T12:25:55.412983+00:00"
-    },
-    {
-      "message_id": "<f242a18830b6761a3e633a43132f934ec7ab51d9d9f587127cb323efd56a7d56@gmail.com>",
-      "sent_at": "2026-10-09T05:24:46.611359+00:00"
-    },
-    {
       "message_id": "<fbb5a0bdcbd2a3f13a4b645c6fad06182b5c6f587d7bbbd2e8216573ef5557d6@gmail.com>",
       "sent_at": "2026-10-10T10:05:22.214980+00:00"
-    },
-    {
-      "message_id": "<fd64e64cde17239b2f18a7aa6b269d82aea1b94650d59b87636043dfa6dfe591@gmail.com>",
-      "sent_at": "2026-10-09T10:37:05.990387+00:00"
     }
   ],
   "metadata": [
