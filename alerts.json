@@ -2878,6 +2878,13 @@
       "status": "sent"
     },
     {
+      "company_key": "544272",
+      "discovered_at": "2026-10-12T10:43:11.420113+00:00",
+      "news_id": "883dbdeb-6f20-4c9f-a4f4-8fca983fd615",
+      "payload": "{\"NEWSID\": \"883dbdeb-6f20-4c9f-a4f4-8fca983fd615\", \"SCRIP_CD\": 544272, \"XML_NAME\": \"ANN_544272_883DBDEB-6F20-4C9F-A4F4-8FCA983FD615\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T16:12:44.04\", \"NEWS_DT\": \"2026-10-12T16:12:44.04\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"39857e6e-a561-428c-bc89-3791e26629c2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith certificate under Regulation 74(5)Sebi DP Regulations 2018 for quarter ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/shiv-texchem-ltd/shivtexchem/544272/\", \"SLONGNAME\": \"Shiv Texchem Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T16:12:44\", \"DissemDT\": \"2026-10-12T16:12:44.04\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 695216, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Shiv Texchem Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/shiv-texchem-ltd/shivtexchem/544272/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T16:12:44.04\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith certificate under Regulation 74(5)Sebi DP Regulations 2018 for quarter ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/39857e6e-a561-428c-bc89-3791e26629c2.pdf\", \"_id\": \"883dbdeb-6f20-4c9f-a4f4-8fca983fd615\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "544277",
       "discovered_at": "2026-09-23T05:12:07.584778+00:00",
       "news_id": "059edf35-3846-406e-bb7b-fe0f652d7a59",
