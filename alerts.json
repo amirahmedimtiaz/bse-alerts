@@ -3910,8 +3910,8 @@
       "company_key": "544851",
       "discovered_at": "2026-10-12T07:37:55.413931+00:00",
       "news_id": "65a7bfe2-0137-4ee6-bd72-16d260a27dd1",
-      "payload": "{\"NEWSID\": \"65a7bfe2-0137-4ee6-bd72-16d260a27dd1\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_65A7BFE2-0137-4EE6-BD72-16D260A27DD1\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T13:03:05.387\", \"NEWS_DT\": \"2026-10-12T13:03:05.387\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"83924055-4782-441f-88d9-b960c039afaf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"certificate under Reg 74(5) of the SEBI (DP) regulation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T13:03:05\", \"DissemDT\": \"2026-10-12T13:03:05.387\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 918829, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T13:03:05.387\", \"_category\": \"Company Update\", \"_headline\": \"certificate under Reg 74(5) of the SEBI (DP) regulation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/83924055-4782-441f-88d9-b960c039afaf.pdf\", \"_id\": \"65a7bfe2-0137-4ee6-bd72-16d260a27dd1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -4817,6 +4817,10 @@
     {
       "message_id": "<23051870579a8215e11b188385bc1b81169ec57ed33c4b17f7fdc6a2d5048f97@gmail.com>",
       "sent_at": "2026-10-10T10:45:22.478859+00:00"
+    },
+    {
+      "message_id": "<2b924665d84e31280f30ce67e9f052b06b1c4fb9a8ae44197167b83bb6e506aa@gmail.com>",
+      "sent_at": "2026-10-12T07:37:59.811490+00:00"
     },
     {
       "message_id": "<2f2a8c9142dfc66bdf2fb8f34329afd60539733a2f86b9280592056cc4c404b1@gmail.com>",
