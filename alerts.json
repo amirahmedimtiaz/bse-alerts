@@ -3138,6 +3138,13 @@
     },
     {
       "company_key": "544291",
+      "discovered_at": "2026-10-12T14:08:41.698898+00:00",
+      "news_id": "69ced8b1-e6ab-432a-a530-03f0abd33ee5",
+      "payload": "{\"NEWSID\": \"69ced8b1-e6ab-432a-a530-03f0abd33ee5\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_69CED8B1-E6AB-432A-A530-03F0ABD33EE5\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-12T19:37:53.353\", \"NEWS_DT\": \"2026-10-12T19:37:53.353\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cb4971e8-8fe2-4348-9227-fc417bea9cbb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations,2018 for Quarter ended on September 30,2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T19:37:53\", \"DissemDT\": \"2026-10-12T19:37:53.353\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 362048, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-12T19:37:53.353\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulations,2018 for Quarter ended on September 30,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb4971e8-8fe2-4348-9227-fc417bea9cbb.pdf\", \"_id\": \"69ced8b1-e6ab-432a-a530-03f0abd33ee5\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677416+00:00",
       "news_id": "84174d8d-6575-4640-a377-b19ebf747b34",
       "payload": null,
