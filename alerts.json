@@ -3600,6 +3600,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-10-12T11:28:04.947403+00:00",
+      "news_id": "8f731ff9-8367-4858-b966-f586bc3563d3",
+      "payload": "{\"NEWSID\": \"8f731ff9-8367-4858-b966-f586bc3563d3\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_8F731FF9-8367-4858-B966-F586BC3563D3\", \"NEWSSUB\": \"Board Meeting Intimation for To Consider Fund Raising\", \"DT_TM\": \"2026-10-12T16:55:44.897\", \"NEWS_DT\": \"2026-10-12T16:55:44.897\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bfb4003d-9e1c-4dde-b0e7-0485c300cdf2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/10/2026 ,inter alia, to consider and approve fund raising.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-12T16:55:44\", \"DissemDT\": \"2026-10-12T16:55:44.897\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 254512, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Board Meeting Intimation for To Consider Fund Raising\", \"_published\": \"2026-10-12T16:55:44.897\", \"_category\": \"Board Meeting\", \"_headline\": \"Fujiyama Power Systems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/10/2026 ,inter alia, to consider and approve fund raising.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bfb4003d-9e1c-4dde-b0e7-0485c300cdf2.pdf\", \"_id\": \"8f731ff9-8367-4858-b966-f586bc3563d3\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-09-26T14:20:31.696452+00:00",
       "news_id": "aba94536-95d6-4697-8a87-71e6588f4ba1",
       "payload": null,
