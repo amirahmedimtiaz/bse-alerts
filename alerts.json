@@ -200,8 +200,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-13T08:59:23.554360+00:00",
       "news_id": "4c5d7941-8471-400b-a0e6-0e3fe1a499bf",
-      "payload": "{\"NEWSID\": \"4c5d7941-8471-400b-a0e6-0e3fe1a499bf\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4C5D7941-8471-400B-A0E6-0E3FE1A499BF\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-13T14:29:04.953\", \"NEWS_DT\": \"2026-10-13T14:29:04.953\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e304bafc-fd88-4e0c-8c6f-0451edd35c4f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\"Tata Power and Imperial College London Collaborates to Advance Next Generation Energy Systems and Accelerate India-UK Net Zero Ambitions\\\".\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T14:29:04\", \"DissemDT\": \"2026-10-13T14:29:04.953\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 529281, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-13T14:29:04.953\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\"Tata Power and Imperial College London Collaborates to Advance Next Generation Energy Systems and Accelerate India-UK Net Zero Ambitions\\\".\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e304bafc-fd88-4e0c-8c6f-0451edd35c4f.pdf\", \"_id\": \"4c5d7941-8471-400b-a0e6-0e3fe1a499bf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -4948,6 +4948,10 @@
     {
       "message_id": "<d4ff668fa2a513aba18ad166e364fb752866772da3d2201c484053c75a5aff54@gmail.com>",
       "sent_at": "2026-10-12T07:23:00.981542+00:00"
+    },
+    {
+      "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
+      "sent_at": "2026-10-13T08:59:31.161789+00:00"
     },
     {
       "message_id": "<f15f3b74946a0a1778a0adcbd5a7b5c4da116f73856dcb6842aa44496fbaf4ad@gmail.com>",
