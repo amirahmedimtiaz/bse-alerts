@@ -4043,8 +4043,8 @@
       "company_key": "544862",
       "discovered_at": "2026-10-13T10:14:34.022354+00:00",
       "news_id": "7274f28a-c002-407f-b06e-c5c316248e15",
-      "payload": "{\"NEWSID\": \"7274f28a-c002-407f-b06e-c5c316248e15\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_7274F28A-C002-407F-B06E-C5C316248E15\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-13T15:43:37.027\", \"NEWS_DT\": \"2026-10-13T15:43:37.027\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"edc97e21-c2ba-42bf-b805-299fa99a1fbb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Reg 74(5)\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T15:43:37\", \"DissemDT\": \"2026-10-13T15:43:37.027\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 907952, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-13T15:43:37.027\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Reg 74(5)\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/edc97e21-c2ba-42bf-b805-299fa99a1fbb.pdf\", \"_id\": \"7274f28a-c002-407f-b06e-c5c316248e15\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -4915,6 +4915,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<222cbf550bb064309c142d5dc5fe359447077a1bdbb9dc49021757e4363f77d4@gmail.com>",
+      "sent_at": "2026-10-13T10:14:44.283482+00:00"
+    },
     {
       "message_id": "<2b924665d84e31280f30ce67e9f052b06b1c4fb9a8ae44197167b83bb6e506aa@gmail.com>",
       "sent_at": "2026-10-12T07:37:59.811490+00:00"
