@@ -2396,6 +2396,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-13T11:19:27.369094+00:00",
+      "news_id": "bf615b3e-1055-4e59-9faf-f018c41bb19e",
+      "payload": "{\"NEWSID\": \"bf615b3e-1055-4e59-9faf-f018c41bb19e\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_BF615B3E-1055-4E59-9FAF-F018C41BB19E\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-13T16:47:17.753\", \"NEWS_DT\": \"2026-10-13T16:47:17.753\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2b7b1011-46d7-4061-a24e-29fde5a50704.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release on receipt of Order dated October 09, 2026 passed by the Hon''ble NCLAT\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T16:47:17\", \"DissemDT\": \"2026-10-13T16:47:17.753\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 350387, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-13T16:47:17.753\", \"_category\": \"Company Update\", \"_headline\": \"Press Release on receipt of Order dated October 09, 2026 passed by the Hon''ble NCLAT\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2b7b1011-46d7-4061-a24e-29fde5a50704.pdf\", \"_id\": \"bf615b3e-1055-4e59-9faf-f018c41bb19e\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584674+00:00",
       "news_id": "bf95ed6f-ca7d-4c28-9c50-cdcf8fa8b71a",
       "payload": null,
