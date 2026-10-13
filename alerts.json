@@ -779,6 +779,13 @@
     },
     {
       "company_key": "517569",
+      "discovered_at": "2026-10-13T10:24:23.920144+00:00",
+      "news_id": "af456878-3e91-42ca-9005-4fe6e73c88af",
+      "payload": "{\"NEWSID\": \"af456878-3e91-42ca-9005-4fe6e73c88af\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_AF456878-3E91-42CA-9005-4FE6E73C88AF\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-13T15:51:08.37\", \"NEWS_DT\": \"2026-10-13T15:51:08.37\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"368e93cf-7603-466f-a4f4-bc9a16dcee82.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of newspaper publication- Special Window for Transfer and Dematerialisation of Physical Securities\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T15:51:08\", \"DissemDT\": \"2026-10-13T15:51:08.37\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2288044, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-13T15:51:08.37\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of newspaper publication- Special Window for Transfer and Dematerialisation of Physical Securities\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/368e93cf-7603-466f-a4f4-bc9a16dcee82.pdf\", \"_id\": \"af456878-3e91-42ca-9005-4fe6e73c88af\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517569",
       "discovered_at": "2026-09-23T05:12:07.584354+00:00",
       "news_id": "d69b6cf2-9fa4-4e35-8eb4-28e7a6db46f8",
       "payload": null,
