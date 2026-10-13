@@ -275,6 +275,13 @@
     },
     {
       "company_key": "504212",
+      "discovered_at": "2026-10-13T10:04:24.710482+00:00",
+      "news_id": "4e227d7e-4c9a-4efa-a1ef-3c903adf15c6",
+      "payload": "{\"NEWSID\": \"4e227d7e-4c9a-4efa-a1ef-3c903adf15c6\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_4E227D7E-4C9A-4EFA-A1EF-3C903ADF15C6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"DT_TM\": \"2026-10-13T15:33:25.62\", \"NEWS_DT\": \"2026-10-13T15:33:25.62\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3d8d8b8d-397b-4858-8e30-00b7755e8d78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Announcement under Regulation 30 of the SEBI (LODR) - Credit Rating.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 46, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T15:33:25\", \"DissemDT\": \"2026-10-13T15:33:25.62\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 485257, \"SUBCATNAME\": \"Credit Rating\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"_published\": \"2026-10-13T15:33:25.62\", \"_category\": \"Company Update\", \"_headline\": \"Announcement under Regulation 30 of the SEBI (LODR) - Credit Rating.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3d8d8b8d-397b-4858-8e30-00b7755e8d78.pdf\", \"_id\": \"4e227d7e-4c9a-4efa-a1ef-3c903adf15c6\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504212",
       "discovered_at": "2026-09-26T14:20:22.693308+00:00",
       "news_id": "64c082c6-bd13-448a-85a2-6c2fac5e3ecc",
       "payload": null,
