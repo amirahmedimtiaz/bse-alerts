@@ -212,6 +212,13 @@
     },
     {
       "company_key": "500400",
+      "discovered_at": "2026-10-13T11:44:35.044706+00:00",
+      "news_id": "78d6f1c8-ee9b-4d8c-bdce-2a60dcb1a147",
+      "payload": "{\"NEWSID\": \"78d6f1c8-ee9b-4d8c-bdce-2a60dcb1a147\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_78D6F1C8-EE9B-4D8C-BDCE-2A60DCB1A147\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Cessation\", \"DT_TM\": \"2026-10-13T17:12:22.8\", \"NEWS_DT\": \"2026-10-13T17:12:22.8\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ec1e24b4-4665-441e-954c-0e269a083200.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 30 of the SEBI ( Listing Obligagtion and Disclosure Requirements) Regulations, 2015 - Cessastion of Independent Directors.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 123, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T17:12:22\", \"DissemDT\": \"2026-10-13T17:12:22.8\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 221309, \"SUBCATNAME\": \"Cessation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Cessation\", \"_published\": \"2026-10-13T17:12:22.8\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 30 of the SEBI ( Listing Obligagtion and Disclosure Requirements) Regulations, 2015 - Cessastion of Independent Directors.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec1e24b4-4665-441e-954c-0e269a083200.pdf\", \"_id\": \"78d6f1c8-ee9b-4d8c-bdce-2a60dcb1a147\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "500400",
       "discovered_at": "2026-10-06T09:21:31.766151+00:00",
       "news_id": "8da7c1e0-e0a1-4d50-a1b4-9b3b1839229b",
       "payload": null,
