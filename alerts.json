@@ -4099,8 +4099,8 @@
       "company_key": "544905",
       "discovered_at": "2026-10-13T08:09:24.421357+00:00",
       "news_id": "12caa0e9-2bd9-40bc-ace6-38b54461c010",
-      "payload": "{\"NEWSID\": \"12caa0e9-2bd9-40bc-ace6-38b54461c010\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_12CAA0E9-2BD9-40BC-ACE6-38B54461C010\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-13T13:34:29.187\", \"NEWS_DT\": \"2026-10-13T13:34:29.187\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"37a80b07-d8b1-42e2-ad24-25cb907d0592.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulation, 2018 for the Quarter ended on 30th September, 2026 is attached herewith.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-13T13:34:29\", \"DissemDT\": \"2026-10-13T13:34:29.187\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1177125, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-13T13:34:29.187\", \"_category\": \"Company Update\", \"_headline\": \"Certificate under Regulation 74(5) of SEBI (DP) Regulation, 2018 for the Quarter ended on 30th September, 2026 is attached herewith.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/37a80b07-d8b1-42e2-ad24-25cb907d0592.pdf\", \"_id\": \"12caa0e9-2bd9-40bc-ace6-38b54461c010\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544905",
@@ -4915,8 +4915,8 @@
       "sent_at": "2026-10-12T14:09:08.574097+00:00"
     },
     {
-      "message_id": "<9384f5f1db79df11332a8af53201cb226d2e0435270c9a45e52d0bd01075ae16@gmail.com>",
-      "sent_at": "2026-10-10T14:55:41.246415+00:00"
+      "message_id": "<8af683e7d29ea1b1be839878b1338492f0474c7a18b47cfc0a453b0c6082ff9d@gmail.com>",
+      "sent_at": "2026-10-13T08:09:30.883029+00:00"
     },
     {
       "message_id": "<9a6c305661b131802b06ad3e6b7f4cd867528fef2ae8856838da610020610e47@gmail.com>",
