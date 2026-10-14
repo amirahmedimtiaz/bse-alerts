@@ -3707,8 +3707,8 @@
       "company_key": "544608",
       "discovered_at": "2026-10-14T13:45:48.771876+00:00",
       "news_id": "f4aabee9-f692-47bd-ae30-c07bd88b5457",
-      "payload": "{\"NEWSID\": \"f4aabee9-f692-47bd-ae30-c07bd88b5457\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_F4AABEE9-F692-47BD-AE30-C07BD88B5457\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T19:15:13.84\", \"NEWS_DT\": \"2026-10-14T19:15:13.84\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c820b444-0175-4008-abae-efd73b7963f1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find the attached press release for unaudited financial results for Q2FY26.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T19:15:13\", \"DissemDT\": \"2026-10-14T19:15:13.84\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3543388, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T19:15:13.84\", \"_category\": \"Company Update\", \"_headline\": \"Please find the attached press release for unaudited financial results for Q2FY26.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c820b444-0175-4008-abae-efd73b7963f1.pdf\", \"_id\": \"f4aabee9-f692-47bd-ae30-c07bd88b5457\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -5128,6 +5128,10 @@
     {
       "message_id": "<8ef54a78c480dfde1ce07735e9bbb3c2e6c7b21d2eb6546161abd39819f8ec9f@gmail.com>",
       "sent_at": "2026-10-14T13:32:18.091362+00:00"
+    },
+    {
+      "message_id": "<91c525cdd3ab06be0891e29e956c9950f962f3c4b1cd7319ff23a02572285543@gmail.com>",
+      "sent_at": "2026-10-14T13:46:10.578019+00:00"
     },
     {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
