@@ -4223,6 +4223,13 @@
     },
     {
       "company_key": "544905",
+      "discovered_at": "2026-10-14T12:36:21.685530+00:00",
+      "news_id": "86bdfaf8-3e81-4fd3-a27a-b15e371d97c5",
+      "payload": "{\"NEWSID\": \"86bdfaf8-3e81-4fd3-a27a-b15e371d97c5\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_86BDFAF8-3E81-4FD3-A27A-B15E371D97C5\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On 14Th October, 2026\", \"DT_TM\": \"2026-10-14T18:03:17.297\", \"NEWS_DT\": \"2026-10-14T18:03:17.297\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7faf6faa-5c08-47ff-8a34-20be7bff2f67.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting held on 14th October, 2026\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 223, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T18:03:16\", \"DissemDT\": \"2026-10-14T18:03:17.297\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 738058, \"SUBCATNAME\": \"Outcome without intimation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On 14Th October, 2026\", \"_published\": \"2026-10-14T18:03:17.297\", \"_category\": \"Others\", \"_headline\": \"Outcome of Board Meeting held on 14th October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7faf6faa-5c08-47ff-8a34-20be7bff2f67.pdf\", \"_id\": \"86bdfaf8-3e81-4fd3-a27a-b15e371d97c5\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544905",
       "discovered_at": "2026-10-01T15:23:03.729715+00:00",
       "news_id": "f1493f77-cb8e-418e-bdea-9616e7a41ca5",
       "payload": null,
