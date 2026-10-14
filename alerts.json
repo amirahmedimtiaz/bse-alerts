@@ -2370,8 +2370,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-14T05:50:34.942414+00:00",
       "news_id": "61157978-171e-4045-9c2b-e6f7b96d5287",
-      "payload": "{\"NEWSID\": \"61157978-171e-4045-9c2b-e6f7b96d5287\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_61157978-171E-4045-9C2B-E6F7B96D5287\", \"NEWSSUB\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"DT_TM\": \"2026-10-14T11:16:13.827\", \"NEWS_DT\": \"2026-10-14T11:16:13.827\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"67cc4dbb-3fd4-4c34-95ef-8e997068efc8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Hon''ble NCLAT has granted the request for early listing and the appeal is now scheduled to be held on October 15, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 173, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T11:16:13\", \"DissemDT\": \"2026-10-14T11:16:13.827\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 289386, \"SUBCATNAME\": \"Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"_published\": \"2026-10-14T11:16:13.827\", \"_category\": \"Company Update\", \"_headline\": \"Hon''ble NCLAT has granted the request for early listing and the appeal is now scheduled to be held on October 15, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/67cc4dbb-3fd4-4c34-95ef-8e997068efc8.pdf\", \"_id\": \"61157978-171e-4045-9c2b-e6f7b96d5287\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -4982,6 +4982,10 @@
       "sent_at": "2026-10-12T09:03:40.652619+00:00"
     },
     {
+      "message_id": "<59c478f3942e61538928fe03bfff0685000e7b2dc6a5f9684c6b01f282734666@gmail.com>",
+      "sent_at": "2026-10-14T05:50:56.137231+00:00"
+    },
+    {
       "message_id": "<7b02814b03d76143a0b6de9762cde03c065c3a8e52ebed7eb8093728e971ae04@gmail.com>",
       "sent_at": "2026-10-13T10:04:46.151156+00:00"
     },
@@ -5032,10 +5036,6 @@
     {
       "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
       "sent_at": "2026-10-13T08:59:31.161789+00:00"
-    },
-    {
-      "message_id": "<f38179df8e28ccbe9d6b9c4eeb9e9819e217dc52aa24a80567864901bbfdffd0@gmail.com>",
-      "sent_at": "2026-10-12T05:07:59.967708+00:00"
     },
     {
       "message_id": "<f5d34a1123c20de8aa64de9766230be311607f74d868ac89e57ca25bc77ab4a1@gmail.com>",
