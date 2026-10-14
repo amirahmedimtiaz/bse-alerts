@@ -3231,8 +3231,8 @@
       "company_key": "544442",
       "discovered_at": "2026-10-14T07:25:48.447905+00:00",
       "news_id": "0aef2d0a-555f-4f76-abcc-a3e085581609",
-      "payload": "{\"NEWSID\": \"0aef2d0a-555f-4f76-abcc-a3e085581609\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_0AEF2D0A-555F-4F76-ABCC-A3E085581609\", \"NEWSSUB\": \"Disclosure Under Regulation 30 For Change In CIN Of Company On Corporate Information Page.\", \"DT_TM\": \"2026-10-14T12:54:57.567\", \"NEWS_DT\": \"2026-10-14T12:54:57.567\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5ad5ea3d-56af-4473-ae95-e85440d2aa78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"We are submitting herewith Disclosure for Change in CIN of the Company on Corporate Information Page on BSE Limited.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T12:54:57\", \"DissemDT\": \"2026-10-14T12:54:57.567\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 509938, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Disclosure Under Regulation 30 For Change In CIN Of Company On Corporate Information Page.\", \"_published\": \"2026-10-14T12:54:57.567\", \"_category\": \"Company Update\", \"_headline\": \"We are submitting herewith Disclosure for Change in CIN of the Company on Corporate Information Page on BSE Limited.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5ad5ea3d-56af-4473-ae95-e85440d2aa78.pdf\", \"_id\": \"0aef2d0a-555f-4f76-abcc-a3e085581609\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
@@ -5004,6 +5004,10 @@
       "sent_at": "2026-10-13T10:04:46.151156+00:00"
     },
     {
+      "message_id": "<8a1d6ec06da2c7ff9517ee232e8968415e23dbabeee6a6e675e3b53b2db1532e@gmail.com>",
+      "sent_at": "2026-10-14T07:25:56.675995+00:00"
+    },
+    {
       "message_id": "<8ab2eae4a6717cb86ccf283e505626ab049670a65c12c91a48e606f39d97317b@gmail.com>",
       "sent_at": "2026-10-12T14:09:08.574097+00:00"
     },
@@ -5038,10 +5042,6 @@
     {
       "message_id": "<ce7c973db377027bf5d0afc32ab95bf1d542db7f0298da95230d989c7a382dd9@gmail.com>",
       "sent_at": "2026-10-12T11:03:17.812864+00:00"
-    },
-    {
-      "message_id": "<d4ff668fa2a513aba18ad166e364fb752866772da3d2201c484053c75a5aff54@gmail.com>",
-      "sent_at": "2026-10-12T07:23:00.981542+00:00"
     },
     {
       "message_id": "<dc545fb52ccc758da4c503fde5ac4ee18481118f71470e84d266c0c0e4d63201@gmail.com>",
