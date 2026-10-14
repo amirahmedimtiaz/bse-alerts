@@ -4453,6 +4453,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-10-14T08:45:43.082235+00:00",
+      "news_id": "106817147",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Commencement of commercial production/operations\", \"dt\": \"14-Oct-2026 14:14:53\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_14102026141428_Regulation30CommercialProducation.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"14-Oct-2026 14:14:53\", \"sort_date\": \"2026-10-14 14:14:53\", \"seq_id\": \"106817147\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Commencement of commercial production/operations\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"375.52 KB\", \"attFileSize\": \"375.52 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Commencement of commercial production/operations\", \"_published\": \"2026-10-14 14:14:53\", \"_category\": \"Commencement of commercial production/operations\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Commencement of commercial production/operations\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_14102026141428_Regulation30CommercialProducation.pdf\", \"_id\": \"106817147\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-23T05:12:07.584970+00:00",
       "news_id": "106750101",
