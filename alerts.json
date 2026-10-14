@@ -543,8 +543,8 @@
       "company_key": "517498",
       "discovered_at": "2026-10-14T13:55:54.711843+00:00",
       "news_id": "8adbf2f5-107b-4706-aa72-51ff575a656e",
-      "payload": "{\"NEWSID\": \"8adbf2f5-107b-4706-aa72-51ff575a656e\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_8ADBF2F5-107B-4706-AA72-51FF575A656E\", \"NEWSSUB\": \"Revised Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.\", \"DT_TM\": \"2026-10-14T19:23:09.303\", \"NEWS_DT\": \"2026-10-14T19:23:09.303\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8ADBF2F5_107B_4706_AA72_51FF575A656E_192300.pdf\", \"MORE\": \"The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 08, 2026 for Sohan Lal Agarwal & Others\", \"HEADLINE\": \"The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 08, 2026 for Sohan Lal ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 51, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-10-14T19:23:09.303\", \"TimeDiff\": null, \"Fld_Attachsize\": 815786, \"SUBCATNAME\": \"Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Revised Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.\", \"_published\": \"2026-10-14T19:23:09.303\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 08, 2026 for Sohan Lal ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8ADBF2F5_107B_4706_AA72_51FF575A656E_192300.pdf\", \"_id\": \"8adbf2f5-107b-4706-aa72-51ff575a656e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -3623,8 +3623,8 @@
       "company_key": "544608",
       "discovered_at": "2026-10-14T13:55:48.771594+00:00",
       "news_id": "2cc983aa-28d9-4c8a-97cc-a4718b8cbc9c",
-      "payload": "{\"NEWSID\": \"2cc983aa-28d9-4c8a-97cc-a4718b8cbc9c\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_2CC983AA-28D9-4C8A-97CC-A4718B8CBC9C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-14T19:21:30.673\", \"NEWS_DT\": \"2026-10-14T19:21:30.673\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"101db260-4a66-4957-8e53-b0278a88bade.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find the attached investor presentation for the quarter and half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T19:21:30\", \"DissemDT\": \"2026-10-14T19:21:30.673\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 7572308, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-14T19:21:30.673\", \"_category\": \"Company Update\", \"_headline\": \"Please find the attached investor presentation for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/101db260-4a66-4957-8e53-b0278a88bade.pdf\", \"_id\": \"2cc983aa-28d9-4c8a-97cc-a4718b8cbc9c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -5146,6 +5146,10 @@
     {
       "message_id": "<91c525cdd3ab06be0891e29e956c9950f962f3c4b1cd7319ff23a02572285543@gmail.com>",
       "sent_at": "2026-10-14T13:46:10.578019+00:00"
+    },
+    {
+      "message_id": "<9429c993c557c05483388340bf22a9ce9b5468bcba2ef3de7cc016642e223fc5@gmail.com>",
+      "sent_at": "2026-10-14T13:56:10.271091+00:00"
     },
     {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
