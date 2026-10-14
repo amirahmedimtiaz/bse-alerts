@@ -795,8 +795,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-14T13:05:50.719602+00:00",
       "news_id": "a5461911-6231-4a07-bc32-21fcc7d13abf",
-      "payload": "{\"NEWSID\": \"a5461911-6231-4a07-bc32-21fcc7d13abf\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_A5461911-6231-4A07-BC32-21FCC7D13ABF\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-14T18:33:33.353\", \"NEWS_DT\": \"2026-10-14T18:33:33.353\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e4497b14-f995-45a3-b21c-b95a0b4e2845.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Compliance Certificate of Demat/Remat of shares under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended on 30.09.2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T18:33:33\", \"DissemDT\": \"2026-10-14T18:33:33.353\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1079241, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-14T18:33:33.353\", \"_category\": \"Company Update\", \"_headline\": \"Compliance Certificate of Demat/Remat of shares under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended on 30.09.2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e4497b14-f995-45a3-b21c-b95a0b4e2845.pdf\", \"_id\": \"a5461911-6231-4a07-bc32-21fcc7d13abf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -5073,6 +5073,10 @@
       "sent_at": "2026-10-14T07:45:56.597457+00:00"
     },
     {
+      "message_id": "<48b5e0fc393d40694c609f378973ca198d45d033356f565e6d2313b03f689770@gmail.com>",
+      "sent_at": "2026-10-14T13:06:12.232228+00:00"
+    },
+    {
       "message_id": "<4fd4b7ad0fd1f7fd6ad65bd0ee05390ce4381d138e093474c5f05a46819ad719@gmail.com>",
       "sent_at": "2026-10-14T12:47:22.439355+00:00"
     },
@@ -5131,10 +5135,6 @@
     {
       "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
       "sent_at": "2026-10-13T08:59:31.161789+00:00"
-    },
-    {
-      "message_id": "<f6b593b2e9cbac3ea3a73be36d493f050319444e84a5640d9b150cf1889cc1ee@gmail.com>",
-      "sent_at": "2026-10-12T12:58:25.226562+00:00"
     }
   ],
   "metadata": [
