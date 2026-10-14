@@ -3705,6 +3705,13 @@
     },
     {
       "company_key": "544608",
+      "discovered_at": "2026-10-14T13:45:48.771876+00:00",
+      "news_id": "f4aabee9-f692-47bd-ae30-c07bd88b5457",
+      "payload": "{\"NEWSID\": \"f4aabee9-f692-47bd-ae30-c07bd88b5457\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_F4AABEE9-F692-47BD-AE30-C07BD88B5457\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T19:15:13.84\", \"NEWS_DT\": \"2026-10-14T19:15:13.84\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c820b444-0175-4008-abae-efd73b7963f1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find the attached press release for unaudited financial results for Q2FY26.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T19:15:13\", \"DissemDT\": \"2026-10-14T19:15:13.84\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3543388, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T19:15:13.84\", \"_category\": \"Company Update\", \"_headline\": \"Please find the attached press release for unaudited financial results for Q2FY26.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c820b444-0175-4008-abae-efd73b7963f1.pdf\", \"_id\": \"f4aabee9-f692-47bd-ae30-c07bd88b5457\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544608",
       "discovered_at": "2026-09-26T14:20:20.683533+00:00",
       "news_id": "fed1cde4-fa4c-49a7-9a91-abf1f2cf67a9",
       "payload": null,
