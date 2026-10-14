@@ -3229,6 +3229,13 @@
     },
     {
       "company_key": "544442",
+      "discovered_at": "2026-10-14T07:25:48.447905+00:00",
+      "news_id": "0aef2d0a-555f-4f76-abcc-a3e085581609",
+      "payload": "{\"NEWSID\": \"0aef2d0a-555f-4f76-abcc-a3e085581609\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_0AEF2D0A-555F-4F76-ABCC-A3E085581609\", \"NEWSSUB\": \"Disclosure Under Regulation 30 For Change In CIN Of Company On Corporate Information Page.\", \"DT_TM\": \"2026-10-14T12:54:57.567\", \"NEWS_DT\": \"2026-10-14T12:54:57.567\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5ad5ea3d-56af-4473-ae95-e85440d2aa78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"We are submitting herewith Disclosure for Change in CIN of the Company on Corporate Information Page on BSE Limited.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T12:54:57\", \"DissemDT\": \"2026-10-14T12:54:57.567\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 509938, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Disclosure Under Regulation 30 For Change In CIN Of Company On Corporate Information Page.\", \"_published\": \"2026-10-14T12:54:57.567\", \"_category\": \"Company Update\", \"_headline\": \"We are submitting herewith Disclosure for Change in CIN of the Company on Corporate Information Page on BSE Limited.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5ad5ea3d-56af-4473-ae95-e85440d2aa78.pdf\", \"_id\": \"0aef2d0a-555f-4f76-abcc-a3e085581609\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544442",
       "discovered_at": "2026-10-10T07:50:13.797225+00:00",
       "news_id": "5585412e-bf60-4cb4-8536-42a11be2c457",
       "payload": null,
