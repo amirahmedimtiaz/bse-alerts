@@ -205,6 +205,13 @@
     },
     {
       "company_key": "500400",
+      "discovered_at": "2026-10-14T04:30:32.976054+00:00",
+      "news_id": "4db1b0f9-a847-4e64-aa9e-892a00327d60",
+      "payload": "{\"NEWSID\": \"4db1b0f9-a847-4e64-aa9e-892a00327d60\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4DB1B0F9-A847-4E64-AA9E-892A00327D60\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T10:00:26.497\", \"NEWS_DT\": \"2026-10-14T10:00:26.497\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"08084342-de1f-448a-90bd-964006876f78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\" Tata Power Advances 2.8GW+ Data Centre Opportunity Pipeline Across 18 Leading Blue Chip Data Centre Players, Supporting India''s AI and Digital Growth.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T10:00:26\", \"DissemDT\": \"2026-10-14T10:00:26.497\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 331276, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T10:00:26.497\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\" Tata Power Advances 2.8GW+ Data Centre Opportunity Pipeline Across 18 Leading Blue Chip Data Centre Players, Supporting India''s AI and Digital Growth.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/08084342-de1f-448a-90bd-964006876f78.pdf\", \"_id\": \"4db1b0f9-a847-4e64-aa9e-892a00327d60\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "500400",
       "discovered_at": "2026-09-26T14:20:35.204460+00:00",
       "news_id": "687c3d79-78e5-4bbb-86f8-969ca83e26dc",
       "payload": null,
