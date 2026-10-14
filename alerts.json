@@ -4537,6 +4537,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-10-14T12:46:14.445890+00:00",
+      "news_id": "106817600",
+      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"14-Oct-2026 18:14:05\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14102026181023_final_upload_74.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"14-Oct-2026 18:14:05\", \"sort_date\": \"2026-10-14 18:14:05\", \"seq_id\": \"106817600\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.07 MB\", \"attFileSize\": \"1.07 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-14 18:14:05\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14102026181023_final_upload_74.pdf\", \"_id\": \"106817600\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-10-10T10:05:15.892629+00:00",
       "news_id": "106813560",
