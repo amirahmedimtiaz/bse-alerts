@@ -4006,6 +4006,13 @@
     },
     {
       "company_key": "544851",
+      "discovered_at": "2026-10-14T04:55:29.902745+00:00",
+      "news_id": "463aa524-9f66-452a-838d-e5e605808807",
+      "payload": "{\"NEWSID\": \"463aa524-9f66-452a-838d-e5e605808807\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_463AA524-9F66-452A-838D-E5E605808807\", \"NEWSSUB\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"DT_TM\": \"2026-10-14T10:22:32.523\", \"NEWS_DT\": \"2026-10-14T10:22:32.523\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"463AA524_9F66_452A_838D_E5E605808807_102226.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Kotak Mahindra Mutual Fund\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 52, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-10-14T10:22:32.523\", \"TimeDiff\": null, \"Fld_Attachsize\": 4173331, \"SUBCATNAME\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"_published\": \"2026-10-14T10:22:32.523\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Kotak Mahindra Mutual Fund\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/463AA524_9F66_452A_838D_E5E605808807_102226.pdf\", \"_id\": \"463aa524-9f66-452a-838d-e5e605808807\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544851",
       "discovered_at": "2026-10-12T07:37:55.413931+00:00",
       "news_id": "65a7bfe2-0137-4ee6-bd72-16d260a27dd1",
       "payload": null,
