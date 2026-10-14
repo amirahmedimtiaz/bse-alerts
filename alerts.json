@@ -3173,6 +3173,13 @@
     },
     {
       "company_key": "544291",
+      "discovered_at": "2026-10-14T07:45:49.365782+00:00",
+      "news_id": "158d78d5-5a99-4b81-84a0-33392ee10a44",
+      "payload": "{\"NEWSID\": \"158d78d5-5a99-4b81-84a0-33392ee10a44\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_158D78D5-5A99-4B81-84A0-33392EE10A44\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T13:14:23.78\", \"NEWS_DT\": \"2026-10-14T13:14:23.78\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"15f5985d-c604-41c2-a1dc-17968066ce08.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release for Order Received from Uttar Gujarat Vij Company Limited (UGVCL).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T13:14:23\", \"DissemDT\": \"2026-10-14T13:14:23.78\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 236184, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T13:14:23.78\", \"_category\": \"Company Update\", \"_headline\": \"Press Release for Order Received from Uttar Gujarat Vij Company Limited (UGVCL).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/15f5985d-c604-41c2-a1dc-17968066ce08.pdf\", \"_id\": \"158d78d5-5a99-4b81-84a0-33392ee10a44\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677353+00:00",
       "news_id": "304868ff-1bad-4d71-89b8-21b1cebc381e",
       "payload": null,
@@ -3212,6 +3219,13 @@
       "news_id": "977e95e8-c581-456a-8a25-4dc055b26c73",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "544291",
+      "discovered_at": "2026-10-14T07:45:49.365627+00:00",
+      "news_id": "fb968c1a-aaff-4350-8567-22e92da87c75",
+      "payload": "{\"NEWSID\": \"fb968c1a-aaff-4350-8567-22e92da87c75\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_FB968C1A-AAFF-4350-8567-22E92DA87C75\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-14T13:10:56.55\", \"NEWS_DT\": \"2026-10-14T13:10:56.55\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1c93bbac-7689-4b70-ba42-3706d16e4bc9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL)\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T13:10:56\", \"DissemDT\": \"2026-10-14T13:10:56.55\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 373783, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-14T13:10:56.55\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL)\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1c93bbac-7689-4b70-ba42-3706d16e4bc9.pdf\", \"_id\": \"fb968c1a-aaff-4350-8567-22e92da87c75\"}",
+      "status": "pending"
     },
     {
       "company_key": "544387",
