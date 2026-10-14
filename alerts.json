@@ -3175,8 +3175,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-14T07:45:49.365782+00:00",
       "news_id": "158d78d5-5a99-4b81-84a0-33392ee10a44",
-      "payload": "{\"NEWSID\": \"158d78d5-5a99-4b81-84a0-33392ee10a44\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_158D78D5-5A99-4B81-84A0-33392EE10A44\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T13:14:23.78\", \"NEWS_DT\": \"2026-10-14T13:14:23.78\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"15f5985d-c604-41c2-a1dc-17968066ce08.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release for Order Received from Uttar Gujarat Vij Company Limited (UGVCL).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T13:14:23\", \"DissemDT\": \"2026-10-14T13:14:23.78\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 236184, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T13:14:23.78\", \"_category\": \"Company Update\", \"_headline\": \"Press Release for Order Received from Uttar Gujarat Vij Company Limited (UGVCL).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/15f5985d-c604-41c2-a1dc-17968066ce08.pdf\", \"_id\": \"158d78d5-5a99-4b81-84a0-33392ee10a44\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -3224,8 +3224,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-14T07:45:49.365627+00:00",
       "news_id": "fb968c1a-aaff-4350-8567-22e92da87c75",
-      "payload": "{\"NEWSID\": \"fb968c1a-aaff-4350-8567-22e92da87c75\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_FB968C1A-AAFF-4350-8567-22E92DA87C75\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-10-14T13:10:56.55\", \"NEWS_DT\": \"2026-10-14T13:10:56.55\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1c93bbac-7689-4b70-ba42-3706d16e4bc9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL)\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T13:10:56\", \"DissemDT\": \"2026-10-14T13:10:56.55\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 373783, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-10-14T13:10:56.55\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL)\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1c93bbac-7689-4b70-ba42-3706d16e4bc9.pdf\", \"_id\": \"fb968c1a-aaff-4350-8567-22e92da87c75\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -4998,16 +4998,16 @@
       "sent_at": "2026-10-13T10:14:44.283482+00:00"
     },
     {
-      "message_id": "<2b924665d84e31280f30ce67e9f052b06b1c4fb9a8ae44197167b83bb6e506aa@gmail.com>",
-      "sent_at": "2026-10-12T07:37:59.811490+00:00"
-    },
-    {
       "message_id": "<3204f9163af2654cc3d0c5854f6af2e782653ac2f5f585ecf2013222a4a4205b@gmail.com>",
       "sent_at": "2026-10-12T12:28:46.474402+00:00"
     },
     {
       "message_id": "<322bd0eec203b42daeca6dc34b53bcb7b44f483658ae4fb9a7c11edd128f08db@gmail.com>",
       "sent_at": "2026-10-12T09:03:40.652619+00:00"
+    },
+    {
+      "message_id": "<44e88f0abf96bc5d9b7feab4f46bc16b59f03f315e9e6878f951644322cd2089@gmail.com>",
+      "sent_at": "2026-10-14T07:45:56.597457+00:00"
     },
     {
       "message_id": "<59c478f3942e61538928fe03bfff0685000e7b2dc6a5f9684c6b01f282734666@gmail.com>",
