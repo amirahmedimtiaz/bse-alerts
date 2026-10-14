@@ -3637,8 +3637,8 @@
       "company_key": "544608",
       "discovered_at": "2026-10-14T13:30:51.016170+00:00",
       "news_id": "66c1ffc5-0cf1-4e4a-a0fe-60237d4b757b",
-      "payload": "{\"NEWSID\": \"66c1ffc5-0cf1-4e4a-a0fe-60237d4b757b\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_66C1FFC5-0CF1-4E4A-A0FE-60237D4B757B\", \"NEWSSUB\": \"Board Meeting Outcome for Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-10-14T19:00:10.29\", \"NEWS_DT\": \"2026-10-14T19:00:10.29\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4ce88ee9-a844-4908-8a8a-1d4620ce19ee.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find the attached outcome of Board Meeting held on October 14, 2026 to approve the Unaudited Financial Results for the quarter and half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T19:00:04\", \"DissemDT\": \"2026-10-14T19:00:10.29\", \"TimeDiff\": \"00:00:06\", \"Fld_Attachsize\": 10005211, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Board Meeting Outcome for Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-10-14T19:00:10.29\", \"_category\": \"Board Meeting\", \"_headline\": \"Please find the attached outcome of Board Meeting held on October 14, 2026 to approve the Unaudited Financial Results for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4ce88ee9-a844-4908-8a8a-1d4620ce19ee.pdf\", \"_id\": \"66c1ffc5-0cf1-4e4a-a0fe-60237d4b757b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -5112,8 +5112,8 @@
       "sent_at": "2026-10-13T08:09:30.883029+00:00"
     },
     {
-      "message_id": "<9a6c305661b131802b06ad3e6b7f4cd867528fef2ae8856838da610020610e47@gmail.com>",
-      "sent_at": "2026-10-12T13:13:41.283681+00:00"
+      "message_id": "<8ef54a78c480dfde1ce07735e9bbb3c2e6c7b21d2eb6546161abd39819f8ec9f@gmail.com>",
+      "sent_at": "2026-10-14T13:32:18.091362+00:00"
     },
     {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
