@@ -3677,6 +3677,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-10-14T10:10:43.879861+00:00",
+      "news_id": "17a2cc0d-7597-48f7-9c5f-74bdf82547c1",
+      "payload": "{\"NEWSID\": \"17a2cc0d-7597-48f7-9c5f-74bdf82547c1\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_17A2CC0D-7597-48F7-9C5F-74BDF82547C1\", \"NEWSSUB\": \"Announcement Under Regulation 30 SEBI (Listing Obligations And Disclosure Requirements)\", \"DT_TM\": \"2026-10-14T15:37:41.19\", \"NEWS_DT\": \"2026-10-14T15:37:41.19\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4056d209-ef68-4ba8-a130-5f90a8e0676f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about Action(s) taken or order passed\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T15:37:41\", \"DissemDT\": \"2026-10-14T15:37:41.19\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 337688, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 SEBI (Listing Obligations And Disclosure Requirements)\", \"_published\": \"2026-10-14T15:37:41.19\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about Action(s) taken or order passed\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4056d209-ef68-4ba8-a130-5f90a8e0676f.pdf\", \"_id\": \"17a2cc0d-7597-48f7-9c5f-74bdf82547c1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-09-23T09:32:37.155555+00:00",
       "news_id": "1fabb5c0-8767-444e-ae5a-ffb153bca7a3",
       "payload": null,
