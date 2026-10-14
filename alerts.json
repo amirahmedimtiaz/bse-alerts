@@ -5133,7 +5133,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-14T12:47:23.693409+00:00\", \"seconds\": 96.29}"
+      "value": "{\"companies\": 50, \"collected\": 3, \"failed\": [], \"catching_up\": [], \"sent\": 3, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-14T12:51:29.362009+00:00\", \"seconds\": 41.96}"
     },
     {
       "key": "migration_date",
