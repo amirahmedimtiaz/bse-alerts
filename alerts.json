@@ -207,8 +207,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-14T04:30:32.976054+00:00",
       "news_id": "4db1b0f9-a847-4e64-aa9e-892a00327d60",
-      "payload": "{\"NEWSID\": \"4db1b0f9-a847-4e64-aa9e-892a00327d60\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4DB1B0F9-A847-4E64-AA9E-892A00327D60\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-14T10:00:26.497\", \"NEWS_DT\": \"2026-10-14T10:00:26.497\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"08084342-de1f-448a-90bd-964006876f78.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\" Tata Power Advances 2.8GW+ Data Centre Opportunity Pipeline Across 18 Leading Blue Chip Data Centre Players, Supporting India''s AI and Digital Growth.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-14T10:00:26\", \"DissemDT\": \"2026-10-14T10:00:26.497\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 331276, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-14T10:00:26.497\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\" Tata Power Advances 2.8GW+ Data Centre Opportunity Pipeline Across 18 Leading Blue Chip Data Centre Players, Supporting India''s AI and Digital Growth.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/08084342-de1f-448a-90bd-964006876f78.pdf\", \"_id\": \"4db1b0f9-a847-4e64-aa9e-892a00327d60\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -4944,6 +4944,10 @@
   ],
   "deliveries": [
     {
+      "message_id": "<070ebcfe5d2bf079b0ccd06ffd1927ca92dd37d59ff013cc5222ffe466ae9722@gmail.com>",
+      "sent_at": "2026-10-14T04:30:39.966989+00:00"
+    },
+    {
       "message_id": "<222cbf550bb064309c142d5dc5fe359447077a1bdbb9dc49021757e4363f77d4@gmail.com>",
       "sent_at": "2026-10-13T10:14:44.283482+00:00"
     },
@@ -4958,10 +4962,6 @@
     {
       "message_id": "<322bd0eec203b42daeca6dc34b53bcb7b44f483658ae4fb9a7c11edd128f08db@gmail.com>",
       "sent_at": "2026-10-12T09:03:40.652619+00:00"
-    },
-    {
-      "message_id": "<77bbc41a0f922f063de1f098db2e26df192997bf11bdfd244d313a2d8b6974fe@gmail.com>",
-      "sent_at": "2026-10-12T04:18:00.364712+00:00"
     },
     {
       "message_id": "<7b02814b03d76143a0b6de9762cde03c065c3a8e52ebed7eb8093728e971ae04@gmail.com>",
@@ -5014,10 +5014,6 @@
     {
       "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
       "sent_at": "2026-10-13T08:59:31.161789+00:00"
-    },
-    {
-      "message_id": "<f15f3b74946a0a1778a0adcbd5a7b5c4da116f73856dcb6842aa44496fbaf4ad@gmail.com>",
-      "sent_at": "2026-10-12T04:27:59.627141+00:00"
     },
     {
       "message_id": "<f38179df8e28ccbe9d6b9c4eeb9e9819e217dc52aa24a80567864901bbfdffd0@gmail.com>",
