@@ -4456,8 +4456,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-10-14T08:45:43.082235+00:00",
       "news_id": "106817147",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Commencement of commercial production/operations\", \"dt\": \"14-Oct-2026 14:14:53\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_14102026141428_Regulation30CommercialProducation.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"14-Oct-2026 14:14:53\", \"sort_date\": \"2026-10-14 14:14:53\", \"seq_id\": \"106817147\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Commencement of commercial production/operations\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"375.52 KB\", \"attFileSize\": \"375.52 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Commencement of commercial production/operations\", \"_published\": \"2026-10-14 14:14:53\", \"_category\": \"Commencement of commercial production/operations\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Commencement of commercial production/operations\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_14102026141428_Regulation30CommercialProducation.pdf\", \"_id\": \"106817147\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -5025,6 +5025,10 @@
       "sent_at": "2026-10-13T10:04:46.151156+00:00"
     },
     {
+      "message_id": "<7f9424ef43b4e564ccdabfe757cf79111efc486fcd6d0deb99923fcc3c8a57a1@gmail.com>",
+      "sent_at": "2026-10-14T08:45:57.026632+00:00"
+    },
+    {
       "message_id": "<8a1d6ec06da2c7ff9517ee232e8968415e23dbabeee6a6e675e3b53b2db1532e@gmail.com>",
       "sent_at": "2026-10-14T07:25:56.675995+00:00"
     },
@@ -5075,10 +5079,6 @@
     {
       "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
       "sent_at": "2026-10-13T08:59:31.161789+00:00"
-    },
-    {
-      "message_id": "<f5d34a1123c20de8aa64de9766230be311607f74d868ac89e57ca25bc77ab4a1@gmail.com>",
-      "sent_at": "2026-10-12T08:08:00.427402+00:00"
     },
     {
       "message_id": "<f6b593b2e9cbac3ea3a73be36d493f050319444e84a5640d9b150cf1889cc1ee@gmail.com>",
