@@ -4540,8 +4540,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-10-14T12:46:14.445890+00:00",
       "news_id": "106817600",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"dt\": \"14-Oct-2026 18:14:05\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14102026181023_final_upload_74.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"14-Oct-2026 18:14:05\", \"sort_date\": \"2026-10-14 18:14:05\", \"seq_id\": \"106817600\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.07 MB\", \"attFileSize\": \"1.07 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_published\": \"2026-10-14 18:14:05\", \"_category\": \"Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14102026181023_final_upload_74.pdf\", \"_id\": \"106817600\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -5045,6 +5045,10 @@
       "sent_at": "2026-10-14T07:45:56.597457+00:00"
     },
     {
+      "message_id": "<4fd4b7ad0fd1f7fd6ad65bd0ee05390ce4381d138e093474c5f05a46819ad719@gmail.com>",
+      "sent_at": "2026-10-14T12:47:22.439355+00:00"
+    },
+    {
       "message_id": "<59c478f3942e61538928fe03bfff0685000e7b2dc6a5f9684c6b01f282734666@gmail.com>",
       "sent_at": "2026-10-14T05:50:56.137231+00:00"
     },
@@ -5071,10 +5075,6 @@
     {
       "message_id": "<9a6c305661b131802b06ad3e6b7f4cd867528fef2ae8856838da610020610e47@gmail.com>",
       "sent_at": "2026-10-12T13:13:41.283681+00:00"
-    },
-    {
-      "message_id": "<a334eddfd41531a6ba78abe8e86551314e553da2afe8446d89eb630978ee3604@gmail.com>",
-      "sent_at": "2026-10-12T12:43:15.986060+00:00"
     },
     {
       "message_id": "<c55b9288afafd01a31757935bbbd8969328fd600643863a8216fd4318a6bf8ad@gmail.com>",
