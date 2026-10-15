@@ -1208,8 +1208,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-15T12:32:25.887352+00:00",
       "news_id": "6f701953-dc3e-4ae0-854b-e94a03058d13",
-      "payload": "{\"NEWSID\": \"6f701953-dc3e-4ae0-854b-e94a03058d13\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_6F701953-DC3E-4AE0-854B-E94A03058D13\", \"NEWSSUB\": \"Board Meeting Intimation for Intimation Of The Board Meeting Pursuant To Regulation 29 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-15T17:59:35.637\", \"NEWS_DT\": \"2026-10-15T17:59:35.637\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a368aeab-adae-40c6-9645-ba85d061c799.pdf\", \"MORE\": \"Paramount Communications Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 26/10/2026 ,inter alia, to consider and approve The Board Meeting of Paramount Communications Limited is scheduled to be held on October 26,2026, to consider and approve the Un-Audited Standalone  and Consolidated  Financial Result for the Quarter and Half Year ended September 30, 2026.\", \"HEADLINE\": \"Paramount Communications Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 26/10/2026 ,inter alia, to consider and approve The Board Meeting ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T17:59:34\", \"DissemDT\": \"2026-10-15T17:59:35.637\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 415142, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Intimation Of The Board Meeting Pursuant To Regulation 29 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-15T17:59:35.637\", \"_category\": \"Board Meeting\", \"_headline\": \"Paramount Communications Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 26/10/2026 ,inter alia, to consider and approve The Board Meeting ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a368aeab-adae-40c6-9645-ba85d061c799.pdf\", \"_id\": \"6f701953-dc3e-4ae0-854b-e94a03058d13\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5226,6 +5226,10 @@
     {
       "message_id": "<6a883c4dfa50a65cff9a564147116506c4a7329e3bb58c0e82afab540d988f1a@gmail.com>",
       "sent_at": "2026-10-15T07:47:20.557050+00:00"
+    },
+    {
+      "message_id": "<708c087fadf46fa1427a729517f9bcb08b4c59df21ed9c23f8d5e5d5060aa7fc@gmail.com>",
+      "sent_at": "2026-10-15T12:33:02.338893+00:00"
     },
     {
       "message_id": "<7f9424ef43b4e564ccdabfe757cf79111efc486fcd6d0deb99923fcc3c8a57a1@gmail.com>",
