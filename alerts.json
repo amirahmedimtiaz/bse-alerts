@@ -3893,6 +3893,13 @@
       "status": "sent"
     },
     {
+      "company_key": "544613",
+      "discovered_at": "2026-10-15T12:52:32.615071+00:00",
+      "news_id": "e4ea1809-63ea-4251-a2ab-55ae1b3977cd",
+      "payload": "{\"NEWSID\": \"e4ea1809-63ea-4251-a2ab-55ae1b3977cd\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_E4EA1809-63EA-4251-A2AB-55AE1B3977CD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-10-15T18:20:59.94\", \"NEWS_DT\": \"2026-10-15T18:20:59.94\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7be6116a-9332-4259-ab08-4aef044829e1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding allotment of 4,11,587 equity shares under Employee Stock Option Scheme 2023.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T18:20:59\", \"DissemDT\": \"2026-10-15T18:20:59.94\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1774224, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-10-15T18:20:59.94\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding allotment of 4,11,587 equity shares under Employee Stock Option Scheme 2023.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7be6116a-9332-4259-ab08-4aef044829e1.pdf\", \"_id\": \"e4ea1809-63ea-4251-a2ab-55ae1b3977cd\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "544641",
       "discovered_at": "2026-10-07T12:20:10.951248+00:00",
       "news_id": "00b2dcc7-b2b0-4a7f-bc18-8c6d44bea2f3",
