@@ -2522,6 +2522,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-15T10:07:02.141973+00:00",
+      "news_id": "e015caf8-728c-49ad-86d6-5008e2714ee0",
+      "payload": "{\"NEWSID\": \"e015caf8-728c-49ad-86d6-5008e2714ee0\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_E015CAF8-728C-49AD-86D6-5008E2714EE0\", \"NEWSSUB\": \"Unaudited Interim Condensed (Standalone And Consolidated) Financial Statements For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-10-15T15:32:17.35\", \"NEWS_DT\": \"2026-10-15T15:32:17.35\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d809fc71-20ab-4486-999a-953e40641efd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Interim Condensed (Standalone and Consolidated Financial Statement for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T15:32:17\", \"DissemDT\": \"2026-10-15T15:32:17.35\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3744717, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Unaudited Interim Condensed (Standalone And Consolidated) Financial Statements For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-10-15T15:32:17.35\", \"_category\": \"Company Update\", \"_headline\": \"Unaudited Interim Condensed (Standalone and Consolidated Financial Statement for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d809fc71-20ab-4486-999a-953e40641efd.pdf\", \"_id\": \"e015caf8-728c-49ad-86d6-5008e2714ee0\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584681+00:00",
       "news_id": "f3781489-66f3-481a-97d8-cb204b903ff1",
       "payload": null,
