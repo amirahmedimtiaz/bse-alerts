@@ -2524,8 +2524,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-15T10:07:02.141973+00:00",
       "news_id": "e015caf8-728c-49ad-86d6-5008e2714ee0",
-      "payload": "{\"NEWSID\": \"e015caf8-728c-49ad-86d6-5008e2714ee0\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_E015CAF8-728C-49AD-86D6-5008E2714EE0\", \"NEWSSUB\": \"Unaudited Interim Condensed (Standalone And Consolidated) Financial Statements For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-10-15T15:32:17.35\", \"NEWS_DT\": \"2026-10-15T15:32:17.35\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d809fc71-20ab-4486-999a-953e40641efd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Interim Condensed (Standalone and Consolidated Financial Statement for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T15:32:17\", \"DissemDT\": \"2026-10-15T15:32:17.35\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3744717, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Unaudited Interim Condensed (Standalone And Consolidated) Financial Statements For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-10-15T15:32:17.35\", \"_category\": \"Company Update\", \"_headline\": \"Unaudited Interim Condensed (Standalone and Consolidated Financial Statement for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d809fc71-20ab-4486-999a-953e40641efd.pdf\", \"_id\": \"e015caf8-728c-49ad-86d6-5008e2714ee0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -5195,16 +5195,16 @@
       "sent_at": "2026-10-14T12:47:22.439355+00:00"
     },
     {
+      "message_id": "<584b89265b4261e8789a43bb6492734dbd6f3cd95884fc846d7419f6bdaf66b8@gmail.com>",
+      "sent_at": "2026-10-15T10:07:21.755957+00:00"
+    },
+    {
       "message_id": "<59c478f3942e61538928fe03bfff0685000e7b2dc6a5f9684c6b01f282734666@gmail.com>",
       "sent_at": "2026-10-14T05:50:56.137231+00:00"
     },
     {
       "message_id": "<6a883c4dfa50a65cff9a564147116506c4a7329e3bb58c0e82afab540d988f1a@gmail.com>",
       "sent_at": "2026-10-15T07:47:20.557050+00:00"
-    },
-    {
-      "message_id": "<7b02814b03d76143a0b6de9762cde03c065c3a8e52ebed7eb8093728e971ae04@gmail.com>",
-      "sent_at": "2026-10-13T10:04:46.151156+00:00"
     },
     {
       "message_id": "<7f9424ef43b4e564ccdabfe757cf79111efc486fcd6d0deb99923fcc3c8a57a1@gmail.com>",
