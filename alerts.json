@@ -1927,6 +1927,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-10-15T13:37:27.918844+00:00",
+      "news_id": "2c21cba1-19e2-4fee-a25f-6f61d930bc50",
+      "payload": "{\"NEWSID\": \"2c21cba1-19e2-4fee-a25f-6f61d930bc50\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_2C21CBA1-19E2-4FEE-A25F-6F61D930BC50\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-15T19:05:27.837\", \"NEWS_DT\": \"2026-10-15T19:05:27.837\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4d35911d-e7bb-4982-ae94-c2265d743c67.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Intimation of Investor Call scheduled to be held on 21st October 2026 at 04:00 P.M.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T19:05:27\", \"DissemDT\": \"2026-10-15T19:05:27.837\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 921469, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"2c21cba1-19e2-4fee-a25f-6f61d930bc50\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14563970, \"DataInsDate\": \"2026-10-15T19:05:27.76\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-15T19:05:27.837\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith Intimation of Investor Call scheduled to be held on 21st October 2026 at 04:00 P.M.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4d35911d-e7bb-4982-ae94-c2265d743c67.pdf\", \"_id\": \"2c21cba1-19e2-4fee-a25f-6f61d930bc50\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-09-23T05:12:07.584591+00:00",
       "news_id": "314ad1ac-c799-49a9-85c3-ae27c738fc40",
       "payload": null,
@@ -3019,6 +3026,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-10-15T13:37:33.932122+00:00",
+      "news_id": "cbb33ecd-ac4a-4de6-a89d-306bfa20980a",
+      "payload": "{\"NEWSID\": \"cbb33ecd-ac4a-4de6-a89d-306bfa20980a\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_CBB33ECD-AC4A-4DE6-A89D-306BFA20980A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements\", \"DT_TM\": \"2026-10-15T19:02:50.587\", \"NEWS_DT\": \"2026-10-15T19:02:50.587\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8c5e0848-c150-4f90-8a83-8c70a68c1519.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Execution of Share Allotment cum Shareholders Agreement between Premier Battery Technologies Private Limited, Premier Energies Storage Solutions Private Limited and RCT Nexor Energy Private Limited.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 134, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T19:02:50\", \"DissemDT\": \"2026-10-15T19:02:50.587\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 501119, \"SUBCATNAME\": \"Memorandum of Understanding /Agreements\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements\", \"_published\": \"2026-10-15T19:02:50.587\", \"_category\": \"Company Update\", \"_headline\": \"Execution of Share Allotment cum Shareholders Agreement between Premier Battery Technologies Private Limited, Premier Energies Storage Solutions Private Limited and RCT Nexor Energy Private Limited.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8c5e0848-c150-4f90-8a83-8c70a68c1519.pdf\", \"_id\": \"cbb33ecd-ac4a-4de6-a89d-306bfa20980a\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584746+00:00",
       "news_id": "d22a9f8a-4e15-45f6-98e8-851fccb80886",
       "payload": null,
@@ -3702,6 +3716,13 @@
       "news_id": "0a6d4e2e-0a53-4c96-858a-863d95e2e3d1",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "544608",
+      "discovered_at": "2026-10-15T13:37:21.470522+00:00",
+      "news_id": "13257254-f4b2-4520-bba7-4d894504251f",
+      "payload": "{\"NEWSID\": \"13257254-f4b2-4520-bba7-4d894504251f\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_13257254-F4B2-4520-BBA7-4D894504251F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-15T18:59:10.907\", \"NEWS_DT\": \"2026-10-15T18:59:10.907\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7b24db80-bce5-4859-806f-c87ef20fc921.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Emmvee Photovoltaic Power Limited has informed the Exchange about the weblink of audio recording of the Q2FY27 earnings call.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T18:59:10\", \"DissemDT\": \"2026-10-15T18:59:10.907\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3456563, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"13257254-f4b2-4520-bba7-4d894504251f\", \"INVESTOR_PRESENTATION\": \"d9c0d8f4-4068-47aa-bdce-50e36e032343.pdf\", \"RECORDID\": 14563901, \"DataInsDate\": \"2026-10-15T18:59:10.827\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9c0d8f4-4068-47aa-bdce-50e36e032343.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-15T18:59:10.907\", \"_category\": \"Company Update\", \"_headline\": \"Emmvee Photovoltaic Power Limited has informed the Exchange about the weblink of audio recording of the Q2FY27 earnings call.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b24db80-bce5-4859-806f-c87ef20fc921.pdf\", \"_id\": \"13257254-f4b2-4520-bba7-4d894504251f\"}",
+      "status": "pending"
     },
     {
       "company_key": "544608",
