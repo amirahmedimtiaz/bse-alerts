@@ -1185,6 +1185,13 @@
     },
     {
       "company_key": "530555",
+      "discovered_at": "2026-10-15T13:02:26.415238+00:00",
+      "news_id": "52556067-aead-4d34-93f2-588b0a7e647f",
+      "payload": "{\"NEWSID\": \"52556067-aead-4d34-93f2-588b0a7e647f\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_52556067-AEAD-4D34-93F2-588B0A7E647F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-15T18:29:11.817\", \"NEWS_DT\": \"2026-10-15T18:29:11.817\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7e9510ed-c566-458a-8ff5-8abb1b103b0e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of schedule of Analyst/Intitutional Investor Call/ Meet under regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation,2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T18:29:11\", \"DissemDT\": \"2026-10-15T18:29:11.817\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 547331, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"52556067-aead-4d34-93f2-588b0a7e647f\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14563663, \"DataInsDate\": \"2026-10-15T18:29:11.76\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-15T18:29:11.817\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of schedule of Analyst/Intitutional Investor Call/ Meet under regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation,2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7e9510ed-c566-458a-8ff5-8abb1b103b0e.pdf\", \"_id\": \"52556067-aead-4d34-93f2-588b0a7e647f\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "530555",
       "discovered_at": "2026-09-23T05:12:07.584458+00:00",
       "news_id": "527abd26-6799-4e2f-8766-67983601a1f3",
       "payload": null,
@@ -4801,6 +4808,13 @@
       "news_id": "106814256",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:PROPSHOP",
+      "discovered_at": "2026-10-15T13:02:37.906477+00:00",
+      "news_id": "106819051",
+      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"dt\": \"15-Oct-2026 18:29:56\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_15102026182701_PEEL_-_Purs_15_2__b__Non-applicability_27_Sd.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"15-Oct-2026 18:29:56\", \"sort_date\": \"2026-10-15 18:29:56\", \"seq_id\": \"106819051\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"251.45 KB\", \"attFileSize\": \"251.45 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_published\": \"2026-10-15 18:29:56\", \"_category\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_15102026182701_PEEL_-_Purs_15_2__b__Non-applicability_27_Sd.pdf\", \"_id\": \"106819051\"}",
+      "status": "pending"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
