@@ -2543,6 +2543,13 @@
     },
     {
       "company_key": "543415",
+      "discovered_at": "2026-10-15T06:57:32.843400+00:00",
+      "news_id": "3f605e7f-e02f-4001-9a80-3d9622dff432",
+      "payload": "{\"NEWSID\": \"3f605e7f-e02f-4001-9a80-3d9622dff432\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_3F605E7F-E02F-4001-9A80-3D9622DFF432\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-15T12:24:29.933\", \"NEWS_DT\": \"2026-10-15T12:24:29.933\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4475ce2d-5110-4a53-9b32-2f36e6caec73.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Schedule of Group of Individual Investors Meetings on 22nd October, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T12:24:29\", \"DissemDT\": \"2026-10-15T12:24:29.933\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 392345, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"3f605e7f-e02f-4001-9a80-3d9622dff432\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14558105, \"DataInsDate\": \"2026-10-15T12:24:29.81\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-15T12:24:29.933\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Schedule of Group of Individual Investors Meetings on 22nd October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4475ce2d-5110-4a53-9b32-2f36e6caec73.pdf\", \"_id\": \"3f605e7f-e02f-4001-9a80-3d9622dff432\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543415",
       "discovered_at": "2026-10-08T22:14:04.720565+00:00",
       "news_id": "663df1b7-c064-45ac-890d-6d75593be9a4",
       "payload": null,
