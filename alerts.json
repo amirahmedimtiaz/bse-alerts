@@ -2438,6 +2438,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-15T07:36:59.711053+00:00",
+      "news_id": "880e99bc-b13a-435b-901c-3b2bee137437",
+      "payload": "{\"NEWSID\": \"880e99bc-b13a-435b-901c-3b2bee137437\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_880E99BC-B13A-435B-901C-3B2BEE137437\", \"NEWSSUB\": \"Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"DT_TM\": \"2026-10-15T13:05:55.34\", \"NEWS_DT\": \"2026-10-15T13:05:55.34\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4ac93ea0-d4d1-4b85-8849-14a19e0dcceb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Financial Results for the quarter and half year ended 30th September 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T13:05:55\", \"DissemDT\": \"2026-10-15T13:05:55.34\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 7254035, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"_published\": \"2026-10-15T13:05:55.34\", \"_category\": \"Result\", \"_headline\": \"Unaudited Financial Results for the quarter and half year ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4ac93ea0-d4d1-4b85-8849-14a19e0dcceb.pdf\", \"_id\": \"880e99bc-b13a-435b-901c-3b2bee137437\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584676+00:00",
       "news_id": "8f70044b-a97e-400c-b126-8291b56cc6ee",
       "payload": null,
