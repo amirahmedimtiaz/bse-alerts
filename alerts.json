@@ -375,8 +375,8 @@
       "company_key": "505685",
       "discovered_at": "2026-10-15T06:47:14.148509+00:00",
       "news_id": "31454ef6-a6b9-439c-bae4-deec04f5c4e8",
-      "payload": "{\"NEWSID\": \"31454ef6-a6b9-439c-bae4-deec04f5c4e8\", \"SCRIP_CD\": 505685, \"XML_NAME\": \"ANN_505685_31454EF6-A6B9-439C-BAE4-DEEC04F5C4E8\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-15T12:14:51.67\", \"NEWS_DT\": \"2026-10-15T12:14:51.67\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"711441a6-4559-4dc3-b0ec-2ef93a0f4898.pdf\", \"MORE\": \"\", \"HEADLINE\": \"certificate under regulation 74(5) for the quarter ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/\", \"SLONGNAME\": \"Taparia Tools Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T12:14:51\", \"DissemDT\": \"2026-10-15T12:14:51.67\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 378791, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Taparia Tools Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-15T12:14:51.67\", \"_category\": \"Company Update\", \"_headline\": \"certificate under regulation 74(5) for the quarter ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/711441a6-4559-4dc3-b0ec-2ef93a0f4898.pdf\", \"_id\": \"31454ef6-a6b9-439c-bae4-deec04f5c4e8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "505685",
@@ -5112,6 +5112,10 @@
     {
       "message_id": "<278f59c946ca62b3e31f2410b509a972cabc74d68610d7a08862a6a59f2d82b7@gmail.com>",
       "sent_at": "2026-10-14T12:36:36.327109+00:00"
+    },
+    {
+      "message_id": "<2a6acb7178d29b6a3e3137c2922e36b0a8f2662490484654e6eab0ea544dc995@gmail.com>",
+      "sent_at": "2026-10-15T06:47:21.591416+00:00"
     },
     {
       "message_id": "<4352488ca316cd27ca4d99f536de08a500cddea64c194a808c0188c111823552@gmail.com>",
