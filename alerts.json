@@ -3852,6 +3852,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-10-15T12:42:34.937637+00:00",
+      "news_id": "7fa53ac0-2fe4-4529-9bcc-03b269a28ff9",
+      "payload": "{\"NEWSID\": \"7fa53ac0-2fe4-4529-9bcc-03b269a28ff9\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_7FA53AC0-2FE4-4529-9BCC-03B269A28FF9\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Regarding Fund Raising\", \"DT_TM\": \"2026-10-15T18:09:41.007\", \"NEWS_DT\": \"2026-10-15T18:09:41.007\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cf5290b0-844f-4113-8171-791222ec42d4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on October 15, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T18:09:39\", \"DissemDT\": \"2026-10-15T18:09:41.007\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 1774224, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Regarding Fund Raising\", \"_published\": \"2026-10-15T18:09:41.007\", \"_category\": \"Board Meeting\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Outcome of Board Meeting held on October 15, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cf5290b0-844f-4113-8171-791222ec42d4.pdf\", \"_id\": \"7fa53ac0-2fe4-4529-9bcc-03b269a28ff9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-10-12T11:28:04.947403+00:00",
       "news_id": "8f731ff9-8367-4858-b966-f586bc3563d3",
       "payload": null,
