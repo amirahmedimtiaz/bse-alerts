@@ -3392,8 +3392,8 @@
       "company_key": "544488",
       "discovered_at": "2026-10-15T09:22:08.981601+00:00",
       "news_id": "fa6fbd34-22fe-4854-a323-1ebd17444d5c",
-      "payload": "{\"NEWSID\": \"fa6fbd34-22fe-4854-a323-1ebd17444d5c\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_FA6FBD34-22FE-4854-A323-1EBD17444D5C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-15T14:51:53.847\", \"NEWS_DT\": \"2026-10-15T14:51:53.847\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"79a12f0d-db94-484c-9af1-033bb6c8428f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed the intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 regarding Order Win of 187 MW of high efficiency solar modules\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T14:51:53\", \"DissemDT\": \"2026-10-15T14:51:53.847\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1393692, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-15T14:51:53.847\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed the intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 regarding Order Win of 187 MW of high efficiency solar modules\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/79a12f0d-db94-484c-9af1-033bb6c8428f.pdf\", \"_id\": \"fa6fbd34-22fe-4854-a323-1ebd17444d5c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -5212,6 +5212,10 @@
       "sent_at": "2026-10-14T13:32:18.091362+00:00"
     },
     {
+      "message_id": "<9058e3fc167e1a3eafc9cae8a3f77dae61f5b71c19bf5e9eac0c2c7a4e29e36b@gmail.com>",
+      "sent_at": "2026-10-15T09:22:21.000747+00:00"
+    },
+    {
       "message_id": "<91c525cdd3ab06be0891e29e956c9950f962f3c4b1cd7319ff23a02572285543@gmail.com>",
       "sent_at": "2026-10-14T13:46:10.578019+00:00"
     },
@@ -5254,10 +5258,6 @@
     {
       "message_id": "<e04a7ed9a8dff64ce246bfa8cf2486493136fd9f57dfe24c45751da3c3a66530@gmail.com>",
       "sent_at": "2026-10-14T06:25:59.715279+00:00"
-    },
-    {
-      "message_id": "<ec6569aba113ace98786f3969be3dbdcef01c900923444c5032caeb0719a4746@gmail.com>",
-      "sent_at": "2026-10-13T08:59:31.161789+00:00"
     }
   ],
   "metadata": [
