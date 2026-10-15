@@ -2521,6 +2521,13 @@
       "status": "baseline"
     },
     {
+      "company_key": "543240",
+      "discovered_at": "2026-10-15T06:07:01.400358+00:00",
+      "news_id": "bf432737-780c-4891-9efd-cee8689d94fa",
+      "payload": "{\"NEWSID\": \"bf432737-780c-4891-9efd-cee8689d94fa\", \"SCRIP_CD\": 543240, \"XML_NAME\": \"ANN_543240_BF432737-780C-4891-9EFD-CEE8689D94FA\", \"NEWSSUB\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"DT_TM\": \"2026-10-15T11:32:09.96\", \"NEWS_DT\": \"2026-10-15T11:32:09.96\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"017b868a-9f61-496e-9785-e7a90110772f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Compliance Certificate Under Reg.74 (5) of SEBI (DP) Regulations, 2018.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/\", \"SLONGNAME\": \"Likhitha Infrastructure Ltd\", \"AGENDA_ID\": 212, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T11:32:09\", \"DissemDT\": \"2026-10-15T11:32:09.96\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1104546, \"SUBCATNAME\": \"Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Likhitha Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/corp-announcements\", \"_subject\": \"Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\", \"_published\": \"2026-10-15T11:32:09.96\", \"_category\": \"Company Update\", \"_headline\": \"Compliance Certificate Under Reg.74 (5) of SEBI (DP) Regulations, 2018.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/017b868a-9f61-496e-9785-e7a90110772f.pdf\", \"_id\": \"bf432737-780c-4891-9efd-cee8689d94fa\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "543415",
       "discovered_at": "2026-10-09T13:15:48.027574+00:00",
       "news_id": "1b3eddd3-afc2-4e51-ba00-0059734729c5",
