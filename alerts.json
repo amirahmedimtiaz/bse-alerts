@@ -2370,8 +2370,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-15T15:22:29.470539+00:00",
       "news_id": "0e8598ab-7df7-4804-bb66-037c9b719541",
-      "payload": "{\"NEWSID\": \"0e8598ab-7df7-4804-bb66-037c9b719541\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_0E8598AB-7DF7-4804-BB66-037C9B719541\", \"NEWSSUB\": \"Audio Recording Of Earnings Conference Call Q2 FY 26-27\", \"DT_TM\": \"2026-10-15T20:48:30.61\", \"NEWS_DT\": \"2026-10-15T20:48:30.61\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3264baf9-979a-4835-85b1-c5a9838c57d6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Audio recording of earnings conference call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-15T20:48:30\", \"DissemDT\": \"2026-10-15T20:48:30.61\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 281793, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Audio Recording Of Earnings Conference Call Q2 FY 26-27\", \"_published\": \"2026-10-15T20:48:30.61\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Audio recording of earnings conference call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3264baf9-979a-4835-85b1-c5a9838c57d6.pdf\", \"_id\": \"0e8598ab-7df7-4804-bb66-037c9b719541\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -5326,6 +5326,10 @@
     {
       "message_id": "<9429c993c557c05483388340bf22a9ce9b5468bcba2ef3de7cc016642e223fc5@gmail.com>",
       "sent_at": "2026-10-14T13:56:10.271091+00:00"
+    },
+    {
+      "message_id": "<96017dc5d7af0a051980b08963b1d9e1156a49470988017604d85cb518417ea5@gmail.com>",
+      "sent_at": "2026-10-15T15:22:46.300734+00:00"
     },
     {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
