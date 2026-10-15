@@ -5352,7 +5352,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-15T13:32:41.906937+00:00\", \"seconds\": 21.35}"
+      "value": "{\"companies\": 50, \"collected\": 3, \"failed\": [], \"catching_up\": [], \"sent\": 3, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-15T13:38:03.525808+00:00\", \"seconds\": 42.97}"
     },
     {
       "key": "migration_date",
