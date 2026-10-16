@@ -4708,8 +4708,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-10-16T06:40:02.874715+00:00",
       "news_id": "106819838",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Press Release\", \"dt\": \"16-Oct-2026 12:06:14\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_16102026120534_PressRelease16102026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"16-Oct-2026 12:06:14\", \"sort_date\": \"2026-10-16 12:06:14\", \"seq_id\": \"106819838\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Australian Premium Solar (India) Limited Expands Module Capacity by 50% to 1.2 GW as Another 400 MW TOPCon Line Begins Commercial Production\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"772.69 KB\", \"attFileSize\": \"772.69 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-10-16 12:06:14\", \"_category\": \"Press Release\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Australian Premium Solar (India) Limited Expands Module Capacity by 50% to 1.2 GW as Another 400 MW TOPCon Line Begins Commercial Production\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_16102026120534_PressRelease16102026.pdf\", \"_id\": \"106819838\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -5319,10 +5319,6 @@
       "sent_at": "2026-10-15T10:07:21.755957+00:00"
     },
     {
-      "message_id": "<59c478f3942e61538928fe03bfff0685000e7b2dc6a5f9684c6b01f282734666@gmail.com>",
-      "sent_at": "2026-10-14T05:50:56.137231+00:00"
-    },
-    {
       "message_id": "<6a883c4dfa50a65cff9a564147116506c4a7329e3bb58c0e82afab540d988f1a@gmail.com>",
       "sent_at": "2026-10-15T07:47:20.557050+00:00"
     },
@@ -5363,6 +5359,10 @@
       "sent_at": "2026-10-15T15:22:46.300734+00:00"
     },
     {
+      "message_id": "<a487bc173dd2ad6ccea88fcb132c2e191cc3978798ed412b30bd697aef67f896@gmail.com>",
+      "sent_at": "2026-10-16T06:40:17.005057+00:00"
+    },
+    {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
       "sent_at": "2026-10-14T12:51:28.037502+00:00"
     },
@@ -5389,10 +5389,6 @@
     {
       "message_id": "<d9edcb63aa0bf1dfa7b85ad9e9431ecb2662bc3873b13ca86c8e006ab83272ea@gmail.com>",
       "sent_at": "2026-10-14T12:26:10.902457+00:00"
-    },
-    {
-      "message_id": "<e04a7ed9a8dff64ce246bfa8cf2486493136fd9f57dfe24c45751da3c3a66530@gmail.com>",
-      "sent_at": "2026-10-14T06:25:59.715279+00:00"
     },
     {
       "message_id": "<e631b0ddacf4089eb7b5225c368e06cedc12c07f4bc54e6d8d3871b53e9cfbcb@gmail.com>",
