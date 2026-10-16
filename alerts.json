@@ -4705,6 +4705,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:APS",
+      "discovered_at": "2026-10-16T06:40:02.874715+00:00",
+      "news_id": "106819838",
+      "payload": "{\"symbol\": \"APS\", \"desc\": \"Press Release\", \"dt\": \"16-Oct-2026 12:06:14\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_16102026120534_PressRelease16102026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"16-Oct-2026 12:06:14\", \"sort_date\": \"2026-10-16 12:06:14\", \"seq_id\": \"106819838\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Australian Premium Solar (India) Limited Expands Module Capacity by 50% to 1.2 GW as Another 400 MW TOPCon Line Begins Commercial Production\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"772.69 KB\", \"attFileSize\": \"772.69 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-10-16 12:06:14\", \"_category\": \"Press Release\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Australian Premium Solar (India) Limited Expands Module Capacity by 50% to 1.2 GW as Another 400 MW TOPCon Line Begins Commercial Production\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_16102026120534_PressRelease16102026.pdf\", \"_id\": \"106819838\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-09-23T05:12:07.584970+00:00",
       "news_id": "106750101",
