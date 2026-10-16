@@ -2433,8 +2433,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-16T04:08:16.951196+00:00",
       "news_id": "4f686399-b641-4495-a5dd-e5124e088cf0",
-      "payload": "{\"NEWSID\": \"4f686399-b641-4495-a5dd-e5124e088cf0\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_4F686399-B641-4495-A5DD-E5124E088CF0\", \"NEWSSUB\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"DT_TM\": \"2026-10-16T09:34:04.393\", \"NEWS_DT\": \"2026-10-16T09:34:04.393\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a0fba81c-bd84-40eb-8435-9643b019e9fc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Update on the appeal listed on October 15, 2026 before Hon''ble NCLAT, Principal Bench, New Delhi\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 173, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-16T09:34:04\", \"DissemDT\": \"2026-10-16T09:34:04.393\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 287221, \"SUBCATNAME\": \"Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"_published\": \"2026-10-16T09:34:04.393\", \"_category\": \"Company Update\", \"_headline\": \"Update on the appeal listed on October 15, 2026 before Hon''ble NCLAT, Principal Bench, New Delhi\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0fba81c-bd84-40eb-8435-9643b019e9fc.pdf\", \"_id\": \"4f686399-b641-4495-a5dd-e5124e088cf0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -5309,6 +5309,10 @@
     {
       "message_id": "<708c087fadf46fa1427a729517f9bcb08b4c59df21ed9c23f8d5e5d5060aa7fc@gmail.com>",
       "sent_at": "2026-10-15T12:33:02.338893+00:00"
+    },
+    {
+      "message_id": "<76ebb6bebe6a76ab9068b85931b3ae0b12702863f8599561771465d80458bf24@gmail.com>",
+      "sent_at": "2026-10-16T04:08:36.438385+00:00"
     },
     {
       "message_id": "<7f9424ef43b4e564ccdabfe757cf79111efc486fcd6d0deb99923fcc3c8a57a1@gmail.com>",
