@@ -2643,8 +2643,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-16T06:55:14.040765+00:00",
       "news_id": "5e35f008-6c09-4017-a6ba-98f6b7cab165",
-      "payload": "{\"NEWSID\": \"5e35f008-6c09-4017-a6ba-98f6b7cab165\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_5E35F008-6C09-4017-A6BA-98F6B7CAB165\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-10-16T12:20:23.137\", \"NEWS_DT\": \"2026-10-16T12:20:23.137\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6c787fb6-ff52-4e8a-8394-ce1a45673491.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Q2 & H1 FY27 Earnings Conference Call Transcript dated 12th October, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-16T12:20:23\", \"DissemDT\": \"2026-10-16T12:20:23.137\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 558158, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-10-16T12:20:23.137\", \"_category\": \"Company Update\", \"_headline\": \"Q2 & H1 FY27 Earnings Conference Call Transcript dated 12th October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c787fb6-ff52-4e8a-8394-ce1a45673491.pdf\", \"_id\": \"5e35f008-6c09-4017-a6ba-98f6b7cab165\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -5276,6 +5276,10 @@
     {
       "message_id": "<278f59c946ca62b3e31f2410b509a972cabc74d68610d7a08862a6a59f2d82b7@gmail.com>",
       "sent_at": "2026-10-14T12:36:36.327109+00:00"
+    },
+    {
+      "message_id": "<29e5367d53f7ff5f13489b9424fe4f0438a043ef0932339fb6f34a680074781f@gmail.com>",
+      "sent_at": "2026-10-16T06:55:16.406349+00:00"
     },
     {
       "message_id": "<2a6acb7178d29b6a3e3137c2922e36b0a8f2662490484654e6eab0ea544dc995@gmail.com>",
