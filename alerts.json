@@ -5384,7 +5384,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 50, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-16T05:13:33.889063+00:00\", \"seconds\": 20.28}"
+      "value": "{\"companies\": 50, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-16T05:18:38.865018+00:00\", \"seconds\": 25.31}"
     },
     {
       "key": "migration_date",
