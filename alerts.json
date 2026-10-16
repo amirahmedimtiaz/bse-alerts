@@ -394,6 +394,13 @@
     },
     {
       "company_key": "517354",
+      "discovered_at": "2026-10-16T05:18:18.468141+00:00",
+      "news_id": "54902ef5-eb5b-4f54-8d56-f12645b797dd",
+      "payload": "{\"NEWSID\": \"54902ef5-eb5b-4f54-8d56-f12645b797dd\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_54902EF5-EB5B-4F54-8D56-F12645B797DD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-16T10:44:02.703\", \"NEWS_DT\": \"2026-10-16T10:44:02.703\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bb82cdcf-9675-4630-8b33-f32e6e126be9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earnings Conference Call to discuss the financial results for the second quarter and half-year ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-16T10:44:02\", \"DissemDT\": \"2026-10-16T10:44:02.703\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1002186, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"54902ef5-eb5b-4f54-8d56-f12645b797dd\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14570248, \"DataInsDate\": \"2026-10-16T10:44:02.617\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-16T10:44:02.703\", \"_category\": \"Company Update\", \"_headline\": \"Earnings Conference Call to discuss the financial results for the second quarter and half-year ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bb82cdcf-9675-4630-8b33-f32e6e126be9.pdf\", \"_id\": \"54902ef5-eb5b-4f54-8d56-f12645b797dd\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517354",
       "discovered_at": "2026-09-23T05:12:07.584304+00:00",
       "news_id": "562354fb-f4c0-4ad4-8ad8-8066982e5b95",
       "payload": null,
@@ -2659,6 +2666,13 @@
       "news_id": "a3180e0e-65e1-4f03-afb8-4a808bd149d2",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "543415",
+      "discovered_at": "2026-10-16T05:18:33.550295+00:00",
+      "news_id": "a758b681-9376-4fe9-aeb1-0bdaf375d381",
+      "payload": "{\"NEWSID\": \"a758b681-9376-4fe9-aeb1-0bdaf375d381\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_A758B681-9376-4FE9-AEB1-0BDAF375D381\", \"NEWSSUB\": \"Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.\", \"DT_TM\": \"2026-10-16T10:45:50.82\", \"NEWS_DT\": \"2026-10-16T10:45:50.82\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"A758B681_9376_4FE9_AEB1_0BDAF375D381_104546.pdf\", \"MORE\": \"The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 15, 2026 for Anand Rathi Financial Services Ltd\", \"HEADLINE\": \"The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 15, 2026 for Anand Rathi Financial ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 51, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-10-16T10:45:50.82\", \"TimeDiff\": null, \"Fld_Attachsize\": 619309, \"SUBCATNAME\": \"Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.\", \"_published\": \"2026-10-16T10:45:50.82\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 15, 2026 for Anand Rathi Financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/A758B681_9376_4FE9_AEB1_0BDAF375D381_104546.pdf\", \"_id\": \"a758b681-9376-4fe9-aeb1-0bdaf375d381\"}",
+      "status": "pending"
     },
     {
       "company_key": "543415",
