@@ -4929,6 +4929,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-10-16T12:35:24.417745+00:00",
+      "news_id": "106820416",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Press Release\", \"dt\": \"16-Oct-2026 18:01:25\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_16102026180104_161026_SSL_Intimation_of_Press_release.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"16-Oct-2026 18:01:25\", \"sort_date\": \"2026-10-16 18:01:25\", \"seq_id\": \"106820416\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Sahaj Solar extends its community impact, supporting approx. 2,000 farmers through Corn Seed Distribution in Gujarat\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.39 MB\", \"attFileSize\": \"2.39 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-10-16 18:01:25\", \"_category\": \"Press Release\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Sahaj Solar extends its community impact, supporting approx. 2,000 farmers through Corn Seed Distribution in Gujarat\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_16102026180104_161026_SSL_Intimation_of_Press_release.pdf\", \"_id\": \"106820416\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:TBI",
       "discovered_at": "2026-10-08T12:13:18.964018+00:00",
       "news_id": "106811469",
