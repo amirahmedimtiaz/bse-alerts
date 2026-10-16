@@ -4932,8 +4932,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-16T12:35:24.417745+00:00",
       "news_id": "106820416",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Press Release\", \"dt\": \"16-Oct-2026 18:01:25\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_16102026180104_161026_SSL_Intimation_of_Press_release.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"16-Oct-2026 18:01:25\", \"sort_date\": \"2026-10-16 18:01:25\", \"seq_id\": \"106820416\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Sahaj Solar extends its community impact, supporting approx. 2,000 farmers through Corn Seed Distribution in Gujarat\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.39 MB\", \"attFileSize\": \"2.39 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-10-16 18:01:25\", \"_category\": \"Press Release\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \\\"Sahaj Solar extends its community impact, supporting approx. 2,000 farmers through Corn Seed Distribution in Gujarat\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_16102026180104_161026_SSL_Intimation_of_Press_release.pdf\", \"_id\": \"106820416\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -5309,14 +5309,6 @@
       "sent_at": "2026-10-15T07:37:28.038885+00:00"
     },
     {
-      "message_id": "<4352488ca316cd27ca4d99f536de08a500cddea64c194a808c0188c111823552@gmail.com>",
-      "sent_at": "2026-10-14T10:10:56.101879+00:00"
-    },
-    {
-      "message_id": "<44e88f0abf96bc5d9b7feab4f46bc16b59f03f315e9e6878f951644322cd2089@gmail.com>",
-      "sent_at": "2026-10-14T07:45:56.597457+00:00"
-    },
-    {
       "message_id": "<48b5e0fc393d40694c609f378973ca198d45d033356f565e6d2313b03f689770@gmail.com>",
       "sent_at": "2026-10-14T13:06:12.232228+00:00"
     },
@@ -5347,14 +5339,6 @@
     {
       "message_id": "<76ebb6bebe6a76ab9068b85931b3ae0b12702863f8599561771465d80458bf24@gmail.com>",
       "sent_at": "2026-10-16T04:08:36.438385+00:00"
-    },
-    {
-      "message_id": "<7f9424ef43b4e564ccdabfe757cf79111efc486fcd6d0deb99923fcc3c8a57a1@gmail.com>",
-      "sent_at": "2026-10-14T08:45:57.026632+00:00"
-    },
-    {
-      "message_id": "<8a1d6ec06da2c7ff9517ee232e8968415e23dbabeee6a6e675e3b53b2db1532e@gmail.com>",
-      "sent_at": "2026-10-14T07:25:56.675995+00:00"
     },
     {
       "message_id": "<8ef54a78c480dfde1ce07735e9bbb3c2e6c7b21d2eb6546161abd39819f8ec9f@gmail.com>",
@@ -5405,8 +5389,8 @@
       "sent_at": "2026-10-15T07:32:49.334536+00:00"
     },
     {
-      "message_id": "<d9edcb63aa0bf1dfa7b85ad9e9431ecb2662bc3873b13ca86c8e006ab83272ea@gmail.com>",
-      "sent_at": "2026-10-14T12:26:10.902457+00:00"
+      "message_id": "<e38cb6ad150ad0623d68e98c1e3ac8be9d6ffdaf2abfa6ffa3b0960e616a7604@gmail.com>",
+      "sent_at": "2026-10-16T12:35:35.254649+00:00"
     },
     {
       "message_id": "<e631b0ddacf4089eb7b5225c368e06cedc12c07f4bc54e6d8d3871b53e9cfbcb@gmail.com>",
