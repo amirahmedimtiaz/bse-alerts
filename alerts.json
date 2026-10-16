@@ -2699,8 +2699,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-16T05:23:32.429674+00:00",
       "news_id": "ec2a5539-be53-44da-a599-fcf2eeabb793",
-      "payload": "{\"NEWSID\": \"ec2a5539-be53-44da-a599-fcf2eeabb793\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_EC2A5539-BE53-44DA-A599-FCF2EEABB793\", \"NEWSSUB\": \"Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.\", \"DT_TM\": \"2026-10-16T10:51:46.653\", \"NEWS_DT\": \"2026-10-16T10:51:46.653\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"EC2A5539_BE53_44DA_A599_FCF2EEABB793_105143.pdf\", \"MORE\": \"The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on October 15, 2026 for Anand Rathi Financial Services Ltd\", \"HEADLINE\": \"The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on October ....\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 51, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-10-16T10:51:46.653\", \"TimeDiff\": null, \"Fld_Attachsize\": null, \"SUBCATNAME\": \"Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.\", \"_published\": \"2026-10-16T10:51:46.653\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on October ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/EC2A5539_BE53_44DA_A599_FCF2EEABB793_105143.pdf\", \"_id\": \"ec2a5539-be53-44da-a599-fcf2eeabb793\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -5358,6 +5358,10 @@
     {
       "message_id": "<a669df7a08073ac8e9c6137751dd815a50ce08685f0b67030232c7f3cbf3d03c@gmail.com>",
       "sent_at": "2026-10-14T12:51:28.037502+00:00"
+    },
+    {
+      "message_id": "<a9dcc2c5159802dd27b3b01f4b66e8e256a33ae03ed26defb52e1ffa96937b91@gmail.com>",
+      "sent_at": "2026-10-16T05:23:38.718042+00:00"
     },
     {
       "message_id": "<bf14c6140ccc5cc40d3a06252cb67a995f399ffb7e373013d262f6b26f6f6ce4@gmail.com>",
