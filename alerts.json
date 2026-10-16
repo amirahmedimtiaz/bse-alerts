@@ -4321,6 +4321,13 @@
     },
     {
       "company_key": "544862",
+      "discovered_at": "2026-10-16T12:40:23.436620+00:00",
+      "news_id": "4688e134-8063-4c57-9966-e7dc6b5c0fd8",
+      "payload": "{\"NEWSID\": \"4688e134-8063-4c57-9966-e7dc6b5c0fd8\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_4688E134-8063-4C57-9966-E7DC6B5C0FD8\", \"NEWSSUB\": \"Intimation For Termination Of Share Purchase Agreement\", \"DT_TM\": \"2026-10-16T18:07:54.917\", \"NEWS_DT\": \"2026-10-16T18:07:54.917\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5989bb5a-11f8-4352-bd07-a0ca6989cc76.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation for Termination of Share Purchase Agreement\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-16T18:07:54\", \"DissemDT\": \"2026-10-16T18:07:54.917\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 330710, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Intimation For Termination Of Share Purchase Agreement\", \"_published\": \"2026-10-16T18:07:54.917\", \"_category\": \"Company Update\", \"_headline\": \"Intimation for Termination of Share Purchase Agreement\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5989bb5a-11f8-4352-bd07-a0ca6989cc76.pdf\", \"_id\": \"4688e134-8063-4c57-9966-e7dc6b5c0fd8\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544862",
       "discovered_at": "2026-09-23T05:12:07.584913+00:00",
       "news_id": "5023c185-c804-40b9-87f1-563d6f4b3195",
       "payload": null,
