@@ -3859,6 +3859,13 @@
     },
     {
       "company_key": "544608",
+      "discovered_at": "2026-10-17T10:01:25.238545+00:00",
+      "news_id": "caaf1d27-ca96-49cd-b47b-878fd00d8cc1",
+      "payload": "{\"NEWSID\": \"caaf1d27-ca96-49cd-b47b-878fd00d8cc1\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_CAAF1D27-CA96-49CD-B47B-878FD00D8CC1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-17T15:31:04.083\", \"NEWS_DT\": \"2026-10-17T15:31:04.083\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c540f6d5-c826-4234-a15e-381fdb249683.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Pursuant to Regulation 47 of SEBI (LODR) Regulations, 2015, we are attaching herewith newspaper clipping of unaudited financial results for quarter and half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-17T15:31:04\", \"DissemDT\": \"2026-10-17T15:31:04.083\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 16790660, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-17T15:31:04.083\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 47 of SEBI (LODR) Regulations, 2015, we are attaching herewith newspaper clipping of unaudited financial results for quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c540f6d5-c826-4234-a15e-381fdb249683.pdf\", \"_id\": \"caaf1d27-ca96-49cd-b47b-878fd00d8cc1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544608",
       "discovered_at": "2026-09-28T14:15:23.551488+00:00",
       "news_id": "d15d1a28-e03a-42d1-8fe1-4be06f771ba8",
       "payload": null,
