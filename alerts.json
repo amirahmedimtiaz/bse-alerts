@@ -368,8 +368,8 @@
       "company_key": "504240",
       "discovered_at": "2026-10-17T10:26:30.197699+00:00",
       "news_id": "c5ad5792-e647-4572-a3ab-f94a9b8affc0",
-      "payload": "{\"NEWSID\": \"c5ad5792-e647-4572-a3ab-f94a9b8affc0\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_C5AD5792-E647-4572-A3AB-F94A9B8AFFC0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-17T15:51:59.757\", \"NEWS_DT\": \"2026-10-17T15:51:59.757\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"85cc3286-36ec-406b-890a-a941d398d60d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication related to the Special Window for re-lodgement of transfer requests of Physical Shares and KYC Updation & dematerialisation of physical share certificates.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-17T15:51:59\", \"DissemDT\": \"2026-10-17T15:51:59.757\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 10195965, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-17T15:51:59.757\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication related to the Special Window for re-lodgement of transfer requests of Physical Shares and KYC Updation & dematerialisation of physical share certificates.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/85cc3286-36ec-406b-890a-a941d398d60d.pdf\", \"_id\": \"c5ad5792-e647-4572-a3ab-f94a9b8affc0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504240",
@@ -5322,10 +5322,6 @@
       "sent_at": "2026-10-15T12:52:44.041771+00:00"
     },
     {
-      "message_id": "<584b89265b4261e8789a43bb6492734dbd6f3cd95884fc846d7419f6bdaf66b8@gmail.com>",
-      "sent_at": "2026-10-15T10:07:21.755957+00:00"
-    },
-    {
       "message_id": "<62e35882205eb3cb5d7a2b52eaa1de44223e35505edba1583d0a3e7c4c424bda@gmail.com>",
       "sent_at": "2026-10-16T12:40:36.287994+00:00"
     },
@@ -5340,6 +5336,10 @@
     {
       "message_id": "<96017dc5d7af0a051980b08963b1d9e1156a49470988017604d85cb518417ea5@gmail.com>",
       "sent_at": "2026-10-15T15:22:46.300734+00:00"
+    },
+    {
+      "message_id": "<a0bf7bd22ed32cb0fd182e78152139510988a3c60af161e38fada9870d7f2b57@gmail.com>",
+      "sent_at": "2026-10-17T10:26:39.228940+00:00"
     },
     {
       "message_id": "<a487bc173dd2ad6ccea88fcb132c2e191cc3978798ed412b30bd697aef67f896@gmail.com>",
