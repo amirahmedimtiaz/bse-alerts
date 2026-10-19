@@ -991,8 +991,8 @@
       "company_key": "522163",
       "discovered_at": "2026-10-19T13:49:16.913482+00:00",
       "news_id": "6c0afd45-0447-4d43-a675-e48aeb7ca62b",
-      "payload": "{\"NEWSID\": \"6c0afd45-0447-4d43-a675-e48aeb7ca62b\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_6C0AFD45-0447-4D43-A675-E48AEB7CA62B\", \"NEWSSUB\": \"Disclosure Of Contact Details Of Key Managerial Personnel Under Regulation 30(5) Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-19T19:16:23.743\", \"NEWS_DT\": \"2026-10-19T19:16:23.743\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e5639243-94c9-46c5-8933-e89f16d01442.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure of Contact Details of Key Managerial Personnel under Regulation 30(5) of the SEBI (Listing Obligations and Disclosure Requirements ) Regulations, 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-19T19:16:23\", \"DissemDT\": \"2026-10-19T19:16:23.743\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 399164, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Disclosure Of Contact Details Of Key Managerial Personnel Under Regulation 30(5) Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-19T19:16:23.743\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure of Contact Details of Key Managerial Personnel under Regulation 30(5) of the SEBI (Listing Obligations and Disclosure Requirements ) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e5639243-94c9-46c5-8933-e89f16d01442.pdf\", \"_id\": \"6c0afd45-0447-4d43-a675-e48aeb7ca62b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -5413,6 +5413,10 @@
     {
       "message_id": "<73ff79b08689473eae633f73e9835327e80537bcb8afac9d93172580ad5129dc@gmail.com>",
       "sent_at": "2026-10-19T12:44:35.088303+00:00"
+    },
+    {
+      "message_id": "<8974f1fce14f4ef05d36440d13a2f1e2f102c3d37ada03770ac6b005a48cce81@gmail.com>",
+      "sent_at": "2026-10-19T13:49:36.292215+00:00"
     },
     {
       "message_id": "<94f3860940372b31bc08e9abbef95157e09f339015202e0939285c66618fbba4@gmail.com>",
