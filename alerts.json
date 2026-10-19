@@ -2587,8 +2587,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-19T11:09:13.893649+00:00",
       "news_id": "dbd52dde-0b59-4e47-aa89-6072c98e60eb",
-      "payload": "{\"NEWSID\": \"dbd52dde-0b59-4e47-aa89-6072c98e60eb\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_DBD52DDE-0B59-4E47-AA89-6072C98E60EB\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR) - Earnings Call Transcript\", \"DT_TM\": \"2026-10-19T16:38:15.2\", \"NEWS_DT\": \"2026-10-19T16:38:15.2\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Transcript of Earnings call held on October 15, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-19T16:38:15\", \"DissemDT\": \"2026-10-19T16:38:15.2\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 504935, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR) - Earnings Call Transcript\", \"_published\": \"2026-10-19T16:38:15.2\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Transcript of Earnings call held on October 15, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf\", \"_id\": \"dbd52dde-0b59-4e47-aa89-6072c98e60eb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -5353,6 +5353,10 @@
     {
       "message_id": "<e4a26612ec719e203e6a495e6d95b981e94426342fdc74deec2c0ef141693689@gmail.com>",
       "sent_at": "2026-10-19T10:49:35.383322+00:00"
+    },
+    {
+      "message_id": "<f65790bffb673d3fea0f8b3994cb267107e880eebf43d66fe6aaa442b0fef60c@gmail.com>",
+      "sent_at": "2026-10-19T11:09:35.657803+00:00"
     },
     {
       "message_id": "<fe8927014c69d8ac4f5e90477d234c2fb4f57c32d5b82b2ef70ccd22f1afed71@gmail.com>",
