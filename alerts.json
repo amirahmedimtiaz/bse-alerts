@@ -4978,6 +4978,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-10-19T14:19:23.635131+00:00",
+      "news_id": "106822378",
+      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"19-Oct-2026 19:46:07\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_19102026194350_INTIMATIONOFPURCHASEORDER-19102026.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 19:46:07\", \"sort_date\": \"2026-10-19 19:46:07\", \"seq_id\": \"106822378\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.24 MB\", \"attFileSize\": \"1.24 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-10-19 19:46:07\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_19102026194350_INTIMATIONOFPURCHASEORDER-19102026.pdf\", \"_id\": \"106822378\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-10-12T08:07:53.439300+00:00",
       "news_id": "106814256",
