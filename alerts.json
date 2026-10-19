@@ -4981,8 +4981,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-10-19T14:19:23.635131+00:00",
       "news_id": "106822378",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"19-Oct-2026 19:46:07\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_19102026194350_INTIMATIONOFPURCHASEORDER-19102026.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 19:46:07\", \"sort_date\": \"2026-10-19 19:46:07\", \"seq_id\": \"106822378\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.24 MB\", \"attFileSize\": \"1.24 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-10-19 19:46:07\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_19102026194350_INTIMATIONOFPURCHASEORDER-19102026.pdf\", \"_id\": \"106822378\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:PROPSHOP",
@@ -5448,6 +5448,10 @@
     {
       "message_id": "<e5207fb139a81fbcb0a87e65d1b8e9b1a68f74978cfc6b8e2e8bcece631c46ff@gmail.com>",
       "sent_at": "2026-10-19T12:34:35.314585+00:00"
+    },
+    {
+      "message_id": "<ef221ffab4b079635db95bcc8aef221c1759c8b65bb07f2253ff6036d260dd4c@gmail.com>",
+      "sent_at": "2026-10-19T14:19:35.767240+00:00"
     },
     {
       "message_id": "<f65790bffb673d3fea0f8b3994cb267107e880eebf43d66fe6aaa442b0fef60c@gmail.com>",
