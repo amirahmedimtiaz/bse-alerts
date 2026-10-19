@@ -1024,6 +1024,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-10-19T13:29:18.894865+00:00",
+      "news_id": "8646ca07-f9ed-4ded-9fd6-101aa22d98b9",
+      "payload": "{\"NEWSID\": \"8646ca07-f9ed-4ded-9fd6-101aa22d98b9\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_8646CA07-F9ED-4DED-9FD6-101AA22D98B9\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On 19 October 2026\", \"DT_TM\": \"2026-10-19T18:58:14.423\", \"NEWS_DT\": \"2026-10-19T18:58:14.423\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"117e1ed5-0590-4765-80bc-1c369165e5ff.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Appointment of Chief Financial Officer and key managerial personnel of the Company\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 223, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-19T18:58:12\", \"DissemDT\": \"2026-10-19T18:58:14.423\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 412891, \"SUBCATNAME\": \"Outcome without intimation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On 19 October 2026\", \"_published\": \"2026-10-19T18:58:14.423\", \"_category\": \"Others\", \"_headline\": \"Appointment of Chief Financial Officer and key managerial personnel of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/117e1ed5-0590-4765-80bc-1c369165e5ff.pdf\", \"_id\": \"8646ca07-f9ed-4ded-9fd6-101aa22d98b9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584393+00:00",
       "news_id": "8647855a-7bf4-411e-a977-f8b05fc4184d",
       "payload": null,
