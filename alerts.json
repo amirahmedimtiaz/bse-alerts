@@ -2025,6 +2025,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-10-19T15:24:36.859469+00:00",
+      "news_id": "4baf156e-285a-4913-940d-4ff524a0becc",
+      "payload": "{\"NEWSID\": \"4baf156e-285a-4913-940d-4ff524a0becc\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_4BAF156E-285A-4913-940D-4FF524A0BECC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release (Revised)\", \"DT_TM\": \"2026-10-19T20:53:57.79\", \"NEWS_DT\": \"2026-10-19T20:53:57.79\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c578a915-f24b-4e7b-bf9e-fcc9b81c1846.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith revised press release for quarter and half year ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 155, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-19T20:53:57\", \"DissemDT\": \"2026-10-19T20:53:57.79\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1678520, \"SUBCATNAME\": \"Press Release / Media Release (Revised)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release (Revised)\", \"_published\": \"2026-10-19T20:53:57.79\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith revised press release for quarter and half year ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c578a915-f24b-4e7b-bf9e-fcc9b81c1846.pdf\", \"_id\": \"4baf156e-285a-4913-940d-4ff524a0becc\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-09-23T05:12:07.584605+00:00",
       "news_id": "55080e8e-86b1-4ced-9d80-d0a1a70311da",
       "payload": null,
