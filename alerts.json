@@ -4967,22 +4967,22 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-19T08:44:03.477885+00:00",
       "news_id": "106821850",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"19-Oct-2026 14:10:00\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026140920_SSL_Outcome_of_Board_Meeting.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 14:10:00\", \"sort_date\": \"2026-10-19 14:10:00\", \"seq_id\": \"106821850\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"SAHAJSOLAR: Sahaj Solar Limited has informed the Exchange regarding Outcome of Board Meeting held on October 19, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"323.37 KB\", \"attFileSize\": \"323.37 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-10-19 14:10:00\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"SAHAJSOLAR: Sahaj Solar Limited has informed the Exchange regarding Outcome of Board Meeting held on October 19, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026140920_SSL_Outcome_of_Board_Meeting.pdf\", \"_id\": \"106821850\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-19T08:44:03.478133+00:00",
       "news_id": "106821854",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Capacity addition\", \"dt\": \"19-Oct-2026 14:12:12\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026141204_SSL_Outcome_of_Board_Meeting.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 14:12:12\", \"sort_date\": \"2026-10-19 14:12:12\", \"seq_id\": \"106821854\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Capacity addition\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"323.37 KB\", \"attFileSize\": \"323.37 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Capacity addition\", \"_published\": \"2026-10-19 14:12:12\", \"_category\": \"Capacity addition\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Capacity addition\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026141204_SSL_Outcome_of_Board_Meeting.pdf\", \"_id\": \"106821854\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-19T08:44:03.478160+00:00",
       "news_id": "106821855",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Product launch\", \"dt\": \"19-Oct-2026 14:13:14\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026141303_SSL_Outcome_of_Board_Meeting.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 14:13:14\", \"sort_date\": \"2026-10-19 14:13:14\", \"seq_id\": \"106821855\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Product launch\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"323.37 KB\", \"attFileSize\": \"323.37 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Product launch\", \"_published\": \"2026-10-19 14:13:14\", \"_category\": \"Product launch\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Product launch\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_19102026141303_SSL_Outcome_of_Board_Meeting.pdf\", \"_id\": \"106821855\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -5326,10 +5326,6 @@
       "sent_at": "2026-10-17T10:01:39.101240+00:00"
     },
     {
-      "message_id": "<62e35882205eb3cb5d7a2b52eaa1de44223e35505edba1583d0a3e7c4c424bda@gmail.com>",
-      "sent_at": "2026-10-16T12:40:36.287994+00:00"
-    },
-    {
       "message_id": "<a0bf7bd22ed32cb0fd182e78152139510988a3c60af161e38fada9870d7f2b57@gmail.com>",
       "sent_at": "2026-10-17T10:26:39.228940+00:00"
     },
@@ -5338,8 +5334,8 @@
       "sent_at": "2026-10-18T07:32:47.943512+00:00"
     },
     {
-      "message_id": "<e38cb6ad150ad0623d68e98c1e3ac8be9d6ffdaf2abfa6ffa3b0960e616a7604@gmail.com>",
-      "sent_at": "2026-10-16T12:35:35.254649+00:00"
+      "message_id": "<fe8927014c69d8ac4f5e90477d234c2fb4f57c32d5b82b2ef70ccd22f1afed71@gmail.com>",
+      "sent_at": "2026-10-19T08:44:16.454666+00:00"
     }
   ],
   "metadata": [
