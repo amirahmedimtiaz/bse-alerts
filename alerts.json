@@ -4666,8 +4666,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-10-19T12:19:22.867362+00:00",
       "news_id": "106822199",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Credit Rating- Revision\", \"dt\": \"19-Oct-2026 17:48:20\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_19102026174722_Rating_letter_merged.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"19-Oct-2026 17:48:20\", \"sort_date\": \"2026-10-19 17:48:20\", \"seq_id\": \"106822199\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about upgrade of Credit Ratings by Crisil Ratings Limited\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"671.33 KB\", \"attFileSize\": \"671.33 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Credit Rating- Revision\", \"_published\": \"2026-10-19 17:48:20\", \"_category\": \"Credit Rating- Revision\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about upgrade of Credit Ratings by Crisil Ratings Limited\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_19102026174722_Rating_letter_merged.pdf\", \"_id\": \"106822199\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -5352,6 +5352,10 @@
     {
       "message_id": "<1381bfd66e64db0e13887b7e18dd1638467157b6165aa4727cc5a80568999481@gmail.com>",
       "sent_at": "2026-10-19T10:54:35.930364+00:00"
+    },
+    {
+      "message_id": "<94f3860940372b31bc08e9abbef95157e09f339015202e0939285c66618fbba4@gmail.com>",
+      "sent_at": "2026-10-19T12:19:35.604315+00:00"
     },
     {
       "message_id": "<d21f07b4861a70673ad29601d24f8eaacd8d5661cba2c4e8e1b79a3436e01590@gmail.com>",
