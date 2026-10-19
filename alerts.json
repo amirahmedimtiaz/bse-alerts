@@ -1145,8 +1145,8 @@
       "company_key": "522163",
       "discovered_at": "2026-10-19T12:29:18.902236+00:00",
       "news_id": "f6703009-da5c-4bde-9d6d-f3e981a8a14b",
-      "payload": "{\"NEWSID\": \"f6703009-da5c-4bde-9d6d-f3e981a8a14b\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_F6703009-DA5C-4BDE-9D6D-F3E981A8A14B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-19T17:57:55.457\", \"NEWS_DT\": \"2026-10-19T17:57:55.457\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4514b8d0-eaa1-403a-a4b7-eb778262045a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Appointment of Chief Financial Officer and key managerial personnel (KMP) of the Company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-19T17:57:55\", \"DissemDT\": \"2026-10-19T17:57:55.457\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 412891, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-19T17:57:55.457\", \"_category\": \"Company Update\", \"_headline\": \"Appointment of Chief Financial Officer and key managerial personnel (KMP) of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4514b8d0-eaa1-403a-a4b7-eb778262045a.pdf\", \"_id\": \"f6703009-da5c-4bde-9d6d-f3e981a8a14b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5356,6 +5356,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<11b209d00ef9f069e9d6fa6ec47bd1e561a171fdcd99cfa02253a0562eacbfec@gmail.com>",
+      "sent_at": "2026-10-19T12:29:35.789327+00:00"
+    },
     {
       "message_id": "<1381bfd66e64db0e13887b7e18dd1638467157b6165aa4727cc5a80568999481@gmail.com>",
       "sent_at": "2026-10-19T10:54:35.930364+00:00"
