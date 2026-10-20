@@ -2083,8 +2083,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-20T09:20:30.570720+00:00",
       "news_id": "8c27c3f6-25db-443c-aadc-611a26f16f24",
-      "payload": "{\"NEWSID\": \"8c27c3f6-25db-443c-aadc-611a26f16f24\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_8C27C3F6-25DB-443C-AADC-611A26F16F24\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-20T14:49:51.037\", \"NEWS_DT\": \"2026-10-20T14:49:51.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d8d70149-2e59-4715-b7f9-c9c02d41dfd3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Newspaper Publication for the Un-audited Financial Results for the quarter and half year ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-20T14:49:51\", \"DissemDT\": \"2026-10-20T14:49:51.04\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4210160, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-20T14:49:51.037\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith Newspaper Publication for the Un-audited Financial Results for the quarter and half year ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d8d70149-2e59-4715-b7f9-c9c02d41dfd3.pdf\", \"_id\": \"8c27c3f6-25db-443c-aadc-611a26f16f24\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -5428,6 +5428,10 @@
       "sent_at": "2026-10-19T10:54:35.930364+00:00"
     },
     {
+      "message_id": "<39f18e8a67fe26628782de0bd822f74ad3f90ad434b503aa0803f5424e32629d@gmail.com>",
+      "sent_at": "2026-10-20T09:20:46.889018+00:00"
+    },
+    {
       "message_id": "<48286434ac9649fe71e01c82f8d51f96101584270a382528a4cb7ad63680a403@gmail.com>",
       "sent_at": "2026-10-19T15:24:57.025278+00:00"
     },
@@ -5454,10 +5458,6 @@
     {
       "message_id": "<cca22a7af649cddb01219f3dfab2d1acc6c483bd4a9243e5f96b6d51601d847f@gmail.com>",
       "sent_at": "2026-10-19T12:49:36.430140+00:00"
-    },
-    {
-      "message_id": "<d21f07b4861a70673ad29601d24f8eaacd8d5661cba2c4e8e1b79a3436e01590@gmail.com>",
-      "sent_at": "2026-10-18T07:32:47.943512+00:00"
     },
     {
       "message_id": "<e4a26612ec719e203e6a495e6d95b981e94426342fdc74deec2c0ef141693689@gmail.com>",
