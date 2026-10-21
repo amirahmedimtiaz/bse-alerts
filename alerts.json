@@ -886,8 +886,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-21T12:47:16.240049+00:00",
       "news_id": "d5b192af-7384-42b1-9dac-e57bf6b3639c",
-      "payload": "{\"NEWSID\": \"d5b192af-7384-42b1-9dac-e57bf6b3639c\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_D5B192AF-7384-42B1-9DAC-E57BF6B3639C\", \"NEWSSUB\": \"Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-21T18:14:31.593\", \"NEWS_DT\": \"2026-10-21T18:14:31.593\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4567cd4f-9037-41ac-9e8d-fd10ff9e2f51.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board meeting- Disclosure/Announcements pursuant to Regulation 30 and 33 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T18:14:31\", \"DissemDT\": \"2026-10-21T18:14:31.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5496515, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"_published\": \"2026-10-21T18:14:31.593\", \"_category\": \"Result\", \"_headline\": \"Outcome of Board meeting- Disclosure/Announcements pursuant to Regulation 30 and 33 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4567cd4f-9037-41ac-9e8d-fd10ff9e2f51.pdf\", \"_id\": \"d5b192af-7384-42b1-9dac-e57bf6b3639c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -5515,10 +5515,6 @@
       "sent_at": "2026-10-19T13:29:35.449536+00:00"
     },
     {
-      "message_id": "<73ff79b08689473eae633f73e9835327e80537bcb8afac9d93172580ad5129dc@gmail.com>",
-      "sent_at": "2026-10-19T12:44:35.088303+00:00"
-    },
-    {
       "message_id": "<7772d1d20e4f9a7865965f90f80a77c062f59540f48023b58140204be92ebfb0@gmail.com>",
       "sent_at": "2026-10-21T10:42:34.198050+00:00"
     },
@@ -5537,6 +5533,10 @@
     {
       "message_id": "<a1a1fc47b66e1f28e8ae941af6d4c9cd940711d9eddf2e611157e0376b26a944@gmail.com>",
       "sent_at": "2026-10-21T12:17:38.704670+00:00"
+    },
+    {
+      "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
+      "sent_at": "2026-10-21T12:47:36.501498+00:00"
     },
     {
       "message_id": "<cca22a7af649cddb01219f3dfab2d1acc6c483bd4a9243e5f96b6d51601d847f@gmail.com>",
