@@ -816,8 +816,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-21T13:32:16.384997+00:00",
       "news_id": "7761a287-6b58-47ea-896a-588dc6896f9f",
-      "payload": "{\"NEWSID\": \"7761a287-6b58-47ea-896a-588dc6896f9f\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_7761A287-6B58-47EA-896A-588DC6896F9F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-10-21T19:01:28.23\", \"NEWS_DT\": \"2026-10-21T19:01:28.23\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2cb4340e-7510-4bdb-bfec-3bb916e41c84.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the quarter ended on September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T19:01:28\", \"DissemDT\": \"2026-10-21T19:01:28.23\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 997700, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-10-21T19:01:28.23\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the quarter ended on September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2cb4340e-7510-4bdb-bfec-3bb916e41c84.pdf\", \"_id\": \"7761a287-6b58-47ea-896a-588dc6896f9f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -5525,10 +5525,6 @@
       "sent_at": "2026-10-21T12:42:37.588742+00:00"
     },
     {
-      "message_id": "<732f9ab9ae5929ccd4a2d686ef3ffcc5bbb3193a4df48434c4a50aafe97588c7@gmail.com>",
-      "sent_at": "2026-10-19T13:29:35.449536+00:00"
-    },
-    {
       "message_id": "<7772d1d20e4f9a7865965f90f80a77c062f59540f48023b58140204be92ebfb0@gmail.com>",
       "sent_at": "2026-10-21T10:42:34.198050+00:00"
     },
@@ -5547,6 +5543,10 @@
     {
       "message_id": "<a1a1fc47b66e1f28e8ae941af6d4c9cd940711d9eddf2e611157e0376b26a944@gmail.com>",
       "sent_at": "2026-10-21T12:17:38.704670+00:00"
+    },
+    {
+      "message_id": "<aa4f8f72fe79b02339f2e8b5b4ef56141601b4b134939f5ad429cd9c2834a7ee@gmail.com>",
+      "sent_at": "2026-10-21T13:32:38.978899+00:00"
     },
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
