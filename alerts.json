@@ -4041,6 +4041,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-10-21T12:37:26.720397+00:00",
+      "news_id": "4cdbec14-aea1-4de8-9742-0031f25c87dc",
+      "payload": "{\"NEWSID\": \"4cdbec14-aea1-4de8-9742-0031f25c87dc\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_4CDBEC14-AEA1-4DE8-9742-0031F25C87DC\", \"NEWSSUB\": \"General-Updates\", \"DT_TM\": \"2026-10-21T18:06:42.437\", \"NEWS_DT\": \"2026-10-21T18:06:42.437\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"54778c6f-81db-45f1-b3dd-2f71be67d9e3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has issued clarification regarding  media reports on China''s proposed restrictions on export of solar cell technology.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T18:06:42\", \"DissemDT\": \"2026-10-21T18:06:42.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 400798, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"General-Updates\", \"_published\": \"2026-10-21T18:06:42.437\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has issued clarification regarding  media reports on China''s proposed restrictions on export of solar cell technology.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/54778c6f-81db-45f1-b3dd-2f71be67d9e3.pdf\", \"_id\": \"4cdbec14-aea1-4de8-9742-0031f25c87dc\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-09-23T05:12:07.584865+00:00",
       "news_id": "51a46bb2-a6ba-42a8-a3d0-b631e5ba97c3",
       "payload": null,
