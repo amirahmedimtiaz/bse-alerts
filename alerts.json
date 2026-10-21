@@ -2209,8 +2209,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-21T13:07:23.364685+00:00",
       "news_id": "df6f4e81-e31c-4ead-8389-6c9ee0ad15b5",
-      "payload": "{\"NEWSID\": \"df6f4e81-e31c-4ead-8389-6c9ee0ad15b5\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_DF6F4E81-E31C-4EAD-8389-6C9EE0AD15B5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-21T18:35:30.42\", \"NEWS_DT\": \"2026-10-21T18:35:30.42\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c66b4619-a1c4-4dd6-bc22-867c2f74f4eb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Audio Recording for the Earnings Call held on 21st October 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T18:35:30\", \"DissemDT\": \"2026-10-21T18:35:30.42\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 622618, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"df6f4e81-e31c-4ead-8389-6c9ee0ad15b5\", \"INVESTOR_PRESENTATION\": \"fbc33852-4fac-44cc-bff8-b7d79ea9618f.mp3\", \"RECORDID\": 14615390, \"DataInsDate\": \"2026-10-21T18:35:30.313\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/fbc33852-4fac-44cc-bff8-b7d79ea9618f.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-21T18:35:30.42\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith Audio Recording for the Earnings Call held on 21st October 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c66b4619-a1c4-4dd6-bc22-867c2f74f4eb.pdf\", \"_id\": \"df6f4e81-e31c-4ead-8389-6c9ee0ad15b5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -5530,12 +5530,12 @@
       "sent_at": "2026-10-19T13:49:36.292215+00:00"
     },
     {
-      "message_id": "<95e5d5ffccc5e89ea8df3def5dcf21d2d39a63d2639d77253ad633a5f39260de@gmail.com>",
-      "sent_at": "2026-10-21T11:52:36.745664+00:00"
+      "message_id": "<904eef98c7d6a0767e73ca0d9f9156340c6e17123561dc2c796649e67c642ecd@gmail.com>",
+      "sent_at": "2026-10-21T13:07:36.381087+00:00"
     },
     {
-      "message_id": "<9c90a02d2dfadd7f36c4aeb4ecf09beab6a048291c45bf5ed22e7e791e96109f@gmail.com>",
-      "sent_at": "2026-10-19T12:59:35.826786+00:00"
+      "message_id": "<95e5d5ffccc5e89ea8df3def5dcf21d2d39a63d2639d77253ad633a5f39260de@gmail.com>",
+      "sent_at": "2026-10-21T11:52:36.745664+00:00"
     },
     {
       "message_id": "<a1a1fc47b66e1f28e8ae941af6d4c9cd940711d9eddf2e611157e0376b26a944@gmail.com>",
@@ -5544,10 +5544,6 @@
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
       "sent_at": "2026-10-21T12:47:36.501498+00:00"
-    },
-    {
-      "message_id": "<cca22a7af649cddb01219f3dfab2d1acc6c483bd4a9243e5f96b6d51601d847f@gmail.com>",
-      "sent_at": "2026-10-19T12:49:36.430140+00:00"
     },
     {
       "message_id": "<ef221ffab4b079635db95bcc8aef221c1759c8b65bb07f2253ff6036d260dd4c@gmail.com>",
