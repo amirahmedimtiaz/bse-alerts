@@ -266,5 +266,12 @@
     "name": "Rudra Gas Enterprise Ltd",
     "scrip_code": 544121,
     "announcement_url": "https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/corp-announcements"
+  },
+  {
+    "name": "Happy Square Outsourcing Services Limited",
+    "exchange": "NSE",
+    "symbol": "WHITEFORCE",
+    "market_type": "sme",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/WHITEFORCE/Happy-Square-Outsourcing-Services-Limited"
   }
 ]
