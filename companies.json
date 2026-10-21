@@ -273,5 +273,12 @@
     "symbol": "WHITEFORCE",
     "market_type": "sme",
     "announcement_url": "https://www.nseindia.com/get-quote/equity/WHITEFORCE/Happy-Square-Outsourcing-Services-Limited"
+  },
+  {
+    "name": "Viviana Power Tech Limited",
+    "exchange": "NSE",
+    "symbol": "VIVIANA",
+    "market_type": "equities",
+    "announcement_url": "https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited"
   }
 ]
