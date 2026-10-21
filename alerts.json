@@ -4985,6 +4985,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-10-21T17:47:40.922321+00:00",
+      "news_id": "106824042",
+      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"dt\": \"21-Oct-2026 23:14:56\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_21102026231443_Bhadora_CG_Certificate.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"21-Oct-2026 23:14:56\", \"sort_date\": \"2026-10-21 23:14:56\", \"seq_id\": \"106824042\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.08 MB\", \"attFileSize\": \"1.08 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_published\": \"2026-10-21 23:14:56\", \"_category\": \"Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter\", \"_headline\": \"Bhadora Industries Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_21102026231443_Bhadora_CG_Certificate.pdf\", \"_id\": \"106824042\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-10-10T10:05:15.892629+00:00",
       "news_id": "106813560",
