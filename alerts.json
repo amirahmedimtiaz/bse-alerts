@@ -5550,7 +5550,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-21T12:42:38.846092+00:00\", \"seconds\": 24.87}"
+      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-21T12:47:37.770967+00:00\", \"seconds\": 23.79}"
     },
     {
       "key": "migration_date",
