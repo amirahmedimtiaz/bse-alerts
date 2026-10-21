@@ -662,8 +662,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-21T12:17:15.674543+00:00",
       "news_id": "159cbdf6-1f00-4f61-813d-b5790b5ec432",
-      "payload": "{\"NEWSID\": \"159cbdf6-1f00-4f61-813d-b5790b5ec432\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_159CBDF6-1F00-4F61-813D-B5790B5EC432\", \"NEWSSUB\": \"Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-21T17:43:25.997\", \"NEWS_DT\": \"2026-10-21T17:43:25.997\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2075e5d3-21fa-4857-bf45-55cd905c1f60.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting - Disclosure/ Announcements pursuant to Regulations 30 and 33 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T17:43:25\", \"DissemDT\": \"2026-10-21T17:43:25.997\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5496515, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"_published\": \"2026-10-21T17:43:25.997\", \"_category\": \"Result\", \"_headline\": \"Outcome of Board Meeting - Disclosure/ Announcements pursuant to Regulations 30 and 33 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2075e5d3-21fa-4857-bf45-55cd905c1f60.pdf\", \"_id\": \"159cbdf6-1f00-4f61-813d-b5790b5ec432\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -4092,8 +4092,8 @@
       "company_key": "544613",
       "discovered_at": "2026-10-21T12:17:24.265655+00:00",
       "news_id": "e319b424-eae0-46be-81b0-01d30ee3e8ca",
-      "payload": "{\"NEWSID\": \"e319b424-eae0-46be-81b0-01d30ee3e8ca\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_E319B424-EAE0-46BE-81B0-01D30EE3E8CA\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"DT_TM\": \"2026-10-21T17:44:55.97\", \"NEWS_DT\": \"2026-10-21T17:44:55.97\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1320bbab-b34f-4e5a-8885-836557874feb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Notice of Postal Ballot.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 34, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T17:44:55\", \"DissemDT\": \"2026-10-21T17:44:55.97\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1619312, \"SUBCATNAME\": \"Postal Ballot\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"_published\": \"2026-10-21T17:44:55.97\", \"_category\": \"AGM/EGM\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding Notice of Postal Ballot.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1320bbab-b34f-4e5a-8885-836557874feb.pdf\", \"_id\": \"e319b424-eae0-46be-81b0-01d30ee3e8ca\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -5501,6 +5501,10 @@
     {
       "message_id": "<9c90a02d2dfadd7f36c4aeb4ecf09beab6a048291c45bf5ed22e7e791e96109f@gmail.com>",
       "sent_at": "2026-10-19T12:59:35.826786+00:00"
+    },
+    {
+      "message_id": "<a1a1fc47b66e1f28e8ae941af6d4c9cd940711d9eddf2e611157e0376b26a944@gmail.com>",
+      "sent_at": "2026-10-21T12:17:38.704670+00:00"
     },
     {
       "message_id": "<cca22a7af649cddb01219f3dfab2d1acc6c483bd4a9243e5f96b6d51601d847f@gmail.com>",
