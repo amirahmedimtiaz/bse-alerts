@@ -4981,8 +4981,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-10-21T15:07:22.936710+00:00",
       "news_id": "106823935",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Updates\", \"dt\": \"21-Oct-2026 20:36:57\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_21102026203649_IR_report_final.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"21-Oct-2026 20:36:57\", \"sort_date\": \"2026-10-21 20:36:57\", \"seq_id\": \"106823935\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding 'Investor Grievance Report '.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.36 MB\", \"attFileSize\": \"1.36 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-10-21 20:36:57\", \"_category\": \"Updates\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding 'Investor Grievance Report '.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_21102026203649_IR_report_final.pdf\", \"_id\": \"106823935\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -5516,6 +5516,10 @@
       "sent_at": "2026-10-21T12:22:38.024839+00:00"
     },
     {
+      "message_id": "<181d2fbecc31b1dc5c1f01357c1f0471771374fedac7cf10f6c7eee512aa67b6@gmail.com>",
+      "sent_at": "2026-10-21T15:07:37.591634+00:00"
+    },
+    {
       "message_id": "<37cc83e8b2b03949912f035a2ae0f7fb6b1a1eb8e8175588d6ee2ddbe6861098@gmail.com>",
       "sent_at": "2026-10-21T10:27:14.365796+00:00"
     },
@@ -5536,10 +5540,6 @@
       "sent_at": "2026-10-21T10:42:34.198050+00:00"
     },
     {
-      "message_id": "<8974f1fce14f4ef05d36440d13a2f1e2f102c3d37ada03770ac6b005a48cce81@gmail.com>",
-      "sent_at": "2026-10-19T13:49:36.292215+00:00"
-    },
-    {
       "message_id": "<904eef98c7d6a0767e73ca0d9f9156340c6e17123561dc2c796649e67c642ecd@gmail.com>",
       "sent_at": "2026-10-21T13:07:36.381087+00:00"
     },
@@ -5558,10 +5558,6 @@
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
       "sent_at": "2026-10-21T12:47:36.501498+00:00"
-    },
-    {
-      "message_id": "<ef221ffab4b079635db95bcc8aef221c1759c8b65bb07f2253ff6036d260dd4c@gmail.com>",
-      "sent_at": "2026-10-19T14:19:35.767240+00:00"
     }
   ],
   "metadata": [
