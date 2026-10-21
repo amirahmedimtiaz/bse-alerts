@@ -4043,8 +4043,8 @@
       "company_key": "544613",
       "discovered_at": "2026-10-21T12:37:26.720397+00:00",
       "news_id": "4cdbec14-aea1-4de8-9742-0031f25c87dc",
-      "payload": "{\"NEWSID\": \"4cdbec14-aea1-4de8-9742-0031f25c87dc\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_4CDBEC14-AEA1-4DE8-9742-0031F25C87DC\", \"NEWSSUB\": \"General-Updates\", \"DT_TM\": \"2026-10-21T18:06:42.437\", \"NEWS_DT\": \"2026-10-21T18:06:42.437\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"54778c6f-81db-45f1-b3dd-2f71be67d9e3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has issued clarification regarding  media reports on China''s proposed restrictions on export of solar cell technology.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T18:06:42\", \"DissemDT\": \"2026-10-21T18:06:42.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 400798, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"General-Updates\", \"_published\": \"2026-10-21T18:06:42.437\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has issued clarification regarding  media reports on China''s proposed restrictions on export of solar cell technology.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/54778c6f-81db-45f1-b3dd-2f71be67d9e3.pdf\", \"_id\": \"4cdbec14-aea1-4de8-9742-0031f25c87dc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -5473,12 +5473,12 @@
   ],
   "deliveries": [
     {
-      "message_id": "<0cbb73d773587ac19a422dbca55b39d7b8480495d69dbe2122704569649d6603@gmail.com>",
-      "sent_at": "2026-10-21T12:22:38.024839+00:00"
+      "message_id": "<093daa2bb5f66daa0b35616b282375e80caa9fbf79adc62224a502a10830dc22@gmail.com>",
+      "sent_at": "2026-10-21T12:37:36.279834+00:00"
     },
     {
-      "message_id": "<11b209d00ef9f069e9d6fa6ec47bd1e561a171fdcd99cfa02253a0562eacbfec@gmail.com>",
-      "sent_at": "2026-10-19T12:29:35.789327+00:00"
+      "message_id": "<0cbb73d773587ac19a422dbca55b39d7b8480495d69dbe2122704569649d6603@gmail.com>",
+      "sent_at": "2026-10-21T12:22:38.024839+00:00"
     },
     {
       "message_id": "<37cc83e8b2b03949912f035a2ae0f7fb6b1a1eb8e8175588d6ee2ddbe6861098@gmail.com>",
@@ -5523,10 +5523,6 @@
     {
       "message_id": "<cca22a7af649cddb01219f3dfab2d1acc6c483bd4a9243e5f96b6d51601d847f@gmail.com>",
       "sent_at": "2026-10-19T12:49:36.430140+00:00"
-    },
-    {
-      "message_id": "<e5207fb139a81fbcb0a87e65d1b8e9b1a68f74978cfc6b8e2e8bcece631c46ff@gmail.com>",
-      "sent_at": "2026-10-19T12:34:35.314585+00:00"
     },
     {
       "message_id": "<ef221ffab4b079635db95bcc8aef221c1759c8b65bb07f2253ff6036d260dd4c@gmail.com>",
