@@ -5570,7 +5570,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-21T17:47:56.196646+00:00\", \"seconds\": 24.24}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-21T17:52:52.349928+00:00\", \"seconds\": 20.34}"
     },
     {
       "key": "migration_date",
