@@ -5416,6 +5416,10 @@
     {
       "key": "NSE:VMARCIND",
       "last_success": "2026-10-21"
+    },
+    {
+      "key": "NSE:WHITEFORCE",
+      "last_success": "2026-10-21"
     }
   ],
   "deliveries": [
