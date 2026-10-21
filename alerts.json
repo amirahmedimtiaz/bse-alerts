@@ -830,8 +830,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-21T11:52:14.899958+00:00",
       "news_id": "9cc0a213-5337-434c-91ca-5964cbac4454",
-      "payload": "{\"NEWSID\": \"9cc0a213-5337-434c-91ca-5964cbac4454\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_9CC0A213-5337-434C-91CA-5964CBAC4454\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-21T17:21:03.89\", \"NEWS_DT\": \"2026-10-21T17:21:03.89\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3d157621-812e-45ee-8220-505d90ccf3d6.pdf\", \"MORE\": \"Pursuant to Regulation 30, 33 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, this is to inform you that the Board of Directors of the Company at their meeting held on Wednesday, the 21st day of October 2026, has approved inter-alia, the following:\\r\\n1. Standalone and Consolidated Un-Audited Financial Results for the quarter and half year ended 30th September, 2026.\\r\\n\\r\\n2. Limited Review Report of the Statutory Auditors on the aforesaid Standalone and Consolidated Un-Audited Financial Results for the quarter and half year ended 30th September, 2026.\\r\\n\", \"HEADLINE\": \"Pursuant to Regulation 30, 33 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, this is to inform you that the Board ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-21T17:20:58\", \"DissemDT\": \"2026-10-21T17:21:03.89\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 5496515, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting - Disclosure/ Announcements Pursuant To Regulation 30 And 33 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015\", \"_published\": \"2026-10-21T17:21:03.89\", \"_category\": \"Board Meeting\", \"_headline\": \"Pursuant to Regulation 30, 33 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, this is to inform you that the Board ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3d157621-812e-45ee-8220-505d90ccf3d6.pdf\", \"_id\": \"9cc0a213-5337-434c-91ca-5964cbac4454\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -5449,10 +5449,6 @@
       "sent_at": "2026-10-19T12:29:35.789327+00:00"
     },
     {
-      "message_id": "<1381bfd66e64db0e13887b7e18dd1638467157b6165aa4727cc5a80568999481@gmail.com>",
-      "sent_at": "2026-10-19T10:54:35.930364+00:00"
-    },
-    {
       "message_id": "<37cc83e8b2b03949912f035a2ae0f7fb6b1a1eb8e8175588d6ee2ddbe6861098@gmail.com>",
       "sent_at": "2026-10-21T10:27:14.365796+00:00"
     },
@@ -5485,6 +5481,10 @@
       "sent_at": "2026-10-19T12:19:35.604315+00:00"
     },
     {
+      "message_id": "<95e5d5ffccc5e89ea8df3def5dcf21d2d39a63d2639d77253ad633a5f39260de@gmail.com>",
+      "sent_at": "2026-10-21T11:52:36.745664+00:00"
+    },
+    {
       "message_id": "<9c90a02d2dfadd7f36c4aeb4ecf09beab6a048291c45bf5ed22e7e791e96109f@gmail.com>",
       "sent_at": "2026-10-19T12:59:35.826786+00:00"
     },
@@ -5493,20 +5493,12 @@
       "sent_at": "2026-10-19T12:49:36.430140+00:00"
     },
     {
-      "message_id": "<e4a26612ec719e203e6a495e6d95b981e94426342fdc74deec2c0ef141693689@gmail.com>",
-      "sent_at": "2026-10-19T10:49:35.383322+00:00"
-    },
-    {
       "message_id": "<e5207fb139a81fbcb0a87e65d1b8e9b1a68f74978cfc6b8e2e8bcece631c46ff@gmail.com>",
       "sent_at": "2026-10-19T12:34:35.314585+00:00"
     },
     {
       "message_id": "<ef221ffab4b079635db95bcc8aef221c1759c8b65bb07f2253ff6036d260dd4c@gmail.com>",
       "sent_at": "2026-10-19T14:19:35.767240+00:00"
-    },
-    {
-      "message_id": "<f65790bffb673d3fea0f8b3994cb267107e880eebf43d66fe6aaa442b0fef60c@gmail.com>",
-      "sent_at": "2026-10-19T11:09:35.657803+00:00"
     }
   ],
   "metadata": [
