@@ -501,8 +501,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-22T08:53:44.098238+00:00",
       "news_id": "d8b03849-76b8-4a7b-9672-984693e5cfb6",
-      "payload": "{\"NEWSID\": \"d8b03849-76b8-4a7b-9672-984693e5cfb6\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_D8B03849-76B8-4A7B-9672-984693E5CFB6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-22T14:19:34.103\", \"NEWS_DT\": \"2026-10-22T14:19:34.103\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8a7054b4-252f-4ce9-9f58-8882f0ea5801.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Information Update on the financials results submitted for Q2 and half-year ended 30 September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T14:19:34\", \"DissemDT\": \"2026-10-22T14:19:34.103\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1030131, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-22T14:19:34.103\", \"_category\": \"Company Update\", \"_headline\": \"Information Update on the financials results submitted for Q2 and half-year ended 30 September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a7054b4-252f-4ce9-9f58-8882f0ea5801.pdf\", \"_id\": \"d8b03849-76b8-4a7b-9672-984693e5cfb6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -2531,8 +2531,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-22T08:53:39.802759+00:00",
       "news_id": "e24576fd-e268-4a43-9ed6-3da3680003f2",
-      "payload": "{\"NEWSID\": \"e24576fd-e268-4a43-9ed6-3da3680003f2\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_E24576FD-E268-4A43-9ED6-3DA3680003F2\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-22T14:22:44.69\", \"NEWS_DT\": \"2026-10-22T14:22:44.69\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3c119198-4b04-4fc5-8d5e-a0cf63a7e19a.pdf\", \"MORE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please refer attached details of the Conference Call with investors /analysts to discuss Financial Results of the company for the Quarter and Half Year ended on September 30, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please refer attached details of the Conference Call with investors /analysts ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T14:22:44\", \"DissemDT\": \"2026-10-22T14:22:44.69\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 852899, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-22T14:22:44.69\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please refer attached details of the Conference Call with investors /analysts ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3c119198-4b04-4fc5-8d5e-a0cf63a7e19a.pdf\", \"_id\": \"e24576fd-e268-4a43-9ed6-3da3680003f2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -5655,6 +5655,10 @@
     {
       "message_id": "<aa4f8f72fe79b02339f2e8b5b4ef56141601b4b134939f5ad429cd9c2834a7ee@gmail.com>",
       "sent_at": "2026-10-21T13:32:38.978899+00:00"
+    },
+    {
+      "message_id": "<add333dc73ab6df6191b5a00000c4ee542a813aa645ea182394706bd889f9882@gmail.com>",
+      "sent_at": "2026-10-22T08:54:21.889644+00:00"
     },
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
