@@ -494,8 +494,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-22T08:33:43.292943+00:00",
       "news_id": "d9f309dd-27c9-43e5-a0f7-d35672042143",
-      "payload": "{\"NEWSID\": \"d9f309dd-27c9-43e5-a0f7-d35672042143\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_D9F309DD-27C9-43E5-A0F7-D35672042143\", \"NEWSSUB\": \"Board Meeting Outcome for Limited Reviewed Un-Audited Standalone And Consolidated Financial Results \\r\\n For The Second Quarter And Half Year Ended 30Th September, 2026\\r\\n\", \"DT_TM\": \"2026-10-22T14:02:43.113\", \"NEWS_DT\": \"2026-10-22T14:02:43.113\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3ceb6f01-aac5-44c7-a53b-6d7bd2c7210d.pdf\", \"MORE\": \"In terms of Regulations 30, 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with corresponding circulars and notifications issued thereunder, please find enclosed herewith, the extracts of the Unaudited Standalone and Consolidated Financial Results of the Company for the second quarter and half year ended 30th September, 2026 as approved by the Board of Directors in its meeting held today i.e. 22nd October, 2026 which commenced at 12:00 pm and concluded at 1:45 pm. \\r\\n\\r\\nThese results are limited reviewed by the Auditors of the Company. The Limited Review Report submitted by the Auditors of the Company is also enclosed with the results.\\r\\n\", \"HEADLINE\": \"In terms of Regulations 30, 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with corresponding circulars and notifications ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T14:02:39\", \"DissemDT\": \"2026-10-22T14:02:43.113\", \"TimeDiff\": \"00:00:04\", \"Fld_Attachsize\": 1338017, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Limited Reviewed Un-Audited Standalone And Consolidated Financial Results \\r\\n For The Second Quarter And Half Year Ended 30Th September, 2026\\r\\n\", \"_published\": \"2026-10-22T14:02:43.113\", \"_category\": \"Board Meeting\", \"_headline\": \"In terms of Regulations 30, 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with corresponding circulars and notifications ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ceb6f01-aac5-44c7-a53b-6d7bd2c7210d.pdf\", \"_id\": \"d9f309dd-27c9-43e5-a0f7-d35672042143\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -5638,6 +5638,10 @@
     {
       "message_id": "<dbb596d9c3ab7e963be933d3080de067c4dd8be40c8f426c56d3d55c68ef6cef@gmail.com>",
       "sent_at": "2026-10-22T05:28:42.597977+00:00"
+    },
+    {
+      "message_id": "<e903cecfb308dfe163a91829e6fe3250cd0c837ae74ded46a49d764e979a113a@gmail.com>",
+      "sent_at": "2026-10-22T08:34:02.561722+00:00"
     },
     {
       "message_id": "<f6830e53c870aef778a51ffbda12ee1c535368b95a0c50259aa3fc8a257387ca@gmail.com>",
