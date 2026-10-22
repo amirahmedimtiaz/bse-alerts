@@ -410,8 +410,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-22T08:38:46.672413+00:00",
       "news_id": "2ece9385-f7bc-4292-9135-4ca4adfe9351",
-      "payload": "{\"NEWSID\": \"2ece9385-f7bc-4292-9135-4ca4adfe9351\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_2ECE9385-F7BC-4292-9135-4CA4ADFE9351\", \"NEWSSUB\": \"Limited Reviewed Un-Audited Standalone And Consolidated Financial Results For The Second Quarter And Half Year Ended 30Th September, 2026\\r\\n\", \"DT_TM\": \"2026-10-22T14:07:12.16\", \"NEWS_DT\": \"2026-10-22T14:07:12.16\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b195ddc9-d89b-45aa-929e-afc19a4e8ce8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Standalone & Consolidated financial results for Q2 and half-year ended 30 September 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T14:07:12\", \"DissemDT\": \"2026-10-22T14:07:12.16\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1338017, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Limited Reviewed Un-Audited Standalone And Consolidated Financial Results For The Second Quarter And Half Year Ended 30Th September, 2026\\r\\n\", \"_published\": \"2026-10-22T14:07:12.16\", \"_category\": \"Result\", \"_headline\": \"Unaudited Standalone & Consolidated financial results for Q2 and half-year ended 30 September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b195ddc9-d89b-45aa-929e-afc19a4e8ce8.pdf\", \"_id\": \"2ece9385-f7bc-4292-9135-4ca4adfe9351\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -5617,6 +5617,10 @@
     {
       "message_id": "<904eef98c7d6a0767e73ca0d9f9156340c6e17123561dc2c796649e67c642ecd@gmail.com>",
       "sent_at": "2026-10-21T13:07:36.381087+00:00"
+    },
+    {
+      "message_id": "<9265aba915d37646975cff5e0058e2c37a3a43f276423a16f14f8a206724cbf0@gmail.com>",
+      "sent_at": "2026-10-22T08:39:48.433263+00:00"
     },
     {
       "message_id": "<935ebc83004bfffa1f5c3ab66f1ccd3b7d78e573ce3e0e2f4c7efbca0788814a@gmail.com>",
