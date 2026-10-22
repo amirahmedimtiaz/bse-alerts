@@ -401,6 +401,13 @@
     },
     {
       "company_key": "517354",
+      "discovered_at": "2026-10-22T02:53:21.859135+00:00",
+      "news_id": "01285958-b80a-4013-86b7-cb8f18bb5d18",
+      "payload": "{\"NEWSID\": \"01285958-b80a-4013-86b7-cb8f18bb5d18\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_01285958-B80A-4013-86B7-CB8F18BB5D18\", \"NEWSSUB\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"DT_TM\": \"2026-10-22T08:18:29.66\", \"NEWS_DT\": \"2026-10-22T08:18:29.66\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"01285958_B80A_4013_86B7_CB8F18BB5D18_081817.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for HDFC Mutual Fund\", \"CATEGORYNAME\": \"Insider Trading / SAST\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 52, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-10-22T08:18:29.66\", \"TimeDiff\": null, \"Fld_Attachsize\": 2296367, \"SUBCATNAME\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011\", \"_published\": \"2026-10-22T08:18:29.66\", \"_category\": \"Insider Trading / SAST\", \"_headline\": \"The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for HDFC Mutual Fund\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/01285958_B80A_4013_86B7_CB8F18BB5D18_081817.pdf\", \"_id\": \"01285958-b80a-4013-86b7-cb8f18bb5d18\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517354",
       "discovered_at": "2026-09-23T05:12:07.584298+00:00",
       "news_id": "4a742e7d-4abf-46be-9b7d-d58fdc5c8bca",
       "payload": null,
