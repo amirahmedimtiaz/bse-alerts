@@ -473,8 +473,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-22T16:24:02.457191+00:00",
       "news_id": "940dc0fa-3854-40fc-a2c2-04bdc020354e",
-      "payload": "{\"NEWSID\": \"940dc0fa-3854-40fc-a2c2-04bdc020354e\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_940DC0FA-3854-40FC-A2C2-04BDC020354E\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-22T21:51:07.943\", \"NEWS_DT\": \"2026-10-22T21:51:07.943\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c1be61e4-afb5-4d60-bb03-c3d55336af88.pdf\", \"MORE\": \"This is with reference to the Company intimation dated 16th October, 2026 filed with the stock exchanges in terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding the conference call to discuss the financial results for the second quarter and half year ended 30th September, 2026 scheduled for 22nd October, 2026 at 4:15 pm (IST).\\r\\n\\r\\nIn this regard please note that the Audio Recording of the Earnings Call can be accessed at https://havells.com/media/custom/corporateform/e/a/earnings_call_recording_q2_fy27.mp3 \\r\\n\", \"HEADLINE\": \"This is with reference to the Company intimation dated 16th October, 2026 filed with the stock exchanges in terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T21:51:07\", \"DissemDT\": \"2026-10-22T21:51:07.943\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 728500, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-22T21:51:07.943\", \"_category\": \"Company Update\", \"_headline\": \"This is with reference to the Company intimation dated 16th October, 2026 filed with the stock exchanges in terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1be61e4-afb5-4d60-bb03-c3d55336af88.pdf\", \"_id\": \"940dc0fa-3854-40fc-a2c2-04bdc020354e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -5717,6 +5717,10 @@
     {
       "message_id": "<414afcbd72a983da810093118d744911468bce006124a7c0b4285ec0ba15accd@gmail.com>",
       "sent_at": "2026-10-22T10:44:24.081209+00:00"
+    },
+    {
+      "message_id": "<455a5d54f7324883214ad03c1ded1e2eddec71cd03da7014cbd259e9358650ff@gmail.com>",
+      "sent_at": "2026-10-22T16:24:20.901311+00:00"
     },
     {
       "message_id": "<50a2b365a306c363260fa7233d371a10e35a8252b266f921184adeba2c87e097@gmail.com>",
