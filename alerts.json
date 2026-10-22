@@ -5720,7 +5720,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T10:49:01.690245+00:00\", \"seconds\": 22.26}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T10:54:00.434470+00:00\", \"seconds\": 21.06}"
     },
     {
       "key": "migration_date",
