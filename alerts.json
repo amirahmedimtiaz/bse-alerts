@@ -788,8 +788,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-22T10:13:41.218093+00:00",
       "news_id": "48c3ce45-581d-4fba-9ce8-41e4f3ed99cb",
-      "payload": "{\"NEWSID\": \"48c3ce45-581d-4fba-9ce8-41e4f3ed99cb\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_48C3CE45-581D-4FBA-9CE8-41E4F3ED99CB\", \"NEWSSUB\": \"Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-22T15:43:24.55\", \"NEWS_DT\": \"2026-10-22T15:43:24.55\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"75be6169-a776-45a9-aaaf-968aa7a80a3a.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we wish to inform you that CRISIL ESG Ratings & Analytics Limited, a SEBI registered ESG Rating provider has reviewed the ESG Rating of the Company and assigned a rating of Crisil ESG 65 under rating category \\\"Strong\\\" and a Core ESG Rating of Crisil Core ESG 73.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we wish to inform you that CRISIL ESG Ratings & Analytics ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T15:43:24\", \"DissemDT\": \"2026-10-22T15:43:24.55\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 754450, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-22T15:43:24.55\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we wish to inform you that CRISIL ESG Ratings & Analytics ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/75be6169-a776-45a9-aaaf-968aa7a80a3a.pdf\", \"_id\": \"48c3ce45-581d-4fba-9ce8-41e4f3ed99cb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -5623,12 +5623,12 @@
       "sent_at": "2026-10-21T10:27:14.365796+00:00"
     },
     {
-      "message_id": "<39f18e8a67fe26628782de0bd822f74ad3f90ad434b503aa0803f5424e32629d@gmail.com>",
-      "sent_at": "2026-10-20T09:20:46.889018+00:00"
-    },
-    {
       "message_id": "<5ec8fb700c16f796ddba39a9b339d9ec0a3a5d826267ccda2eff8213ceb81367@gmail.com>",
       "sent_at": "2026-10-21T12:42:37.588742+00:00"
+    },
+    {
+      "message_id": "<6dbff52b3c5a7034d6fb252346601aa709689e9e347df5d6104f204b9c6148ca@gmail.com>",
+      "sent_at": "2026-10-22T10:14:04.621761+00:00"
     },
     {
       "message_id": "<7772d1d20e4f9a7865965f90f80a77c062f59540f48023b58140204be92ebfb0@gmail.com>",
