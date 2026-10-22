@@ -597,6 +597,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-10-22T13:24:04.256203+00:00",
+      "news_id": "850488f4-5c5e-4427-9ba4-9e0e6b0ec763",
+      "payload": "{\"NEWSID\": \"850488f4-5c5e-4427-9ba4-9e0e6b0ec763\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_850488F4-5C5E-4427-9BA4-9E0E6B0EC763\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations')\", \"DT_TM\": \"2026-10-22T18:50:53.09\", \"NEWS_DT\": \"2026-10-22T18:50:53.09\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a9c5d04f-ab7c-4757-858b-ec17a114ea62.pdf\", \"MORE\": \"This is to inform you that the Board of Directors of Websol Renewables Private Limited, Wholly Owned Subsidiary of the Company, approved the appointment of Mr. Vinay Vyas as the Chief Executive Officer of Websol Renewables Private Limited.\", \"HEADLINE\": \"This is to inform you that the Board of Directors of Websol Renewables Private Limited, Wholly Owned Subsidiary of the Company, approved the appointment of Mr. Vinay Vyas as the Chief Executive ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T18:50:53\", \"DissemDT\": \"2026-10-22T18:50:53.09\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1037650, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations')\", \"_published\": \"2026-10-22T18:50:53.09\", \"_category\": \"Company Update\", \"_headline\": \"This is to inform you that the Board of Directors of Websol Renewables Private Limited, Wholly Owned Subsidiary of the Company, approved the appointment of Mr. Vinay Vyas as the Chief Executive ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9c5d04f-ab7c-4757-858b-ec17a114ea62.pdf\", \"_id\": \"850488f4-5c5e-4427-9ba4-9e0e6b0ec763\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-10-14T13:55:54.711843+00:00",
       "news_id": "8adbf2f5-107b-4706-aa72-51ff575a656e",
       "payload": null,
@@ -657,6 +664,13 @@
       "news_id": "dbd7e200-ec79-4729-9888-132da2c72477",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "517498",
+      "discovered_at": "2026-10-22T13:24:04.256366+00:00",
+      "news_id": "e015e0d5-b682-4d52-a88c-177ab7e7b5fe",
+      "payload": "{\"NEWSID\": \"e015e0d5-b682-4d52-a88c-177ab7e7b5fe\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_E015E0D5-B682-4D52-A88C-177AB7E7B5FE\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-22T18:53:57.797\", \"NEWS_DT\": \"2026-10-22T18:53:57.797\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f86a4d2d-0c0e-404f-8934-1f9580791f83.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith the Press Release regarding the appointment of Mr. Vinay Vyas as Chief Executive Officer of its wholly owned subsidiary, Websol Renewables Private Limited\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T18:53:57\", \"DissemDT\": \"2026-10-22T18:53:57.797\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1037650, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-22T18:53:57.797\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed herewith the Press Release regarding the appointment of Mr. Vinay Vyas as Chief Executive Officer of its wholly owned subsidiary, Websol Renewables Private Limited\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f86a4d2d-0c0e-404f-8934-1f9580791f83.pdf\", \"_id\": \"e015e0d5-b682-4d52-a88c-177ab7e7b5fe\"}",
+      "status": "pending"
     },
     {
       "company_key": "517498",
