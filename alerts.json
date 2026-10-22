@@ -5574,7 +5574,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T01:23:22.142924+00:00\", \"seconds\": 20.36}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T01:28:22.050709+00:00\", \"seconds\": 20.27}"
     },
     {
       "key": "migration_date",
