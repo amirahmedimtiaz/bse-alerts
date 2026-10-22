@@ -3973,8 +3973,8 @@
       "company_key": "544526",
       "discovered_at": "2026-10-22T15:04:08.693311+00:00",
       "news_id": "644c2426-a851-40a7-9907-bda8996766a3",
-      "payload": "{\"NEWSID\": \"644c2426-a851-40a7-9907-bda8996766a3\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_644C2426-A851-40A7-9907-BDA8996766A3\", \"NEWSSUB\": \"Announcement Under  Reg 30 Of SEBI LODR- Press Release\", \"DT_TM\": \"2026-10-22T20:31:11.583\", \"NEWS_DT\": \"2026-10-22T20:31:11.583\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cf1a2ff5-3a44-4751-830d-a7a1436031a6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press release\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T20:31:11\", \"DissemDT\": \"2026-10-22T20:31:11.583\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 539314, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement Under  Reg 30 Of SEBI LODR- Press Release\", \"_published\": \"2026-10-22T20:31:11.583\", \"_category\": \"Company Update\", \"_headline\": \"Press release\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cf1a2ff5-3a44-4751-830d-a7a1436031a6.pdf\", \"_id\": \"644c2426-a851-40a7-9907-bda8996766a3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -5714,6 +5714,10 @@
     {
       "message_id": "<50a2b365a306c363260fa7233d371a10e35a8252b266f921184adeba2c87e097@gmail.com>",
       "sent_at": "2026-10-22T11:49:51.746006+00:00"
+    },
+    {
+      "message_id": "<525b6ccd2ce0d93634b3d8f3cb43a2a37f6fb03c47d564d247fda003caa509b0@gmail.com>",
+      "sent_at": "2026-10-22T15:04:24.709516+00:00"
     },
     {
       "message_id": "<5ec8fb700c16f796ddba39a9b339d9ec0a3a5d826267ccda2eff8213ceb81367@gmail.com>",
