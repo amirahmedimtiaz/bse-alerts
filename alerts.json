@@ -2965,8 +2965,8 @@
       "company_key": "543415",
       "discovered_at": "2026-10-22T14:59:16.791563+00:00",
       "news_id": "c7d8916e-537e-4b90-b2ac-985d40c64afa",
-      "payload": "{\"NEWSID\": \"c7d8916e-537e-4b90-b2ac-985d40c64afa\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_C7D8916E-537E-4B90-B2AC-985D40C64AFA\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"DT_TM\": \"2026-10-22T20:28:43.153\", \"NEWS_DT\": \"2026-10-22T20:28:43.153\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8866fcb9-8a0e-4fd0-9017-6ee1b07e4a27.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Postal Ballot Notice dated October 09, 2026 for seeking approval for members of the company for Special Business matters through remote electronic voting only (\\\"Remote e-voting\\\")\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 34, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T20:28:43\", \"DissemDT\": \"2026-10-22T20:28:43.153\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 820724, \"SUBCATNAME\": \"Postal Ballot\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"_published\": \"2026-10-22T20:28:43.153\", \"_category\": \"AGM/EGM\", \"_headline\": \"Postal Ballot Notice dated October 09, 2026 for seeking approval for members of the company for Special Business matters through remote electronic voting only (\\\"Remote e-voting\\\")\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8866fcb9-8a0e-4fd0-9017-6ee1b07e4a27.pdf\", \"_id\": \"c7d8916e-537e-4b90-b2ac-985d40c64afa\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -5787,6 +5787,10 @@
     {
       "message_id": "<dbb596d9c3ab7e963be933d3080de067c4dd8be40c8f426c56d3d55c68ef6cef@gmail.com>",
       "sent_at": "2026-10-22T05:28:42.597977+00:00"
+    },
+    {
+      "message_id": "<dcf7351a191eae7acef13e0d3259502d986146fa6c53d99f49d23b2430851249@gmail.com>",
+      "sent_at": "2026-10-22T14:59:21.012019+00:00"
     },
     {
       "message_id": "<e903cecfb308dfe163a91829e6fe3250cd0c837ae74ded46a49d764e979a113a@gmail.com>",
