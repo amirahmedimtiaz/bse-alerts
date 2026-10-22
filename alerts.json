@@ -5680,7 +5680,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T08:49:29.361742+00:00\", \"seconds\": 49.94}"
+      "value": "{\"companies\": 52, \"collected\": 2, \"failed\": [], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T08:54:23.061575+00:00\", \"seconds\": 43.64}"
     },
     {
       "key": "migration_date",
