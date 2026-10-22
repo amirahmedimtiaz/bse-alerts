@@ -4831,6 +4831,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:ALPEXSOLAR",
+      "discovered_at": "2026-10-22T06:13:28.006490+00:00",
+      "news_id": "106824474",
+      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Press Release\", \"dt\": \"22-Oct-2026 11:38:28\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_22102026113814_Press_release.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"22-Oct-2026 11:38:28\", \"sort_date\": \"2026-10-22 11:38:28\", \"seq_id\": \"106824474\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \\\"Alpex Solar s credit ratings on bank facilities upgraded by Crisil.\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"487.51 KB\", \"attFileSize\": \"487.51 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-10-22 11:38:28\", \"_category\": \"Press Release\", \"_headline\": \"Alpex Solar Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \\\"Alpex Solar s credit ratings on bank facilities upgraded by Crisil.\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_22102026113814_Press_release.pdf\", \"_id\": \"106824474\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:APS",
       "discovered_at": "2026-09-23T05:12:07.584954+00:00",
       "news_id": "106753974",
