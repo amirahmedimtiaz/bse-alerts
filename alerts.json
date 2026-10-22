@@ -984,8 +984,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-22T12:43:59.171528+00:00",
       "news_id": "f6773ce5-be56-45e5-9e73-f58d79713095",
-      "payload": "{\"NEWSID\": \"f6773ce5-be56-45e5-9e73-f58d79713095\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_F6773CE5-BE56-45E5-9E73-F58D79713095\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-22T18:12:05.037\", \"NEWS_DT\": \"2026-10-22T18:12:05.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2ae9ef96-7f76-4fde-86a0-18d3755a87dd.pdf\", \"MORE\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,\\r\\n2015, please find below the link to the audio recording of the Analysts/Investors Call on the Un-Audited\\r\\nStandalone and Consolidated Financial Results of KEI Industries Limited for the quarter ended on\\r\\nSeptember 30, 2026 held on Thursday, 22nd October, 2026. The Results were approved by the Board at its\\r\\nMeeting held on Wednesday, 21st October, 2026. \\r\\n\", \"HEADLINE\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,\\r\\n2015, please find below the link to the audio recording of the Analysts/Investors ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-22T18:12:05\", \"DissemDT\": \"2026-10-22T18:12:05.037\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 931982, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"f6773ce5-be56-45e5-9e73-f58d79713095\", \"INVESTOR_PRESENTATION\": \"c971fa5f-8e16-4b92-a94b-7e5589c60132.mp3\", \"RECORDID\": 14627378, \"DataInsDate\": \"2026-10-22T18:12:05\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/c971fa5f-8e16-4b92-a94b-7e5589c60132.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-22T18:12:05.037\", \"_category\": \"Company Update\", \"_headline\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,\\r\\n2015, please find below the link to the audio recording of the Analysts/Investors ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ae9ef96-7f76-4fde-86a0-18d3755a87dd.pdf\", \"_id\": \"f6773ce5-be56-45e5-9e73-f58d79713095\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -5703,6 +5703,10 @@
     {
       "message_id": "<7be17f3cf222b9f51e27f99686444bfea2ff518400aab64d0d32602e8ef43274@gmail.com>",
       "sent_at": "2026-10-22T06:43:42.172536+00:00"
+    },
+    {
+      "message_id": "<819ef1f02548bf5de8bced47d723ec7dc799d15aac1020a7e138f4f5c45bba21@gmail.com>",
+      "sent_at": "2026-10-22T12:44:20.994132+00:00"
     },
     {
       "message_id": "<8fdd7ba898481f5f7e76762d4b8e44bdf61e7dfb6c4950463c1a488a5cf73f67@gmail.com>",
