@@ -5662,7 +5662,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T08:34:03.744524+00:00\", \"seconds\": 24.32}"
+      "value": "{\"companies\": 52, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-22T08:39:49.527838+00:00\", \"seconds\": 70.1}"
     },
     {
       "key": "migration_date",
