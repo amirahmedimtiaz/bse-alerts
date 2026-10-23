@@ -389,8 +389,8 @@
       "company_key": "504240",
       "discovered_at": "2026-10-23T12:00:29.113945+00:00",
       "news_id": "f3610dc7-88fe-4426-b100-84999b0c0b0c",
-      "payload": "{\"NEWSID\": \"f3610dc7-88fe-4426-b100-84999b0c0b0c\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_F3610DC7-88FE-4426-B100-84999B0C0B0C\", \"NEWSSUB\": \"Board Meeting Intimation for Consideration And Approval Of Un-Audited Financial Results Of The Company For The Quarter And Half-Year Ended September 30, 2026 And Any Other Matter With The Permission Of The Chair.\", \"DT_TM\": \"2026-10-23T17:26:37.2\", \"NEWS_DT\": \"2026-10-23T17:26:37.2\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2cc91625-05b0-47b6-802f-a2f7094bf603.pdf\", \"MORE\": \"Delton Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results of the Company for the Quarter and half-year ended September 30, 2026 and any other matter with the permission of the Chair.\", \"HEADLINE\": \"Delton Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T17:26:36\", \"DissemDT\": \"2026-10-23T17:26:37.2\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 455410, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Consideration And Approval Of Un-Audited Financial Results Of The Company For The Quarter And Half-Year Ended September 30, 2026 And Any Other Matter With The Permission Of The Chair.\", \"_published\": \"2026-10-23T17:26:37.2\", \"_category\": \"Board Meeting\", \"_headline\": \"Delton Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2cc91625-05b0-47b6-802f-a2f7094bf603.pdf\", \"_id\": \"f3610dc7-88fe-4426-b100-84999b0c0b0c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "505685",
@@ -5893,10 +5893,6 @@
       "sent_at": "2026-10-22T08:04:31.869304+00:00"
     },
     {
-      "message_id": "<95e5d5ffccc5e89ea8df3def5dcf21d2d39a63d2639d77253ad633a5f39260de@gmail.com>",
-      "sent_at": "2026-10-21T11:52:36.745664+00:00"
-    },
-    {
       "message_id": "<a170fb0d8a88f4fad525a4a79e029976bfff61d1713ff6a3f2c830af38a5f967@gmail.com>",
       "sent_at": "2026-10-23T10:40:37.395494+00:00"
     },
@@ -5935,6 +5931,10 @@
     {
       "message_id": "<c5ad35d906f38b38d39debd4ac246920effa8aa5fd35b08a6130e90f4e417348@gmail.com>",
       "sent_at": "2026-10-23T07:15:23.774067+00:00"
+    },
+    {
+      "message_id": "<cc1a1b67cf2b051de1deebaa9735debbe65c0584be89b7e2cbe436718ffbd49b@gmail.com>",
+      "sent_at": "2026-10-23T12:00:40.482607+00:00"
     },
     {
       "message_id": "<dbb596d9c3ab7e963be933d3080de067c4dd8be40c8f426c56d3d55c68ef6cef@gmail.com>",
