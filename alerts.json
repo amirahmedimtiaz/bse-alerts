@@ -1787,6 +1787,13 @@
     },
     {
       "company_key": "532374",
+      "discovered_at": "2026-10-23T07:40:07.170128+00:00",
+      "news_id": "484e2662-0fd0-4479-88ce-99d329133e51",
+      "payload": "{\"NEWSID\": \"484e2662-0fd0-4479-88ce-99d329133e51\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_484E2662-0FD0-4479-88CE-99D329133E51\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-10-23T13:08:47.04\", \"NEWS_DT\": \"2026-10-23T13:08:47.04\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cb4babe9-d1ce-4f2b-a8cc-3e6f0372695b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the quarter ended September 30, 2026 for Preferential Issue\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T13:08:47\", \"DissemDT\": \"2026-10-23T13:08:47.04\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 620217, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-10-23T13:08:47.04\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the quarter ended September 30, 2026 for Preferential Issue\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb4babe9-d1ce-4f2b-a8cc-3e6f0372695b.pdf\", \"_id\": \"484e2662-0fd0-4479-88ce-99d329133e51\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532374",
       "discovered_at": "2026-09-23T05:12:07.584532+00:00",
       "news_id": "485d525a-9535-4e17-aa03-b9bb670cb32c",
       "payload": null,
