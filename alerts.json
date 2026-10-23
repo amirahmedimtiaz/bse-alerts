@@ -466,8 +466,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-23T05:55:03.403603+00:00",
       "news_id": "8f770525-6851-4a59-8c90-a0ef5762362f",
-      "payload": "{\"NEWSID\": \"8f770525-6851-4a59-8c90-a0ef5762362f\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_8F770525-6851-4A59-8C90-A0EF5762362F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-23T11:21:12.517\", \"NEWS_DT\": \"2026-10-23T11:21:12.517\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"93c23f0b-72c7-4aa5-84e7-bd0930efe7d8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication - Q2 Financial Results\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T11:21:12\", \"DissemDT\": \"2026-10-23T11:21:12.517\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2757175, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-23T11:21:12.517\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication - Q2 Financial Results\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/93c23f0b-72c7-4aa5-84e7-bd0930efe7d8.pdf\", \"_id\": \"8f770525-6851-4a59-8c90-a0ef5762362f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -5830,6 +5830,10 @@
     {
       "message_id": "<bb75117e7f8596953bed80c454d8e8ce9b68231a2ce23245ef7f63d5741e8d14@gmail.com>",
       "sent_at": "2026-10-22T13:39:20.478602+00:00"
+    },
+    {
+      "message_id": "<c1646088ab5dcb8f66c4447c97010c6c8191b1cdaffecea21ee6d34650a750f4@gmail.com>",
+      "sent_at": "2026-10-23T05:55:23.029025+00:00"
     },
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
