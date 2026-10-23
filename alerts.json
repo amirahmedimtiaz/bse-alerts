@@ -1789,8 +1789,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-23T07:40:07.170128+00:00",
       "news_id": "484e2662-0fd0-4479-88ce-99d329133e51",
-      "payload": "{\"NEWSID\": \"484e2662-0fd0-4479-88ce-99d329133e51\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_484E2662-0FD0-4479-88CE-99D329133E51\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-10-23T13:08:47.04\", \"NEWS_DT\": \"2026-10-23T13:08:47.04\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cb4babe9-d1ce-4f2b-a8cc-3e6f0372695b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the quarter ended September 30, 2026 for Preferential Issue\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T13:08:47\", \"DissemDT\": \"2026-10-23T13:08:47.04\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 620217, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-10-23T13:08:47.04\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the quarter ended September 30, 2026 for Preferential Issue\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb4babe9-d1ce-4f2b-a8cc-3e6f0372695b.pdf\", \"_id\": \"484e2662-0fd0-4479-88ce-99d329133e51\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -5900,6 +5900,10 @@
     {
       "message_id": "<dcf7351a191eae7acef13e0d3259502d986146fa6c53d99f49d23b2430851249@gmail.com>",
       "sent_at": "2026-10-22T14:59:21.012019+00:00"
+    },
+    {
+      "message_id": "<e0d406a55c4ddaf31d22401d9bebf0cb83edb8a4b889bd12da267c2d12b50fdc@gmail.com>",
+      "sent_at": "2026-10-23T07:40:23.948173+00:00"
     },
     {
       "message_id": "<e903cecfb308dfe163a91829e6fe3250cd0c837ae74ded46a49d764e979a113a@gmail.com>",
