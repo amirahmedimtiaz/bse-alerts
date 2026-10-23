@@ -5932,7 +5932,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 1, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-23T07:40:25.194360+00:00\", \"seconds\": 25.57}"
+      "value": "{\"companies\": 52, \"collected\": 1, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-23T07:45:24.689670+00:00\", \"seconds\": 25.06}"
     },
     {
       "key": "migration_date",
