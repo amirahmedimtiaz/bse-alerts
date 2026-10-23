@@ -4463,8 +4463,8 @@
       "company_key": "544793",
       "discovered_at": "2026-10-23T11:45:24.373679+00:00",
       "news_id": "599f5ac7-fb83-432e-a8d7-cd950a8fc960",
-      "payload": "{\"NEWSID\": \"599f5ac7-fb83-432e-a8d7-cd950a8fc960\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_599F5AC7-FB83-432E-A8D7-CD950A8FC960\", \"NEWSSUB\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Under Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-23T17:12:43.923\", \"NEWS_DT\": \"2026-10-23T17:12:43.923\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"41ff0d6d-4124-4768-92db-34f2619ee8a7.pdf\", \"MORE\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve This is to inform that pursuant to Regulation 29 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations), notice is hereby that a Meeting of Board of Directors of the Company will be held on Monday, 2nd November, 2026 at 03:00 PM (IST) inter alia to consider, approve and take on record the Un-audited Financial Results (Standalone) of the Company for the quarter ended 30th September, 2026. The Financial Results shall be subject to limited review by Statutory Auditors of the Company.\", \"HEADLINE\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve This is to inform that ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T17:12:43\", \"DissemDT\": \"2026-10-23T17:12:43.923\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 323142, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Under Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-23T17:12:43.923\", \"_category\": \"Board Meeting\", \"_headline\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve This is to inform that ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/41ff0d6d-4124-4768-92db-34f2619ee8a7.pdf\", \"_id\": \"599f5ac7-fb83-432e-a8d7-cd950a8fc960\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -5814,6 +5814,10 @@
       "sent_at": "2026-10-23T09:05:39.036261+00:00"
     },
     {
+      "message_id": "<3d28c97ea1b9420355bcb138f8a70bb41b99f6b1839094ad744de9e36faadd05@gmail.com>",
+      "sent_at": "2026-10-23T11:45:39.109322+00:00"
+    },
+    {
       "message_id": "<414afcbd72a983da810093118d744911468bce006124a7c0b4285ec0ba15accd@gmail.com>",
       "sent_at": "2026-10-22T10:44:24.081209+00:00"
     },
@@ -5840,10 +5844,6 @@
     {
       "message_id": "<6dbff52b3c5a7034d6fb252346601aa709689e9e347df5d6104f204b9c6148ca@gmail.com>",
       "sent_at": "2026-10-22T10:14:04.621761+00:00"
-    },
-    {
-      "message_id": "<7772d1d20e4f9a7865965f90f80a77c062f59540f48023b58140204be92ebfb0@gmail.com>",
-      "sent_at": "2026-10-21T10:42:34.198050+00:00"
     },
     {
       "message_id": "<7ab3b49af2e19c5059f10030ccae3f353f49c1260b7108f81eb696a6bb558f17@gmail.com>",
