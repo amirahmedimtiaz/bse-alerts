@@ -1929,8 +1929,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-23T07:25:05.982469+00:00",
       "news_id": "ce74c45c-6ab0-4472-9347-42a17c298f30",
-      "payload": "{\"NEWSID\": \"ce74c45c-6ab0-4472-9347-42a17c298f30\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_CE74C45C-6AB0-4472-9347-42A17C298F30\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On October 23, 2026\", \"DT_TM\": \"2026-10-23T12:53:28.767\", \"NEWS_DT\": \"2026-10-23T12:53:28.767\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"22dd005a-d464-49ac-a22a-db0a1eeeb0fa.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T12:53:26\", \"DissemDT\": \"2026-10-23T12:53:28.767\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 5872716, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On October 23, 2026\", \"_published\": \"2026-10-23T12:53:28.767\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/22dd005a-d464-49ac-a22a-db0a1eeeb0fa.pdf\", \"_id\": \"ce74c45c-6ab0-4472-9347-42a17c298f30\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -5890,6 +5890,10 @@
     {
       "message_id": "<f6830e53c870aef778a51ffbda12ee1c535368b95a0c50259aa3fc8a257387ca@gmail.com>",
       "sent_at": "2026-10-22T02:53:40.976019+00:00"
+    },
+    {
+      "message_id": "<f6bbd54a824985c62e0d42ccb7ca60e67c78fb65e5fcf3953ee750ebfe6fbbcf@gmail.com>",
+      "sent_at": "2026-10-23T07:25:24.198888+00:00"
     }
   ],
   "metadata": [
