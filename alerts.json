@@ -3544,6 +3544,13 @@
     },
     {
       "company_key": "544277",
+      "discovered_at": "2026-10-23T12:50:24.258630+00:00",
+      "news_id": "24660590-a36a-4595-adc0-7dab324981f7",
+      "payload": "{\"NEWSID\": \"24660590-a36a-4595-adc0-7dab324981f7\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_24660590-A36A-4595-ADC0-7DAB324981F7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-23T18:19:46.113\", \"NEWS_DT\": \"2026-10-23T18:19:46.113\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"80dde710-4979-40e9-bbc5-e7466f1c5ccd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Schedule of Analyst/Institutional Investor Meeting/Call scheduled to be held on Wednesday, October 28, 2026 at 02:00 P.M. (IST).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T18:19:46\", \"DissemDT\": \"2026-10-23T18:19:46.113\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 444810, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-23T18:19:46.113\", \"_category\": \"Company Update\", \"_headline\": \"Schedule of Analyst/Institutional Investor Meeting/Call scheduled to be held on Wednesday, October 28, 2026 at 02:00 P.M. (IST).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/80dde710-4979-40e9-bbc5-e7466f1c5ccd.pdf\", \"_id\": \"24660590-a36a-4595-adc0-7dab324981f7\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544277",
       "discovered_at": "2026-09-23T05:12:07.584779+00:00",
       "news_id": "25781537-1aae-4fb5-8eee-59f4416e1692",
       "payload": null,
