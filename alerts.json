@@ -2076,8 +2076,8 @@
       "company_key": "532941",
       "discovered_at": "2026-10-23T07:15:05.450136+00:00",
       "news_id": "a1662f32-fa56-4764-bc54-89b415d18996",
-      "payload": "{\"NEWSID\": \"a1662f32-fa56-4764-bc54-89b415d18996\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_A1662F32-FA56-4764-BC54-89B415D18996\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-23T12:44:35.63\", \"NEWS_DT\": \"2026-10-23T12:44:35.63\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cc5cf8ab-3588-4213-9d50-dec7f8f2cfdb.pdf\", \"MORE\": \"Pursuant to Regulation 47 of the SEBI (LODR) Regulations, 2015, Please find enclosed herewith the copies of newspaper advertisements published in the Financial express and Jansatta dated October 23rd ,2026 regarding intimation of 220th Board Meeting to discuss and approve the Un-audited Financial Results along with Limited Review Report for the 2nd quarter/ 6 months ended on September 30th ,2026 and other items as per agenda.\", \"HEADLINE\": \"Pursuant to Regulation 47 of the SEBI (LODR) Regulations, 2015, Please find enclosed herewith the copies of newspaper advertisements published in the Financial express and Jansatta dated ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T12:44:35\", \"DissemDT\": \"2026-10-23T12:44:35.63\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2895946, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-23T12:44:35.63\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 47 of the SEBI (LODR) Regulations, 2015, Please find enclosed herewith the copies of newspaper advertisements published in the Financial express and Jansatta dated ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc5cf8ab-3588-4213-9d50-dec7f8f2cfdb.pdf\", \"_id\": \"a1662f32-fa56-4764-bc54-89b415d18996\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -4743,8 +4743,8 @@
       "company_key": "544862",
       "discovered_at": "2026-10-23T07:15:12.545163+00:00",
       "news_id": "88423714-f49d-4f5f-b673-284f7022528f",
-      "payload": "{\"NEWSID\": \"88423714-f49d-4f5f-b673-284f7022528f\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_88423714-F49D-4F5F-B673-284F7022528F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-23T12:43:05.07\", \"NEWS_DT\": \"2026-10-23T12:43:05.07\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"550371ab-4171-4cba-89a8-2e384ff7a404.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release dated October 22, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T12:43:05\", \"DissemDT\": \"2026-10-23T12:43:05.07\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 793659, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-23T12:43:05.07\", \"_category\": \"Company Update\", \"_headline\": \"Press Release dated October 22, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/550371ab-4171-4cba-89a8-2e384ff7a404.pdf\", \"_id\": \"88423714-f49d-4f5f-b673-284f7022528f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -5863,6 +5863,10 @@
     {
       "message_id": "<c496909b40cf78358a6e8247714dac9aaf0f54469f3d788a84f2e54f59e4f363@gmail.com>",
       "sent_at": "2026-10-21T12:47:36.501498+00:00"
+    },
+    {
+      "message_id": "<c5ad35d906f38b38d39debd4ac246920effa8aa5fd35b08a6130e90f4e417348@gmail.com>",
+      "sent_at": "2026-10-23T07:15:23.774067+00:00"
     },
     {
       "message_id": "<dbb596d9c3ab7e963be933d3080de067c4dd8be40c8f426c56d3d55c68ef6cef@gmail.com>",
