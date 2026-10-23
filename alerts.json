@@ -3203,8 +3203,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-23T04:55:02.437235+00:00",
       "news_id": "e4488143-928a-4abe-9d56-eed88f706784",
-      "payload": "{\"NEWSID\": \"e4488143-928a-4abe-9d56-eed88f706784\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_E4488143-928A-4ABE-9D56-EED88F706784\", \"NEWSSUB\": \"Board Meeting Intimation for Considering The Unaudited Standalone And Consolidated Financial Results (With Limited Review) For The Quarter Ended 30 September, 2026 And To Consider Declaration Of Interim Dividend.\", \"DT_TM\": \"2026-10-23T10:23:40.737\", \"NEWS_DT\": \"2026-10-23T10:23:40.737\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"583f1587-c74e-405a-9d04-6ba21374986e.pdf\", \"MORE\": \"R R Kabel Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/10/2026 ,inter alia, to consider and approve the Unaudited Standalone and Consolidated Financial Results (with Limited Review) for the quarter ended 30 September 2026, and to consider the declaration of Interim Dividend.\", \"HEADLINE\": \"R R Kabel Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/10/2026 ,inter alia, to consider and approve the Unaudited Standalone and Consolidated ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T10:23:39\", \"DissemDT\": \"2026-10-23T10:23:40.737\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 624923, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Considering The Unaudited Standalone And Consolidated Financial Results (With Limited Review) For The Quarter Ended 30 September, 2026 And To Consider Declaration Of Interim Dividend.\", \"_published\": \"2026-10-23T10:23:40.737\", \"_category\": \"Board Meeting\", \"_headline\": \"R R Kabel Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/10/2026 ,inter alia, to consider and approve the Unaudited Standalone and Consolidated ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/583f1587-c74e-405a-9d04-6ba21374986e.pdf\", \"_id\": \"e4488143-928a-4abe-9d56-eed88f706784\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -5787,6 +5787,10 @@
     {
       "message_id": "<9265aba915d37646975cff5e0058e2c37a3a43f276423a16f14f8a206724cbf0@gmail.com>",
       "sent_at": "2026-10-22T08:39:48.433263+00:00"
+    },
+    {
+      "message_id": "<931a42ced47784af0cad539c92cce503fcf8af99f165caf406c398966a5e1118@gmail.com>",
+      "sent_at": "2026-10-23T04:55:22.934248+00:00"
     },
     {
       "message_id": "<935ebc83004bfffa1f5c3ab66f1ccd3b7d78e573ce3e0e2f4c7efbca0788814a@gmail.com>",
