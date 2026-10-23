@@ -1838,8 +1838,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-23T14:15:40.176547+00:00",
       "news_id": "5ca743a1-39de-4f0c-bb54-e0456a79037f",
-      "payload": "{\"NEWSID\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_5CA743A1-39DE-4F0C-BB54-E0456A79037F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-23T19:43:25.593\", \"NEWS_DT\": \"2026-10-23T19:43:25.593\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"266a0b4a-d483-4a2d-9197-b1bbdf71e125.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio call recording of earnings call held on October 23, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T19:43:25\", \"DissemDT\": \"2026-10-23T19:43:25.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 312685, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\", \"INVESTOR_PRESENTATION\": \"be7b4d88-a92e-4c7f-970f-48114a8659b8.pdf\", \"RECORDID\": 14642851, \"DataInsDate\": \"2026-10-23T19:43:25.533\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be7b4d88-a92e-4c7f-970f-48114a8659b8.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-23T19:43:25.593\", \"_category\": \"Company Update\", \"_headline\": \"Audio call recording of earnings call held on October 23, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/266a0b4a-d483-4a2d-9197-b1bbdf71e125.pdf\", \"_id\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -5883,8 +5883,8 @@
       "sent_at": "2026-10-22T06:13:41.182526+00:00"
     },
     {
-      "message_id": "<904eef98c7d6a0767e73ca0d9f9156340c6e17123561dc2c796649e67c642ecd@gmail.com>",
-      "sent_at": "2026-10-21T13:07:36.381087+00:00"
+      "message_id": "<91f398790b3c8778f2cb93a1c6c22b5db488ae4c223849503bc79a3c7fe1406b@gmail.com>",
+      "sent_at": "2026-10-23T14:15:58.146145+00:00"
     },
     {
       "message_id": "<9265aba915d37646975cff5e0058e2c37a3a43f276423a16f14f8a206724cbf0@gmail.com>",
@@ -5905,10 +5905,6 @@
     {
       "message_id": "<a6e44d5c19e2e93935de3254419aad9e2a30941646db4f8d5afd068bb82c9a1d@gmail.com>",
       "sent_at": "2026-10-21T17:47:54.886564+00:00"
-    },
-    {
-      "message_id": "<aa4f8f72fe79b02339f2e8b5b4ef56141601b4b134939f5ad429cd9c2834a7ee@gmail.com>",
-      "sent_at": "2026-10-21T13:32:38.978899+00:00"
     },
     {
       "message_id": "<abfb555545f4b2513d153b4b7e50545c98a79531a29dee68b23fa9e90bdb0739@gmail.com>",
