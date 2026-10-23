@@ -3733,6 +3733,13 @@
     },
     {
       "company_key": "544488",
+      "discovered_at": "2026-10-23T03:55:09.947209+00:00",
+      "news_id": "8464b72e-cdd4-4f77-9c63-65748d4f462c",
+      "payload": "{\"NEWSID\": \"8464b72e-cdd4-4f77-9c63-65748d4f462c\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_8464B72E-CDD4-4F77-9C63-65748D4F462C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-23T09:23:25.35\", \"NEWS_DT\": \"2026-10-23T09:23:25.35\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2e798742-e4b4-49d0-8407-c9ef2a6d5667.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached Press Release which is self explanatory\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T09:23:25\", \"DissemDT\": \"2026-10-23T09:23:25.35\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 475891, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-23T09:23:25.35\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached Press Release which is self explanatory\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e798742-e4b4-49d0-8407-c9ef2a6d5667.pdf\", \"_id\": \"8464b72e-cdd4-4f77-9c63-65748d4f462c\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544488",
       "discovered_at": "2026-09-23T05:12:07.584805+00:00",
       "news_id": "89c5507e-81db-412e-acff-51ce14b58e3d",
       "payload": null,
