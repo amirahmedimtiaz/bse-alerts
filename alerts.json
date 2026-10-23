@@ -1836,6 +1836,13 @@
     },
     {
       "company_key": "532374",
+      "discovered_at": "2026-10-23T14:15:40.176547+00:00",
+      "news_id": "5ca743a1-39de-4f0c-bb54-e0456a79037f",
+      "payload": "{\"NEWSID\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_5CA743A1-39DE-4F0C-BB54-E0456A79037F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-23T19:43:25.593\", \"NEWS_DT\": \"2026-10-23T19:43:25.593\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"266a0b4a-d483-4a2d-9197-b1bbdf71e125.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio call recording of earnings call held on October 23, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-23T19:43:25\", \"DissemDT\": \"2026-10-23T19:43:25.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 312685, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\", \"INVESTOR_PRESENTATION\": \"be7b4d88-a92e-4c7f-970f-48114a8659b8.pdf\", \"RECORDID\": 14642851, \"DataInsDate\": \"2026-10-23T19:43:25.533\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be7b4d88-a92e-4c7f-970f-48114a8659b8.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-23T19:43:25.593\", \"_category\": \"Company Update\", \"_headline\": \"Audio call recording of earnings call held on October 23, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/266a0b4a-d483-4a2d-9197-b1bbdf71e125.pdf\", \"_id\": \"5ca743a1-39de-4f0c-bb54-e0456a79037f\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532374",
       "discovered_at": "2026-09-23T05:12:07.584544+00:00",
       "news_id": "600b2d61-7c40-4f0b-bdd4-bcf0ff655c17",
       "payload": null,
