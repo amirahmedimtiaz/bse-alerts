@@ -464,6 +464,13 @@
     },
     {
       "company_key": "517354",
+      "discovered_at": "2026-10-24T07:06:28.121971+00:00",
+      "news_id": "70c8e5fa-cca1-41c3-9c41-a79331f41d87",
+      "payload": "{\"NEWSID\": \"70c8e5fa-cca1-41c3-9c41-a79331f41d87\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_70C8E5FA-CCA1-41C3-9C41-A79331F41D87\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-24T12:35:14.12\", \"NEWS_DT\": \"2026-10-24T12:35:14.12\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript - Q2 Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-24T12:35:14\", \"DissemDT\": \"2026-10-24T12:35:14.12\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 981998, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-24T12:35:14.12\", \"_category\": \"Company Update\", \"_headline\": \"Transcript - Q2 Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf\", \"_id\": \"70c8e5fa-cca1-41c3-9c41-a79331f41d87\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517354",
       "discovered_at": "2026-09-26T14:20:24.190486+00:00",
       "news_id": "712d605f-1cbc-4763-a9f0-adf232907d62",
       "payload": null,
