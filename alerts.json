@@ -2034,8 +2034,8 @@
       "company_key": "532941",
       "discovered_at": "2026-10-24T08:06:30.750858+00:00",
       "news_id": "0aa3c2b3-2c46-45e0-9725-5f6408278331",
-      "payload": "{\"NEWSID\": \"0aa3c2b3-2c46-45e0-9725-5f6408278331\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_0AA3C2B3-2C46-45E0-9725-5F6408278331\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-24T13:35:47.993\", \"NEWS_DT\": \"2026-10-24T13:35:47.993\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1dea2413-4e6d-4b94-8300-92b8ec3cbf52.pdf\", \"MORE\": \"The Company informed the exchanges about the Order-in-Appeal No. 1051(DAK)CGST/JPR/2026 passed  by the office of the commissioner (Appeals), CGST under section 107 CGST Act, 2017 against the OIO dated 28.02.2025 , passed by the Assistant Commissioner, CGST  division ,Tijara, Bhiwadi, Rajasthan.\", \"HEADLINE\": \"The Company informed the exchanges about the Order-in-Appeal No. 1051(DAK)CGST/JPR/2026 passed  by the office of the commissioner (Appeals), CGST under section 107 CGST Act, 2017 against ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-24T13:35:47\", \"DissemDT\": \"2026-10-24T13:35:47.993\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1951360, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-24T13:35:47.993\", \"_category\": \"Company Update\", \"_headline\": \"The Company informed the exchanges about the Order-in-Appeal No. 1051(DAK)CGST/JPR/2026 passed  by the office of the commissioner (Appeals), CGST under section 107 CGST Act, 2017 against ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1dea2413-4e6d-4b94-8300-92b8ec3cbf52.pdf\", \"_id\": \"0aa3c2b3-2c46-45e0-9725-5f6408278331\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -5881,6 +5881,10 @@
       "sent_at": "2026-10-23T07:45:23.345209+00:00"
     },
     {
+      "message_id": "<8cb4a5e07ad948df3c77cc50a1cc1ec1235be6aefae1ce33e798976562156703@gmail.com>",
+      "sent_at": "2026-10-24T08:06:47.742177+00:00"
+    },
+    {
       "message_id": "<91f398790b3c8778f2cb93a1c6c22b5db488ae4c223849503bc79a3c7fe1406b@gmail.com>",
       "sent_at": "2026-10-23T14:15:58.146145+00:00"
     },
@@ -5891,10 +5895,6 @@
     {
       "message_id": "<931a42ced47784af0cad539c92cce503fcf8af99f165caf406c398966a5e1118@gmail.com>",
       "sent_at": "2026-10-23T04:55:22.934248+00:00"
-    },
-    {
-      "message_id": "<935ebc83004bfffa1f5c3ab66f1ccd3b7d78e573ce3e0e2f4c7efbca0788814a@gmail.com>",
-      "sent_at": "2026-10-22T08:04:31.869304+00:00"
     },
     {
       "message_id": "<a170fb0d8a88f4fad525a4a79e029976bfff61d1713ff6a3f2c830af38a5f967@gmail.com>",
