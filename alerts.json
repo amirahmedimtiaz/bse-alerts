@@ -466,8 +466,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-24T07:06:28.121971+00:00",
       "news_id": "70c8e5fa-cca1-41c3-9c41-a79331f41d87",
-      "payload": "{\"NEWSID\": \"70c8e5fa-cca1-41c3-9c41-a79331f41d87\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_70C8E5FA-CCA1-41C3-9C41-A79331F41D87\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-24T12:35:14.12\", \"NEWS_DT\": \"2026-10-24T12:35:14.12\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript - Q2 Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-24T12:35:14\", \"DissemDT\": \"2026-10-24T12:35:14.12\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 981998, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-24T12:35:14.12\", \"_category\": \"Company Update\", \"_headline\": \"Transcript - Q2 Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf\", \"_id\": \"70c8e5fa-cca1-41c3-9c41-a79331f41d87\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -5818,10 +5818,6 @@
       "sent_at": "2026-10-22T12:29:32.842296+00:00"
     },
     {
-      "message_id": "<181d2fbecc31b1dc5c1f01357c1f0471771374fedac7cf10f6c7eee512aa67b6@gmail.com>",
-      "sent_at": "2026-10-21T15:07:37.591634+00:00"
-    },
-    {
       "message_id": "<1b8db013d7bdd45990e740c630353627f1d9c168e4efe15b3e37ef2692be1191@gmail.com>",
       "sent_at": "2026-10-22T09:14:17.791574+00:00"
     },
@@ -5866,16 +5862,8 @@
       "sent_at": "2026-10-23T12:50:37.555097+00:00"
     },
     {
-      "message_id": "<7ab3b49af2e19c5059f10030ccae3f353f49c1260b7108f81eb696a6bb558f17@gmail.com>",
-      "sent_at": "2026-10-22T05:48:43.199935+00:00"
-    },
-    {
       "message_id": "<7affe25482880617a5d48e893b2acda06f16ed1c3fab03d36d800224e8def183@gmail.com>",
       "sent_at": "2026-10-22T10:29:10.838907+00:00"
-    },
-    {
-      "message_id": "<7be17f3cf222b9f51e27f99686444bfea2ff518400aab64d0d32602e8ef43274@gmail.com>",
-      "sent_at": "2026-10-22T06:43:42.172536+00:00"
     },
     {
       "message_id": "<819ef1f02548bf5de8bced47d723ec7dc799d15aac1020a7e138f4f5c45bba21@gmail.com>",
@@ -5884,10 +5872,6 @@
     {
       "message_id": "<844d3da7863d81c2aeb5f5f27d8caa16c87c8d5e52f4e1c8ee4bc3c81d9ed84d@gmail.com>",
       "sent_at": "2026-10-23T07:45:23.345209+00:00"
-    },
-    {
-      "message_id": "<8fdd7ba898481f5f7e76762d4b8e44bdf61e7dfb6c4950463c1a488a5cf73f67@gmail.com>",
-      "sent_at": "2026-10-22T06:13:41.182526+00:00"
     },
     {
       "message_id": "<91f398790b3c8778f2cb93a1c6c22b5db488ae4c223849503bc79a3c7fe1406b@gmail.com>",
@@ -5908,10 +5892,6 @@
     {
       "message_id": "<a170fb0d8a88f4fad525a4a79e029976bfff61d1713ff6a3f2c830af38a5f967@gmail.com>",
       "sent_at": "2026-10-23T10:40:37.395494+00:00"
-    },
-    {
-      "message_id": "<a6e44d5c19e2e93935de3254419aad9e2a30941646db4f8d5afd068bb82c9a1d@gmail.com>",
-      "sent_at": "2026-10-21T17:47:54.886564+00:00"
     },
     {
       "message_id": "<abfb555545f4b2513d153b4b7e50545c98a79531a29dee68b23fa9e90bdb0739@gmail.com>",
@@ -5938,10 +5918,6 @@
       "sent_at": "2026-10-23T12:00:40.482607+00:00"
     },
     {
-      "message_id": "<dbb596d9c3ab7e963be933d3080de067c4dd8be40c8f426c56d3d55c68ef6cef@gmail.com>",
-      "sent_at": "2026-10-22T05:28:42.597977+00:00"
-    },
-    {
       "message_id": "<dcf7351a191eae7acef13e0d3259502d986146fa6c53d99f49d23b2430851249@gmail.com>",
       "sent_at": "2026-10-22T14:59:21.012019+00:00"
     },
@@ -5954,8 +5930,8 @@
       "sent_at": "2026-10-22T08:34:02.561722+00:00"
     },
     {
-      "message_id": "<f6830e53c870aef778a51ffbda12ee1c535368b95a0c50259aa3fc8a257387ca@gmail.com>",
-      "sent_at": "2026-10-22T02:53:40.976019+00:00"
+      "message_id": "<f53ae197f27b3c924a91638edb8e2327ab1492bda5cf86c211b00a480193552f@gmail.com>",
+      "sent_at": "2026-10-24T07:06:49.134069+00:00"
     },
     {
       "message_id": "<f6bbd54a824985c62e0d42ccb7ca60e67c78fb65e5fcf3953ee750ebfe6fbbcf@gmail.com>",
