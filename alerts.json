@@ -1502,8 +1502,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-26T15:44:38.309894+00:00",
       "news_id": "bcb72975-fa25-4582-9dd1-0d947f2f521a",
-      "payload": "{\"NEWSID\": \"bcb72975-fa25-4582-9dd1-0d947f2f521a\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_BCB72975-FA25-4582-9DD1-0D947F2F521A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-26T21:11:46.013\", \"NEWS_DT\": \"2026-10-26T21:11:46.013\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a6f81668-f195-464a-b14b-ac48663be2e8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Press Release on Un-Audited Financial Results for the Quarter and Half Year Ended 30.09.2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T21:11:46\", \"DissemDT\": \"2026-10-26T21:11:46.013\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 794800, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-26T21:11:46.013\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Press Release on Un-Audited Financial Results for the Quarter and Half Year Ended 30.09.2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6f81668-f195-464a-b14b-ac48663be2e8.pdf\", \"_id\": \"bcb72975-fa25-4582-9dd1-0d947f2f521a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5882,6 +5882,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<12f21fcdd113d1183f4f3647d824556dc748ab51b2b64e93a6dc1472432f965b@gmail.com>",
+      "sent_at": "2026-10-26T15:44:55.580090+00:00"
+    },
     {
       "message_id": "<39f7131fbee843dc82588b59f4f4b4e2361ad250b9e0028b0a979347cd1db3e1@gmail.com>",
       "sent_at": "2026-10-26T10:49:38.281574+00:00"
