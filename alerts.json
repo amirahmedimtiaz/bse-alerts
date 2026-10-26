@@ -2601,8 +2601,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-26T09:29:16.666126+00:00",
       "news_id": "32d42e0b-fbb1-4951-b13a-e7820f9c6522",
-      "payload": "{\"NEWSID\": \"32d42e0b-fbb1-4951-b13a-e7820f9c6522\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_32D42E0B-FBB1-4951-B13A-E7820F9C6522\", \"NEWSSUB\": \"Intimation Under Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-26T14:54:47.723\", \"NEWS_DT\": \"2026-10-26T14:54:47.723\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e0766587-70f1-463c-a87c-19238755a07f.pdf\", \"MORE\": \"Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - regarding installation of plant and machinery at its newly established manufacturing facility.\", \"HEADLINE\": \"Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - regarding installation of plant and machinery ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T14:54:47\", \"DissemDT\": \"2026-10-26T14:54:47.723\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 678335, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Intimation Under Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-26T14:54:47.723\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - regarding installation of plant and machinery ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0766587-70f1-463c-a87c-19238755a07f.pdf\", \"_id\": \"32d42e0b-fbb1-4951-b13a-e7820f9c6522\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -5841,12 +5841,12 @@
   ],
   "deliveries": [
     {
-      "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
-      "sent_at": "2026-10-26T07:04:38.562861+00:00"
+      "message_id": "<43854af12fb31132e81933bf3853e4c91a8990ec78f349bf3b9283bfde4a06bc@gmail.com>",
+      "sent_at": "2026-10-26T09:29:39.590814+00:00"
     },
     {
-      "message_id": "<8cb4a5e07ad948df3c77cc50a1cc1ec1235be6aefae1ce33e798976562156703@gmail.com>",
-      "sent_at": "2026-10-24T08:06:47.742177+00:00"
+      "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
+      "sent_at": "2026-10-26T07:04:38.562861+00:00"
     },
     {
       "message_id": "<e2fd161d089bccfb18d5d65bb8a1a891eacb90dbf32e96d0ee3206893326a944@gmail.com>",
@@ -5855,10 +5855,6 @@
     {
       "message_id": "<e7c3ca34aba1309e22c5f84ab9c197c944f5e958395e0d9bad7d49e353523abb@gmail.com>",
       "sent_at": "2026-10-26T06:24:22.146363+00:00"
-    },
-    {
-      "message_id": "<f53ae197f27b3c924a91638edb8e2327ab1492bda5cf86c211b00a480193552f@gmail.com>",
-      "sent_at": "2026-10-24T07:06:49.134069+00:00"
     }
   ],
   "metadata": [
