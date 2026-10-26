@@ -5457,8 +5457,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-10-26T15:34:57.589542+00:00",
       "news_id": "106829228",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"dt\": \"26-Oct-2026 21:02:19\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_26102026210024_PEEL_-_Q2_SOD-1_Final.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"26-Oct-2026 21:02:19\", \"sort_date\": \"2026-10-26 21:02:19\", \"seq_id\": \"106829228\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.20 MB\", \"attFileSize\": \"1.20 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_published\": \"2026-10-26 21:02:19\", \"_category\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_26102026210024_PEEL_-_Q2_SOD-1_Final.pdf\", \"_id\": \"106829228\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -5894,6 +5894,10 @@
     {
       "message_id": "<939f1eceb936c2b7b9899b1725c4f12d58935b08b00b41f21f5e79ea918f2019@gmail.com>",
       "sent_at": "2026-10-26T13:04:54.747090+00:00"
+    },
+    {
+      "message_id": "<c9d2116afec71af9b7454cd29abe36f5d4abb87e7a062d83c7ec9c140d2053e2@gmail.com>",
+      "sent_at": "2026-10-26T15:35:20.987746+00:00"
     },
     {
       "message_id": "<d3c76e7f41b5f25dec7cb1eb6e1a3286915a043744ed99ab393aba0814525dc3@gmail.com>",
