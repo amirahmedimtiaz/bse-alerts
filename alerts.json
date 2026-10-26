@@ -1523,8 +1523,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-26T16:19:35.452947+00:00",
       "news_id": "d88bdf4b-6260-40a3-82ad-fd6efc379e3a",
-      "payload": "{\"NEWSID\": \"d88bdf4b-6260-40a3-82ad-fd6efc379e3a\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_D88BDF4B-6260-40A3-82AD-FD6EFC379E3A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-26T21:45:22.827\", \"NEWS_DT\": \"2026-10-26T21:45:22.827\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bf0f7a1a-8a95-47d7-96d4-5c424ac237ef.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Paramount Communications Limited informed the exchange about Investor Presentation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T21:45:22\", \"DissemDT\": \"2026-10-26T21:45:22.827\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6324492, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-26T21:45:22.827\", \"_category\": \"Company Update\", \"_headline\": \"Paramount Communications Limited informed the exchange about Investor Presentation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf0f7a1a-8a95-47d7-96d4-5c424ac237ef.pdf\", \"_id\": \"d88bdf4b-6260-40a3-82ad-fd6efc379e3a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5920,6 +5920,10 @@
     {
       "message_id": "<d3c76e7f41b5f25dec7cb1eb6e1a3286915a043744ed99ab393aba0814525dc3@gmail.com>",
       "sent_at": "2026-10-26T10:29:38.406388+00:00"
+    },
+    {
+      "message_id": "<dcc9bf62c5a464447b497309ba90c584679886adea97b18923e1f7087ddf4baa@gmail.com>",
+      "sent_at": "2026-10-26T16:19:54.467148+00:00"
     },
     {
       "message_id": "<e2fd161d089bccfb18d5d65bb8a1a891eacb90dbf32e96d0ee3206893326a944@gmail.com>",
