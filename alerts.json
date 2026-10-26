@@ -5226,8 +5226,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-10-26T07:04:26.398986+00:00",
       "news_id": "106828199",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Record Date\", \"dt\": \"26-Oct-2026 12:31:57\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_26102026122932_IntimationofBoardMeeting26102026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"26-Oct-2026 12:31:57\", \"sort_date\": \"2026-10-26 12:31:57\", \"seq_id\": \"106828199\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 16-Nov-2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"321.78 KB\", \"attFileSize\": \"321.78 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Record Date\", \"_published\": \"2026-10-26 12:31:57\", \"_category\": \"Record Date\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 16-Nov-2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_26102026122932_IntimationofBoardMeeting26102026.pdf\", \"_id\": \"106828199\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -5833,6 +5833,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
+      "sent_at": "2026-10-26T07:04:38.562861+00:00"
+    },
     {
       "message_id": "<8cb4a5e07ad948df3c77cc50a1cc1ec1235be6aefae1ce33e798976562156703@gmail.com>",
       "sent_at": "2026-10-24T08:06:47.742177+00:00"
