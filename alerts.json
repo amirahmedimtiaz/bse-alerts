@@ -1369,8 +1369,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-26T10:29:20.525065+00:00",
       "news_id": "35a6a716-0e92-411c-b7f3-2c7ab1d70dca",
-      "payload": "{\"NEWSID\": \"35a6a716-0e92-411c-b7f3-2c7ab1d70dca\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_35A6A716-0E92-411C-B7F3-2C7AB1D70DCA\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"DT_TM\": \"2026-10-26T15:57:55.217\", \"NEWS_DT\": \"2026-10-26T15:57:55.217\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"76e63b61-de02-4336-bb85-6b03daa34a34.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting- Disclosure/ Announcements pursuant to Regulation 30 and 33 of SEBI (Listing Obligations and Disclosures Requirements) Regulations, 2015\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T15:57:50\", \"DissemDT\": \"2026-10-26T15:57:55.217\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 12713518, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"_published\": \"2026-10-26T15:57:55.217\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting- Disclosure/ Announcements pursuant to Regulation 30 and 33 of SEBI (Listing Obligations and Disclosures Requirements) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/76e63b61-de02-4336-bb85-6b03daa34a34.pdf\", \"_id\": \"35a6a716-0e92-411c-b7f3-2c7ab1d70dca\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5854,6 +5854,10 @@
     {
       "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
       "sent_at": "2026-10-26T07:04:38.562861+00:00"
+    },
+    {
+      "message_id": "<d3c76e7f41b5f25dec7cb1eb6e1a3286915a043744ed99ab393aba0814525dc3@gmail.com>",
+      "sent_at": "2026-10-26T10:29:38.406388+00:00"
     },
     {
       "message_id": "<e2fd161d089bccfb18d5d65bb8a1a891eacb90dbf32e96d0ee3206893326a944@gmail.com>",
