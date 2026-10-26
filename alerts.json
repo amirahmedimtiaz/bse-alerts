@@ -3217,8 +3217,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-26T06:24:00.905084+00:00",
       "news_id": "46340c09-e161-4a61-9acc-6ebaafcbfced",
-      "payload": "{\"NEWSID\": \"46340c09-e161-4a61-9acc-6ebaafcbfced\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_46340C09-E161-4A61-9ACC-6EBAAFCBFCED\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-26T11:51:24.423\", \"NEWS_DT\": \"2026-10-26T11:51:24.423\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1f164be2-dd75-45a9-ba9c-0c73e6a3ca4b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Conference Call in relation to the financial results of the Company for the quarter and six months ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T11:51:24\", \"DissemDT\": \"2026-10-26T11:51:24.423\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 972139, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-26T11:51:24.423\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Conference Call in relation to the financial results of the Company for the quarter and six months ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1f164be2-dd75-45a9-ba9c-0c73e6a3ca4b.pdf\", \"_id\": \"46340c09-e161-4a61-9acc-6ebaafcbfced\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -5827,80 +5827,20 @@
   ],
   "deliveries": [
     {
-      "message_id": "<03aff71f6bed81cd08275f0e5e4395815c3fa90956a3c7e45de80f4633e918a3@gmail.com>",
-      "sent_at": "2026-10-23T06:05:23.503843+00:00"
-    },
-    {
-      "message_id": "<0bd2439388edd0d6971ca1efa9814a5126b79736adc184f9945c5d12925b163a@gmail.com>",
-      "sent_at": "2026-10-23T07:30:23.066529+00:00"
-    },
-    {
-      "message_id": "<2f7768275fdb5c534f97324ab75ab8d812ada773defd0bbb0bff8c9ff57dcd9c@gmail.com>",
-      "sent_at": "2026-10-23T09:05:39.036261+00:00"
-    },
-    {
-      "message_id": "<3d28c97ea1b9420355bcb138f8a70bb41b99f6b1839094ad744de9e36faadd05@gmail.com>",
-      "sent_at": "2026-10-23T11:45:39.109322+00:00"
-    },
-    {
-      "message_id": "<455a5d54f7324883214ad03c1ded1e2eddec71cd03da7014cbd259e9358650ff@gmail.com>",
-      "sent_at": "2026-10-22T16:24:20.901311+00:00"
-    },
-    {
-      "message_id": "<7a36bc17e9da4a564a3b60b071bdf38698300510d16bc53c542e36251104047e@gmail.com>",
-      "sent_at": "2026-10-23T12:50:37.555097+00:00"
-    },
-    {
-      "message_id": "<844d3da7863d81c2aeb5f5f27d8caa16c87c8d5e52f4e1c8ee4bc3c81d9ed84d@gmail.com>",
-      "sent_at": "2026-10-23T07:45:23.345209+00:00"
-    },
-    {
       "message_id": "<8cb4a5e07ad948df3c77cc50a1cc1ec1235be6aefae1ce33e798976562156703@gmail.com>",
       "sent_at": "2026-10-24T08:06:47.742177+00:00"
-    },
-    {
-      "message_id": "<91f398790b3c8778f2cb93a1c6c22b5db488ae4c223849503bc79a3c7fe1406b@gmail.com>",
-      "sent_at": "2026-10-23T14:15:58.146145+00:00"
-    },
-    {
-      "message_id": "<931a42ced47784af0cad539c92cce503fcf8af99f165caf406c398966a5e1118@gmail.com>",
-      "sent_at": "2026-10-23T04:55:22.934248+00:00"
-    },
-    {
-      "message_id": "<a170fb0d8a88f4fad525a4a79e029976bfff61d1713ff6a3f2c830af38a5f967@gmail.com>",
-      "sent_at": "2026-10-23T10:40:37.395494+00:00"
-    },
-    {
-      "message_id": "<abfb555545f4b2513d153b4b7e50545c98a79531a29dee68b23fa9e90bdb0739@gmail.com>",
-      "sent_at": "2026-10-23T03:55:23.469444+00:00"
-    },
-    {
-      "message_id": "<c1646088ab5dcb8f66c4447c97010c6c8191b1cdaffecea21ee6d34650a750f4@gmail.com>",
-      "sent_at": "2026-10-23T05:55:23.029025+00:00"
-    },
-    {
-      "message_id": "<c5ad35d906f38b38d39debd4ac246920effa8aa5fd35b08a6130e90f4e417348@gmail.com>",
-      "sent_at": "2026-10-23T07:15:23.774067+00:00"
-    },
-    {
-      "message_id": "<cc1a1b67cf2b051de1deebaa9735debbe65c0584be89b7e2cbe436718ffbd49b@gmail.com>",
-      "sent_at": "2026-10-23T12:00:40.482607+00:00"
-    },
-    {
-      "message_id": "<e0d406a55c4ddaf31d22401d9bebf0cb83edb8a4b889bd12da267c2d12b50fdc@gmail.com>",
-      "sent_at": "2026-10-23T07:40:23.948173+00:00"
     },
     {
       "message_id": "<e2fd161d089bccfb18d5d65bb8a1a891eacb90dbf32e96d0ee3206893326a944@gmail.com>",
       "sent_at": "2026-10-24T16:22:24.546801+00:00"
     },
     {
-      "message_id": "<f53ae197f27b3c924a91638edb8e2327ab1492bda5cf86c211b00a480193552f@gmail.com>",
-      "sent_at": "2026-10-24T07:06:49.134069+00:00"
+      "message_id": "<e7c3ca34aba1309e22c5f84ab9c197c944f5e958395e0d9bad7d49e353523abb@gmail.com>",
+      "sent_at": "2026-10-26T06:24:22.146363+00:00"
     },
     {
-      "message_id": "<f6bbd54a824985c62e0d42ccb7ca60e67c78fb65e5fcf3953ee750ebfe6fbbcf@gmail.com>",
-      "sent_at": "2026-10-23T07:25:24.198888+00:00"
+      "message_id": "<f53ae197f27b3c924a91638edb8e2327ab1492bda5cf86c211b00a480193552f@gmail.com>",
+      "sent_at": "2026-10-24T07:06:49.134069+00:00"
     }
   ],
   "metadata": [
