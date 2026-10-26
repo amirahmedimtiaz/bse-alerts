@@ -5450,8 +5450,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-10-26T14:24:50.286890+00:00",
       "news_id": "106829150",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"26-Oct-2026 19:50:25\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_26102026194712_Final.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"26-Oct-2026 19:50:25\", \"sort_date\": \"2026-10-26 19:50:25\", \"seq_id\": \"106829150\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.96 MB\", \"attFileSize\": \"1.96 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-10-26 19:50:25\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Propshop Events and Exhibitions Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_26102026194712_Final.pdf\", \"_id\": \"106829150\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -5879,6 +5879,10 @@
     {
       "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
       "sent_at": "2026-10-26T07:04:38.562861+00:00"
+    },
+    {
+      "message_id": "<82de9d2dbfa33da2899dfcf06136bc545fa197c1058de37aaf04a39e82b89ed8@gmail.com>",
+      "sent_at": "2026-10-26T14:25:05.140452+00:00"
     },
     {
       "message_id": "<939f1eceb936c2b7b9899b1725c4f12d58935b08b00b41f21f5e79ea918f2019@gmail.com>",
