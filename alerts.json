@@ -3215,6 +3215,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-10-26T06:24:00.905084+00:00",
+      "news_id": "46340c09-e161-4a61-9acc-6ebaafcbfced",
+      "payload": "{\"NEWSID\": \"46340c09-e161-4a61-9acc-6ebaafcbfced\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_46340C09-E161-4A61-9ACC-6EBAAFCBFCED\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-26T11:51:24.423\", \"NEWS_DT\": \"2026-10-26T11:51:24.423\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1f164be2-dd75-45a9-ba9c-0c73e6a3ca4b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Conference Call in relation to the financial results of the Company for the quarter and six months ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-26T11:51:24\", \"DissemDT\": \"2026-10-26T11:51:24.423\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 972139, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-26T11:51:24.423\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Conference Call in relation to the financial results of the Company for the quarter and six months ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1f164be2-dd75-45a9-ba9c-0c73e6a3ca4b.pdf\", \"_id\": \"46340c09-e161-4a61-9acc-6ebaafcbfced\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-09-23T05:12:07.584715+00:00",
       "news_id": "4a5cb06e-b61c-4709-9658-9cdf8e2283c1",
       "payload": null,
