@@ -3735,8 +3735,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-27T14:46:42.826403+00:00",
       "news_id": "29096736-9cc0-4e13-b307-5f826bfeae53",
-      "payload": "{\"NEWSID\": \"29096736-9cc0-4e13-b307-5f826bfeae53\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_29096736-9CC0-4E13-B307-5F826BFEAE53\", \"NEWSSUB\": \"Outcome Of Board Meeting Held On October 27, 2026 For The Unaudited Financials Results Along With Limited Review Report For The Quarter And Half Year Ended September 30, 2026.\", \"DT_TM\": \"2026-10-27T20:15:41.24\", \"NEWS_DT\": \"2026-10-27T20:15:41.24\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d57a1f16-9907-4e3d-a5f4-c0e8a808bdc7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting held on October 27, 2026 for the Unaudited Financial Results along with the Limited Review report for the Quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T20:15:41\", \"DissemDT\": \"2026-10-27T20:15:41.24\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3742135, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Outcome Of Board Meeting Held On October 27, 2026 For The Unaudited Financials Results Along With Limited Review Report For The Quarter And Half Year Ended September 30, 2026.\", \"_published\": \"2026-10-27T20:15:41.24\", \"_category\": \"Result\", \"_headline\": \"Outcome of the Board Meeting held on October 27, 2026 for the Unaudited Financial Results along with the Limited Review report for the Quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d57a1f16-9907-4e3d-a5f4-c0e8a808bdc7.pdf\", \"_id\": \"29096736-9cc0-4e13-b307-5f826bfeae53\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6049,6 +6049,10 @@
     {
       "message_id": "<39f7131fbee843dc82588b59f4f4b4e2361ad250b9e0028b0a979347cd1db3e1@gmail.com>",
       "sent_at": "2026-10-26T10:49:38.281574+00:00"
+    },
+    {
+      "message_id": "<3ce2f50bfc021f0ddac2840bce133d701d6949b6ffcc89fe89d2d7221cc1b333@gmail.com>",
+      "sent_at": "2026-10-27T14:47:00.594014+00:00"
     },
     {
       "message_id": "<3fe1d6db09e647e5b361c9b4bb508c3ccadd6c668fa2d4827f67ad99065b843b@gmail.com>",
