@@ -1418,8 +1418,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-27T13:16:41.349888+00:00",
       "news_id": "4843cf89-75a7-4ff2-8b10-86e79eaa91dd",
-      "payload": "{\"NEWSID\": \"4843cf89-75a7-4ff2-8b10-86e79eaa91dd\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_4843CF89-75A7-4FF2-8B10-86E79EAA91DD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-27T18:44:11.157\", \"NEWS_DT\": \"2026-10-27T18:44:11.157\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1968f7d5-7062-4c76-9325-01250d41ef7c.pdf\", \"MORE\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find below the link to the audio recording of the Conference call with Investors on the Un-Audited Financial Results of the Company for the Second Quarter ended on September 30, 2026, held on Tuesday, October 27, 2026.\", \"HEADLINE\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find below the link to the audio recording of the Conference call with ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T18:44:11\", \"DissemDT\": \"2026-10-27T18:44:11.157\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 357626, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4843cf89-75a7-4ff2-8b10-86e79eaa91dd\", \"INVESTOR_PRESENTATION\": \"cedc35f6-ba4b-4ebb-8835-c99f293028b3.mp3\", \"RECORDID\": 14673063, \"DataInsDate\": \"2026-10-27T18:44:11.12\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/cedc35f6-ba4b-4ebb-8835-c99f293028b3.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-27T18:44:11.157\", \"_category\": \"Company Update\", \"_headline\": \"In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find below the link to the audio recording of the Conference call with ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1968f7d5-7062-4c76-9325-01250d41ef7c.pdf\", \"_id\": \"4843cf89-75a7-4ff2-8b10-86e79eaa91dd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -6009,6 +6009,10 @@
     {
       "message_id": "<12f21fcdd113d1183f4f3647d824556dc748ab51b2b64e93a6dc1472432f965b@gmail.com>",
       "sent_at": "2026-10-26T15:44:55.580090+00:00"
+    },
+    {
+      "message_id": "<172713fcd9234a62b974d41e9efa15b43351512131c9e76980c30ee285a562d3@gmail.com>",
+      "sent_at": "2026-10-27T13:17:00.121485+00:00"
     },
     {
       "message_id": "<36587346aa5f2923ecd3c44a32bf4fae90f49a139f31976544b36a42f35f397e@gmail.com>",
