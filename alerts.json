@@ -3915,6 +3915,13 @@
     },
     {
       "company_key": "544442",
+      "discovered_at": "2026-10-27T09:55:58.648167+00:00",
+      "news_id": "33558ee9-0d9a-4f86-9b60-3c2622a6b4b4",
+      "payload": "{\"NEWSID\": \"33558ee9-0d9a-4f86-9b60-3c2622a6b4b4\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_33558EE9-0D9A-4F86-9B60-3C2622A6B4B4\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-10-27T15:22:35.61\", \"NEWS_DT\": \"2026-10-27T15:22:35.61\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"438bce11-3421-49bb-8b74-164838eb89cd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure for Acquisition of Equity Shares of Wholly-Owned Subsidiary Company under the Rights Issue.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T15:22:35\", \"DissemDT\": \"2026-10-27T15:22:35.61\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 412667, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-10-27T15:22:35.61\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure for Acquisition of Equity Shares of Wholly-Owned Subsidiary Company under the Rights Issue.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/438bce11-3421-49bb-8b74-164838eb89cd.pdf\", \"_id\": \"33558ee9-0d9a-4f86-9b60-3c2622a6b4b4\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544442",
       "discovered_at": "2026-10-18T07:32:45.968574+00:00",
       "news_id": "3c1aecf3-a506-405b-ab3e-e729e1006bc2",
       "payload": null,
