@@ -3917,8 +3917,8 @@
       "company_key": "544488",
       "discovered_at": "2026-10-27T08:55:55.589421+00:00",
       "news_id": "1afffa47-bece-4675-b681-2c32e94826b0",
-      "payload": "{\"NEWSID\": \"1afffa47-bece-4675-b681-2c32e94826b0\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_1AFFFA47-BECE-4675-B681-2C32E94826B0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-27T14:21:01.443\", \"NEWS_DT\": \"2026-10-27T14:21:01.443\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0a3b3f23-dd48-4946-9fd2-4a00400d8d82.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed Press Release for order win which is self explanatory\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T14:21:01\", \"DissemDT\": \"2026-10-27T14:21:01.443\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1430074, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-27T14:21:01.443\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed Press Release for order win which is self explanatory\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a3b3f23-dd48-4946-9fd2-4a00400d8d82.pdf\", \"_id\": \"1afffa47-bece-4675-b681-2c32e94826b0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -5931,6 +5931,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<056ca126a449d2b90eb75f1ee9990aa9f7710b94e903434604f64ce50fb8ffef@gmail.com>",
+      "sent_at": "2026-10-27T08:56:08.077116+00:00"
+    },
     {
       "message_id": "<12f21fcdd113d1183f4f3647d824556dc748ab51b2b64e93a6dc1472432f965b@gmail.com>",
       "sent_at": "2026-10-26T15:44:55.580090+00:00"
