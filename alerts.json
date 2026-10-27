@@ -2655,6 +2655,13 @@
     },
     {
       "company_key": "540795",
+      "discovered_at": "2026-10-27T07:15:28.258714+00:00",
+      "news_id": "5b350b32-3964-4339-81da-af1eb8e450ad",
+      "payload": "{\"NEWSID\": \"5b350b32-3964-4339-81da-af1eb8e450ad\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_5B350B32-3964-4339-81DA-AF1EB8E450AD\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Pursuant To Regulation 30 Of Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-10-27T12:44:45.433\", \"NEWS_DT\": \"2026-10-27T12:44:45.433\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"34c2b116-c4ef-4714-b1a3-f50980272b53.pdf\", \"MORE\": \"The Board of Directors of the company at their meeting held today i.e. October, 27, 2026 inter alia, considered and approved the Un-audited Financial Results for the quarter and half year ended on September 30, 2026 and took on record Limited Review Report thereon pursuant to Regulation 33 of Listing Regulations (Enclosed herewith)\", \"HEADLINE\": \"The Board of Directors of the company at their meeting held today i.e. October, 27, 2026 inter alia, considered and approved the Un-audited Financial Results for the quarter and half year ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T12:44:43\", \"DissemDT\": \"2026-10-27T12:44:45.433\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 3715992, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Pursuant To Regulation 30 Of Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-10-27T12:44:45.433\", \"_category\": \"Board Meeting\", \"_headline\": \"The Board of Directors of the company at their meeting held today i.e. October, 27, 2026 inter alia, considered and approved the Un-audited Financial Results for the quarter and half year ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/34c2b116-c4ef-4714-b1a3-f50980272b53.pdf\", \"_id\": \"5b350b32-3964-4339-81da-af1eb8e450ad\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "540795",
       "discovered_at": "2026-09-23T05:12:07.584649+00:00",
       "news_id": "67dd7ec8-d077-40a8-b693-aab312522a7c",
       "payload": null,
@@ -2750,6 +2757,13 @@
       "news_id": "f8ced439-48a9-4ca1-9b1e-cc9f9d01978c",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "540795",
+      "discovered_at": "2026-10-27T07:15:28.258583+00:00",
+      "news_id": "fa8224da-40ab-4864-b126-c5f3f70dc518",
+      "payload": "{\"NEWSID\": \"fa8224da-40ab-4864-b126-c5f3f70dc518\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_FA8224DA-40AB-4864-B126-C5F3F70DC518\", \"NEWSSUB\": \"Board Comments On Fine Levied By The BSE Limited\", \"DT_TM\": \"2026-10-27T12:41:20.42\", \"NEWS_DT\": \"2026-10-27T12:41:20.42\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"65904a58-0af3-470c-bfdb-d1896d8743a6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Board Comments on fine levied by the BSE Limited\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T12:41:20\", \"DissemDT\": \"2026-10-27T12:41:20.42\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2296374, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Board Comments On Fine Levied By The BSE Limited\", \"_published\": \"2026-10-27T12:41:20.42\", \"_category\": \"Company Update\", \"_headline\": \"Board Comments on fine levied by the BSE Limited\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/65904a58-0af3-470c-bfdb-d1896d8743a6.pdf\", \"_id\": \"fa8224da-40ab-4864-b126-c5f3f70dc518\"}",
+      "status": "pending"
     },
     {
       "company_key": "542652",
