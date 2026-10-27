@@ -480,8 +480,8 @@
       "company_key": "517354",
       "discovered_at": "2026-10-27T12:40:46.566446+00:00",
       "news_id": "611f9dd6-f3af-4603-a93e-56946bb050d8",
-      "payload": "{\"NEWSID\": \"611f9dd6-f3af-4603-a93e-56946bb050d8\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_611F9DD6-F3AF-4603-A93E-56946BB050D8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-27T18:06:27.54\", \"NEWS_DT\": \"2026-10-27T18:06:27.54\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e53e4d58-8bdf-4cd6-b16b-d4794d8e04cb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Change in Management - Mr Samir Kirit Anjaria resigned from the position of President\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T18:06:27\", \"DissemDT\": \"2026-10-27T18:06:27.54\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 758005, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-27T18:06:27.54\", \"_category\": \"Company Update\", \"_headline\": \"Change in Management - Mr Samir Kirit Anjaria resigned from the position of President\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e53e4d58-8bdf-4cd6-b16b-d4794d8e04cb.pdf\", \"_id\": \"611f9dd6-f3af-4603-a93e-56946bb050d8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -6034,6 +6034,10 @@
     {
       "message_id": "<5dd36ac56c882b4c22eed7c7dc9535849f9791fff13a4a862ae257a81968e994@gmail.com>",
       "sent_at": "2026-10-27T09:41:21.209818+00:00"
+    },
+    {
+      "message_id": "<61198ff9bf5b58b3bbb93725bc12e343ce34c93e0110325b89c84a9e808bee91@gmail.com>",
+      "sent_at": "2026-10-27T12:41:06.819771+00:00"
     },
     {
       "message_id": "<82de9d2dbfa33da2899dfcf06136bc545fa197c1058de37aaf04a39e82b89ed8@gmail.com>",
