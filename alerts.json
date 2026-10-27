@@ -3824,6 +3824,13 @@
     },
     {
       "company_key": "544277",
+      "discovered_at": "2026-10-27T15:51:44.224870+00:00",
+      "news_id": "a8d7ad16-188c-40b6-8474-6dd385cbacec",
+      "payload": "{\"NEWSID\": \"a8d7ad16-188c-40b6-8474-6dd385cbacec\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_A8D7AD16-188C-40B6-8474-6DD385CBACEC\", \"NEWSSUB\": \"Grant Of ESOP\", \"DT_TM\": \"2026-10-27T21:18:36.017\", \"NEWS_DT\": \"2026-10-27T21:18:36.017\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7874b1f0-4946-4d36-8fb5-2a829bd64b75.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Grant of ESOP.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T21:18:36\", \"DissemDT\": \"2026-10-27T21:18:36.017\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 523617, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Grant Of ESOP\", \"_published\": \"2026-10-27T21:18:36.017\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Grant of ESOP.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7874b1f0-4946-4d36-8fb5-2a829bd64b75.pdf\", \"_id\": \"a8d7ad16-188c-40b6-8474-6dd385cbacec\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544277",
       "discovered_at": "2026-09-26T14:20:29.704854+00:00",
       "news_id": "afa7792b-39b4-4297-a45a-c80e062ad97c",
       "payload": null,
