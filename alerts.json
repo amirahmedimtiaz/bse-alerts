@@ -2767,6 +2767,13 @@
     },
     {
       "company_key": "540795",
+      "discovered_at": "2026-10-27T07:45:43.160368+00:00",
+      "news_id": "fa305cc0-9c68-4161-821c-e7256c512255",
+      "payload": "{\"NEWSID\": \"fa305cc0-9c68-4161-821c-e7256c512255\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_FA305CC0-9C68-4161-821C-E7256C512255\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-27T13:12:31.89\", \"NEWS_DT\": \"2026-10-27T13:12:31.89\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c1d74d8a-db4b-4f4c-807e-35577f47f568.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release on Unaudited Financial Results for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T13:12:31\", \"DissemDT\": \"2026-10-27T13:12:31.89\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1324820, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-27T13:12:31.89\", \"_category\": \"Company Update\", \"_headline\": \"Press Release on Unaudited Financial Results for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1d74d8a-db4b-4f4c-807e-35577f47f568.pdf\", \"_id\": \"fa305cc0-9c68-4161-821c-e7256c512255\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "540795",
       "discovered_at": "2026-10-27T07:15:28.258583+00:00",
       "news_id": "fa8224da-40ab-4864-b126-c5f3f70dc518",
       "payload": null,
