@@ -3798,8 +3798,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-27T16:06:43.082750+00:00",
       "news_id": "77b8723b-f1dd-4631-a34d-2fba330b9248",
-      "payload": "{\"NEWSID\": \"77b8723b-f1dd-4631-a34d-2fba330b9248\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_77B8723B-F1DD-4631-A34D-2FBA330B9248\", \"NEWSSUB\": \" Reporting Of Violation Under SEBI (PIT) Regulations, 2015\", \"DT_TM\": \"2026-10-27T21:33:25.923\", \"NEWS_DT\": \"2026-10-27T21:33:25.923\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a0dab28e-8eef-41e4-98bd-fbe094886e41.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Reporting of Violation under SEBI (PIT) Regulations, 2015.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T21:33:25\", \"DissemDT\": \"2026-10-27T21:33:25.923\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 342368, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \" Reporting Of Violation Under SEBI (PIT) Regulations, 2015\", \"_published\": \"2026-10-27T21:33:25.923\", \"_category\": \"Company Update\", \"_headline\": \"Reporting of Violation under SEBI (PIT) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0dab28e-8eef-41e4-98bd-fbe094886e41.pdf\", \"_id\": \"77b8723b-f1dd-4631-a34d-2fba330b9248\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6057,6 +6057,10 @@
     {
       "message_id": "<056ca126a449d2b90eb75f1ee9990aa9f7710b94e903434604f64ce50fb8ffef@gmail.com>",
       "sent_at": "2026-10-27T08:56:08.077116+00:00"
+    },
+    {
+      "message_id": "<0745886b09263960708e51069c53a7661f62ac91c5721aa1495f434f64938d18@gmail.com>",
+      "sent_at": "2026-10-27T16:06:59.751153+00:00"
     },
     {
       "message_id": "<10b8a76a8df2ae8efa129c87a255f380c6041f5ffc68cd56caf5b040def8a247@gmail.com>",
