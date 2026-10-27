@@ -2706,8 +2706,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-27T12:30:43.173287+00:00",
       "news_id": "5c231c79-00f0-4a67-b5f4-e4ec7528fb42",
-      "payload": "{\"NEWSID\": \"5c231c79-00f0-4a67-b5f4-e4ec7528fb42\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_5C231C79-00F0-4A67-B5F4-E4EC7528FB42\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-27T17:57:40.337\", \"NEWS_DT\": \"2026-10-27T17:57:40.337\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6c4fa046-6202-4502-b443-fd73bd956673.pdf\", \"MORE\": \"In continuation of our letter dated October 22, 2026 and pursuant to Regulation 30 of the Listing Regulations, please find enclosed letter for the link to the audio recording of the Analysts/Investors Call held on October 27, 2026 to discuss Un-audited Financial Results of the Company for the quarter and half-year ended September 30, 2026.\", \"HEADLINE\": \"In continuation of our letter dated October 22, 2026 and pursuant to Regulation 30 of the Listing Regulations, please find enclosed letter for the link to the audio recording of the Analysts/Investors ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T17:57:40\", \"DissemDT\": \"2026-10-27T17:57:40.337\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 623927, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"5c231c79-00f0-4a67-b5f4-e4ec7528fb42\", \"INVESTOR_PRESENTATION\": \"feab8c4e-7890-4873-ac79-638034ed8557.mp3\", \"RECORDID\": 14672698, \"DataInsDate\": \"2026-10-27T17:57:40.273\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/feab8c4e-7890-4873-ac79-638034ed8557.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-27T17:57:40.337\", \"_category\": \"Company Update\", \"_headline\": \"In continuation of our letter dated October 22, 2026 and pursuant to Regulation 30 of the Listing Regulations, please find enclosed letter for the link to the audio recording of the Analysts/Investors ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c4fa046-6202-4502-b443-fd73bd956673.pdf\", \"_id\": \"5c231c79-00f0-4a67-b5f4-e4ec7528fb42\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -6015,6 +6015,10 @@
     {
       "message_id": "<48859f40fa0e9bef353164d242fff65157a2b490276c805390c2af84d673a9cb@gmail.com>",
       "sent_at": "2026-10-27T07:46:05.205577+00:00"
+    },
+    {
+      "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
+      "sent_at": "2026-10-27T12:31:13.294750+00:00"
     },
     {
       "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
