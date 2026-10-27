@@ -3588,8 +3588,8 @@
       "company_key": "544238",
       "discovered_at": "2026-10-27T13:46:45.756680+00:00",
       "news_id": "b3441118-3b1c-47d2-b55f-64ddfaa69e47",
-      "payload": "{\"NEWSID\": \"b3441118-3b1c-47d2-b55f-64ddfaa69e47\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_B3441118-3B1C-47D2-B55F-64DDFAA69E47\", \"NEWSSUB\": \"Board Meeting Intimation for Financial Results And Dividend\", \"DT_TM\": \"2026-10-27T19:13:10.103\", \"NEWS_DT\": \"2026-10-27T19:13:10.103\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"af89adc8-6f84-46ba-919b-b3c2d16b205c.pdf\", \"MORE\": \"Premier Energies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve unaudited Financial Results (standalone and consolidated) for the quarter and half year ended 30th September 2026 and Declaration of Interim Dividend.\\r\\n\", \"HEADLINE\": \"Premier Energies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve unaudited Financial Results ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T19:13:09\", \"DissemDT\": \"2026-10-27T19:13:10.103\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 482176, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Financial Results And Dividend\", \"_published\": \"2026-10-27T19:13:10.103\", \"_category\": \"Board Meeting\", \"_headline\": \"Premier Energies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve unaudited Financial Results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/af89adc8-6f84-46ba-919b-b3c2d16b205c.pdf\", \"_id\": \"b3441118-3b1c-47d2-b55f-64ddfaa69e47\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -6087,6 +6087,10 @@
     {
       "message_id": "<c1d7f670864b9840e7fa6be2cf91e0ebf9badb3ca1009d79ce4b26a9c3bf1fef@gmail.com>",
       "sent_at": "2026-10-27T09:31:19.235709+00:00"
+    },
+    {
+      "message_id": "<c5ab4757897af3f03226a728e9edbd65f0e5363ec195be6371759053e0c59131@gmail.com>",
+      "sent_at": "2026-10-27T13:46:58.252573+00:00"
     },
     {
       "message_id": "<c9d2116afec71af9b7454cd29abe36f5d4abb87e7a062d83c7ec9c140d2053e2@gmail.com>",
