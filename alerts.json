@@ -3889,8 +3889,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-27T14:51:42.195657+00:00",
       "news_id": "fcbbf427-2496-4514-9abe-c071c662f2fd",
-      "payload": "{\"NEWSID\": \"fcbbf427-2496-4514-9abe-c071c662f2fd\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_FCBBF427-2496-4514-9ABE-C071C662F2FD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-10-27T20:19:37.643\", \"NEWS_DT\": \"2026-10-27T20:19:37.643\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"56360524-54fa-4f5c-bc32-4843e7fa34ff.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Acquisition\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T20:19:37\", \"DissemDT\": \"2026-10-27T20:19:37.643\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3742135, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-10-27T20:19:37.643\", \"_category\": \"Company Update\", \"_headline\": \"Acquisition\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/56360524-54fa-4f5c-bc32-4843e7fa34ff.pdf\", \"_id\": \"fcbbf427-2496-4514-9abe-c071c662f2fd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6108,6 +6108,10 @@
     {
       "message_id": "<939f1eceb936c2b7b9899b1725c4f12d58935b08b00b41f21f5e79ea918f2019@gmail.com>",
       "sent_at": "2026-10-26T13:04:54.747090+00:00"
+    },
+    {
+      "message_id": "<b77f620f613122d73e415cc2404ae1e64b23b7c486e349c905d5396b3b97ee39@gmail.com>",
+      "sent_at": "2026-10-27T14:51:59.148871+00:00"
     },
     {
       "message_id": "<be02a7a6e1750e788ea43b04e3ccba51f02c215a197e3c0cd70403d632c9824a@gmail.com>",
