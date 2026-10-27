@@ -3665,8 +3665,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-27T16:01:42.329090+00:00",
       "news_id": "0497e512-a44c-44ee-9da5-fe362b0d74f0",
-      "payload": "{\"NEWSID\": \"0497e512-a44c-44ee-9da5-fe362b0d74f0\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_0497E512-A44C-44EE-9DA5-FE362B0D74F0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-27T21:27:15.74\", \"NEWS_DT\": \"2026-10-27T21:27:15.74\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"974fbee7-d86a-46bb-ab15-66999c6ab4eb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press release for the Unaudited Financial Results (Standalone and Consolidated) For the quarter and half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T21:27:15\", \"DissemDT\": \"2026-10-27T21:27:15.74\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 562299, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-27T21:27:15.74\", \"_category\": \"Company Update\", \"_headline\": \"Press release for the Unaudited Financial Results (Standalone and Consolidated) For the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/974fbee7-d86a-46bb-ab15-66999c6ab4eb.pdf\", \"_id\": \"0497e512-a44c-44ee-9da5-fe362b0d74f0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6062,6 +6062,10 @@
     {
       "message_id": "<172713fcd9234a62b974d41e9efa15b43351512131c9e76980c30ee285a562d3@gmail.com>",
       "sent_at": "2026-10-27T13:17:00.121485+00:00"
+    },
+    {
+      "message_id": "<2443000e766527504ba5c3c9d025d07c8f67e1e05d2bfd2f706887ec576fd936@gmail.com>",
+      "sent_at": "2026-10-27T16:01:59.041316+00:00"
     },
     {
       "message_id": "<36587346aa5f2923ecd3c44a32bf4fae90f49a139f31976544b36a42f35f397e@gmail.com>",
