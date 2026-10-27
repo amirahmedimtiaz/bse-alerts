@@ -207,8 +207,8 @@
       "company_key": "500400",
       "discovered_at": "2026-10-27T09:31:11.061176+00:00",
       "news_id": "4ce4e5d8-5d84-49b0-a012-c59cd5b33987",
-      "payload": "{\"NEWSID\": \"4ce4e5d8-5d84-49b0-a012-c59cd5b33987\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4CE4E5D8-5D84-49B0-A012-C59CD5B33987\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-27T15:00:51.11\", \"NEWS_DT\": \"2026-10-27T15:00:51.11\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"03e4a1f0-302f-4029-8996-9cd1f254f916.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Schedule of Analyst/Institutional Investor Meet.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T15:00:51\", \"DissemDT\": \"2026-10-27T15:00:51.11\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 209888, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-27T15:00:51.11\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Schedule of Analyst/Institutional Investor Meet.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/03e4a1f0-302f-4029-8996-9cd1f254f916.pdf\", \"_id\": \"4ce4e5d8-5d84-49b0-a012-c59cd5b33987\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -2265,8 +2265,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-27T09:30:52.505903+00:00",
       "news_id": "302c4fca-dc35-41e9-8d66-2b46f3c8b235",
-      "payload": "{\"NEWSID\": \"302c4fca-dc35-41e9-8d66-2b46f3c8b235\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_302C4FCA-DC35-41E9-8D66-2B46F3C8B235\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"DT_TM\": \"2026-10-27T15:00:51.267\", \"NEWS_DT\": \"2026-10-27T15:00:51.267\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c931f5ad-d867-4536-a149-f6e918e6c5d5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith intimation of Receipt of LOA\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": null, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T15:00:51\", \"DissemDT\": \"2026-10-27T15:00:51.267\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1068421, \"SUBCATNAME\": null, \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"_published\": \"2026-10-27T15:00:51.267\", \"_category\": \"Others\", \"_headline\": \"Please find attached herewith intimation of Receipt of LOA\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c931f5ad-d867-4536-a149-f6e918e6c5d5.pdf\", \"_id\": \"302c4fca-dc35-41e9-8d66-2b46f3c8b235\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -5988,6 +5988,10 @@
     {
       "message_id": "<be02a7a6e1750e788ea43b04e3ccba51f02c215a197e3c0cd70403d632c9824a@gmail.com>",
       "sent_at": "2026-10-27T06:55:50.021047+00:00"
+    },
+    {
+      "message_id": "<c1d7f670864b9840e7fa6be2cf91e0ebf9badb3ca1009d79ce4b26a9c3bf1fef@gmail.com>",
+      "sent_at": "2026-10-27T09:31:19.235709+00:00"
     },
     {
       "message_id": "<c9d2116afec71af9b7454cd29abe36f5d4abb87e7a062d83c7ec9c140d2053e2@gmail.com>",
