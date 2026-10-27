@@ -3742,8 +3742,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-27T14:36:42.278181+00:00",
       "news_id": "36053a13-f6de-4519-8add-74157d7438da",
-      "payload": "{\"NEWSID\": \"36053a13-f6de-4519-8add-74157d7438da\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_36053A13-F6DE-4519-8ADD-74157D7438DA\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On October 27, 2026\", \"DT_TM\": \"2026-10-27T20:03:35.217\", \"NEWS_DT\": \"2026-10-27T20:03:35.217\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"64010353-6ef8-48c4-ab29-46d7d117ef19.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome Of the Board Meeting held on October 27, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T20:03:32\", \"DissemDT\": \"2026-10-27T20:03:35.217\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 3742135, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On October 27, 2026\", \"_published\": \"2026-10-27T20:03:35.217\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome Of the Board Meeting held on October 27, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/64010353-6ef8-48c4-ab29-46d7d117ef19.pdf\", \"_id\": \"36053a13-f6de-4519-8add-74157d7438da\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6042,6 +6042,10 @@
     {
       "message_id": "<39f7131fbee843dc82588b59f4f4b4e2361ad250b9e0028b0a979347cd1db3e1@gmail.com>",
       "sent_at": "2026-10-26T10:49:38.281574+00:00"
+    },
+    {
+      "message_id": "<3fe1d6db09e647e5b361c9b4bb508c3ccadd6c668fa2d4827f67ad99065b843b@gmail.com>",
+      "sent_at": "2026-10-27T14:36:59.928225+00:00"
     },
     {
       "message_id": "<4348c1b8640222408290ee3b73fd5b174c025cd08743a7bcdbee048bd35470e0@gmail.com>",
