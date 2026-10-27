@@ -1516,8 +1516,8 @@
       "company_key": "530555",
       "discovered_at": "2026-10-27T09:40:48.539872+00:00",
       "news_id": "b1d61c11-6e75-4343-986a-dc9964853d38",
-      "payload": "{\"NEWSID\": \"b1d61c11-6e75-4343-986a-dc9964853d38\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_B1D61C11-6E75-4343-986A-DC9964853D38\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-27T15:06:48.253\", \"NEWS_DT\": \"2026-10-27T15:06:48.253\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"67f1bc3c-ec8a-4eec-9d48-fae985f4b151.pdf\", \"MORE\": \"As per Regulation 47 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find enclosed heerwith newspaper clippings of Un-Audited Financial Results of the Company for the quarter and half year ended 30.09.2026. The Company published the advertisement in Financial Express and Jansatta ( both Delhi Edition) on October 27, 2026\", \"HEADLINE\": \"As per Regulation 47 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find enclosed heerwith newspaper clippings of Un-Audited Financial Results of the ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T15:06:48\", \"DissemDT\": \"2026-10-27T15:06:48.253\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5715414, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-27T15:06:48.253\", \"_category\": \"Company Update\", \"_headline\": \"As per Regulation 47 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015, Please find enclosed heerwith newspaper clippings of Un-Audited Financial Results of the ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/67f1bc3c-ec8a-4eec-9d48-fae985f4b151.pdf\", \"_id\": \"b1d61c11-6e75-4343-986a-dc9964853d38\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "530555",
@@ -5979,6 +5979,10 @@
     {
       "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
       "sent_at": "2026-10-26T07:04:38.562861+00:00"
+    },
+    {
+      "message_id": "<5dd36ac56c882b4c22eed7c7dc9535849f9791fff13a4a862ae257a81968e994@gmail.com>",
+      "sent_at": "2026-10-27T09:41:21.209818+00:00"
     },
     {
       "message_id": "<82de9d2dbfa33da2899dfcf06136bc545fa197c1058de37aaf04a39e82b89ed8@gmail.com>",
