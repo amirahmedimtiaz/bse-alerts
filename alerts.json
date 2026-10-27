@@ -2963,6 +2963,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-27T13:36:36.244158+00:00",
+      "news_id": "757969fc-1b60-4ab9-884f-258a81e89ee9",
+      "payload": "{\"NEWSID\": \"757969fc-1b60-4ab9-884f-258a81e89ee9\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_757969FC-1B60-4AB9-884F-258A81E89EE9\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"DT_TM\": \"2026-10-27T19:01:42.867\", \"NEWS_DT\": \"2026-10-27T19:01:42.867\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cafe2036-e51b-413a-80cd-65e331d170be.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T19:01:42\", \"DissemDT\": \"2026-10-27T19:01:42.867\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 277844, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"_published\": \"2026-10-27T19:01:42.867\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cafe2036-e51b-413a-80cd-65e331d170be.pdf\", \"_id\": \"757969fc-1b60-4ab9-884f-258a81e89ee9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584679+00:00",
       "news_id": "76b88377-8486-4a01-815f-baf017e37b35",
       "payload": null,
