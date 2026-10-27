@@ -3740,6 +3740,13 @@
     },
     {
       "company_key": "544277",
+      "discovered_at": "2026-10-27T14:36:42.278181+00:00",
+      "news_id": "36053a13-f6de-4519-8add-74157d7438da",
+      "payload": "{\"NEWSID\": \"36053a13-f6de-4519-8add-74157d7438da\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_36053A13-F6DE-4519-8ADD-74157D7438DA\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On October 27, 2026\", \"DT_TM\": \"2026-10-27T20:03:35.217\", \"NEWS_DT\": \"2026-10-27T20:03:35.217\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"64010353-6ef8-48c4-ab29-46d7d117ef19.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome Of the Board Meeting held on October 27, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-27T20:03:32\", \"DissemDT\": \"2026-10-27T20:03:35.217\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 3742135, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On October 27, 2026\", \"_published\": \"2026-10-27T20:03:35.217\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome Of the Board Meeting held on October 27, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/64010353-6ef8-48c4-ab29-46d7d117ef19.pdf\", \"_id\": \"36053a13-f6de-4519-8add-74157d7438da\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544277",
       "discovered_at": "2026-09-23T05:12:07.584784+00:00",
       "news_id": "3f13d9bf-bf67-4adc-912b-f703f373cbbf",
       "payload": null,
