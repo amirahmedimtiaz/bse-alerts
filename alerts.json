@@ -3523,6 +3523,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-10-28T14:58:17.516901+00:00",
+      "news_id": "ce8e6bc2-97e5-47d7-bf38-1c1fc5c5cff9",
+      "payload": "{\"NEWSID\": \"ce8e6bc2-97e5-47d7-bf38-1c1fc5c5cff9\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_CE8E6BC2-97E5-47D7-BF38-1C1FC5C5CFF9\", \"NEWSSUB\": \"Corporate Action - Fixation Of Record Date For Interim Dividend\", \"DT_TM\": \"2026-10-28T20:25:02.56\", \"NEWS_DT\": \"2026-10-28T20:25:02.56\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6e2bffb8-a6be-49ce-b6b4-422b0791c8d4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith intimation of the Record Date for the Interim Dividend.\", \"CATEGORYNAME\": \"Corp. Action\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 36, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T20:25:02\", \"DissemDT\": \"2026-10-28T20:25:02.56\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 553698, \"SUBCATNAME\": \"Record Date\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Corporate Action - Fixation Of Record Date For Interim Dividend\", \"_published\": \"2026-10-28T20:25:02.56\", \"_category\": \"Corp. Action\", \"_headline\": \"Enclosed herewith intimation of the Record Date for the Interim Dividend.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e2bffb8-a6be-49ce-b6b4-422b0791c8d4.pdf\", \"_id\": \"ce8e6bc2-97e5-47d7-bf38-1c1fc5c5cff9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-09-23T05:12:07.584719+00:00",
       "news_id": "cfad7799-592e-4d51-a27c-46bff0c5d5b5",
       "payload": null,
