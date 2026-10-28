@@ -3469,8 +3469,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-28T15:13:19.553480+00:00",
       "news_id": "6b241446-0629-4976-9de3-53d12e28bc4f",
-      "payload": "{\"NEWSID\": \"6b241446-0629-4976-9de3-53d12e28bc4f\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_6B241446-0629-4976-9DE3-53D12E28BC4F\", \"NEWSSUB\": \"Intimation Under Regulation 8(2) Of SEBI (Prohibition Of Insider Trading) Regulations, 2015\", \"DT_TM\": \"2026-10-28T20:40:06.29\", \"NEWS_DT\": \"2026-10-28T20:40:06.29\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b498b62c-1df0-4c78-b095-6543a542df76.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith intimation regarding Amendments to the Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T20:40:06\", \"DissemDT\": \"2026-10-28T20:40:06.29\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1151412, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Intimation Under Regulation 8(2) Of SEBI (Prohibition Of Insider Trading) Regulations, 2015\", \"_published\": \"2026-10-28T20:40:06.29\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith intimation regarding Amendments to the Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b498b62c-1df0-4c78-b095-6543a542df76.pdf\", \"_id\": \"6b241446-0629-4976-9de3-53d12e28bc4f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -6349,6 +6349,10 @@
     {
       "message_id": "<e5aa2798ea3c52c65ca882d4a5b4240cfbb8f053401067365b2634c7605181bb@gmail.com>",
       "sent_at": "2026-10-27T18:57:30.831628+00:00"
+    },
+    {
+      "message_id": "<f36d6b43fa2168a10831b14f2484bfce6aecf83e0c83132ba0df0bb93e4f242f@gmail.com>",
+      "sent_at": "2026-10-28T15:13:39.683161+00:00"
     },
     {
       "message_id": "<f64e2d90fffe21ae44f693032d234b6cb5d84db46caf26befa1c009d756eef56@gmail.com>",
