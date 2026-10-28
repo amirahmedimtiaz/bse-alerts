@@ -3397,6 +3397,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-10-28T14:03:20.426308+00:00",
+      "news_id": "0bd5c21d-6213-4d46-a900-270870e3b5ac",
+      "payload": "{\"NEWSID\": \"0bd5c21d-6213-4d46-a900-270870e3b5ac\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_0BD5C21D-6213-4D46-A900-270870E3B5AC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-10-28T19:29:26.96\", \"NEWS_DT\": \"2026-10-28T19:29:26.96\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2bd9ecc3-7d6a-4349-adf7-05d7d47bfaac.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith press release for the Unaudited Standalone and Consolidated Financial Results for the quarter and half-year ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T19:29:26\", \"DissemDT\": \"2026-10-28T19:29:26.96\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 865684, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-10-28T19:29:26.96\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith press release for the Unaudited Standalone and Consolidated Financial Results for the quarter and half-year ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2bd9ecc3-7d6a-4349-adf7-05d7d47bfaac.pdf\", \"_id\": \"0bd5c21d-6213-4d46-a900-270870e3b5ac\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-09-23T05:12:07.584722+00:00",
       "news_id": "29aa8d1c-adb3-40de-a49d-b591b43e340d",
       "payload": null,
@@ -3947,6 +3954,13 @@
       "news_id": "ce342924-3bac-438f-9a48-202868bde40e",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "544277",
+      "discovered_at": "2026-10-28T14:03:22.589320+00:00",
+      "news_id": "d7cbe735-5485-46cf-9ce9-145fcf7dc837",
+      "payload": "{\"NEWSID\": \"d7cbe735-5485-46cf-9ce9-145fcf7dc837\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_D7CBE735-5485-46CF-9CE9-145FCF7DC837\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-28T19:29:33.157\", \"NEWS_DT\": \"2026-10-28T19:29:33.157\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e4520dd5-d77f-4b51-bfed-fbf3bdd0277a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording of Analysts/Institutional Investors Meeting/Call to discuss the Unaudited Financial Results (Standalone and Consolidated) for the Quarter and half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T19:29:33\", \"DissemDT\": \"2026-10-28T19:29:33.157\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 232595, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"d7cbe735-5485-46cf-9ce9-145fcf7dc837\", \"INVESTOR_PRESENTATION\": \"1f957929-04c6-434b-894c-8fbd53ffc00e.pdf\", \"RECORDID\": 14689739, \"DataInsDate\": \"2026-10-28T19:29:33.107\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f957929-04c6-434b-894c-8fbd53ffc00e.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-28T19:29:33.157\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording of Analysts/Institutional Investors Meeting/Call to discuss the Unaudited Financial Results (Standalone and Consolidated) for the Quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e4520dd5-d77f-4b51-bfed-fbf3bdd0277a.pdf\", \"_id\": \"d7cbe735-5485-46cf-9ce9-145fcf7dc837\"}",
+      "status": "pending"
     },
     {
       "company_key": "544277",
