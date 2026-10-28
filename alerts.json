@@ -3504,8 +3504,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-28T14:08:17.128841+00:00",
       "news_id": "c4ccb049-b1d9-4ee2-a22e-9c1b14cd0744",
-      "payload": "{\"NEWSID\": \"c4ccb049-b1d9-4ee2-a22e-9c1b14cd0744\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_C4CCB049-B1D9-4EE2-A22E-9C1B14CD0744\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-28T19:34:33.687\", \"NEWS_DT\": \"2026-10-28T19:34:33.687\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"52a057e4-1d05-4ed1-958c-fc4f126697f4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith investor presentation for the Unaudited Financial Results for the quarter and half-year ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T19:34:33\", \"DissemDT\": \"2026-10-28T19:34:33.687\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2005450, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-28T19:34:33.687\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith investor presentation for the Unaudited Financial Results for the quarter and half-year ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/52a057e4-1d05-4ed1-958c-fc4f126697f4.pdf\", \"_id\": \"c4ccb049-b1d9-4ee2-a22e-9c1b14cd0744\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -6222,6 +6222,10 @@
     {
       "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
       "sent_at": "2026-10-27T12:31:13.294750+00:00"
+    },
+    {
+      "message_id": "<56670b72db9c0ff865d10185a13114acaa50515b12c757faa545518b567dfb96@gmail.com>",
+      "sent_at": "2026-10-28T14:08:38.198146+00:00"
     },
     {
       "message_id": "<5798377a3011a4a24634cc8254d46055b687d37641a51440bbfa16f868ca1f8a@gmail.com>",
