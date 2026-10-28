@@ -6279,7 +6279,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"500144\", \"517354\", \"532941\", \"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T12:30:59.296165+00:00\", \"seconds\": 185.81}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"544608\", \"544524\", \"517354\", \"534618\", \"NSE:VIVIANA\", \"544526\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T12:37:06.335598+00:00\", \"seconds\": 252.85}"
     },
     {
       "key": "migration_date",
