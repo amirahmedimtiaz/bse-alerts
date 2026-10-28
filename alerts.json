@@ -6268,7 +6268,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 1, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T11:53:19.378285+00:00\", \"seconds\": 25.89}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T11:58:14.945623+00:00\", \"seconds\": 21.46}"
     },
     {
       "key": "migration_date",
