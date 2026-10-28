@@ -3075,6 +3075,13 @@
     },
     {
       "company_key": "542652",
+      "discovered_at": "2026-10-28T04:52:37.218591+00:00",
+      "news_id": "ec5b190e-b037-4cb0-91a8-d037cfad8574",
+      "payload": "{\"NEWSID\": \"ec5b190e-b037-4cb0-91a8-d037cfad8574\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_EC5B190E-B037-4CB0-91A8-D037CFAD8574\", \"NEWSSUB\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"DT_TM\": \"2026-10-28T10:21:03.437\", \"NEWS_DT\": \"2026-10-28T10:21:03.437\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ead5c0dc-e464-4e53-8006-b861205174a9.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Update on NCLAT order dated October 27, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 173, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T10:21:03\", \"DissemDT\": \"2026-10-28T10:21:03.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 514254, \"SUBCATNAME\": \"Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"_published\": \"2026-10-28T10:21:03.437\", \"_category\": \"Company Update\", \"_headline\": \"Update on NCLAT order dated October 27, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ead5c0dc-e464-4e53-8006-b861205174a9.pdf\", \"_id\": \"ec5b190e-b037-4cb0-91a8-d037cfad8574\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "542652",
       "discovered_at": "2026-09-23T05:12:07.584681+00:00",
       "news_id": "f3781489-66f3-481a-97d8-cb204b903ff1",
       "payload": null,
