@@ -3980,8 +3980,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-28T09:58:09.914708+00:00",
       "news_id": "1cd76aa7-54f1-4031-9600-77a29aa562c5",
-      "payload": "{\"NEWSID\": \"1cd76aa7-54f1-4031-9600-77a29aa562c5\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_1CD76AA7-54F1-4031-9600-77A29AA562C5\", \"NEWSSUB\": \"Board Meeting Intimation for Consideration And Approval Of Unaudited Financial Results Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-10-28T15:27:01.513\", \"NEWS_DT\": \"2026-10-28T15:27:01.513\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a60c8475-de16-4d95-90ac-ce144a2fd258.pdf\", \"MORE\": \"Rajesh Power Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve Unaudited financials results (Standalone and Consolidated ) for Half year ended on September 30,2026.\", \"HEADLINE\": \"Rajesh Power Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve Unaudited financials ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T15:27:00\", \"DissemDT\": \"2026-10-28T15:27:01.513\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 387194, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Board Meeting Intimation for Consideration And Approval Of Unaudited Financial Results Half Year Ended September 30, 2026\", \"_published\": \"2026-10-28T15:27:01.513\", \"_category\": \"Board Meeting\", \"_headline\": \"Rajesh Power Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/11/2026 ,inter alia, to consider and approve Unaudited financials ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a60c8475-de16-4d95-90ac-ce144a2fd258.pdf\", \"_id\": \"1cd76aa7-54f1-4031-9600-77a29aa562c5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6162,6 +6162,10 @@
     {
       "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
       "sent_at": "2026-10-27T12:31:13.294750+00:00"
+    },
+    {
+      "message_id": "<5798377a3011a4a24634cc8254d46055b687d37641a51440bbfa16f868ca1f8a@gmail.com>",
+      "sent_at": "2026-10-28T09:58:19.409562+00:00"
     },
     {
       "message_id": "<5ae57a54a93c201c766133e0b928f7622736f6deb7ed0a78a71630933c1af9fa@gmail.com>",
