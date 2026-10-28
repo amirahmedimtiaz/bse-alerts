@@ -3336,8 +3336,8 @@
       "company_key": "543620",
       "discovered_at": "2026-10-28T07:52:48.154015+00:00",
       "news_id": "e674d103-3de5-42cc-9d3c-f361db6c1c7a",
-      "payload": "{\"NEWSID\": \"e674d103-3de5-42cc-9d3c-f361db6c1c7a\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_E674D103-3DE5-42CC-9D3C-F361DB6C1C7A\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Intimation Of Entitlement Certificate For Turnover Linked Incentive And Electricity Duty Exemption Under Rajasthan Investment Promotion Scheme, 2022 (RIPS-2022) For The Solar Module Manufacturing Plant Located At Sawarda, Jaipur, Rajasthan\", \"DT_TM\": \"2026-10-28T13:22:01.937\", \"NEWS_DT\": \"2026-10-28T13:22:01.937\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"78df645f-005e-4bd7-9399-8de924a9552b.pdf\", \"MORE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015, we wish to informed you that Insolation Green Energy Private Limited, a wholly owned subsidiary of Insolation Energy Limited has received an entitlement certificate for turnover linked incentive (TLI) under the Rajasthan Investment Promotion Scheme, 2022 (RIPS-2022), issued by the Government of Rajasthan, Officer of Commissioner of Industries, in relation to its solar module manufacturing plant located at Swarda, Jaipur, Rajasthan.\", \"HEADLINE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015, we wish to informed you that Insolation Green Energy Private Limited, a wholly ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T13:22:01\", \"DissemDT\": \"2026-10-28T13:22:01.937\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 387097, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Intimation Of Entitlement Certificate For Turnover Linked Incentive And Electricity Duty Exemption Under Rajasthan Investment Promotion Scheme, 2022 (RIPS-2022) For The Solar Module Manufacturing Plant Located At Sawarda, Jaipur, Rajasthan\", \"_published\": \"2026-10-28T13:22:01.937\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015, we wish to informed you that Insolation Green Energy Private Limited, a wholly ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/78df645f-005e-4bd7-9399-8de924a9552b.pdf\", \"_id\": \"e674d103-3de5-42cc-9d3c-f361db6c1c7a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -6138,6 +6138,10 @@
       "sent_at": "2026-10-26T09:29:39.590814+00:00"
     },
     {
+      "message_id": "<4612c2190b1b38c98628fea3a4ee148496e42206730c1248c0f5f2542dedd3de@gmail.com>",
+      "sent_at": "2026-10-28T07:53:01.247368+00:00"
+    },
+    {
       "message_id": "<48859f40fa0e9bef353164d242fff65157a2b490276c805390c2af84d673a9cb@gmail.com>",
       "sent_at": "2026-10-27T07:46:05.205577+00:00"
     },
@@ -6148,10 +6152,6 @@
     {
       "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
       "sent_at": "2026-10-27T12:31:13.294750+00:00"
-    },
-    {
-      "message_id": "<5a6774840c0dfc19818cc3cb1c9b81e642d798c94b031df8efe4512c7f8a9d94@gmail.com>",
-      "sent_at": "2026-10-26T07:04:38.562861+00:00"
     },
     {
       "message_id": "<5ae57a54a93c201c766133e0b928f7622736f6deb7ed0a78a71630933c1af9fa@gmail.com>",
