@@ -1269,6 +1269,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-10-28T10:47:59.388496+00:00",
+      "news_id": "9eea8470-bfae-4e7c-b1f6-6cefc7574fb7",
+      "payload": "{\"NEWSID\": \"9eea8470-bfae-4e7c-b1f6-6cefc7574fb7\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_9EEA8470-BFAE-4E7C-B1F6-6CEFC7574FB7\", \"NEWSSUB\": \"Board Meeting Intimation for Approval Of Financial Results For The Quarter Ended On September 30, 2026\", \"DT_TM\": \"2026-10-28T16:17:12.52\", \"NEWS_DT\": \"2026-10-28T16:17:12.52\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a89dd110-b4a0-455f-80b1-76c341b1ff65.pdf\", \"MORE\": \"Diamond Power Infrastructure Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve financial results for the quarter ended on September 30, 2026\", \"HEADLINE\": \"Diamond Power Infrastructure Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve financial results ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T16:17:09\", \"DissemDT\": \"2026-10-28T16:17:12.52\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 363295, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Approval Of Financial Results For The Quarter Ended On September 30, 2026\", \"_published\": \"2026-10-28T16:17:12.52\", \"_category\": \"Board Meeting\", \"_headline\": \"Diamond Power Infrastructure Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve financial results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a89dd110-b4a0-455f-80b1-76c341b1ff65.pdf\", \"_id\": \"9eea8470-bfae-4e7c-b1f6-6cefc7574fb7\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584396+00:00",
       "news_id": "a9a5af71-773a-4da9-ba21-db21d6c74cf8",
       "payload": null,
