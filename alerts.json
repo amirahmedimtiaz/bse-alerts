@@ -428,6 +428,13 @@
       "status": "sent"
     },
     {
+      "company_key": "505685",
+      "discovered_at": "2026-10-28T09:53:09.909435+00:00",
+      "news_id": "c34601ca-56f6-43db-abf0-3549501488dc",
+      "payload": "{\"NEWSID\": \"c34601ca-56f6-43db-abf0-3549501488dc\", \"SCRIP_CD\": 505685, \"XML_NAME\": \"ANN_505685_C34601CA-56F6-43DB-ABF0-3549501488DC\", \"NEWSSUB\": \"Board Meeting Intimation for Meeting Scheduled To Be Held On 4Th November 2026\", \"DT_TM\": \"2026-10-28T15:19:17.337\", \"NEWS_DT\": \"2026-10-28T15:19:17.337\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d182957d-1bce-42ff-9107-6066e5005d5a.pdf\", \"MORE\": \"Taparia Tools Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve financial results for quarter and half year ended 30th September 2026\", \"HEADLINE\": \"Taparia Tools Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve financial results for quarter ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/\", \"SLONGNAME\": \"Taparia Tools Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T15:19:16\", \"DissemDT\": \"2026-10-28T15:19:17.337\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 594813, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Taparia Tools Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Meeting Scheduled To Be Held On 4Th November 2026\", \"_published\": \"2026-10-28T15:19:17.337\", \"_category\": \"Board Meeting\", \"_headline\": \"Taparia Tools Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve financial results for quarter ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d182957d-1bce-42ff-9107-6066e5005d5a.pdf\", \"_id\": \"c34601ca-56f6-43db-abf0-3549501488dc\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "517354",
       "discovered_at": "2026-10-22T02:53:21.859135+00:00",
       "news_id": "01285958-b80a-4013-86b7-cb8f18bb5d18",
