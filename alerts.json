@@ -2398,8 +2398,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-28T11:08:05.260551+00:00",
       "news_id": "609efdd3-3f70-4748-bab3-b79680b89575",
-      "payload": "{\"NEWSID\": \"609efdd3-3f70-4748-bab3-b79680b89575\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_609EFDD3-3F70-4748-BAB3-B79680B89575\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-10-28T16:36:59.037\", \"NEWS_DT\": \"2026-10-28T16:36:59.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e64edd67-3d56-4adb-967b-2edac46328b7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Transcript of Earning Call held on 21st October 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T16:36:59\", \"DissemDT\": \"2026-10-28T16:36:59.037\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1102253, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-10-28T16:36:59.037\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith Transcript of Earning Call held on 21st October 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e64edd67-3d56-4adb-967b-2edac46328b7.pdf\", \"_id\": \"609efdd3-3f70-4748-bab3-b79680b89575\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -6146,10 +6146,6 @@
       "sent_at": "2026-10-27T07:16:03.154153+00:00"
     },
     {
-      "message_id": "<39f7131fbee843dc82588b59f4f4b4e2361ad250b9e0028b0a979347cd1db3e1@gmail.com>",
-      "sent_at": "2026-10-26T10:49:38.281574+00:00"
-    },
-    {
       "message_id": "<3ce2f50bfc021f0ddac2840bce133d701d6949b6ffcc89fe89d2d7221cc1b333@gmail.com>",
       "sent_at": "2026-10-27T14:47:00.594014+00:00"
     },
@@ -6244,6 +6240,10 @@
     {
       "message_id": "<c9d2116afec71af9b7454cd29abe36f5d4abb87e7a062d83c7ec9c140d2053e2@gmail.com>",
       "sent_at": "2026-10-26T15:35:20.987746+00:00"
+    },
+    {
+      "message_id": "<dbbed5a3929a347fc2dcccf23b9f6ee9a076ea5542420ff0fdfdad87c4615d9d@gmail.com>",
+      "sent_at": "2026-10-28T11:08:18.032681+00:00"
     },
     {
       "message_id": "<dcc9bf62c5a464447b497309ba90c584679886adea97b18923e1f7087ddf4baa@gmail.com>",
