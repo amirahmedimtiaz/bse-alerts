@@ -2790,8 +2790,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-28T06:47:35.926615+00:00",
       "news_id": "a4d69ed0-8b16-4187-afb1-dd005a627e8d",
-      "payload": "{\"NEWSID\": \"a4d69ed0-8b16-4187-afb1-dd005a627e8d\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_A4D69ED0-8B16-4187-AFB1-DD005A627E8D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-28T12:14:02.323\", \"NEWS_DT\": \"2026-10-28T12:14:02.323\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0888e8a4-bde7-462b-9256-797ded0f9db3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication for Un-audited Financial Results for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T12:14:02\", \"DissemDT\": \"2026-10-28T12:14:02.323\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2949820, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-28T12:14:02.323\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication for Un-audited Financial Results for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0888e8a4-bde7-462b-9256-797ded0f9db3.pdf\", \"_id\": \"a4d69ed0-8b16-4187-afb1-dd005a627e8d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -6159,6 +6159,10 @@
       "sent_at": "2026-10-27T12:41:06.819771+00:00"
     },
     {
+      "message_id": "<7d3a2e95f0226055d391a8425aea14d90d828c4c6016d683817d121d7311e1ea@gmail.com>",
+      "sent_at": "2026-10-28T06:48:01.387724+00:00"
+    },
+    {
       "message_id": "<82de9d2dbfa33da2899dfcf06136bc545fa197c1058de37aaf04a39e82b89ed8@gmail.com>",
       "sent_at": "2026-10-26T14:25:05.140452+00:00"
     },
@@ -6209,10 +6213,6 @@
     {
       "message_id": "<e5aa2798ea3c52c65ca882d4a5b4240cfbb8f053401067365b2634c7605181bb@gmail.com>",
       "sent_at": "2026-10-27T18:57:30.831628+00:00"
-    },
-    {
-      "message_id": "<e7c3ca34aba1309e22c5f84ab9c197c944f5e958395e0d9bad7d49e353523abb@gmail.com>",
-      "sent_at": "2026-10-26T06:24:22.146363+00:00"
     }
   ],
   "metadata": [
