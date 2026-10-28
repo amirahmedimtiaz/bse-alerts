@@ -3406,8 +3406,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-28T13:58:18.134006+00:00",
       "news_id": "371c44fa-bcbf-4876-9aab-cd56757d0d16",
-      "payload": "{\"NEWSID\": \"371c44fa-bcbf-4876-9aab-cd56757d0d16\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_371C44FA-BCBF-4876-9AAB-CD56757D0D16\", \"NEWSSUB\": \"Board Meeting Outcome for  Intimation Of The Outcome Of The Board Meeting\", \"DT_TM\": \"2026-10-28T19:24:52.053\", \"NEWS_DT\": \"2026-10-28T19:24:52.053\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b49a7850-7a8b-453e-899f-b871a2845b9e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith outcome of the Board Meeting for approval of Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended 30 September 2026 and other matters.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T19:24:48\", \"DissemDT\": \"2026-10-28T19:24:52.053\", \"TimeDiff\": \"00:00:04\", \"Fld_Attachsize\": 8651200, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Board Meeting Outcome for  Intimation Of The Outcome Of The Board Meeting\", \"_published\": \"2026-10-28T19:24:52.053\", \"_category\": \"Board Meeting\", \"_headline\": \"Enclosed herewith outcome of the Board Meeting for approval of Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended 30 September 2026 and other matters.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b49a7850-7a8b-453e-899f-b871a2845b9e.pdf\", \"_id\": \"371c44fa-bcbf-4876-9aab-cd56757d0d16\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -6231,8 +6231,8 @@
       "sent_at": "2026-10-27T07:20:50.517373+00:00"
     },
     {
-      "message_id": "<939f1eceb936c2b7b9899b1725c4f12d58935b08b00b41f21f5e79ea918f2019@gmail.com>",
-      "sent_at": "2026-10-26T13:04:54.747090+00:00"
+      "message_id": "<9a703551941d134799f850642ec68b4d9692f25dcead91b3140def31e40b3c6a@gmail.com>",
+      "sent_at": "2026-10-28T13:58:54.800021+00:00"
     },
     {
       "message_id": "<9b839cdaaf816a799e80440435ed0dd14959ee4227f196da270326ccc9b2cf58@gmail.com>",
