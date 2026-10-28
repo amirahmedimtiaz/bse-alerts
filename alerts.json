@@ -3420,8 +3420,8 @@
       "company_key": "543981",
       "discovered_at": "2026-10-28T14:33:19.474773+00:00",
       "news_id": "3de8e1bf-7d08-475a-a50a-0915dd05e231",
-      "payload": "{\"NEWSID\": \"3de8e1bf-7d08-475a-a50a-0915dd05e231\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_3DE8E1BF-7D08-475A-A50A-0915DD05E231\", \"NEWSSUB\": \"Corporate Action-Board approves Dividend\", \"DT_TM\": \"2026-10-28T20:00:51.437\", \"NEWS_DT\": \"2026-10-28T20:00:51.437\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ece71c10-68b8-4796-9485-658b2771d097.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith intimation relating to the approval of the Interim Dividend by the Board.\", \"CATEGORYNAME\": \"Corp. Action\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 27, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T20:00:51\", \"DissemDT\": \"2026-10-28T20:00:51.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 8651200, \"SUBCATNAME\": \"Dividend\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Corporate Action-Board approves Dividend\", \"_published\": \"2026-10-28T20:00:51.437\", \"_category\": \"Corp. Action\", \"_headline\": \"Enclosed herewith intimation relating to the approval of the Interim Dividend by the Board.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ece71c10-68b8-4796-9485-658b2771d097.pdf\", \"_id\": \"3de8e1bf-7d08-475a-a50a-0915dd05e231\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -3672,8 +3672,8 @@
       "company_key": "544238",
       "discovered_at": "2026-10-28T14:33:24.473345+00:00",
       "news_id": "6f447549-be03-4575-a939-aa41a8124456",
-      "payload": "{\"NEWSID\": \"6f447549-be03-4575-a939-aa41a8124456\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_6F447549-BE03-4575-A939-AA41A8124456\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-28T19:58:43.053\", \"NEWS_DT\": \"2026-10-28T19:58:43.053\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5f734cf1-a737-4fba-9b84-1304f2c81576.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), 2015, we wish to inform you that the Company will host an Earnings Call with Analyst/Investors on Thursday, November 05, 2026 at 10:00 A.M. (IST) to discuss the financial results of the company for the quarter ended September 30, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), 2015, we wish to inform ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-28T19:58:43\", \"DissemDT\": \"2026-10-28T19:58:43.053\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 777736, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"6f447549-be03-4575-a939-aa41a8124456\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14689888, \"DataInsDate\": \"2026-10-28T19:58:43.013\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-28T19:58:43.053\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), 2015, we wish to inform ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5f734cf1-a737-4fba-9b84-1304f2c81576.pdf\", \"_id\": \"6f447549-be03-4575-a939-aa41a8124456\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -6197,6 +6197,10 @@
       "sent_at": "2026-10-26T15:44:55.580090+00:00"
     },
     {
+      "message_id": "<16dde9c411b512c4338c68e7e9c972bc7a5e518a1534a32b33b4651b4c91b86f@gmail.com>",
+      "sent_at": "2026-10-28T14:33:37.417178+00:00"
+    },
+    {
       "message_id": "<172713fcd9234a62b974d41e9efa15b43351512131c9e76980c30ee285a562d3@gmail.com>",
       "sent_at": "2026-10-27T13:17:00.121485+00:00"
     },
@@ -6275,10 +6279,6 @@
     {
       "message_id": "<7d3a2e95f0226055d391a8425aea14d90d828c4c6016d683817d121d7311e1ea@gmail.com>",
       "sent_at": "2026-10-28T06:48:01.387724+00:00"
-    },
-    {
-      "message_id": "<82de9d2dbfa33da2899dfcf06136bc545fa197c1058de37aaf04a39e82b89ed8@gmail.com>",
-      "sent_at": "2026-10-26T14:25:05.140452+00:00"
     },
     {
       "message_id": "<8df80c3cce944303a08d1a1e92d3b7db1987f3f0b3f491ff074107ac8d96d62f@gmail.com>",
