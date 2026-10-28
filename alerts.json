@@ -6340,7 +6340,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T14:28:36.193132+00:00\", \"seconds\": 22.25}"
+      "value": "{\"companies\": 52, \"collected\": 2, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 2, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-28T14:33:38.712188+00:00\", \"seconds\": 24.77}"
     },
     {
       "key": "migration_date",
