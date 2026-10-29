@@ -1831,8 +1831,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-29T14:19:51.312032+00:00",
       "news_id": "aeeab4c4-a344-4b4c-a374-062aef63d7a3",
-      "payload": "{\"NEWSID\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_AEEAB4C4-A344-4B4C-A374-062AEF63D7A3\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-29T19:47:42.95\", \"NEWS_DT\": \"2026-10-29T19:47:42.95\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b35b31b0-2acc-44ae-9e0d-029122f1d7a7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Audio Recording of post conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T19:47:42\", \"DissemDT\": \"2026-10-29T19:47:42.95\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 158840, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\", \"INVESTOR_PRESENTATION\": \"7fe3cb6d-200f-4792-acd1-e3e8c35b733d.pdf\", \"RECORDID\": 14703977, \"DataInsDate\": \"2026-10-29T19:47:42.92\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fe3cb6d-200f-4792-acd1-e3e8c35b733d.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-29T19:47:42.95\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Audio Recording of post conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b35b31b0-2acc-44ae-9e0d-029122f1d7a7.pdf\", \"_id\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6312,10 +6312,6 @@
       "sent_at": "2026-10-28T14:33:37.417178+00:00"
     },
     {
-      "message_id": "<172713fcd9234a62b974d41e9efa15b43351512131c9e76980c30ee285a562d3@gmail.com>",
-      "sent_at": "2026-10-27T13:17:00.121485+00:00"
-    },
-    {
       "message_id": "<2443000e766527504ba5c3c9d025d07c8f67e1e05d2bfd2f706887ec576fd936@gmail.com>",
       "sent_at": "2026-10-27T16:01:59.041316+00:00"
     },
@@ -6356,10 +6352,6 @@
       "sent_at": "2026-10-29T12:54:51.550863+00:00"
     },
     {
-      "message_id": "<4b59ab70edd3b0f67759973f374b7aaa0783b9cf2519f12d2aa18e04fe813c07@gmail.com>",
-      "sent_at": "2026-10-27T13:36:58.417918+00:00"
-    },
-    {
       "message_id": "<4c0767e7c479524ea6b77adfcfbe588c26ad828141a06c6d597dc35b61bf4802@gmail.com>",
       "sent_at": "2026-10-29T07:34:42.929554+00:00"
     },
@@ -6370,6 +6362,10 @@
     {
       "message_id": "<541dbd70bcaf234ad0efd70c6e9a2de872c65b28b70cc88d743b01d791152914@gmail.com>",
       "sent_at": "2026-10-29T11:29:51.407176+00:00"
+    },
+    {
+      "message_id": "<56546f9566f02a08b2648c4e39fd4a6bf33c0d2dddbc96d0aa64569bfdaf8517@gmail.com>",
+      "sent_at": "2026-10-29T14:20:36.188521+00:00"
     },
     {
       "message_id": "<56670b72db9c0ff865d10185a13114acaa50515b12c757faa545518b567dfb96@gmail.com>",
@@ -6422,10 +6418,6 @@
     {
       "message_id": "<c00ebc4381b86602d9ff49bf910e6578a4b5884132ec51c0a58331817bc84fe3@gmail.com>",
       "sent_at": "2026-10-29T08:14:35.106033+00:00"
-    },
-    {
-      "message_id": "<c5ab4757897af3f03226a728e9edbd65f0e5363ec195be6371759053e0c59131@gmail.com>",
-      "sent_at": "2026-10-27T13:46:58.252573+00:00"
     },
     {
       "message_id": "<c82e19cc713457bb46c0a26fa315b44a5207d3cb096cc608d89a993261b9720d@gmail.com>",
