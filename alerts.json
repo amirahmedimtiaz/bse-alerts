@@ -1829,6 +1829,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-10-29T14:19:51.312032+00:00",
+      "news_id": "aeeab4c4-a344-4b4c-a374-062aef63d7a3",
+      "payload": "{\"NEWSID\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_AEEAB4C4-A344-4B4C-A374-062AEF63D7A3\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-29T19:47:42.95\", \"NEWS_DT\": \"2026-10-29T19:47:42.95\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b35b31b0-2acc-44ae-9e0d-029122f1d7a7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Audio Recording of post conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T19:47:42\", \"DissemDT\": \"2026-10-29T19:47:42.95\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 158840, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\", \"INVESTOR_PRESENTATION\": \"7fe3cb6d-200f-4792-acd1-e3e8c35b733d.pdf\", \"RECORDID\": 14703977, \"DataInsDate\": \"2026-10-29T19:47:42.92\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fe3cb6d-200f-4792-acd1-e3e8c35b733d.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-29T19:47:42.95\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Audio Recording of post conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b35b31b0-2acc-44ae-9e0d-029122f1d7a7.pdf\", \"_id\": \"aeeab4c4-a344-4b4c-a374-062aef63d7a3\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-10-28T06:12:41.823568+00:00",
       "news_id": "b277610d-1a03-40ea-9e4a-1df8500c5967",
       "payload": null,
