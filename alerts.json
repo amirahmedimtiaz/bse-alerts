@@ -1850,6 +1850,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-10-29T12:54:32.737282+00:00",
+      "news_id": "d90809cf-2b0b-4fb8-a5c1-d5a9588ba185",
+      "payload": "{\"NEWSID\": \"d90809cf-2b0b-4fb8-a5c1-d5a9588ba185\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_D90809CF-2B0B-4FB8-A5C1-D5A9588BA185\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-10-29T18:24:31.963\", \"NEWS_DT\": \"2026-10-29T18:24:31.963\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0c493ff3-26d4-4795-822c-c70f91d1deb1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T18:24:31\", \"DissemDT\": \"2026-10-29T18:24:31.963\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 421780, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-10-29T18:24:31.963\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c493ff3-26d4-4795-822c-c70f91d1deb1.pdf\", \"_id\": \"d90809cf-2b0b-4fb8-a5c1-d5a9588ba185\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-09-23T05:12:07.584501+00:00",
       "news_id": "dcd695a9-7f2d-415e-98bb-e0b26f6f5e19",
       "payload": null,
