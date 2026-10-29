@@ -1852,8 +1852,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-29T12:54:32.737282+00:00",
       "news_id": "d90809cf-2b0b-4fb8-a5c1-d5a9588ba185",
-      "payload": "{\"NEWSID\": \"d90809cf-2b0b-4fb8-a5c1-d5a9588ba185\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_D90809CF-2B0B-4FB8-A5C1-D5A9588BA185\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-10-29T18:24:31.963\", \"NEWS_DT\": \"2026-10-29T18:24:31.963\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0c493ff3-26d4-4795-822c-c70f91d1deb1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T18:24:31\", \"DissemDT\": \"2026-10-29T18:24:31.963\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 421780, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-10-29T18:24:31.963\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c493ff3-26d4-4795-822c-c70f91d1deb1.pdf\", \"_id\": \"d90809cf-2b0b-4fb8-a5c1-d5a9588ba185\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6345,16 +6345,16 @@
       "sent_at": "2026-10-28T07:53:01.247368+00:00"
     },
     {
+      "message_id": "<4a5073ce4934bd37069094be29dd43fe84d42fea3dd20a0b6d0cb0ef021e3d01@gmail.com>",
+      "sent_at": "2026-10-29T12:54:51.550863+00:00"
+    },
+    {
       "message_id": "<4b59ab70edd3b0f67759973f374b7aaa0783b9cf2519f12d2aa18e04fe813c07@gmail.com>",
       "sent_at": "2026-10-27T13:36:58.417918+00:00"
     },
     {
       "message_id": "<4c0767e7c479524ea6b77adfcfbe588c26ad828141a06c6d597dc35b61bf4802@gmail.com>",
       "sent_at": "2026-10-29T07:34:42.929554+00:00"
-    },
-    {
-      "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
-      "sent_at": "2026-10-27T12:31:13.294750+00:00"
     },
     {
       "message_id": "<4f1ba41b2d86fa38c4e99ebd341e036393436c76d594c27fd4ae7d5b77de3ec7@gmail.com>",
@@ -6383,10 +6383,6 @@
     {
       "message_id": "<5ae57a54a93c201c766133e0b928f7622736f6deb7ed0a78a71630933c1af9fa@gmail.com>",
       "sent_at": "2026-10-28T06:13:11.018109+00:00"
-    },
-    {
-      "message_id": "<61198ff9bf5b58b3bbb93725bc12e343ce34c93e0110325b89c84a9e808bee91@gmail.com>",
-      "sent_at": "2026-10-27T12:41:06.819771+00:00"
     },
     {
       "message_id": "<7756e4d99bf78dda9f903ae03d46e3f14b179eb1f785799048881ab73cb331a0@gmail.com>",
