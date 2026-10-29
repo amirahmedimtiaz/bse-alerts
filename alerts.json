@@ -1150,6 +1150,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-10-29T09:39:13.985151+00:00",
+      "news_id": "551c6d86-d769-4654-aa70-a8893ee74a4a",
+      "payload": "{\"NEWSID\": \"551c6d86-d769-4654-aa70-a8893ee74a4a\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_551C6D86-D769-4654-AA70-A8893EE74A4A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-29T15:08:06.15\", \"NEWS_DT\": \"2026-10-29T15:08:06.15\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"19e46d71-053c-4863-a3c3-d51b816221de.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Schedule of Q2 FY27 earnings call on 4 November, 2026 at 10.00 AM.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T15:08:06\", \"DissemDT\": \"2026-10-29T15:08:06.153\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1305413, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-29T15:08:06.15\", \"_category\": \"Company Update\", \"_headline\": \"Schedule of Q2 FY27 earnings call on 4 November, 2026 at 10.00 AM.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/19e46d71-053c-4863-a3c3-d51b816221de.pdf\", \"_id\": \"551c6d86-d769-4654-aa70-a8893ee74a4a\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-28T13:40:29.566974+00:00",
       "news_id": "562a25df-f0c6-48b7-acfb-cd351433d10a",
       "payload": null,
