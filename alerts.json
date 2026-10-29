@@ -823,8 +823,8 @@
       "company_key": "517569",
       "discovered_at": "2026-10-29T11:59:29.074822+00:00",
       "news_id": "287c5ec8-3efe-4df7-9b02-fb6904ef6ba4",
-      "payload": "{\"NEWSID\": \"287c5ec8-3efe-4df7-9b02-fb6904ef6ba4\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_287C5EC8-3EFE-4DF7-9B02-FB6904EF6BA4\", \"NEWSSUB\": \"Transcript Of Analysts/Investors Call Pertaining To The Un-Audited Financial Results For The Quarter Ended On September 30, 2026.\", \"DT_TM\": \"2026-10-29T17:24:55.85\", \"NEWS_DT\": \"2026-10-29T17:24:55.85\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4e54d4d8-32a5-4d3c-aca0-c9459e230fa8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcripts of Analysts/Investors Call pertaining to the Un-Audited Financial Results for the quarter ended on September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T17:24:55\", \"DissemDT\": \"2026-10-29T17:24:55.85\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1213063, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Transcript Of Analysts/Investors Call Pertaining To The Un-Audited Financial Results For The Quarter Ended On September 30, 2026.\", \"_published\": \"2026-10-29T17:24:55.85\", \"_category\": \"Company Update\", \"_headline\": \"Transcripts of Analysts/Investors Call pertaining to the Un-Audited Financial Results for the quarter ended on September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e54d4d8-32a5-4d3c-aca0-c9459e230fa8.pdf\", \"_id\": \"287c5ec8-3efe-4df7-9b02-fb6904ef6ba4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -6281,6 +6281,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<00ac2566811fd25c9831155325072fa08eec9367d3330396384e4957caa4a2f4@gmail.com>",
+      "sent_at": "2026-10-29T11:59:50.785376+00:00"
+    },
     {
       "message_id": "<01287e37d1fc1724368ace929a041914b4d454444b70997bc352ba76ec178c15@gmail.com>",
       "sent_at": "2026-10-29T06:39:33.211547+00:00"
