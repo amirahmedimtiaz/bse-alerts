@@ -1731,6 +1731,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-10-29T08:39:14.720762+00:00",
+      "news_id": "72c32e86-3acc-4996-ba4d-79b1a30841d1",
+      "payload": "{\"NEWSID\": \"72c32e86-3acc-4996-ba4d-79b1a30841d1\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_72C32E86-3ACC-4996-BA4D-79B1A30841D1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-10-29T14:05:00.053\", \"NEWS_DT\": \"2026-10-29T14:05:00.053\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c2f52693-6f56-487c-8617-b2b4aa7a8bcf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Approval for further Investment in Petroleum Specialities Pte. Ltd. WOS of the Company.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T14:05:00\", \"DissemDT\": \"2026-10-29T14:05:00.053\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6050840, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-10-29T14:05:00.053\", \"_category\": \"Company Update\", \"_headline\": \"Approval for further Investment in Petroleum Specialities Pte. Ltd. WOS of the Company.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c2f52693-6f56-487c-8617-b2b4aa7a8bcf.pdf\", \"_id\": \"72c32e86-3acc-4996-ba4d-79b1a30841d1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-10-21T10:41:58.082243+00:00",
       "news_id": "7479f156-f55d-4183-9169-4e453c952ccc",
       "payload": null,
