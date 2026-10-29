@@ -4043,8 +4043,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-29T18:44:53.182245+00:00",
       "news_id": "8a3e0cdc-6e18-4292-913a-412263b4b978",
-      "payload": "{\"NEWSID\": \"8a3e0cdc-6e18-4292-913a-412263b4b978\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_8A3E0CDC-6E18-4292-913A-412263B4B978\", \"NEWSSUB\": \"Announcement Under Regulation 30\", \"DT_TM\": \"2026-10-30T00:14:28.81\", \"NEWS_DT\": \"2026-10-30T00:14:28.81\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cbdee293-439b-4e2f-999a-a87286e1ca4a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Announcement under Regulation 30 - General Updates\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T00:14:28\", \"DissemDT\": \"2026-10-30T00:14:28.81\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 167777, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30\", \"_published\": \"2026-10-30T00:14:28.81\", \"_category\": \"Company Update\", \"_headline\": \"Announcement under Regulation 30 - General Updates\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cbdee293-439b-4e2f-999a-a87286e1ca4a.pdf\", \"_id\": \"8a3e0cdc-6e18-4292-913a-412263b4b978\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6416,6 +6416,10 @@
     {
       "message_id": "<c82e19cc713457bb46c0a26fa315b44a5207d3cb096cc608d89a993261b9720d@gmail.com>",
       "sent_at": "2026-10-28T04:53:00.906107+00:00"
+    },
+    {
+      "message_id": "<d194e7515d5c6ddfc39a1d4f6b8fba5d7863e6a5cac63339d5f415560e6dd645@gmail.com>",
+      "sent_at": "2026-10-29T18:45:09.752039+00:00"
     },
     {
       "message_id": "<dbbed5a3929a347fc2dcccf23b9f6ee9a076ea5542420ff0fdfdad87c4615d9d@gmail.com>",
