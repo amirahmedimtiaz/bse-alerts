@@ -1752,6 +1752,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-10-29T08:34:14.249573+00:00",
+      "news_id": "9db3cad2-b8a6-4b01-8a83-3d1c79b9d1c0",
+      "payload": "{\"NEWSID\": \"9db3cad2-b8a6-4b01-8a83-3d1c79b9d1c0\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_9DB3CAD2-B8A6-4B01-8A83-3D1C79B9D1C0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-10-29T13:59:35.307\", \"NEWS_DT\": \"2026-10-29T13:59:35.307\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9da98cb7-1f01-4960-b46b-fd6320e89bad.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Allotment of 2,720 Equity Shares against exercise of ESARs.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T13:59:35\", \"DissemDT\": \"2026-10-29T13:59:35.307\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6050840, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-10-29T13:59:35.307\", \"_category\": \"Company Update\", \"_headline\": \"Allotment of 2,720 Equity Shares against exercise of ESARs.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9da98cb7-1f01-4960-b46b-fd6320e89bad.pdf\", \"_id\": \"9db3cad2-b8a6-4b01-8a83-3d1c79b9d1c0\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-09-23T05:12:07.584497+00:00",
       "news_id": "a2db2d92-897a-4daa-9a71-25ea0a247454",
       "payload": null,
@@ -1798,6 +1805,13 @@
       "news_id": "c18d0c15-db51-4219-9bb2-26696425a4ca",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "532259",
+      "discovered_at": "2026-10-29T08:34:14.249753+00:00",
+      "news_id": "d54ebabd-0528-4b7d-a557-38cb8d0d1cd5",
+      "payload": "{\"NEWSID\": \"d54ebabd-0528-4b7d-a557-38cb8d0d1cd5\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_D54EBABD-0528-4B7D-A557-38CB8D0D1CD5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-10-29T14:02:03.127\", \"NEWS_DT\": \"2026-10-29T14:02:03.127\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"425924ba-d8f2-41c0-aa4f-cc3805987a6e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Re-appointment of Independent Director.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T14:02:03\", \"DissemDT\": \"2026-10-29T14:02:03.127\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6050840, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-10-29T14:02:03.127\", \"_category\": \"Company Update\", \"_headline\": \"Re-appointment of Independent Director.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/425924ba-d8f2-41c0-aa4f-cc3805987a6e.pdf\", \"_id\": \"d54ebabd-0528-4b7d-a557-38cb8d0d1cd5\"}",
+      "status": "pending"
     },
     {
       "company_key": "532259",
