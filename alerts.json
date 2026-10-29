@@ -5772,8 +5772,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-10-29T19:34:54.028026+00:00",
       "news_id": "106835647",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Updates\", \"dt\": \"30-Oct-2026 01:04:23\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30102026010409_Intimation_29-10-2026.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"30-Oct-2026 01:04:23\", \"sort_date\": \"2026-10-30 01:04:23\", \"seq_id\": \"106835647\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding 'New Business Order'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"736.88 KB\", \"attFileSize\": \"736.88 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-10-30 01:04:23\", \"_category\": \"Updates\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding 'New Business Order'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30102026010409_Intimation_29-10-2026.pdf\", \"_id\": \"106835647\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -6433,8 +6433,8 @@
       "sent_at": "2026-10-28T11:08:18.032681+00:00"
     },
     {
-      "message_id": "<e5aa2798ea3c52c65ca882d4a5b4240cfbb8f053401067365b2634c7605181bb@gmail.com>",
-      "sent_at": "2026-10-27T18:57:30.831628+00:00"
+      "message_id": "<e38ac4c73ce3e78f68924b8c4cd0d1edcb75b6ed40895b78ad7a098fcbd5aa53@gmail.com>",
+      "sent_at": "2026-10-29T19:35:08.250235+00:00"
     },
     {
       "message_id": "<f36d6b43fa2168a10831b14f2484bfce6aecf83e0c83132ba0df0bb93e4f242f@gmail.com>",
