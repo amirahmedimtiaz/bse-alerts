@@ -1747,8 +1747,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-29T08:24:12.138786+00:00",
       "news_id": "9d18f5ff-48f7-4e65-b5ee-8478828146d5",
-      "payload": "{\"NEWSID\": \"9d18f5ff-48f7-4e65-b5ee-8478828146d5\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_9D18F5FF-48F7-4E65-B5EE-8478828146D5\", \"NEWSSUB\": \"Un-Audited Financial Results (Standalone And Consolidated) For The Second Quarter And Half Year Ended September 30, 2026.\", \"DT_TM\": \"2026-10-29T13:52:13.673\", \"NEWS_DT\": \"2026-10-29T13:52:13.673\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f99ee437-60bb-453d-a742-5900973eee21.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Una-audited Financial Results for the Second Quarter and Half year ended 30.09.2026.\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T13:52:13\", \"DissemDT\": \"2026-10-29T13:52:13.673\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6050840, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Un-Audited Financial Results (Standalone And Consolidated) For The Second Quarter And Half Year Ended September 30, 2026.\", \"_published\": \"2026-10-29T13:52:13.673\", \"_category\": \"Result\", \"_headline\": \"Una-audited Financial Results for the Second Quarter and Half year ended 30.09.2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f99ee437-60bb-453d-a742-5900973eee21.pdf\", \"_id\": \"9d18f5ff-48f7-4e65-b5ee-8478828146d5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6297,6 +6297,10 @@
     {
       "message_id": "<5798377a3011a4a24634cc8254d46055b687d37641a51440bbfa16f868ca1f8a@gmail.com>",
       "sent_at": "2026-10-28T09:58:19.409562+00:00"
+    },
+    {
+      "message_id": "<591f7386a5956d932bd4890d442c2d20d7770a010bf811f90f9e391cb2e8a2de@gmail.com>",
+      "sent_at": "2026-10-29T08:24:32.093067+00:00"
     },
     {
       "message_id": "<59e00c149fd5e8b4ee6c78dc25431bdd26647d48e38acc3740a852cdbdb5802b@gmail.com>",
