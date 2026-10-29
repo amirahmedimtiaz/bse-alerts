@@ -1628,8 +1628,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-29T08:49:11.933741+00:00",
       "news_id": "10dba8a8-a152-4886-8b9d-46a885b814f2",
-      "payload": "{\"NEWSID\": \"10dba8a8-a152-4886-8b9d-46a885b814f2\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_10DBA8A8-A152-4886-8B9D-46A885B814F2\", \"NEWSSUB\": \"Corporate Presentation - October, 2026.\", \"DT_TM\": \"2026-10-29T14:17:13.93\", \"NEWS_DT\": \"2026-10-29T14:17:13.93\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"464ea962-9d43-4a07-8ea6-b1c7fa8dc8f1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Corporate Presentation - October, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T14:17:13\", \"DissemDT\": \"2026-10-29T14:17:13.93\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6680995, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Corporate Presentation - October, 2026.\", \"_published\": \"2026-10-29T14:17:13.93\", \"_category\": \"Company Update\", \"_headline\": \"Corporate Presentation - October, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/464ea962-9d43-4a07-8ea6-b1c7fa8dc8f1.pdf\", \"_id\": \"10dba8a8-a152-4886-8b9d-46a885b814f2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -1663,8 +1663,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-29T08:49:11.933568+00:00",
       "news_id": "246326fc-95c7-4104-b9d8-e4c0430ce979",
-      "payload": "{\"NEWSID\": \"246326fc-95c7-4104-b9d8-e4c0430ce979\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_246326FC-95C7-4104-B9D8-E4C0430CE979\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-29T14:14:26.317\", \"NEWS_DT\": \"2026-10-29T14:14:26.317\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4d9589f7-9751-448f-a4e3-7af637b1bfe1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earnings Call Updates - Q2 & H1 FY27\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T14:14:26\", \"DissemDT\": \"2026-10-29T14:14:26.317\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 820192, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-29T14:14:26.317\", \"_category\": \"Company Update\", \"_headline\": \"Earnings Call Updates - Q2 & H1 FY27\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4d9589f7-9751-448f-a4e3-7af637b1bfe1.pdf\", \"_id\": \"246326fc-95c7-4104-b9d8-e4c0430ce979\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6427,6 +6427,10 @@
     {
       "message_id": "<f64e2d90fffe21ae44f693032d234b6cb5d84db46caf26befa1c009d756eef56@gmail.com>",
       "sent_at": "2026-10-28T12:23:17.427361+00:00"
+    },
+    {
+      "message_id": "<ff877f3054bc6668f227997f2cdcf4fb234909e3ce702e78af08488f93df23dd@gmail.com>",
+      "sent_at": "2026-10-29T08:49:31.589066+00:00"
     }
   ],
   "metadata": [
