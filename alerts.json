@@ -1899,6 +1899,13 @@
     },
     {
       "company_key": "532374",
+      "discovered_at": "2026-10-29T07:34:15.397956+00:00",
+      "news_id": "21e1850b-ec22-43ea-9e29-f2c7990a44ab",
+      "payload": "{\"NEWSID\": \"21e1850b-ec22-43ea-9e29-f2c7990a44ab\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_21E1850B-EC22-43EA-9E29-F2C7990A44AB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-10-29T12:59:16.5\", \"NEWS_DT\": \"2026-10-29T12:59:16.5\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"83c27364-b1b0-4dfc-99dd-3ecd3fef85da.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Allotment of shares under ESOP Scheme 2010 and 2016.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T12:59:16\", \"DissemDT\": \"2026-10-29T12:59:16.5\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3588470, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-10-29T12:59:16.5\", \"_category\": \"Company Update\", \"_headline\": \"Allotment of shares under ESOP Scheme 2010 and 2016.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/83c27364-b1b0-4dfc-99dd-3ecd3fef85da.pdf\", \"_id\": \"21e1850b-ec22-43ea-9e29-f2c7990a44ab\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532374",
       "discovered_at": "2026-09-28T11:00:13.205351+00:00",
       "news_id": "484d8741-3da7-42d6-8790-61f3a9626e74",
       "payload": null,
