@@ -4160,6 +4160,13 @@
     },
     {
       "company_key": "544291",
+      "discovered_at": "2026-10-29T17:30:04.905153+00:00",
+      "news_id": "0505c823-ef50-4342-a557-f77be455635c",
+      "payload": "{\"NEWSID\": \"0505c823-ef50-4342-a557-f77be455635c\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_0505C823-EF50-4342-A557-F77BE455635C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-29T22:57:12.847\", \"NEWS_DT\": \"2026-10-29T22:57:12.847\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d0ad9c25-2eae-4014-9c2a-2f66d492f673.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Conference Call for the Unaudited Financial Results for half Year ended on September 30,2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T22:57:12\", \"DissemDT\": \"2026-10-29T22:57:12.847\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 288148, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-29T22:57:12.847\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Conference Call for the Unaudited Financial Results for half Year ended on September 30,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d0ad9c25-2eae-4014-9c2a-2f66d492f673.pdf\", \"_id\": \"0505c823-ef50-4342-a557-f77be455635c\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544291",
       "discovered_at": "2026-10-12T04:27:49.904740+00:00",
       "news_id": "0e498d11-7594-4397-aa16-54301f14873c",
       "payload": null,
