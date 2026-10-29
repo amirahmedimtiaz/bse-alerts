@@ -1675,6 +1675,13 @@
     },
     {
       "company_key": "532259",
+      "discovered_at": "2026-10-29T08:14:13.161089+00:00",
+      "news_id": "50fe5d26-2b13-4688-86f3-6ac7137a4755",
+      "payload": "{\"NEWSID\": \"50fe5d26-2b13-4688-86f3-6ac7137a4755\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_50FE5D26-2B13-4688-86F3-6AC7137A4755\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On October 29, 2026\", \"DT_TM\": \"2026-10-29T13:43:41.607\", \"NEWS_DT\": \"2026-10-29T13:43:41.607\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7af14af8-188f-4f6a-934d-dec67f17806a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting held on October 29, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T13:43:35\", \"DissemDT\": \"2026-10-29T13:43:41.607\", \"TimeDiff\": \"00:00:06\", \"Fld_Attachsize\": 6050840, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On October 29, 2026\", \"_published\": \"2026-10-29T13:43:41.607\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting held on October 29, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7af14af8-188f-4f6a-934d-dec67f17806a.pdf\", \"_id\": \"50fe5d26-2b13-4688-86f3-6ac7137a4755\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "532259",
       "discovered_at": "2026-09-23T05:12:07.584500+00:00",
       "news_id": "584c3c5c-6d64-436e-b48d-8736d423b2bc",
       "payload": null,
