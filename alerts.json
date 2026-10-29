@@ -1901,8 +1901,8 @@
       "company_key": "532374",
       "discovered_at": "2026-10-29T07:34:15.397956+00:00",
       "news_id": "21e1850b-ec22-43ea-9e29-f2c7990a44ab",
-      "payload": "{\"NEWSID\": \"21e1850b-ec22-43ea-9e29-f2c7990a44ab\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_21E1850B-EC22-43EA-9E29-F2C7990A44AB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-10-29T12:59:16.5\", \"NEWS_DT\": \"2026-10-29T12:59:16.5\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"83c27364-b1b0-4dfc-99dd-3ecd3fef85da.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Allotment of shares under ESOP Scheme 2010 and 2016.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T12:59:16\", \"DissemDT\": \"2026-10-29T12:59:16.5\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3588470, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-10-29T12:59:16.5\", \"_category\": \"Company Update\", \"_headline\": \"Allotment of shares under ESOP Scheme 2010 and 2016.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/83c27364-b1b0-4dfc-99dd-3ecd3fef85da.pdf\", \"_id\": \"21e1850b-ec22-43ea-9e29-f2c7990a44ab\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -6241,10 +6241,6 @@
       "sent_at": "2026-10-28T14:58:39.472587+00:00"
     },
     {
-      "message_id": "<36587346aa5f2923ecd3c44a32bf4fae90f49a139f31976544b36a42f35f397e@gmail.com>",
-      "sent_at": "2026-10-27T07:16:03.154153+00:00"
-    },
-    {
       "message_id": "<3a350140687eba5a61a0a0a784fad5e8d5b9059e71ac77f75a5aa1d417afc4b3@gmail.com>",
       "sent_at": "2026-10-28T11:53:17.922024+00:00"
     },
@@ -6275,6 +6271,10 @@
     {
       "message_id": "<4b59ab70edd3b0f67759973f374b7aaa0783b9cf2519f12d2aa18e04fe813c07@gmail.com>",
       "sent_at": "2026-10-27T13:36:58.417918+00:00"
+    },
+    {
+      "message_id": "<4c0767e7c479524ea6b77adfcfbe588c26ad828141a06c6d597dc35b61bf4802@gmail.com>",
+      "sent_at": "2026-10-29T07:34:42.929554+00:00"
     },
     {
       "message_id": "<4d67a21f7dfd179e053a2cb30351a30a5b8e517beb3eed5e4ef4a2acd66e30a1@gmail.com>",
@@ -6313,10 +6313,6 @@
       "sent_at": "2026-10-28T06:48:01.387724+00:00"
     },
     {
-      "message_id": "<8df80c3cce944303a08d1a1e92d3b7db1987f3f0b3f491ff074107ac8d96d62f@gmail.com>",
-      "sent_at": "2026-10-27T07:20:50.517373+00:00"
-    },
-    {
       "message_id": "<9a703551941d134799f850642ec68b4d9692f25dcead91b3140def31e40b3c6a@gmail.com>",
       "sent_at": "2026-10-28T13:58:54.800021+00:00"
     },
@@ -6331,10 +6327,6 @@
     {
       "message_id": "<bddb5328176308f0cc10886d31045126b867c4d98759188c608bafc4612c68ba@gmail.com>",
       "sent_at": "2026-10-28T09:53:19.395224+00:00"
-    },
-    {
-      "message_id": "<be02a7a6e1750e788ea43b04e3ccba51f02c215a197e3c0cd70403d632c9824a@gmail.com>",
-      "sent_at": "2026-10-27T06:55:50.021047+00:00"
     },
     {
       "message_id": "<c1d7f670864b9840e7fa6be2cf91e0ebf9badb3ca1009d79ce4b26a9c3bf1fef@gmail.com>",
