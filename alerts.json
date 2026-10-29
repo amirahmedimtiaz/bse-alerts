@@ -2839,8 +2839,8 @@
       "company_key": "540795",
       "discovered_at": "2026-10-29T06:39:09.065953+00:00",
       "news_id": "c177f3bd-c2aa-43d6-bf42-1da21ae9ee5c",
-      "payload": "{\"NEWSID\": \"c177f3bd-c2aa-43d6-bf42-1da21ae9ee5c\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_C177F3BD-C2AA-43D6-BF42-1DA21AE9EE5C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-29T12:08:47.073\", \"NEWS_DT\": \"2026-10-29T12:08:47.073\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b0a7b391-3679-4c6d-80bc-2b3185ddabab.pdf\", \"MORE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the conference call held on Tuesday, October 27, 2026 to discuss the Un-Audited Financial Results for Quarter and Half- year ended September 30, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the conference call held on Tuesday, October ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T12:08:46\", \"DissemDT\": \"2026-10-29T12:08:47.073\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 1057034, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"c177f3bd-c2aa-43d6-bf42-1da21ae9ee5c\", \"INVESTOR_PRESENTATION\": \"c1191e1f-97b1-4860-a77b-6fb1e2f63c80.mp3\", \"RECORDID\": 14699482, \"DataInsDate\": \"2026-10-29T12:08:46.983\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/c1191e1f-97b1-4860-a77b-6fb1e2f63c80.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-29T12:08:47.073\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the conference call held on Tuesday, October ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b0a7b391-3679-4c6d-80bc-2b3185ddabab.pdf\", \"_id\": \"c177f3bd-c2aa-43d6-bf42-1da21ae9ee5c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -6198,6 +6198,10 @@
   ],
   "deliveries": [
     {
+      "message_id": "<01287e37d1fc1724368ace929a041914b4d454444b70997bc352ba76ec178c15@gmail.com>",
+      "sent_at": "2026-10-29T06:39:33.211547+00:00"
+    },
+    {
       "message_id": "<04919e637e6c1ee739a99edd9fb6ae9e1dfa314f1d0a8ca2a0d3908eccf80767@gmail.com>",
       "sent_at": "2026-10-27T09:56:08.900159+00:00"
     },
@@ -6212,10 +6216,6 @@
     {
       "message_id": "<10b8a76a8df2ae8efa129c87a255f380c6041f5ffc68cd56caf5b040def8a247@gmail.com>",
       "sent_at": "2026-10-27T11:06:05.432948+00:00"
-    },
-    {
-      "message_id": "<12f21fcdd113d1183f4f3647d824556dc748ab51b2b64e93a6dc1472432f965b@gmail.com>",
-      "sent_at": "2026-10-26T15:44:55.580090+00:00"
     },
     {
       "message_id": "<16dde9c411b512c4338c68e7e9c972bc7a5e518a1534a32b33b4651b4c91b86f@gmail.com>",
@@ -6342,16 +6342,8 @@
       "sent_at": "2026-10-28T04:53:00.906107+00:00"
     },
     {
-      "message_id": "<c9d2116afec71af9b7454cd29abe36f5d4abb87e7a062d83c7ec9c140d2053e2@gmail.com>",
-      "sent_at": "2026-10-26T15:35:20.987746+00:00"
-    },
-    {
       "message_id": "<dbbed5a3929a347fc2dcccf23b9f6ee9a076ea5542420ff0fdfdad87c4615d9d@gmail.com>",
       "sent_at": "2026-10-28T11:08:18.032681+00:00"
-    },
-    {
-      "message_id": "<dcc9bf62c5a464447b497309ba90c584679886adea97b18923e1f7087ddf4baa@gmail.com>",
-      "sent_at": "2026-10-26T16:19:54.467148+00:00"
     },
     {
       "message_id": "<e5aa2798ea3c52c65ca882d4a5b4240cfbb8f053401067365b2634c7605181bb@gmail.com>",
