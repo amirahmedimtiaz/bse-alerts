@@ -3621,6 +3621,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-10-29T11:29:28.633937+00:00",
+      "news_id": "d715a0dd-a82c-40a3-8646-b133ce2e2c53",
+      "payload": "{\"NEWSID\": \"d715a0dd-a82c-40a3-8646-b133ce2e2c53\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_D715A0DD-A82C-40A3-8646-B133CE2E2C53\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-10-29T16:57:06.99\", \"NEWS_DT\": \"2026-10-29T16:57:06.99\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e0e77f2a-540d-452a-8325-64cb011ddcd7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith the audio recording link of the Earnings Conference Call for the quarter and half-year ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-29T16:57:06\", \"DissemDT\": \"2026-10-29T16:57:06.99\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 551592, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"d715a0dd-a82c-40a3-8646-b133ce2e2c53\", \"INVESTOR_PRESENTATION\": \"5f4b463b-6634-46f5-a748-5af7df37abd0.pdf\", \"RECORDID\": 14702232, \"DataInsDate\": \"2026-10-29T16:57:06.92\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f4b463b-6634-46f5-a748-5af7df37abd0.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-10-29T16:57:06.99\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith the audio recording link of the Earnings Conference Call for the quarter and half-year ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0e77f2a-540d-452a-8325-64cb011ddcd7.pdf\", \"_id\": \"d715a0dd-a82c-40a3-8646-b133ce2e2c53\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-09-23T05:12:07.584714+00:00",
       "news_id": "d96539bc-d0c4-40db-9d14-95a76301b9b0",
       "payload": null,
