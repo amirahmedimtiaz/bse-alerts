@@ -2986,8 +2986,8 @@
       "company_key": "542652",
       "discovered_at": "2026-10-30T06:50:42.515882+00:00",
       "news_id": "0df598a9-08f7-48f3-b53d-f69d332706e2",
-      "payload": "{\"NEWSID\": \"0df598a9-08f7-48f3-b53d-f69d332706e2\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_0DF598A9-08F7-48F3-B53D-F69D332706E2\", \"NEWSSUB\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"DT_TM\": \"2026-10-30T12:17:22.42\", \"NEWS_DT\": \"2026-10-30T12:17:22.42\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c3d1ba29-6132-47b7-9f3b-79a294e53189.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 173, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T12:17:22\", \"DissemDT\": \"2026-10-30T12:17:22.42\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6978341, \"SUBCATNAME\": \"Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)\", \"_published\": \"2026-10-30T12:17:22.42\", \"_category\": \"Company Update\", \"_headline\": \"Order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c3d1ba29-6132-47b7-9f3b-79a294e53189.pdf\", \"_id\": \"0df598a9-08f7-48f3-b53d-f69d332706e2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -6343,6 +6343,10 @@
       "sent_at": "2026-10-28T14:33:37.417178+00:00"
     },
     {
+      "message_id": "<1830dde33215cec9e2a150f4df66899a40922b3d3c1d1467ebd88b9d804f8ea4@gmail.com>",
+      "sent_at": "2026-10-30T06:51:02.499827+00:00"
+    },
+    {
       "message_id": "<2d4016389ed716a3fff21a643e1058e8ee64ec5ce8149a863ce4129cfe77c114@gmail.com>",
       "sent_at": "2026-10-28T14:58:39.472587+00:00"
     },
@@ -6409,10 +6413,6 @@
     {
       "message_id": "<7756e4d99bf78dda9f903ae03d46e3f14b179eb1f785799048881ab73cb331a0@gmail.com>",
       "sent_at": "2026-10-28T14:03:39.283770+00:00"
-    },
-    {
-      "message_id": "<7d3a2e95f0226055d391a8425aea14d90d828c4c6016d683817d121d7311e1ea@gmail.com>",
-      "sent_at": "2026-10-28T06:48:01.387724+00:00"
     },
     {
       "message_id": "<9959ba019c526bbf34d8afb0fc11b8e87e3d65cb33a636543dd6849cdb418a52@gmail.com>",
