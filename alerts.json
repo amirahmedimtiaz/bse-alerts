@@ -5881,6 +5881,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:BHADORA",
+      "discovered_at": "2026-10-30T21:36:32.857019+00:00",
+      "news_id": "106837689",
+      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Structural Digital Database\", \"dt\": \"30-Oct-2026 23:08:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30102026230817_final__1_.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"30-Oct-2026 23:08:39\", \"sort_date\": \"2026-10-30 23:08:39\", \"seq_id\": \"106837689\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Company has submitted the Certificate for the quarter ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.44 MB\", \"attFileSize\": \"1.44 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Structural Digital Database\", \"_published\": \"2026-10-30 23:08:39\", \"_category\": \"Structural Digital Database\", \"_headline\": \"Company has submitted the Certificate for the quarter ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_30102026230817_final__1_.pdf\", \"_id\": \"106837689\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-10-10T10:05:15.892629+00:00",
       "news_id": "106813560",
