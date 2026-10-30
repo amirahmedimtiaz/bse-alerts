@@ -4351,15 +4351,15 @@
       "company_key": "544442",
       "discovered_at": "2026-10-30T20:41:38.681674+00:00",
       "news_id": "56986bf9-2fbb-4872-91b0-184561e93437",
-      "payload": "{\"NEWSID\": \"56986bf9-2fbb-4872-91b0-184561e93437\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_56986BF9-2FBB-4872-91B0-184561E93437\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-10-30T21:46:10.057\", \"NEWS_DT\": \"2026-10-30T21:46:10.057\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2fe89ab8-3515-4624-b011-85914f304e09.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation on Financial Results for the Half Year ended 30th September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 120, \"News_submission_dt\": \"2026-10-30T21:46:10\", \"DissemDT\": \"2026-10-30T21:46:10.057\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3138394, \"SUBCATNAME\": \"Investor Presentation\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-10-30T21:46:10.057\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation on Financial Results for the Half Year ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2fe89ab8-3515-4624-b011-85914f304e09.pdf\", \"_id\": \"56986bf9-2fbb-4872-91b0-184561e93437\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
       "discovered_at": "2026-10-30T20:41:38.681396+00:00",
       "news_id": "7257f3cb-43a6-4d27-8fa9-779876f44bdd",
-      "payload": "{\"NEWSID\": \"7257f3cb-43a6-4d27-8fa9-779876f44bdd\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_7257F3CB-43A6-4D27-8FA9-779876F44BDD\", \"NEWSSUB\": \"Board Meeting Outcome for Dated 30Th October 2026.\", \"DT_TM\": \"2026-10-30T21:34:53.133\", \"NEWS_DT\": \"2026-10-30T21:34:53.133\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3dab9ad9-0e12-4581-9ebd-6defb6a7a3bc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting dated 30th October 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 198, \"News_submission_dt\": \"2026-10-30T21:34:50\", \"DissemDT\": \"2026-10-30T21:34:53.133\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 4581709, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Board Meeting Outcome for Dated 30Th October 2026.\", \"_published\": \"2026-10-30T21:34:53.133\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting dated 30th October 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3dab9ad9-0e12-4581-9ebd-6defb6a7a3bc.pdf\", \"_id\": \"7257f3cb-43a6-4d27-8fa9-779876f44bdd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
@@ -4372,15 +4372,15 @@
       "company_key": "544442",
       "discovered_at": "2026-10-30T20:41:38.681567+00:00",
       "news_id": "b08c0c25-0c5a-4927-8653-cd229e17e78e",
-      "payload": "{\"NEWSID\": \"b08c0c25-0c5a-4927-8653-cd229e17e78e\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_B08C0C25-0C5A-4927-8653-CD229E17E78E\", \"NEWSSUB\": \"Financial Results For The Half Year Ended 30Th September 2026.\", \"DT_TM\": \"2026-10-30T21:39:39.027\", \"NEWS_DT\": \"2026-10-30T21:39:39.027\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5054ce1c-ef4b-43de-8548-dae700e5483b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Financial Results for the Half Year ended 30th September 2026.\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 30, \"News_submission_dt\": \"2026-10-30T21:39:39\", \"DissemDT\": \"2026-10-30T21:39:39.027\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4581709, \"SUBCATNAME\": \"Financial Results\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Financial Results For The Half Year Ended 30Th September 2026.\", \"_published\": \"2026-10-30T21:39:39.027\", \"_category\": \"Result\", \"_headline\": \"Financial Results for the Half Year ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5054ce1c-ef4b-43de-8548-dae700e5483b.pdf\", \"_id\": \"b08c0c25-0c5a-4927-8653-cd229e17e78e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
       "discovered_at": "2026-10-30T20:41:38.681648+00:00",
       "news_id": "fec731cf-f357-4475-ba3b-00928064bd12",
-      "payload": "{\"NEWSID\": \"fec731cf-f357-4475-ba3b-00928064bd12\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_FEC731CF-F357-4475-BA3B-00928064BD12\", \"NEWSSUB\": \"Regulation 32 Statement For The Half Year Ended 30Th September 2026.\", \"DT_TM\": \"2026-10-30T21:43:02.29\", \"NEWS_DT\": \"2026-10-30T21:43:02.29\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e6742de9-54d8-43ff-84df-0b29d2c71240.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Regulation 32 Statement for the Half Year ended 30th September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 84, \"News_submission_dt\": \"2026-10-30T21:43:02\", \"DissemDT\": \"2026-10-30T21:43:02.29\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 776820, \"SUBCATNAME\": \"Reg. 32 (1), (3) - Statement of Deviation & Variation\", \"BSENewsid\": null, \"Investor_Presentation\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Regulation 32 Statement For The Half Year Ended 30Th September 2026.\", \"_published\": \"2026-10-30T21:43:02.29\", \"_category\": \"Company Update\", \"_headline\": \"Regulation 32 Statement for the Half Year ended 30th September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e6742de9-54d8-43ff-84df-0b29d2c71240.pdf\", \"_id\": \"fec731cf-f357-4475-ba3b-00928064bd12\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -6514,16 +6514,16 @@
       "sent_at": "2026-10-29T18:45:09.752039+00:00"
     },
     {
+      "message_id": "<d9461686e6f32d5722f4529b34ae3ee55b2a457c75f87252c0f3a5dbd933c79d@gmail.com>",
+      "sent_at": "2026-10-30T20:42:09.021172+00:00"
+    },
+    {
       "message_id": "<e38ac4c73ce3e78f68924b8c4cd0d1edcb75b6ed40895b78ad7a098fcbd5aa53@gmail.com>",
       "sent_at": "2026-10-29T19:35:08.250235+00:00"
     },
     {
       "message_id": "<e8649aa111fcec12d08d97ae33b18f4d7d5911f521af32ee4527e842e210031b@gmail.com>",
       "sent_at": "2026-10-30T09:26:05.521170+00:00"
-    },
-    {
-      "message_id": "<f36d6b43fa2168a10831b14f2484bfce6aecf83e0c83132ba0df0bb93e4f242f@gmail.com>",
-      "sent_at": "2026-10-28T15:13:39.683161+00:00"
     },
     {
       "message_id": "<ff877f3054bc6668f227997f2cdcf4fb234909e3ce702e78af08488f93df23dd@gmail.com>",
