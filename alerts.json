@@ -5030,8 +5030,8 @@
       "company_key": "544793",
       "discovered_at": "2026-10-30T07:10:43.247328+00:00",
       "news_id": "aab7b5cf-c7ce-4b43-bd91-a8691f41e2c6",
-      "payload": "{\"NEWSID\": \"aab7b5cf-c7ce-4b43-bd91-a8691f41e2c6\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_AAB7B5CF-C7CE-4B43-BD91-A8691F41E2C6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-30T12:37:51.56\", \"NEWS_DT\": \"2026-10-30T12:37:51.56\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b62fe25e-1017-43f9-bbf7-5ac17809d243.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Schedule III of SEBI Listing Regulation 2015, please find enclosed herewith invitation of an earnings conference call for the Investor(s) Analyst schedule to be on Thursday, November 05,2026 at 2.00 PM (IST) to discuss the Unaudited Financial Result for Q2 & HY1 of FY 27. The details of conference call are attached herewith\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Schedule III of SEBI Listing Regulation 2015, please find enclosed herewith invitation of an earnings conference call for the Investor(s) Analyst schedule ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T12:37:51\", \"DissemDT\": \"2026-10-30T12:37:51.56\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3890835, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"aab7b5cf-c7ce-4b43-bd91-a8691f41e2c6\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14713836, \"DataInsDate\": \"2026-10-30T12:37:51.433\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-30T12:37:51.56\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Schedule III of SEBI Listing Regulation 2015, please find enclosed herewith invitation of an earnings conference call for the Investor(s) Analyst schedule ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b62fe25e-1017-43f9-bbf7-5ac17809d243.pdf\", \"_id\": \"aab7b5cf-c7ce-4b43-bd91-a8691f41e2c6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6420,6 +6420,10 @@
     {
       "message_id": "<7756e4d99bf78dda9f903ae03d46e3f14b179eb1f785799048881ab73cb331a0@gmail.com>",
       "sent_at": "2026-10-28T14:03:39.283770+00:00"
+    },
+    {
+      "message_id": "<88bcddaa02c1e5d11c1e438fb10cc2a2e0e9831cf56ce3236061c2d68f8b0a2d@gmail.com>",
+      "sent_at": "2026-10-30T07:11:02.819575+00:00"
     },
     {
       "message_id": "<9959ba019c526bbf34d8afb0fc11b8e87e3d65cb33a636543dd6849cdb418a52@gmail.com>",
