@@ -6533,7 +6533,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-30T15:46:18.631777+00:00\", \"seconds\": 21.27}"
+      "value": "{\"companies\": 52, \"collected\": 4, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 4, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-30T20:42:10.362904+00:00\", \"seconds\": 46.54}"
     },
     {
       "key": "migration_date",
