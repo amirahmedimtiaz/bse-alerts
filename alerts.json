@@ -4029,8 +4029,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-30T10:05:47.412122+00:00",
       "news_id": "49181f0d-a474-47f0-904f-8c94fbb52421",
-      "payload": "{\"NEWSID\": \"49181f0d-a474-47f0-904f-8c94fbb52421\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_49181F0D-A474-47F0-904F-8C94FBB52421\", \"NEWSSUB\": \"Commencement Of Commercial Production\", \"DT_TM\": \"2026-10-30T15:31:09.86\", \"NEWS_DT\": \"2026-10-30T15:31:09.86\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1e920d9d-bf37-4784-b161-f34295973a00.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Commencement of Commercial Production by Waaree Solar Americas Inc., wholly owned subsidiary at Brookshire, Texas, USA.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T15:31:09\", \"DissemDT\": \"2026-10-30T15:31:09.86\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 440662, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Commencement Of Commercial Production\", \"_published\": \"2026-10-30T15:31:09.86\", \"_category\": \"Company Update\", \"_headline\": \"Commencement of Commercial Production by Waaree Solar Americas Inc., wholly owned subsidiary at Brookshire, Texas, USA.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e920d9d-bf37-4784-b161-f34295973a00.pdf\", \"_id\": \"49181f0d-a474-47f0-904f-8c94fbb52421\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6410,6 +6410,10 @@
       "sent_at": "2026-10-29T07:34:42.929554+00:00"
     },
     {
+      "message_id": "<4d293615186870a4aaea8dccd61410a70511ddf71cade2f004be1d1a658cf9eb@gmail.com>",
+      "sent_at": "2026-10-30T10:06:02.076544+00:00"
+    },
+    {
       "message_id": "<4f1ba41b2d86fa38c4e99ebd341e036393436c76d594c27fd4ae7d5b77de3ec7@gmail.com>",
       "sent_at": "2026-10-29T09:39:32.010879+00:00"
     },
@@ -6424,10 +6428,6 @@
     {
       "message_id": "<56670b72db9c0ff865d10185a13114acaa50515b12c757faa545518b567dfb96@gmail.com>",
       "sent_at": "2026-10-28T14:08:38.198146+00:00"
-    },
-    {
-      "message_id": "<5798377a3011a4a24634cc8254d46055b687d37641a51440bbfa16f868ca1f8a@gmail.com>",
-      "sent_at": "2026-10-28T09:58:19.409562+00:00"
     },
     {
       "message_id": "<591f7386a5956d932bd4890d442c2d20d7770a010bf811f90f9e391cb2e8a2de@gmail.com>",
@@ -6460,10 +6460,6 @@
     {
       "message_id": "<a8fa333ec7e1ef9f11061cca2fb78f41a6a005921532471847ad602c92e68438@gmail.com>",
       "sent_at": "2026-10-30T09:16:02.365658+00:00"
-    },
-    {
-      "message_id": "<bddb5328176308f0cc10886d31045126b867c4d98759188c608bafc4612c68ba@gmail.com>",
-      "sent_at": "2026-10-28T09:53:19.395224+00:00"
     },
     {
       "message_id": "<c00ebc4381b86602d9ff49bf910e6578a4b5884132ec51c0a58331817bc84fe3@gmail.com>",
