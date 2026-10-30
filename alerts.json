@@ -2629,8 +2629,8 @@
       "company_key": "534618",
       "discovered_at": "2026-10-30T11:56:04.316688+00:00",
       "news_id": "d18197b3-6a69-441f-a1fa-c185823b3a42",
-      "payload": "{\"NEWSID\": \"d18197b3-6a69-441f-a1fa-c185823b3a42\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_D18197B3-6A69-441F-A1FA-C185823B3A42\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"DT_TM\": \"2026-10-30T17:21:59.977\", \"NEWS_DT\": \"2026-10-30T17:21:59.977\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"76b32294-f0f5-4330-b4bd-a13bd6b3cbce.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith intimation of receiving the order\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": null, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T17:21:59\", \"DissemDT\": \"2026-10-30T17:21:59.977\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1066495, \"SUBCATNAME\": null, \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"_published\": \"2026-10-30T17:21:59.977\", \"_category\": \"Others\", \"_headline\": \"Please find attached herewith intimation of receiving the order\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/76b32294-f0f5-4330-b4bd-a13bd6b3cbce.pdf\", \"_id\": \"d18197b3-6a69-441f-a1fa-c185823b3a42\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -6415,10 +6415,6 @@
       "sent_at": "2026-10-29T08:39:32.178375+00:00"
     },
     {
-      "message_id": "<3a350140687eba5a61a0a0a784fad5e8d5b9059e71ac77f75a5aa1d417afc4b3@gmail.com>",
-      "sent_at": "2026-10-28T11:53:17.922024+00:00"
-    },
-    {
       "message_id": "<3c56336b5a581384f57133eaea5dc345e8c91b50a27d60183fd2dbfd354f8623@gmail.com>",
       "sent_at": "2026-10-29T08:34:32.401941+00:00"
     },
@@ -6449,6 +6445,10 @@
     {
       "message_id": "<56670b72db9c0ff865d10185a13114acaa50515b12c757faa545518b567dfb96@gmail.com>",
       "sent_at": "2026-10-28T14:08:38.198146+00:00"
+    },
+    {
+      "message_id": "<58cd53af80888e815ce646450867febf778dbdaa5ef84eaffb4ddd0e392eea90@gmail.com>",
+      "sent_at": "2026-10-30T11:56:21.045562+00:00"
     },
     {
       "message_id": "<591f7386a5956d932bd4890d442c2d20d7770a010bf811f90f9e391cb2e8a2de@gmail.com>",
