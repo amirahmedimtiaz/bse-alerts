@@ -2627,6 +2627,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-10-30T10:56:05.657526+00:00",
+      "news_id": "d7a67fe5-dc37-445e-8041-432c26042a02",
+      "payload": "{\"NEWSID\": \"d7a67fe5-dc37-445e-8041-432c26042a02\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_D7A67FE5-DC37-445E-8041-432C26042A02\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligation And Disclosure Requirements) Regulations, 2015-Completion Of Transfer Of Subsidiary\", \"DT_TM\": \"2026-10-30T16:19:13.99\", \"NEWS_DT\": \"2026-10-30T16:19:13.99\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"776b45bf-ab1d-4c2d-97bb-d49a2ae2fbb2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith update on disclosure submitted on 27th August 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T16:19:13\", \"DissemDT\": \"2026-10-30T16:19:13.99\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 625100, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of The SEBI (Listing Obligation And Disclosure Requirements) Regulations, 2015-Completion Of Transfer Of Subsidiary\", \"_published\": \"2026-10-30T16:19:13.99\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached herewith update on disclosure submitted on 27th August 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/776b45bf-ab1d-4c2d-97bb-d49a2ae2fbb2.pdf\", \"_id\": \"d7a67fe5-dc37-445e-8041-432c26042a02\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-10-21T13:07:23.364685+00:00",
       "news_id": "df6f4e81-e31c-4ead-8389-6c9ee0ad15b5",
       "payload": null,
