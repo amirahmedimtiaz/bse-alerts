@@ -1705,8 +1705,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-30T09:25:42.925252+00:00",
       "news_id": "503e4a00-e8ce-402f-aaae-bd15a145799c",
-      "payload": "{\"NEWSID\": \"503e4a00-e8ce-402f-aaae-bd15a145799c\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_503E4A00-E8CE-402F-AAAE-BD15A145799C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-10-30T14:53:01.25\", \"NEWS_DT\": \"2026-10-30T14:53:01.25\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"93140c95-02ac-44af-bb5d-8f7b7b18e8e1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Acquisition by Wholly Owned Subsidiary of the Company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T14:53:01\", \"DissemDT\": \"2026-10-30T14:53:01.25\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 257453, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-10-30T14:53:01.25\", \"_category\": \"Company Update\", \"_headline\": \"Acquisition by Wholly Owned Subsidiary of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/93140c95-02ac-44af-bb5d-8f7b7b18e8e1.pdf\", \"_id\": \"503e4a00-e8ce-402f-aaae-bd15a145799c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -4239,8 +4239,8 @@
       "company_key": "544291",
       "discovered_at": "2026-10-30T09:25:57.851008+00:00",
       "news_id": "60596a6e-537f-497a-93c4-9b21078f33fb",
-      "payload": "{\"NEWSID\": \"60596a6e-537f-497a-93c4-9b21078f33fb\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_60596A6E-537F-497A-93C4-9B21078F33FB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-30T14:51:38.277\", \"NEWS_DT\": \"2026-10-30T14:51:38.277\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bf98566f-d170-42e8-96fe-02371aa44d96.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Conference Call for the Unaudited Financial Results for half Year ended on September 30,2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T14:51:38\", \"DissemDT\": \"2026-10-30T14:51:38.28\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 288291, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"60596a6e-537f-497a-93c4-9b21078f33fb\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14716342, \"DataInsDate\": \"2026-10-30T14:51:38.21\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-30T14:51:38.277\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Conference Call for the Unaudited Financial Results for half Year ended on September 30,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf98566f-d170-42e8-96fe-02371aa44d96.pdf\", \"_id\": \"60596a6e-537f-497a-93c4-9b21078f33fb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6477,6 +6477,10 @@
     {
       "message_id": "<e38ac4c73ce3e78f68924b8c4cd0d1edcb75b6ed40895b78ad7a098fcbd5aa53@gmail.com>",
       "sent_at": "2026-10-29T19:35:08.250235+00:00"
+    },
+    {
+      "message_id": "<e8649aa111fcec12d08d97ae33b18f4d7d5911f521af32ee4527e842e210031b@gmail.com>",
+      "sent_at": "2026-10-30T09:26:05.521170+00:00"
     },
     {
       "message_id": "<f36d6b43fa2168a10831b14f2484bfce6aecf83e0c83132ba0df0bb93e4f242f@gmail.com>",
