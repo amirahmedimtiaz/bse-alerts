@@ -2664,8 +2664,8 @@
       "company_key": "538706",
       "discovered_at": "2026-10-30T09:15:46.432961+00:00",
       "news_id": "7c58ed70-c1df-48a7-8b6d-fc7598fe11a7",
-      "payload": "{\"NEWSID\": \"7c58ed70-c1df-48a7-8b6d-fc7598fe11a7\", \"SCRIP_CD\": 538706, \"XML_NAME\": \"ANN_538706_7C58ED70-C1DF-48A7-8B6D-FC7598FE11A7\", \"NEWSSUB\": \"Board Meeting Intimation for Consideration And Approval Of Unaudited Standalone Financial Results For The Quarter And Half Year Ended On September 30, 2026.\", \"DT_TM\": \"2026-10-30T14:42:09.23\", \"NEWS_DT\": \"2026-10-30T14:42:09.23\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"759ed73d-61ad-4258-9ba3-f86d3a9a1975.pdf\", \"MORE\": \"Ultracab (India) Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Unaudited Standalone Financial Results of the company for the quarter and half year ended on September 30, 2026.\", \"HEADLINE\": \"Ultracab (India) Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Unaudited Standalone Financial ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/\", \"SLONGNAME\": \"Ultracab (India) Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T14:42:01\", \"DissemDT\": \"2026-10-30T14:42:09.23\", \"TimeDiff\": \"00:00:08\", \"Fld_Attachsize\": 3317726, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Ultracab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Consideration And Approval Of Unaudited Standalone Financial Results For The Quarter And Half Year Ended On September 30, 2026.\", \"_published\": \"2026-10-30T14:42:09.23\", \"_category\": \"Board Meeting\", \"_headline\": \"Ultracab (India) Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Unaudited Standalone Financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/759ed73d-61ad-4258-9ba3-f86d3a9a1975.pdf\", \"_id\": \"7c58ed70-c1df-48a7-8b6d-fc7598fe11a7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "538706",
@@ -6381,10 +6381,6 @@
       "sent_at": "2026-10-28T10:48:19.672140+00:00"
     },
     {
-      "message_id": "<4612c2190b1b38c98628fea3a4ee148496e42206730c1248c0f5f2542dedd3de@gmail.com>",
-      "sent_at": "2026-10-28T07:53:01.247368+00:00"
-    },
-    {
       "message_id": "<4a5073ce4934bd37069094be29dd43fe84d42fea3dd20a0b6d0cb0ef021e3d01@gmail.com>",
       "sent_at": "2026-10-29T12:54:51.550863+00:00"
     },
@@ -6439,6 +6435,10 @@
     {
       "message_id": "<9a703551941d134799f850642ec68b4d9692f25dcead91b3140def31e40b3c6a@gmail.com>",
       "sent_at": "2026-10-28T13:58:54.800021+00:00"
+    },
+    {
+      "message_id": "<a8fa333ec7e1ef9f11061cca2fb78f41a6a005921532471847ad602c92e68438@gmail.com>",
+      "sent_at": "2026-10-30T09:16:02.365658+00:00"
     },
     {
       "message_id": "<bddb5328176308f0cc10886d31045126b867c4d98759188c608bafc4612c68ba@gmail.com>",
