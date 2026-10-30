@@ -1768,8 +1768,8 @@
       "company_key": "532259",
       "discovered_at": "2026-10-30T11:11:01.251354+00:00",
       "news_id": "7267722e-ba62-47b6-a06f-3f2b2e1a745b",
-      "payload": "{\"NEWSID\": \"7267722e-ba62-47b6-a06f-3f2b2e1a745b\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_7267722E-BA62-47B6-A06F-3F2B2E1A745B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-10-30T16:38:32.83\", \"NEWS_DT\": \"2026-10-30T16:38:32.83\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e312a5de-f54d-4d8f-9013-ff8d8ab23447.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Publication of QR Code and Extract of Un-audited Financial Results for the Second Quarter and Half-year ended September 30, 2026 (2026-27) in Newspapers\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-30T16:38:32\", \"DissemDT\": \"2026-10-30T16:38:32.83\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4983772, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-10-30T16:38:32.83\", \"_category\": \"Company Update\", \"_headline\": \"Publication of QR Code and Extract of Un-audited Financial Results for the Second Quarter and Half-year ended September 30, 2026 (2026-27) in Newspapers\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e312a5de-f54d-4d8f-9013-ff8d8ab23447.pdf\", \"_id\": \"7267722e-ba62-47b6-a06f-3f2b2e1a745b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6396,6 +6396,10 @@
       "sent_at": "2026-10-30T06:51:02.499827+00:00"
     },
     {
+      "message_id": "<24c37a2a8563f67e7e2ac70572d9607ab54ebf179d0a2ab232f41ef90226658d@gmail.com>",
+      "sent_at": "2026-10-30T11:11:34.674615+00:00"
+    },
+    {
       "message_id": "<2d4016389ed716a3fff21a643e1058e8ee64ec5ce8149a863ce4129cfe77c114@gmail.com>",
       "sent_at": "2026-10-28T14:58:39.472587+00:00"
     },
@@ -6486,10 +6490,6 @@
     {
       "message_id": "<d194e7515d5c6ddfc39a1d4f6b8fba5d7863e6a5cac63339d5f415560e6dd645@gmail.com>",
       "sent_at": "2026-10-29T18:45:09.752039+00:00"
-    },
-    {
-      "message_id": "<dbbed5a3929a347fc2dcccf23b9f6ee9a076ea5542420ff0fdfdad87c4615d9d@gmail.com>",
-      "sent_at": "2026-10-28T11:08:18.032681+00:00"
     },
     {
       "message_id": "<e38ac4c73ce3e78f68924b8c4cd0d1edcb75b6ed40895b78ad7a098fcbd5aa53@gmail.com>",
