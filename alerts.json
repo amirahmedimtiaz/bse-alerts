@@ -6452,7 +6452,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-30T05:30:41.949620+00:00\", \"seconds\": 20.71}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-30T05:35:42.347199+00:00\", \"seconds\": 21.11}"
     },
     {
       "key": "migration_date",
