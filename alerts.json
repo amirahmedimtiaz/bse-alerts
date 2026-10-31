@@ -4701,8 +4701,8 @@
       "company_key": "544526",
       "discovered_at": "2026-10-31T07:07:16.591050+00:00",
       "news_id": "c39f6957-0448-4ef7-92c4-c4c0ae0837ce",
-      "payload": "{\"NEWSID\": \"c39f6957-0448-4ef7-92c4-c4c0ae0837ce\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_C39F6957-0448-4EF7-92C4-C4C0AE0837CE\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-10-31T12:33:08.55\", \"NEWS_DT\": \"2026-10-31T12:33:08.55\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c1193994-0b06-463e-bb38-8d0a95157dcd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation for Schedule of Investors call under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-31T12:33:08\", \"DissemDT\": \"2026-10-31T12:33:08.55\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 500811, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"c39f6957-0448-4ef7-92c4-c4c0ae0837ce\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14725595, \"DataInsDate\": \"2026-10-31T12:33:08.523\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-10-31T12:33:08.55\", \"_category\": \"Company Update\", \"_headline\": \"Intimation for Schedule of Investors call under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1193994-0b06-463e-bb38-8d0a95157dcd.pdf\", \"_id\": \"c39f6957-0448-4ef7-92c4-c4c0ae0837ce\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -6447,10 +6447,6 @@
       "sent_at": "2026-10-29T11:59:50.785376+00:00"
     },
     {
-      "message_id": "<01287e37d1fc1724368ace929a041914b4d454444b70997bc352ba76ec178c15@gmail.com>",
-      "sent_at": "2026-10-29T06:39:33.211547+00:00"
-    },
-    {
       "message_id": "<1830dde33215cec9e2a150f4df66899a40922b3d3c1d1467ebd88b9d804f8ea4@gmail.com>",
       "sent_at": "2026-10-30T06:51:02.499827+00:00"
     },
@@ -6509,6 +6505,10 @@
     {
       "message_id": "<88bcddaa02c1e5d11c1e438fb10cc2a2e0e9831cf56ce3236061c2d68f8b0a2d@gmail.com>",
       "sent_at": "2026-10-30T07:11:02.819575+00:00"
+    },
+    {
+      "message_id": "<8a6ace8ecefa2c8d5f1f4d7c0b469e0217e288aa94c6560b828444f7e998b75b@gmail.com>",
+      "sent_at": "2026-10-31T07:07:19.793947+00:00"
     },
     {
       "message_id": "<9959ba019c526bbf34d8afb0fc11b8e87e3d65cb33a636543dd6849cdb418a52@gmail.com>",
