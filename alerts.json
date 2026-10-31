@@ -6098,6 +6098,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-10-31T10:32:09.277652+00:00",
+      "news_id": "106838172",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"31-Oct-2026 16:01:26\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_31102026160113_281026SSLEarningCallIntimationFinal.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"31-Oct-2026 16:01:26\", \"sort_date\": \"2026-10-31 16:01:26\", \"seq_id\": \"106838172\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Schedule of Post Results Conference Call with analysts and investors on Thursday, November 05, 2026 at 11:00 A.M. (IST).\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"551.16 KB\", \"attFileSize\": \"551.16 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-10-31 16:01:26\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Schedule of Post Results Conference Call with analysts and investors on Thursday, November 05, 2026 at 11:00 A.M. (IST).\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_31102026160113_281026SSLEarningCallIntimationFinal.pdf\", \"_id\": \"106838172\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:TBI",
       "discovered_at": "2026-10-08T12:13:18.964018+00:00",
       "news_id": "106811469",
