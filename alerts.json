@@ -6101,8 +6101,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-10-31T10:32:09.277652+00:00",
       "news_id": "106838172",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"31-Oct-2026 16:01:26\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_31102026160113_281026SSLEarningCallIntimationFinal.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"31-Oct-2026 16:01:26\", \"sort_date\": \"2026-10-31 16:01:26\", \"seq_id\": \"106838172\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Schedule of Post Results Conference Call with analysts and investors on Thursday, November 05, 2026 at 11:00 A.M. (IST).\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"551.16 KB\", \"attFileSize\": \"551.16 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-10-31 16:01:26\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Schedule of Post Results Conference Call with analysts and investors on Thursday, November 05, 2026 at 11:00 A.M. (IST).\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_31102026160113_281026SSLEarningCallIntimationFinal.pdf\", \"_id\": \"106838172\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -6462,28 +6462,12 @@
       "sent_at": "2026-10-30T11:11:34.674615+00:00"
     },
     {
-      "message_id": "<38783191cad5984c62ac21b89f62d5f38549d2fb626cf78d7e970ca0ae0c4bb2@gmail.com>",
-      "sent_at": "2026-10-29T08:39:32.178375+00:00"
-    },
-    {
-      "message_id": "<3c56336b5a581384f57133eaea5dc345e8c91b50a27d60183fd2dbfd354f8623@gmail.com>",
-      "sent_at": "2026-10-29T08:34:32.401941+00:00"
-    },
-    {
       "message_id": "<4a5073ce4934bd37069094be29dd43fe84d42fea3dd20a0b6d0cb0ef021e3d01@gmail.com>",
       "sent_at": "2026-10-29T12:54:51.550863+00:00"
     },
     {
-      "message_id": "<4c0767e7c479524ea6b77adfcfbe588c26ad828141a06c6d597dc35b61bf4802@gmail.com>",
-      "sent_at": "2026-10-29T07:34:42.929554+00:00"
-    },
-    {
       "message_id": "<4d293615186870a4aaea8dccd61410a70511ddf71cade2f004be1d1a658cf9eb@gmail.com>",
       "sent_at": "2026-10-30T10:06:02.076544+00:00"
-    },
-    {
-      "message_id": "<4f1ba41b2d86fa38c4e99ebd341e036393436c76d594c27fd4ae7d5b77de3ec7@gmail.com>",
-      "sent_at": "2026-10-29T09:39:32.010879+00:00"
     },
     {
       "message_id": "<541dbd70bcaf234ad0efd70c6e9a2de872c65b28b70cc88d743b01d791152914@gmail.com>",
@@ -6498,12 +6482,12 @@
       "sent_at": "2026-10-30T11:56:21.045562+00:00"
     },
     {
-      "message_id": "<591f7386a5956d932bd4890d442c2d20d7770a010bf811f90f9e391cb2e8a2de@gmail.com>",
-      "sent_at": "2026-10-29T08:24:32.093067+00:00"
-    },
-    {
       "message_id": "<5ca9370efdb6e20e3f3e22bb40d2ca0968f95d61a52337b40fd5df8b98c23c34@gmail.com>",
       "sent_at": "2026-10-29T17:30:09.866163+00:00"
+    },
+    {
+      "message_id": "<7658d18f234d7a2c1640e0f4cb8149c0f77b38c892459f91cfc68ff8e41d6def@gmail.com>",
+      "sent_at": "2026-10-31T10:32:38.805185+00:00"
     },
     {
       "message_id": "<7c3eb5e63a9c5d068bfe2facc9679f8b5fcab9e599bcf8c5216e65183ce5675f@gmail.com>",
@@ -6516,10 +6500,6 @@
     {
       "message_id": "<8a6ace8ecefa2c8d5f1f4d7c0b469e0217e288aa94c6560b828444f7e998b75b@gmail.com>",
       "sent_at": "2026-10-31T07:07:19.793947+00:00"
-    },
-    {
-      "message_id": "<9959ba019c526bbf34d8afb0fc11b8e87e3d65cb33a636543dd6849cdb418a52@gmail.com>",
-      "sent_at": "2026-10-29T08:29:31.706188+00:00"
     },
     {
       "message_id": "<a473f07361b89bef2b66b342bb32ac3ea49f0146ddc14edf06c09c2a93e4ed0f@gmail.com>",
@@ -6536,10 +6516,6 @@
     {
       "message_id": "<b024f7f9c17e3d019ca29c2268854bbe27bb3d91da6918d18ae38d97cbd16d4c@gmail.com>",
       "sent_at": "2026-10-30T10:56:20.727845+00:00"
-    },
-    {
-      "message_id": "<c00ebc4381b86602d9ff49bf910e6578a4b5884132ec51c0a58331817bc84fe3@gmail.com>",
-      "sent_at": "2026-10-29T08:14:35.106033+00:00"
     },
     {
       "message_id": "<cfc35916cc995f20eb3b13804a1b50c80b91661dcda375bb52145cc582b96c9d@gmail.com>",
@@ -6560,10 +6536,6 @@
     {
       "message_id": "<e8649aa111fcec12d08d97ae33b18f4d7d5911f521af32ee4527e842e210031b@gmail.com>",
       "sent_at": "2026-10-30T09:26:05.521170+00:00"
-    },
-    {
-      "message_id": "<ff877f3054bc6668f227997f2cdcf4fb234909e3ce702e78af08488f93df23dd@gmail.com>",
-      "sent_at": "2026-10-29T08:49:31.589066+00:00"
     }
   ],
   "metadata": [
