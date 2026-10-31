@@ -4132,6 +4132,13 @@
     },
     {
       "company_key": "544277",
+      "discovered_at": "2026-10-31T14:37:26.301103+00:00",
+      "news_id": "99280375-208c-404d-924c-97ce1ab4ff5f",
+      "payload": "{\"NEWSID\": \"99280375-208c-404d-924c-97ce1ab4ff5f\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_99280375-208C-404D-924C-97CE1AB4FF5F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-10-31T20:07:17.523\", \"NEWS_DT\": \"2026-10-31T20:07:17.523\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"88093e74-25e4-4474-b121-faa8e458120d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Acquisition\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-31T20:07:17\", \"DissemDT\": \"2026-10-31T20:07:17.523\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 524452, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-10-31T20:07:17.523\", \"_category\": \"Company Update\", \"_headline\": \"Acquisition\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/88093e74-25e4-4474-b121-faa8e458120d.pdf\", \"_id\": \"99280375-208c-404d-924c-97ce1ab4ff5f\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544277",
       "discovered_at": "2026-10-27T15:51:44.224870+00:00",
       "news_id": "a8d7ad16-188c-40b6-8474-6dd385cbacec",
       "payload": null,
