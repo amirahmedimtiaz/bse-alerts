@@ -4064,8 +4064,8 @@
       "company_key": "544277",
       "discovered_at": "2026-10-31T13:47:26.194838+00:00",
       "news_id": "51a5cecc-ff61-4f02-9f2a-2dd65cb06c60",
-      "payload": "{\"NEWSID\": \"51a5cecc-ff61-4f02-9f2a-2dd65cb06c60\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_51A5CECC-FF61-4F02-9F2A-2DD65CB06C60\", \"NEWSSUB\": \"Grant Of ESOP\", \"DT_TM\": \"2026-10-31T19:16:10.927\", \"NEWS_DT\": \"2026-10-31T19:16:10.927\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e11d3763-cbff-43e8-bd64-a05b30a5921e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Grant of ESOP.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-31T19:16:10\", \"DissemDT\": \"2026-10-31T19:16:10.927\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 523317, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Grant Of ESOP\", \"_published\": \"2026-10-31T19:16:10.927\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Grant of ESOP.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e11d3763-cbff-43e8-bd64-a05b30a5921e.pdf\", \"_id\": \"51a5cecc-ff61-4f02-9f2a-2dd65cb06c60\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6464,10 +6464,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<00ac2566811fd25c9831155325072fa08eec9367d3330396384e4957caa4a2f4@gmail.com>",
-      "sent_at": "2026-10-29T11:59:50.785376+00:00"
-    },
-    {
       "message_id": "<1830dde33215cec9e2a150f4df66899a40922b3d3c1d1467ebd88b9d804f8ea4@gmail.com>",
       "sent_at": "2026-10-30T06:51:02.499827+00:00"
     },
@@ -6476,16 +6472,12 @@
       "sent_at": "2026-10-30T11:11:34.674615+00:00"
     },
     {
-      "message_id": "<4a5073ce4934bd37069094be29dd43fe84d42fea3dd20a0b6d0cb0ef021e3d01@gmail.com>",
-      "sent_at": "2026-10-29T12:54:51.550863+00:00"
+      "message_id": "<2f6c2bff55758722e6f422656bb0dbcfb9998a4dc53074077583ecf0ea976968@gmail.com>",
+      "sent_at": "2026-10-31T13:47:44.300736+00:00"
     },
     {
       "message_id": "<4d293615186870a4aaea8dccd61410a70511ddf71cade2f004be1d1a658cf9eb@gmail.com>",
       "sent_at": "2026-10-30T10:06:02.076544+00:00"
-    },
-    {
-      "message_id": "<541dbd70bcaf234ad0efd70c6e9a2de872c65b28b70cc88d743b01d791152914@gmail.com>",
-      "sent_at": "2026-10-29T11:29:51.407176+00:00"
     },
     {
       "message_id": "<56546f9566f02a08b2648c4e39fd4a6bf33c0d2dddbc96d0aa64569bfdaf8517@gmail.com>",
