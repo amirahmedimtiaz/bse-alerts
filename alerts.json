@@ -4316,8 +4316,8 @@
       "company_key": "544387",
       "discovered_at": "2026-10-31T11:12:18.203401+00:00",
       "news_id": "cc26943f-4fee-415d-982f-785818f19730",
-      "payload": "{\"NEWSID\": \"cc26943f-4fee-415d-982f-785818f19730\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_CC26943F-4FEE-415D-982F-785818F19730\", \"NEWSSUB\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Under Reg 29 Of SEBI (LODR) Regulation, 2015 To Be Held On Wednesday, 4Th November 2026\", \"DT_TM\": \"2026-10-31T16:39:40.513\", \"NEWS_DT\": \"2026-10-31T16:39:40.513\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a385e3e8-3579-48d3-be7b-4da6d8f23439.pdf\", \"MORE\": \"Desco Infratech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve 1) To consider and approve Unaudited Standalone & Consolidated Financial Results of the Company for the half-year ended 30th September 2026 along with the Limited Review Report thereon.\\r\\n2) To consider and discuss any other matter with the permission of Chair. \\r\\n\", \"HEADLINE\": \"Desco Infratech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve 1) To consider and approve ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-10-31T16:39:35\", \"DissemDT\": \"2026-10-31T16:39:40.513\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 4069791, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Under Reg 29 Of SEBI (LODR) Regulation, 2015 To Be Held On Wednesday, 4Th November 2026\", \"_published\": \"2026-10-31T16:39:40.513\", \"_category\": \"Board Meeting\", \"_headline\": \"Desco Infratech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve 1) To consider and approve ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a385e3e8-3579-48d3-be7b-4da6d8f23439.pdf\", \"_id\": \"cc26943f-4fee-415d-982f-785818f19730\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -6491,6 +6491,10 @@
     {
       "message_id": "<5ca9370efdb6e20e3f3e22bb40d2ca0968f95d61a52337b40fd5df8b98c23c34@gmail.com>",
       "sent_at": "2026-10-29T17:30:09.866163+00:00"
+    },
+    {
+      "message_id": "<6496a20ccc1a67500eea33af8b0271527f587743366aba69e3be528ec35e502d@gmail.com>",
+      "sent_at": "2026-10-31T11:12:22.849204+00:00"
     },
     {
       "message_id": "<7658d18f234d7a2c1640e0f4cb8149c0f77b38c892459f91cfc68ff8e41d6def@gmail.com>",
