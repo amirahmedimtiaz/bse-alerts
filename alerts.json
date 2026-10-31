@@ -6569,7 +6569,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-31T15:43:31.696981+00:00\", \"seconds\": 74.32}"
+      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-10-31T15:48:34.713627+00:00\", \"seconds\": 77.34}"
     },
     {
       "key": "migration_date",
