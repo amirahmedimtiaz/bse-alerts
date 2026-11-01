@@ -3665,8 +3665,8 @@
       "company_key": "543981",
       "discovered_at": "2026-11-01T04:58:23.093071+00:00",
       "news_id": "acc9ba3b-066d-4874-bf31-6c26d7e901d9",
-      "payload": "{\"NEWSID\": \"acc9ba3b-066d-4874-bf31-6c26d7e901d9\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_ACC9BA3B-066D-4874-BF31-6C26D7E901D9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Updates on Acquisition\", \"DT_TM\": \"2026-11-01T10:28:03.51\", \"NEWS_DT\": \"2026-11-01T10:28:03.51\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6b48e145-9ab2-480c-8a5a-7c7a92a09298.pdf\", \"MORE\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business Undertaking from U M Cables Limited.\", \"HEADLINE\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-01T10:28:03\", \"DissemDT\": \"2026-11-01T10:28:03.51\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 631822, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Updates on Acquisition\", \"_published\": \"2026-11-01T10:28:03.51\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6b48e145-9ab2-480c-8a5a-7c7a92a09298.pdf\", \"_id\": \"acc9ba3b-066d-4874-bf31-6c26d7e901d9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -6485,6 +6485,10 @@
   ],
   "deliveries": [
     {
+      "message_id": "<0608544983adf319a6deb212dd9a6125a39b1567d5d94cc749e2069a01f3821e@gmail.com>",
+      "sent_at": "2026-11-01T04:58:38.813170+00:00"
+    },
+    {
       "message_id": "<1830dde33215cec9e2a150f4df66899a40922b3d3c1d1467ebd88b9d804f8ea4@gmail.com>",
       "sent_at": "2026-10-30T06:51:02.499827+00:00"
     },
@@ -6503,10 +6507,6 @@
     {
       "message_id": "<58cd53af80888e815ce646450867febf778dbdaa5ef84eaffb4ddd0e392eea90@gmail.com>",
       "sent_at": "2026-10-30T11:56:21.045562+00:00"
-    },
-    {
-      "message_id": "<5ca9370efdb6e20e3f3e22bb40d2ca0968f95d61a52337b40fd5df8b98c23c34@gmail.com>",
-      "sent_at": "2026-10-29T17:30:09.866163+00:00"
     },
     {
       "message_id": "<6496a20ccc1a67500eea33af8b0271527f587743366aba69e3be528ec35e502d@gmail.com>",
@@ -6553,20 +6553,12 @@
       "sent_at": "2026-10-30T06:16:02.092994+00:00"
     },
     {
-      "message_id": "<d194e7515d5c6ddfc39a1d4f6b8fba5d7863e6a5cac63339d5f415560e6dd645@gmail.com>",
-      "sent_at": "2026-10-29T18:45:09.752039+00:00"
-    },
-    {
       "message_id": "<d9461686e6f32d5722f4529b34ae3ee55b2a457c75f87252c0f3a5dbd933c79d@gmail.com>",
       "sent_at": "2026-10-30T20:42:09.021172+00:00"
     },
     {
       "message_id": "<df9bf9e06ada30bfc2f7317d5bd6913664c637796e33bf2fd65a0513e43675df@gmail.com>",
       "sent_at": "2026-10-31T14:33:42.484562+00:00"
-    },
-    {
-      "message_id": "<e38ac4c73ce3e78f68924b8c4cd0d1edcb75b6ed40895b78ad7a098fcbd5aa53@gmail.com>",
-      "sent_at": "2026-10-29T19:35:08.250235+00:00"
     },
     {
       "message_id": "<e8649aa111fcec12d08d97ae33b18f4d7d5911f521af32ee4527e842e210031b@gmail.com>",
