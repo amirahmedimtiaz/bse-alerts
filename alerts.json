@@ -2627,6 +2627,13 @@
     },
     {
       "company_key": "534618",
+      "discovered_at": "2026-11-01T08:08:41.945364+00:00",
+      "news_id": "c8f6a3ac-d3bf-466e-82cd-60dad832f6af",
+      "payload": "{\"NEWSID\": \"c8f6a3ac-d3bf-466e-82cd-60dad832f6af\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_C8F6A3AC-D3BF-466E-82CD-60DAD832F6AF\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"DT_TM\": \"2026-11-01T13:35:35.257\", \"NEWS_DT\": \"2026-11-01T13:35:35.257\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5753dbca-604f-4403-bb37-6aadf3f3e695.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith intimation of receiving of order\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": null, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-01T13:35:35\", \"DissemDT\": \"2026-11-01T13:35:35.257\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1069210, \"SUBCATNAME\": null, \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"_published\": \"2026-11-01T13:35:35.257\", \"_category\": \"Others\", \"_headline\": \"Please find attached herewith intimation of receiving of order\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5753dbca-604f-4403-bb37-6aadf3f3e695.pdf\", \"_id\": \"c8f6a3ac-d3bf-466e-82cd-60dad832f6af\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "534618",
       "discovered_at": "2026-10-05T13:20:07.678372+00:00",
       "news_id": "cad2cc67-3fa1-46ff-9d4b-c18057a6c3ee",
       "payload": null,
