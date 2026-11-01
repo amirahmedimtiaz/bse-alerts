@@ -3663,6 +3663,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-11-01T04:58:23.093071+00:00",
+      "news_id": "acc9ba3b-066d-4874-bf31-6c26d7e901d9",
+      "payload": "{\"NEWSID\": \"acc9ba3b-066d-4874-bf31-6c26d7e901d9\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_ACC9BA3B-066D-4874-BF31-6C26D7E901D9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Updates on Acquisition\", \"DT_TM\": \"2026-11-01T10:28:03.51\", \"NEWS_DT\": \"2026-11-01T10:28:03.51\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6b48e145-9ab2-480c-8a5a-7c7a92a09298.pdf\", \"MORE\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business Undertaking from U M Cables Limited.\", \"HEADLINE\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-01T10:28:03\", \"DissemDT\": \"2026-11-01T10:28:03.51\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 631822, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Updates on Acquisition\", \"_published\": \"2026-11-01T10:28:03.51\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding completion of the acquisition of the Business ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6b48e145-9ab2-480c-8a5a-7c7a92a09298.pdf\", \"_id\": \"acc9ba3b-066d-4874-bf31-6c26d7e901d9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-10-28T14:18:18.957008+00:00",
       "news_id": "ba6b2c99-6bf3-4da1-9cb1-00a36be7fc5f",
       "payload": null,
