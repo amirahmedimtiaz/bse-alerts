@@ -2825,8 +2825,8 @@
       "company_key": "538786",
       "discovered_at": "2026-11-02T13:25:12.403605+00:00",
       "news_id": "001d4808-4755-4cc5-a87e-84c686e5514e",
-      "payload": "{\"NEWSID\": \"001d4808-4755-4cc5-a87e-84c686e5514e\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_001D4808-4755-4CC5-A87E-84C686E5514E\", \"NEWSSUB\": \"Board Meeting Outcome for Board Meeting Outcome For Un-Audited Standalone Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"DT_TM\": \"2026-11-02T18:53:18.77\", \"NEWS_DT\": \"2026-11-02T18:53:18.77\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"377835f4-c3fb-4b0a-b85e-b196d0e61fb1.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Schedule III and Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors of Citizen Solar Limited (Formerly known as Citizen Infoline Limited), at its meeting held today, i.e. Monday, 02nd November, 2026, has inter alia considered and approved the following matters:\\r\\n1. Unaudited Standalone Financial Results for the Quarter and Half Year ended September 30, 2026\\r\\nThe Board of Directors has considered and approved the Unaudited Standalone Financial Results of the Company for the Second Quarter and Half Year ended September 30, 2026, along with the Limited Review Report issued by M/s. Krutesh Patel & Associates, Chartered Accountants, Statutory Auditors of the Company thereon.\\r\\nA copy of the aforesaid Unaudited Standalone Financial Results together with the Limited Review Report issued by the Statutory Auditors is enclosed herewith for your reference and records.\\r\\n\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Schedule III and Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T18:53:16\", \"DissemDT\": \"2026-11-02T18:53:18.77\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 2724538, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Board Meeting Outcome For Un-Audited Standalone Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"_published\": \"2026-11-02T18:53:18.77\", \"_category\": \"Board Meeting\", \"_headline\": \"Pursuant to Regulation 30 read with Schedule III and Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/377835f4-c3fb-4b0a-b85e-b196d0e61fb1.pdf\", \"_id\": \"001d4808-4755-4cc5-a87e-84c686e5514e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "538786",
@@ -4414,8 +4414,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-02T13:25:18.829941+00:00",
       "news_id": "9fa68b30-245f-429a-93d7-40d4b2b25206",
-      "payload": "{\"NEWSID\": \"9fa68b30-245f-429a-93d7-40d4b2b25206\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_9FA68B30-245F-429A-93D7-40D4B2B25206\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-11-02T18:53:54.387\", \"NEWS_DT\": \"2026-11-02T18:53:54.387\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0efacbea-657f-4ac3-90cc-a12a7015e2e8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Appointment of Senior Management Personnel (\\\"SMP\\\")\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T18:53:54\", \"DissemDT\": \"2026-11-02T18:53:54.387\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 324269, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-11-02T18:53:54.387\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Appointment of Senior Management Personnel (\\\"SMP\\\")\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0efacbea-657f-4ac3-90cc-a12a7015e2e8.pdf\", \"_id\": \"9fa68b30-245f-429a-93d7-40d4b2b25206\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -6667,6 +6667,10 @@
     {
       "message_id": "<89e7d711350b72e4dfc18961c564fddab68787145d482d061fcb64987f2c8092@gmail.com>",
       "sent_at": "2026-11-02T09:55:23.714914+00:00"
+    },
+    {
+      "message_id": "<8fa8ebc9c8c48e46851fd0e8b1dccfe6c0cba416a367d00425a6dce4570be6aa@gmail.com>",
+      "sent_at": "2026-11-02T13:25:28.258083+00:00"
     },
     {
       "message_id": "<a87369cf2b1e1d5a023a8aad61817d3290f0b7ac652f40f598f105a813720677@gmail.com>",
