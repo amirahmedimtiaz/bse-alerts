@@ -3784,8 +3784,8 @@
       "company_key": "544121",
       "discovered_at": "2026-11-02T10:40:19.296465+00:00",
       "news_id": "57892ea1-0a37-48cb-a045-8e1ef88b2fbe",
-      "payload": "{\"NEWSID\": \"57892ea1-0a37-48cb-a045-8e1ef88b2fbe\", \"SCRIP_CD\": 544121, \"XML_NAME\": \"ANN_544121_57892EA1-0A37-48CB-A045-8E1EF88B2FBE\", \"NEWSSUB\": \"Board Meeting Intimation for To Consider And Approve  The (Standalone) &  (Consolidated) Un-Audited Financial Results Of The Company For The Half Year Ended 30Th September, 2026.\\r\\n\", \"DT_TM\": \"2026-11-02T16:06:40.643\", \"NEWS_DT\": \"2026-11-02T16:06:40.643\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f31efed5-3158-4795-b7aa-f7b6dbc6bcff.pdf\", \"MORE\": \"Rudra Gas Enterprise Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve the (Standalone) &  (Consolidated) Un-audited Financial Results of the Company for the half year ended 30th September, 2026.\\r\\n\\r\\n\", \"HEADLINE\": \"Rudra Gas Enterprise Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve the (Standalone) &  (Consolidated) ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/\", \"SLONGNAME\": \"Rudra Gas Enterprise Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T16:06:39\", \"DissemDT\": \"2026-11-02T16:06:40.643\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 233253, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rudra Gas Enterprise Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/corp-announcements\", \"_subject\": \"Board Meeting Intimation for To Consider And Approve  The (Standalone) &  (Consolidated) Un-Audited Financial Results Of The Company For The Half Year Ended 30Th September, 2026.\\r\\n\", \"_published\": \"2026-11-02T16:06:40.643\", \"_category\": \"Board Meeting\", \"_headline\": \"Rudra Gas Enterprise Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve the (Standalone) &  (Consolidated) ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f31efed5-3158-4795-b7aa-f7b6dbc6bcff.pdf\", \"_id\": \"57892ea1-0a37-48cb-a045-8e1ef88b2fbe\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -5156,8 +5156,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-02T10:40:03.819373+00:00",
       "news_id": "2220f055-6ded-4caa-9018-48e9a479ead3",
-      "payload": "{\"NEWSID\": \"2220f055-6ded-4caa-9018-48e9a479ead3\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_2220F055-6DED-4CAA-9018-48E9A479EAD3\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On 2Nd November 2026 And Submission Of Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"DT_TM\": \"2026-11-02T16:05:15.287\", \"NEWS_DT\": \"2026-11-02T16:05:15.287\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f2c7144a-967f-4075-bd77-60d012efb9f5.pdf\", \"MORE\": \"Pursuant to Regulations 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ('SEBI Listing Regulations'), we hereby inform you that a meeting of the Board of Directors ('the Board') of Susan Electricals India Limited ('the Company') was held today i.e. Monday, November 2, 2026, wherein the Board, inter-alia, considered and approved the following:\\r\\n\\r\\n1) Unaudited Financial Results for the Quarter and Half year ended September 30, 2026 in terms of Regulation 33 of the SEBI Listing Regulations together with Limited Review Report, are enclosed herewith as Annexure 1.\\r\\n\", \"HEADLINE\": \"Pursuant to Regulations 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ('SEBI Listing ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T16:05:11\", \"DissemDT\": \"2026-11-02T16:05:15.287\", \"TimeDiff\": \"00:00:04\", \"Fld_Attachsize\": 3420574, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On 2Nd November 2026 And Submission Of Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"_published\": \"2026-11-02T16:05:15.287\", \"_category\": \"Board Meeting\", \"_headline\": \"Pursuant to Regulations 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ('SEBI Listing ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f2c7144a-967f-4075-bd77-60d012efb9f5.pdf\", \"_id\": \"2220f055-6ded-4caa-9018-48e9a479ead3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6597,16 +6597,16 @@
       "sent_at": "2026-11-01T08:08:56.414261+00:00"
     },
     {
-      "message_id": "<7658d18f234d7a2c1640e0f4cb8149c0f77b38c892459f91cfc68ff8e41d6def@gmail.com>",
-      "sent_at": "2026-10-31T10:32:38.805185+00:00"
-    },
-    {
       "message_id": "<89b4553e60a8c90531b3b3de7e2579d543d469990a117d4abf5d61f8e08c0faa@gmail.com>",
       "sent_at": "2026-11-02T09:10:23.862157+00:00"
     },
     {
       "message_id": "<89e7d711350b72e4dfc18961c564fddab68787145d482d061fcb64987f2c8092@gmail.com>",
       "sent_at": "2026-11-02T09:55:23.714914+00:00"
+    },
+    {
+      "message_id": "<af744ce58f57ef30c1a4ed904d08c83a512cac6fec1bdd9808877db4e7008a2d@gmail.com>",
+      "sent_at": "2026-11-02T10:40:22.575420+00:00"
     },
     {
       "message_id": "<c25ad5d26ced31a9ace74eba881efda258cbe978527ab68d69321d923dfaef65@gmail.com>",
