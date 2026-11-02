@@ -5476,6 +5476,13 @@
     },
     {
       "company_key": "544862",
+      "discovered_at": "2026-11-02T09:10:15.341381+00:00",
+      "news_id": "9c820bb1-c35d-4d91-b58c-57f9bbc0a1c1",
+      "payload": "{\"NEWSID\": \"9c820bb1-c35d-4d91-b58c-57f9bbc0a1c1\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_9C820BB1-C35D-4D91-B58C-57F9BBC0A1C1\", \"NEWSSUB\": \"Solex Energy Limited Has Clarified Stock Exchange With Respect To Recent News Quoting \\\"Solex Energy Eyes US Market For Global Debut, Plans Module And Cell Projects\\\".\", \"DT_TM\": \"2026-11-02T14:40:05.963\", \"NEWS_DT\": \"2026-11-02T14:40:05.963\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6da0985e-2fad-409a-abac-999b9f115ebf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Solex Energy Limited has clarified Stock Exchange with respect to news quoting \\\"Solex Energy eyes US market for global debut, plans module and cell projects.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T14:40:05\", \"DissemDT\": \"2026-11-02T14:40:05.963\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 270646, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Solex Energy Limited Has Clarified Stock Exchange With Respect To Recent News Quoting \\\"Solex Energy Eyes US Market For Global Debut, Plans Module And Cell Projects\\\".\", \"_published\": \"2026-11-02T14:40:05.963\", \"_category\": \"Company Update\", \"_headline\": \"Solex Energy Limited has clarified Stock Exchange with respect to news quoting \\\"Solex Energy eyes US market for global debut, plans module and cell projects.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6da0985e-2fad-409a-abac-999b9f115ebf.pdf\", \"_id\": \"9c820bb1-c35d-4d91-b58c-57f9bbc0a1c1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544862",
       "discovered_at": "2026-09-23T05:12:07.584914+00:00",
       "news_id": "a3e501f1-f9dd-450d-8def-5938e0b6ffbf",
       "payload": null,
