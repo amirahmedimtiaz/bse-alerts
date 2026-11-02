@@ -5119,6 +5119,13 @@
     },
     {
       "company_key": "544793",
+      "discovered_at": "2026-11-02T10:50:02.363712+00:00",
+      "news_id": "0342e1b9-04ce-4fd9-aa03-3ae33ec9811d",
+      "payload": "{\"NEWSID\": \"0342e1b9-04ce-4fd9-aa03-3ae33ec9811d\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_0342E1B9-04CE-4FD9-AA03-3AE33EC9811D\", \"NEWSSUB\": \"Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"DT_TM\": \"2026-11-02T16:19:34.22\", \"NEWS_DT\": \"2026-11-02T16:19:34.22\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3d41a65a-c60f-4a07-b68e-1ea07c82aac4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T16:19:34\", \"DissemDT\": \"2026-11-02T16:19:34.22\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3420574, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"_published\": \"2026-11-02T16:19:34.22\", \"_category\": \"Result\", \"_headline\": \"Financial Results For The Quarter And Half Year Ended 30Th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3d41a65a-c60f-4a07-b68e-1ea07c82aac4.pdf\", \"_id\": \"0342e1b9-04ce-4fd9-aa03-3ae33ec9811d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544793",
       "discovered_at": "2026-09-23T05:12:07.584884+00:00",
       "news_id": "10898a14-2bf1-4dc8-8360-52ec317e7e0c",
       "payload": null,
