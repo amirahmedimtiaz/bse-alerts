@@ -4386,8 +4386,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-02T10:25:18.312648+00:00",
       "news_id": "bc4ba65f-24a3-41cb-902f-3aff02bb06ec",
-      "payload": "{\"NEWSID\": \"bc4ba65f-24a3-41cb-902f-3aff02bb06ec\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_BC4BA65F-24A3-41CB-902F-3AFF02BB06EC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-02T15:54:05.023\", \"NEWS_DT\": \"2026-11-02T15:54:05.023\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9b4f4dca-50ad-41a2-ad1b-8928ca1afdaa.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Investor Meet to Discuss H1 FY27 Earnings\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T15:54:04\", \"DissemDT\": \"2026-11-02T15:54:05.023\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 2605725, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"bc4ba65f-24a3-41cb-902f-3aff02bb06ec\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14737877, \"DataInsDate\": \"2026-11-02T15:54:04.993\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-02T15:54:05.023\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Investor Meet to Discuss H1 FY27 Earnings\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b4f4dca-50ad-41a2-ad1b-8928ca1afdaa.pdf\", \"_id\": \"bc4ba65f-24a3-41cb-902f-3aff02bb06ec\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -6557,6 +6557,10 @@
     {
       "message_id": "<0608544983adf319a6deb212dd9a6125a39b1567d5d94cc749e2069a01f3821e@gmail.com>",
       "sent_at": "2026-11-01T04:58:38.813170+00:00"
+    },
+    {
+      "message_id": "<2818de97bf4b133861ba652b137c2839420d31f1db0a70b75653aab649ad55c7@gmail.com>",
+      "sent_at": "2026-11-02T10:25:23.199786+00:00"
     },
     {
       "message_id": "<2f6c2bff55758722e6f422656bb0dbcfb9998a4dc53074077583ecf0ea976968@gmail.com>",
