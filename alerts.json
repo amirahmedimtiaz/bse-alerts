@@ -5525,6 +5525,13 @@
     },
     {
       "company_key": "544862",
+      "discovered_at": "2026-11-02T06:59:50.823784+00:00",
+      "news_id": "d2073916-1140-46dc-83ec-d4c418079ebf",
+      "payload": "{\"NEWSID\": \"d2073916-1140-46dc-83ec-d4c418079ebf\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_D2073916-1140-46DC-83EC-D4C418079EBF\", \"NEWSSUB\": \"Clarification sought from Solex Energy Ltd\", \"DT_TM\": \"2026-11-02T12:28:26.303\", \"NEWS_DT\": \"2026-11-02T12:28:26.303\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"\", \"MORE\": \"The Exchange has sought clarification from Solex Energy Ltd on November 2, 2026, with reference to news appeared in https://www.thehindubusinessline.com/ dated November 2, 2026 quoting \\\"Solex Energy eyes US market for global debut, plans module and cell projects\\\".<BR><BR>The reply is awaited.\", \"HEADLINE\": \"The Exchange has sought clarification from Solex Energy Ltd on November 2, 2026, with reference to news appeared in https://www.thehindubusinessline.com/ dated November 2, 2026 quoting ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 17, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-11-02T12:28:26.303\", \"TimeDiff\": null, \"Fld_Attachsize\": null, \"SUBCATNAME\": \"Clarification\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Clarification sought from Solex Energy Ltd\", \"_published\": \"2026-11-02T12:28:26.303\", \"_category\": \"Company Update\", \"_headline\": \"The Exchange has sought clarification from Solex Energy Ltd on November 2, 2026, with reference to news appeared in https://www.thehindubusinessline.com/ dated November 2, 2026 quoting ....\", \"_pdf_url\": null, \"_id\": \"d2073916-1140-46dc-83ec-d4c418079ebf\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544862",
       "discovered_at": "2026-10-19T10:49:25.965301+00:00",
       "news_id": "e1c5b304-15cd-4c6d-a1ca-2d72e2c98614",
       "payload": null,
