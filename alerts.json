@@ -4344,8 +4344,8 @@
       "company_key": "544291",
       "discovered_at": "2026-11-02T06:29:53.168508+00:00",
       "news_id": "e7ab87be-50ba-41a4-99d9-3b02775c5025",
-      "payload": "{\"NEWSID\": \"e7ab87be-50ba-41a4-99d9-3b02775c5025\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_E7AB87BE-50BA-41A4-99D9-3B02775C5025\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting And Submission Of The Unaudited Standalone & Consolidated Financial Results For The Half Year Ended On September 30, 2026\", \"DT_TM\": \"2026-11-02T11:56:53.843\", \"NEWS_DT\": \"2026-11-02T11:56:53.843\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f47d6ebb-f70c-45e8-abfd-ae1a14ea947b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting and Submission of the Unaudited Standalone & Consolidated Financial Results for the half year ended on September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T11:56:42\", \"DissemDT\": \"2026-11-02T11:56:53.843\", \"TimeDiff\": \"00:00:11\", \"Fld_Attachsize\": 17638256, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting And Submission Of The Unaudited Standalone & Consolidated Financial Results For The Half Year Ended On September 30, 2026\", \"_published\": \"2026-11-02T11:56:53.843\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of the Board Meeting and Submission of the Unaudited Standalone & Consolidated Financial Results for the half year ended on September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f47d6ebb-f70c-45e8-abfd-ae1a14ea947b.pdf\", \"_id\": \"e7ab87be-50ba-41a4-99d9-3b02775c5025\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6503,20 +6503,12 @@
       "sent_at": "2026-11-01T04:58:38.813170+00:00"
     },
     {
-      "message_id": "<24c37a2a8563f67e7e2ac70572d9607ab54ebf179d0a2ab232f41ef90226658d@gmail.com>",
-      "sent_at": "2026-10-30T11:11:34.674615+00:00"
-    },
-    {
       "message_id": "<2f6c2bff55758722e6f422656bb0dbcfb9998a4dc53074077583ecf0ea976968@gmail.com>",
       "sent_at": "2026-10-31T13:47:44.300736+00:00"
     },
     {
-      "message_id": "<4d293615186870a4aaea8dccd61410a70511ddf71cade2f004be1d1a658cf9eb@gmail.com>",
-      "sent_at": "2026-10-30T10:06:02.076544+00:00"
-    },
-    {
-      "message_id": "<58cd53af80888e815ce646450867febf778dbdaa5ef84eaffb4ddd0e392eea90@gmail.com>",
-      "sent_at": "2026-10-30T11:56:21.045562+00:00"
+      "message_id": "<46dd5b673ea12fd98aef34769a53422904a213c1f2d95380f1da3e4a0936c464@gmail.com>",
+      "sent_at": "2026-11-02T06:29:59.180162+00:00"
     },
     {
       "message_id": "<6496a20ccc1a67500eea33af8b0271527f587743366aba69e3be528ec35e502d@gmail.com>",
@@ -6531,44 +6523,16 @@
       "sent_at": "2026-10-31T10:32:38.805185+00:00"
     },
     {
-      "message_id": "<7c3eb5e63a9c5d068bfe2facc9679f8b5fcab9e599bcf8c5216e65183ce5675f@gmail.com>",
-      "sent_at": "2026-10-31T05:12:06.208282+00:00"
-    },
-    {
       "message_id": "<8a6ace8ecefa2c8d5f1f4d7c0b469e0217e288aa94c6560b828444f7e998b75b@gmail.com>",
       "sent_at": "2026-10-31T07:07:19.793947+00:00"
-    },
-    {
-      "message_id": "<a473f07361b89bef2b66b342bb32ac3ea49f0146ddc14edf06c09c2a93e4ed0f@gmail.com>",
-      "sent_at": "2026-10-30T15:06:22.789807+00:00"
-    },
-    {
-      "message_id": "<a8fa333ec7e1ef9f11061cca2fb78f41a6a005921532471847ad602c92e68438@gmail.com>",
-      "sent_at": "2026-10-30T09:16:02.365658+00:00"
-    },
-    {
-      "message_id": "<ac82d194b6e39d686e961b45190e33d2fb1d2be0455a0fb3f9bf5cf243026373@gmail.com>",
-      "sent_at": "2026-10-30T21:36:47.305444+00:00"
-    },
-    {
-      "message_id": "<b024f7f9c17e3d019ca29c2268854bbe27bb3d91da6918d18ae38d97cbd16d4c@gmail.com>",
-      "sent_at": "2026-10-30T10:56:20.727845+00:00"
     },
     {
       "message_id": "<c25ad5d26ced31a9ace74eba881efda258cbe978527ab68d69321d923dfaef65@gmail.com>",
       "sent_at": "2026-10-31T14:38:34.800710+00:00"
     },
     {
-      "message_id": "<d9461686e6f32d5722f4529b34ae3ee55b2a457c75f87252c0f3a5dbd933c79d@gmail.com>",
-      "sent_at": "2026-10-30T20:42:09.021172+00:00"
-    },
-    {
       "message_id": "<df9bf9e06ada30bfc2f7317d5bd6913664c637796e33bf2fd65a0513e43675df@gmail.com>",
       "sent_at": "2026-10-31T14:33:42.484562+00:00"
-    },
-    {
-      "message_id": "<e8649aa111fcec12d08d97ae33b18f4d7d5911f521af32ee4527e842e210031b@gmail.com>",
-      "sent_at": "2026-10-30T09:26:05.521170+00:00"
     }
   ],
   "metadata": [
