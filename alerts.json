@@ -5240,8 +5240,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-02T15:40:26.537609+00:00",
       "news_id": "533e7ff8-777e-4b58-912d-aa8fde0395b8",
-      "payload": "{\"NEWSID\": \"533e7ff8-777e-4b58-912d-aa8fde0395b8\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_533E7FF8-777E-4B58-912D-AA8FDE0395B8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-02T21:08:44.38\", \"NEWS_DT\": \"2026-11-02T21:08:44.38\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4e12d2a5-2e2f-488f-8713-0e322d83d86e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Announcement under regulation 30(LODR)-Investor Presentation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T21:08:44\", \"DissemDT\": \"2026-11-02T21:08:44.38\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 19715216, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-02T21:08:44.38\", \"_category\": \"Company Update\", \"_headline\": \"Announcement under regulation 30(LODR)-Investor Presentation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e12d2a5-2e2f-488f-8713-0e322d83d86e.pdf\", \"_id\": \"533e7ff8-777e-4b58-912d-aa8fde0395b8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6656,6 +6656,10 @@
     {
       "message_id": "<2818de97bf4b133861ba652b137c2839420d31f1db0a70b75653aab649ad55c7@gmail.com>",
       "sent_at": "2026-11-02T10:25:23.199786+00:00"
+    },
+    {
+      "message_id": "<2b8af583b4b7ff15ee73e4cf0587b7f141da6bf512d50cbdca0df8287d9aefc6@gmail.com>",
+      "sent_at": "2026-11-02T15:41:23.335493+00:00"
     },
     {
       "message_id": "<42bc7b6797f7a60c5c7570c5074ac0640a3d2ccb5e70af012269f6e12f177b11@gmail.com>",
