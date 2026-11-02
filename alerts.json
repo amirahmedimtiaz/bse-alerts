@@ -88,8 +88,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-02T09:55:01.326396+00:00",
       "news_id": "67596401-6bfe-4e45-9d1f-834a0b5c5e3f",
-      "payload": "{\"NEWSID\": \"67596401-6bfe-4e45-9d1f-834a0b5c5e3f\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_67596401-6BFE-4E45-9D1F-834A0B5C5E3F\", \"NEWSSUB\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting\", \"DT_TM\": \"2026-11-02T15:24:06.253\", \"NEWS_DT\": \"2026-11-02T15:24:06.253\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"02803fee-de9d-4ca5-bd8e-7d38b42cb954.pdf\", \"MORE\": \"Finolex Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting Prior Intimation of Board Meeting\", \"HEADLINE\": \"Finolex Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T15:24:02\", \"DissemDT\": \"2026-11-02T15:24:06.253\", \"TimeDiff\": \"00:00:04\", \"Fld_Attachsize\": 711038, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting\", \"_published\": \"2026-11-02T15:24:06.253\", \"_category\": \"Board Meeting\", \"_headline\": \"Finolex Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/02803fee-de9d-4ca5-bd8e-7d38b42cb954.pdf\", \"_id\": \"67596401-6bfe-4e45-9d1f-834a0b5c5e3f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -116,8 +116,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-02T09:55:01.326189+00:00",
       "news_id": "7dc94bbc-16cd-4c71-940c-e37acb17be16",
-      "payload": "{\"NEWSID\": \"7dc94bbc-16cd-4c71-940c-e37acb17be16\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_7DC94BBC-16CD-4C71-940C-E37ACB17BE16\", \"NEWSSUB\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting\", \"DT_TM\": \"2026-11-02T15:23:14.56\", \"NEWS_DT\": \"2026-11-02T15:23:14.56\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6796e562-5c49-443b-8d60-958e432dd8c3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Finolex Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T15:23:12\", \"DissemDT\": \"2026-11-02T15:23:14.56\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 711038, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting\", \"_published\": \"2026-11-02T15:23:14.56\", \"_category\": \"Board Meeting\", \"_headline\": \"Finolex Cables Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/11/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6796e562-5c49-443b-8d60-958e432dd8c3.pdf\", \"_id\": \"7dc94bbc-16cd-4c71-940c-e37acb17be16\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -3343,8 +3343,8 @@
       "company_key": "543240",
       "discovered_at": "2026-11-02T09:55:19.324037+00:00",
       "news_id": "23dc080d-15c3-4ecf-9597-54ab27e2aef1",
-      "payload": "{\"NEWSID\": \"23dc080d-15c3-4ecf-9597-54ab27e2aef1\", \"SCRIP_CD\": 543240, \"XML_NAME\": \"ANN_543240_23DC080D-15C3-4ECF-9597-54AB27E2AEF1\", \"NEWSSUB\": \"Board Meeting Intimation for Board Meeting Intimation For Consideration And Approval Of Unaudited Standalone And Consolidated Financial Results For The Quarter Ended September 30, 2026.\", \"DT_TM\": \"2026-11-02T15:23:40.493\", \"NEWS_DT\": \"2026-11-02T15:23:40.493\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a9b14ed1-e4a2-4c17-8461-9e5b7bc91c26.pdf\", \"MORE\": \"Likhitha Infrastructure Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve Likhitha Infrastructure Ltd has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026, inter alia, to consider and approve the Unaudited Standalone and Consolidated Financial Results of the Company for the Quarter and Half Year ended September 30, 2026\", \"HEADLINE\": \"Likhitha Infrastructure Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve Likhitha Infrastructure ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/\", \"SLONGNAME\": \"Likhitha Infrastructure Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T15:23:38\", \"DissemDT\": \"2026-11-02T15:23:40.493\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 622569, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Likhitha Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Board Meeting Intimation For Consideration And Approval Of Unaudited Standalone And Consolidated Financial Results For The Quarter Ended September 30, 2026.\", \"_published\": \"2026-11-02T15:23:40.493\", \"_category\": \"Board Meeting\", \"_headline\": \"Likhitha Infrastructure Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve Likhitha Infrastructure ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9b14ed1-e4a2-4c17-8461-9e5b7bc91c26.pdf\", \"_id\": \"23dc080d-15c3-4ecf-9597-54ab27e2aef1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543240",
@@ -6578,6 +6578,10 @@
     {
       "message_id": "<89b4553e60a8c90531b3b3de7e2579d543d469990a117d4abf5d61f8e08c0faa@gmail.com>",
       "sent_at": "2026-11-02T09:10:23.862157+00:00"
+    },
+    {
+      "message_id": "<89e7d711350b72e4dfc18961c564fddab68787145d482d061fcb64987f2c8092@gmail.com>",
+      "sent_at": "2026-11-02T09:55:23.714914+00:00"
     },
     {
       "message_id": "<c25ad5d26ced31a9ace74eba881efda258cbe978527ab68d69321d923dfaef65@gmail.com>",
