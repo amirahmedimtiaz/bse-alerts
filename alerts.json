@@ -730,6 +730,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-11-02T16:05:29.113760+00:00",
+      "news_id": "a3cd55b8-ce30-4c9e-aabd-a5dd8a9683a1",
+      "payload": "{\"NEWSID\": \"a3cd55b8-ce30-4c9e-aabd-a5dd8a9683a1\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_A3CD55B8-CE30-4C9E-AABD-A5DD8A9683A1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-02T21:33:56.077\", \"NEWS_DT\": \"2026-11-02T21:33:56.077\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3914b553-5bdf-494b-81b8-cb5ac3d21c68.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Q2 & H1 FY27 Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T21:33:55\", \"DissemDT\": \"2026-11-02T21:33:56.077\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 731578, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-02T21:33:56.077\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Q2 & H1 FY27 Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3914b553-5bdf-494b-81b8-cb5ac3d21c68.pdf\", \"_id\": \"a3cd55b8-ce30-4c9e-aabd-a5dd8a9683a1\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584315+00:00",
       "news_id": "b53e3903-8449-46bd-8681-69a0c9ee06b5",
       "payload": null,
