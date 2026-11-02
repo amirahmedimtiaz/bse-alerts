@@ -5086,8 +5086,8 @@
       "company_key": "544613",
       "discovered_at": "2026-11-02T12:40:12.082875+00:00",
       "news_id": "ca9baa93-d954-4235-94f8-fd2c7175b40c",
-      "payload": "{\"NEWSID\": \"ca9baa93-d954-4235-94f8-fd2c7175b40c\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_CA9BAA93-D954-4235-94F8-FD2C7175B40C\", \"NEWSSUB\": \"Board Meeting Intimation for Consideration Of Unaudited Financial Results Of The Company, For The Quarter And Half-Year Ended September 30, 2026.\", \"DT_TM\": \"2026-11-02T18:08:51.41\", \"NEWS_DT\": \"2026-11-02T18:08:51.41\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9c6f88ea-765e-4db7-b25e-f68c614a2fe3.pdf\", \"MORE\": \"Fujiyama Power Systems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve Unaudited Standalone and Consolidated Financial Results of the Company, for the quarter and half-year ended September 30, 2026.\", \"HEADLINE\": \"Fujiyama Power Systems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve Unaudited Standalone ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T18:08:50\", \"DissemDT\": \"2026-11-02T18:08:51.41\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 536582, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Consideration Of Unaudited Financial Results Of The Company, For The Quarter And Half-Year Ended September 30, 2026.\", \"_published\": \"2026-11-02T18:08:51.41\", \"_category\": \"Board Meeting\", \"_headline\": \"Fujiyama Power Systems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve Unaudited Standalone ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9c6f88ea-765e-4db7-b25e-f68c614a2fe3.pdf\", \"_id\": \"ca9baa93-d954-4235-94f8-fd2c7175b40c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -5345,8 +5345,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-02T12:40:02.948714+00:00",
       "news_id": "f6c33583-6ea9-4738-8e29-d472f6e39838",
-      "payload": "{\"NEWSID\": \"f6c33583-6ea9-4738-8e29-d472f6e39838\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_F6C33583-6EA9-4738-8E29-D472F6E39838\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-02T18:05:03.46\", \"NEWS_DT\": \"2026-11-02T18:05:03.46\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d0a0ae04-4c4b-4055-b660-7bd326d87125.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earning Press Release on Q2 and HY1 of FY 27\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T18:05:03\", \"DissemDT\": \"2026-11-02T18:05:03.46\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1555607, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-02T18:05:03.46\", \"_category\": \"Company Update\", \"_headline\": \"Earning Press Release on Q2 and HY1 of FY 27\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d0a0ae04-4c4b-4055-b660-7bd326d87125.pdf\", \"_id\": \"f6c33583-6ea9-4738-8e29-d472f6e39838\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6606,6 +6606,10 @@
     {
       "message_id": "<0608544983adf319a6deb212dd9a6125a39b1567d5d94cc749e2069a01f3821e@gmail.com>",
       "sent_at": "2026-11-01T04:58:38.813170+00:00"
+    },
+    {
+      "message_id": "<15998005e9c35f200345e1bcd234c63a708ffb5e0f4bd9f97694ba91f1c40628@gmail.com>",
+      "sent_at": "2026-11-02T12:40:24.702087+00:00"
     },
     {
       "message_id": "<2818de97bf4b133861ba652b137c2839420d31f1db0a70b75653aab649ad55c7@gmail.com>",
