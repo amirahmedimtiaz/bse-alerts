@@ -242,8 +242,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-02T11:45:12.308245+00:00",
       "news_id": "4cec98cb-fa6f-4abe-aebe-a41c6b0fe1cb",
-      "payload": "{\"NEWSID\": \"4cec98cb-fa6f-4abe-aebe-a41c6b0fe1cb\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4CEC98CB-FA6F-4ABE-AEBE-A41C6B0FE1CB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-02T17:13:11.047\", \"NEWS_DT\": \"2026-11-02T17:13:11.047\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"82194fd1-e0aa-4dc7-9dfe-bc5d4bf73b04.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Analyst Call to discuss the results for Q2FY27 will be held on Wednesday, November 11, 2026, from 6:00 p.m. (IST) onwards. The mode is ''''Over Call'''' for all Investors/General Public\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Analyst Call ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T17:13:11\", \"DissemDT\": \"2026-11-02T17:13:11.047\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 232031, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-02T17:13:11.047\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Analyst Call ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/82194fd1-e0aa-4dc7-9dfe-bc5d4bf73b04.pdf\", \"_id\": \"4cec98cb-fa6f-4abe-aebe-a41c6b0fe1cb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -6603,12 +6603,12 @@
       "sent_at": "2026-11-02T06:29:59.180162+00:00"
     },
     {
-      "message_id": "<6496a20ccc1a67500eea33af8b0271527f587743366aba69e3be528ec35e502d@gmail.com>",
-      "sent_at": "2026-10-31T11:12:22.849204+00:00"
-    },
-    {
       "message_id": "<65cd27ace93b01d78b3f1bdb1f8e0e347912a9fc1a270f7c705af5738c677704@gmail.com>",
       "sent_at": "2026-11-01T08:08:56.414261+00:00"
+    },
+    {
+      "message_id": "<80aae605b73932eee3dc0793931c7bbbcc58d45f00d01c138302130d267746c5@gmail.com>",
+      "sent_at": "2026-11-02T11:45:22.812161+00:00"
     },
     {
       "message_id": "<89b4553e60a8c90531b3b3de7e2579d543d469990a117d4abf5d61f8e08c0faa@gmail.com>",
