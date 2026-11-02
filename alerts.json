@@ -4342,6 +4342,13 @@
     },
     {
       "company_key": "544291",
+      "discovered_at": "2026-11-02T06:29:53.168508+00:00",
+      "news_id": "e7ab87be-50ba-41a4-99d9-3b02775c5025",
+      "payload": "{\"NEWSID\": \"e7ab87be-50ba-41a4-99d9-3b02775c5025\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_E7AB87BE-50BA-41A4-99D9-3B02775C5025\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting And Submission Of The Unaudited Standalone & Consolidated Financial Results For The Half Year Ended On September 30, 2026\", \"DT_TM\": \"2026-11-02T11:56:53.843\", \"NEWS_DT\": \"2026-11-02T11:56:53.843\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f47d6ebb-f70c-45e8-abfd-ae1a14ea947b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting and Submission of the Unaudited Standalone & Consolidated Financial Results for the half year ended on September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T11:56:42\", \"DissemDT\": \"2026-11-02T11:56:53.843\", \"TimeDiff\": \"00:00:11\", \"Fld_Attachsize\": 17638256, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting And Submission Of The Unaudited Standalone & Consolidated Financial Results For The Half Year Ended On September 30, 2026\", \"_published\": \"2026-11-02T11:56:53.843\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of the Board Meeting and Submission of the Unaudited Standalone & Consolidated Financial Results for the half year ended on September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f47d6ebb-f70c-45e8-abfd-ae1a14ea947b.pdf\", \"_id\": \"e7ab87be-50ba-41a4-99d9-3b02775c5025\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544291",
       "discovered_at": "2026-10-14T07:45:49.365627+00:00",
       "news_id": "fb968c1a-aaff-4350-8567-22e92da87c75",
       "payload": null,
