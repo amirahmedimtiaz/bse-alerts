@@ -4827,8 +4827,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-02T14:50:35.084933+00:00",
       "news_id": "9a21dbff-d49a-4871-990f-fff115148d01",
-      "payload": "{\"NEWSID\": \"9a21dbff-d49a-4871-990f-fff115148d01\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_9A21DBFF-D49A-4871-990F-FFF115148D01\", \"NEWSSUB\": \"Intimation Under Regulation 30 Of SEBI LODR - Commencement Of Commercial Production At Gopalpur Solar PV Module Manufacturing Facility, Odisha\", \"DT_TM\": \"2026-11-02T20:20:05.23\", \"NEWS_DT\": \"2026-11-02T20:20:05.23\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"31704217-d641-4261-9c14-1b0a5eff5c9e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under Regulation 30- Commencement of Commercial Production\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T20:20:05\", \"DissemDT\": \"2026-11-02T20:20:05.23\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 432883, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Intimation Under Regulation 30 Of SEBI LODR - Commencement Of Commercial Production At Gopalpur Solar PV Module Manufacturing Facility, Odisha\", \"_published\": \"2026-11-02T20:20:05.23\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30- Commencement of Commercial Production\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/31704217-d641-4261-9c14-1b0a5eff5c9e.pdf\", \"_id\": \"9a21dbff-d49a-4871-990f-fff115148d01\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -6651,10 +6651,6 @@
       "sent_at": "2026-11-02T10:25:23.199786+00:00"
     },
     {
-      "message_id": "<2f6c2bff55758722e6f422656bb0dbcfb9998a4dc53074077583ecf0ea976968@gmail.com>",
-      "sent_at": "2026-10-31T13:47:44.300736+00:00"
-    },
-    {
       "message_id": "<42bc7b6797f7a60c5c7570c5074ac0640a3d2ccb5e70af012269f6e12f177b11@gmail.com>",
       "sent_at": "2026-11-02T09:20:23.765387+00:00"
     },
@@ -6699,10 +6695,6 @@
       "sent_at": "2026-11-02T10:40:22.575420+00:00"
     },
     {
-      "message_id": "<c25ad5d26ced31a9ace74eba881efda258cbe978527ab68d69321d923dfaef65@gmail.com>",
-      "sent_at": "2026-10-31T14:38:34.800710+00:00"
-    },
-    {
       "message_id": "<c5f9694c66fc8491d8accea0e535982e3bc605c4ff4557c633f181bcaf4cf9b2@gmail.com>",
       "sent_at": "2026-11-02T07:00:00.433055+00:00"
     },
@@ -6711,12 +6703,12 @@
       "sent_at": "2026-11-02T07:10:01.287308+00:00"
     },
     {
-      "message_id": "<df9bf9e06ada30bfc2f7317d5bd6913664c637796e33bf2fd65a0513e43675df@gmail.com>",
-      "sent_at": "2026-10-31T14:33:42.484562+00:00"
-    },
-    {
       "message_id": "<e017eb791eff807103143615562c0b992c793164df4e7e380ce1e59a8c9e4c97@gmail.com>",
       "sent_at": "2026-11-02T10:50:22.745050+00:00"
+    },
+    {
+      "message_id": "<eaa1e0bda0751f098fafdcf88c517cb2c4045a79ba2b8d1fb50ae4c6753bbe10@gmail.com>",
+      "sent_at": "2026-11-02T14:50:46.113338+00:00"
     }
   ],
   "metadata": [
