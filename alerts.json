@@ -4302,8 +4302,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-02T17:55:30.572483+00:00",
       "news_id": "ee56b38c-3489-405a-9de8-66c2883f916d",
-      "payload": "{\"NEWSID\": \"ee56b38c-3489-405a-9de8-66c2883f916d\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_EE56B38C-3489-405A-9DE8-66C2883F916D\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Updates\", \"DT_TM\": \"2026-11-02T23:20:37.44\", \"NEWS_DT\": \"2026-11-02T23:20:37.44\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f9e6fd84-f471-4ea3-ba3c-747b8e7c4a73.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Updates.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T23:20:37\", \"DissemDT\": \"2026-11-02T23:20:37.44\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 267483, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Updates\", \"_published\": \"2026-11-02T23:20:37.44\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Updates.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f9e6fd84-f471-4ea3-ba3c-747b8e7c4a73.pdf\", \"_id\": \"ee56b38c-3489-405a-9de8-66c2883f916d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6662,6 +6662,10 @@
     {
       "message_id": "<0608544983adf319a6deb212dd9a6125a39b1567d5d94cc749e2069a01f3821e@gmail.com>",
       "sent_at": "2026-11-01T04:58:38.813170+00:00"
+    },
+    {
+      "message_id": "<0f1dc850dd33d1ebdcb96ea2953fcebab3b53764fa477e08b066cad773948508@gmail.com>",
+      "sent_at": "2026-11-02T17:55:44.246917+00:00"
     },
     {
       "message_id": "<15998005e9c35f200345e1bcd234c63a708ffb5e0f4bd9f97694ba91f1c40628@gmail.com>",
