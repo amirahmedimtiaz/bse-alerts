@@ -4335,6 +4335,13 @@
     },
     {
       "company_key": "544291",
+      "discovered_at": "2026-11-02T09:20:13.869653+00:00",
+      "news_id": "926b1b6e-070d-4789-88da-77ab6f54ad36",
+      "payload": "{\"NEWSID\": \"926b1b6e-070d-4789-88da-77ab6f54ad36\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_926B1B6E-070D-4789-88DA-77AB6F54AD36\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-02T14:45:48.927\", \"NEWS_DT\": \"2026-11-02T14:45:48.927\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"35021f7a-41a2-45c7-a72e-6f9876a75892.pdf\", \"MORE\": \"\", \"HEADLINE\": \" Intimation of Investor Presentation for Unaudited Financial results (Standalone and Consolidated) for Half year ended on September 30,2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T14:45:48\", \"DissemDT\": \"2026-11-02T14:45:48.927\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5279257, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-02T14:45:48.927\", \"_category\": \"Company Update\", \"_headline\": \" Intimation of Investor Presentation for Unaudited Financial results (Standalone and Consolidated) for Half year ended on September 30,2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/35021f7a-41a2-45c7-a72e-6f9876a75892.pdf\", \"_id\": \"926b1b6e-070d-4789-88da-77ab6f54ad36\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544291",
       "discovered_at": "2026-09-26T14:20:34.677222+00:00",
       "news_id": "977e95e8-c581-456a-8a25-4dc055b26c73",
       "payload": null,
