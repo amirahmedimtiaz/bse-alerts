@@ -6283,8 +6283,8 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-02T13:00:16.400494+00:00",
       "news_id": "106840315",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Acquisition\", \"dt\": \"02-Nov-2026 18:28:19\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_02112026182811_TBI_Covering_Letter_30.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"02-Nov-2026 18:28:19\", \"sort_date\": \"2026-11-02 18:28:19\", \"seq_id\": \"106840315\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about Acquisition\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"368.39 KB\", \"attFileSize\": \"368.39 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Acquisition\", \"_published\": \"2026-11-02 18:28:19\", \"_category\": \"Acquisition\", \"_headline\": \"TBI Corn Limited has informed the Exchange about Acquisition\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_02112026182811_TBI_Covering_Letter_30.pdf\", \"_id\": \"106840315\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -6653,6 +6653,10 @@
     {
       "message_id": "<89e7d711350b72e4dfc18961c564fddab68787145d482d061fcb64987f2c8092@gmail.com>",
       "sent_at": "2026-11-02T09:55:23.714914+00:00"
+    },
+    {
+      "message_id": "<a87369cf2b1e1d5a023a8aad61817d3290f0b7ac652f40f598f105a813720677@gmail.com>",
+      "sent_at": "2026-11-02T13:00:28.321560+00:00"
     },
     {
       "message_id": "<af744ce58f57ef30c1a4ed904d08c83a512cac6fec1bdd9808877db4e7008a2d@gmail.com>",
