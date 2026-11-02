@@ -4825,6 +4825,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-11-02T14:50:35.084933+00:00",
+      "news_id": "9a21dbff-d49a-4871-990f-fff115148d01",
+      "payload": "{\"NEWSID\": \"9a21dbff-d49a-4871-990f-fff115148d01\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_9A21DBFF-D49A-4871-990F-FFF115148D01\", \"NEWSSUB\": \"Intimation Under Regulation 30 Of SEBI LODR - Commencement Of Commercial Production At Gopalpur Solar PV Module Manufacturing Facility, Odisha\", \"DT_TM\": \"2026-11-02T20:20:05.23\", \"NEWS_DT\": \"2026-11-02T20:20:05.23\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"31704217-d641-4261-9c14-1b0a5eff5c9e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under Regulation 30- Commencement of Commercial Production\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T20:20:05\", \"DissemDT\": \"2026-11-02T20:20:05.23\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 432883, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Intimation Under Regulation 30 Of SEBI LODR - Commencement Of Commercial Production At Gopalpur Solar PV Module Manufacturing Facility, Odisha\", \"_published\": \"2026-11-02T20:20:05.23\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30- Commencement of Commercial Production\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/31704217-d641-4261-9c14-1b0a5eff5c9e.pdf\", \"_id\": \"9a21dbff-d49a-4871-990f-fff115148d01\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584845+00:00",
       "news_id": "a77ee159-871f-4d12-a7c9-23cdc2eab42b",
       "payload": null,
