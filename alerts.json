@@ -1549,6 +1549,13 @@
     },
     {
       "company_key": "530555",
+      "discovered_at": "2026-11-02T12:05:04.895984+00:00",
+      "news_id": "83db0c7d-f83d-4d19-9e61-3c29da271454",
+      "payload": "{\"NEWSID\": \"83db0c7d-f83d-4d19-9e61-3c29da271454\", \"SCRIP_CD\": 530555, \"XML_NAME\": \"ANN_530555_83DB0C7D-F83D-4D19-9E61-3C29DA271454\", \"NEWSSUB\": \"Transcript Of Analysts/Investors Call Pertaining To The Un-Audited Financial Results For The Quarter Ended On September 30, 2026.\", \"DT_TM\": \"2026-11-02T17:33:29.657\", \"NEWS_DT\": \"2026-11-02T17:33:29.657\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"122bd0c9-fa86-4462-8065-a98e469751b0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of Analysts/Investor Call Pertaining to the Un-Audited Financial Results for the Quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/\", \"SLONGNAME\": \"Paramount Communications Ltd-$\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T17:33:29\", \"DissemDT\": \"2026-11-02T17:33:29.657\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1182313, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Paramount Communications Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/paramount-communications-ltd/paracables/530555/corp-announcements\", \"_subject\": \"Transcript Of Analysts/Investors Call Pertaining To The Un-Audited Financial Results For The Quarter Ended On September 30, 2026.\", \"_published\": \"2026-11-02T17:33:29.657\", \"_category\": \"Company Update\", \"_headline\": \"Transcript of Analysts/Investor Call Pertaining to the Un-Audited Financial Results for the Quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/122bd0c9-fa86-4462-8065-a98e469751b0.pdf\", \"_id\": \"83db0c7d-f83d-4d19-9e61-3c29da271454\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "530555",
       "discovered_at": "2026-09-23T05:12:07.584450+00:00",
       "news_id": "8859d0c8-498b-44ba-b50d-11fca764c018",
       "payload": null,
