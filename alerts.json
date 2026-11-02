@@ -2830,6 +2830,13 @@
     },
     {
       "company_key": "538786",
+      "discovered_at": "2026-11-02T13:35:11.382695+00:00",
+      "news_id": "56923015-320e-4ca3-bc9e-fc968a1399e0",
+      "payload": "{\"NEWSID\": \"56923015-320e-4ca3-bc9e-fc968a1399e0\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_56923015-320E-4CA3-BC9E-FC968A1399E0\", \"NEWSSUB\": \"Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"DT_TM\": \"2026-11-02T19:04:38.273\", \"NEWS_DT\": \"2026-11-02T19:04:38.273\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"879357a4-4df1-4b4d-a38c-2b550836d2a1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Regulation 33 of the SEBI (LODR) Regulations, 2015 please find attached herewith the unaudited financial results of the company\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-02T19:04:38\", \"DissemDT\": \"2026-11-02T19:04:38.273\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2724538, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2026\", \"_published\": \"2026-11-02T19:04:38.273\", \"_category\": \"Result\", \"_headline\": \"Pursuant to Regulation 30 read with Regulation 33 of the SEBI (LODR) Regulations, 2015 please find attached herewith the unaudited financial results of the company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/879357a4-4df1-4b4d-a38c-2b550836d2a1.pdf\", \"_id\": \"56923015-320e-4ca3-bc9e-fc968a1399e0\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "538786",
       "discovered_at": "2026-09-23T05:12:07.584640+00:00",
       "news_id": "619b8c3a-d304-4b38-8131-e44aa87f6833",
       "payload": null,
