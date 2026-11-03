@@ -6509,6 +6509,13 @@
       "news_id": "106813571",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-11-03T10:51:58.531033+00:00",
+      "news_id": "106841979",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"03-Nov-2026 16:21:47\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_03112026162133_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"03-Nov-2026 16:21:47\", \"sort_date\": \"2026-11-03 16:21:47\", \"seq_id\": \"106841979\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"642.71 KB\", \"attFileSize\": \"642.71 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-03 16:21:47\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_03112026162133_VIL.pdf\", \"_id\": \"106841979\"}",
+      "status": "pending"
     }
   ],
   "companies": [
