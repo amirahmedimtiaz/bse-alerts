@@ -3343,8 +3343,8 @@
       "company_key": "542652",
       "discovered_at": "2026-11-03T10:26:50.352542+00:00",
       "news_id": "d348b3d0-dd7f-49b2-a0b1-d95c8697064c",
-      "payload": "{\"NEWSID\": \"d348b3d0-dd7f-49b2-a0b1-d95c8697064c\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_D348B3D0-DD7F-49B2-A0B1-D95C8697064C\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR)-Allotment Of ESOP / ESPS\", \"DT_TM\": \"2026-11-03T15:55:35.443\", \"NEWS_DT\": \"2026-11-03T15:55:35.443\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6c644005-9bd2-42f5-b61b-556e8c885e2d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure of allotment of Equity shares pursuant to Employee Stock Options Scheme, 2018 of Polycab India Limited\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T15:55:35\", \"DissemDT\": \"2026-11-03T15:55:35.443\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 258934, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR)-Allotment Of ESOP / ESPS\", \"_published\": \"2026-11-03T15:55:35.443\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure of allotment of Equity shares pursuant to Employee Stock Options Scheme, 2018 of Polycab India Limited\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c644005-9bd2-42f5-b61b-556e8c885e2d.pdf\", \"_id\": \"d348b3d0-dd7f-49b2-a0b1-d95c8697064c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -6765,6 +6765,10 @@
     {
       "message_id": "<80aae605b73932eee3dc0793931c7bbbcc58d45f00d01c138302130d267746c5@gmail.com>",
       "sent_at": "2026-11-02T11:45:22.812161+00:00"
+    },
+    {
+      "message_id": "<81ca7539c93ea8c0def9d15ab11774f1bcab41a3448a80e353e87b90c49cdb94@gmail.com>",
+      "sent_at": "2026-11-03T10:27:12.328183+00:00"
     },
     {
       "message_id": "<89b4553e60a8c90531b3b3de7e2579d543d469990a117d4abf5d61f8e08c0faa@gmail.com>",
