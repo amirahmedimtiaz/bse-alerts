@@ -1178,6 +1178,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-11-03T08:26:34.489525+00:00",
+      "news_id": "4037b2ec-e693-461a-9ed8-3477b0a13194",
+      "payload": "{\"NEWSID\": \"4037b2ec-e693-461a-9ed8-3477b0a13194\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_4037B2EC-E693-461A-9ED8-3477B0A13194\", \"NEWSSUB\": \"Statement Of No Deviation On QIP Proceeds\", \"DT_TM\": \"2026-11-03T13:55:10.583\", \"NEWS_DT\": \"2026-11-03T13:55:10.583\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b72be574-e8ee-4690-a112-f8bda7466474.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Statement of no deviation on QIP proceeds\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T13:55:10\", \"DissemDT\": \"2026-11-03T13:55:10.583\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1885270, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Statement Of No Deviation On QIP Proceeds\", \"_published\": \"2026-11-03T13:55:10.583\", \"_category\": \"Company Update\", \"_headline\": \"Statement of no deviation on QIP proceeds\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b72be574-e8ee-4690-a112-f8bda7466474.pdf\", \"_id\": \"4037b2ec-e693-461a-9ed8-3477b0a13194\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-10-06T10:58:15.224813+00:00",
       "news_id": "45b667db-3421-44de-bd80-611f73a8bd06",
       "payload": null,
