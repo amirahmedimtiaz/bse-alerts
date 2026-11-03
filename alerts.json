@@ -457,6 +457,13 @@
     },
     {
       "company_key": "504240",
+      "discovered_at": "2026-11-03T14:32:04.705825+00:00",
+      "news_id": "f222a505-fa5c-4449-a946-a966e3ba515c",
+      "payload": "{\"NEWSID\": \"f222a505-fa5c-4449-a946-a966e3ba515c\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_F222A505-FA5C-4449-A946-A966E3BA515C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-03T19:58:05.94\", \"NEWS_DT\": \"2026-11-03T19:58:05.94\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2c502348-8d20-4022-a780-0de70ec0a810.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation for the quarter and half-year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T19:58:05\", \"DissemDT\": \"2026-11-03T19:58:05.94\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4410113, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-03T19:58:05.94\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation for the quarter and half-year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2c502348-8d20-4022-a780-0de70ec0a810.pdf\", \"_id\": \"f222a505-fa5c-4449-a946-a966e3ba515c\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504240",
       "discovered_at": "2026-10-23T12:00:29.113945+00:00",
       "news_id": "f3610dc7-88fe-4426-b100-84999b0c0b0c",
       "payload": null,
