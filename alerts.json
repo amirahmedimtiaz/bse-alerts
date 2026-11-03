@@ -4379,8 +4379,8 @@
       "company_key": "544291",
       "discovered_at": "2026-11-03T08:01:42.081336+00:00",
       "news_id": "2a13c18f-678d-4795-95a4-ca484752012d",
-      "payload": "{\"NEWSID\": \"2a13c18f-678d-4795-95a4-ca484752012d\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_2A13C18F-678D-4795-95A4-CA484752012D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-03T13:28:10.67\", \"NEWS_DT\": \"2026-11-03T13:28:10.67\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"dcc17ab7-ce58-4346-8d24-87ae05bfe9b0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording of Earning Conference Call pertaining to the Unaudited Standalone and Consolidated Financial Results for the half year ended September 30,2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T13:28:10\", \"DissemDT\": \"2026-11-03T13:28:10.67\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 263713, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"2a13c18f-678d-4795-95a4-ca484752012d\", \"INVESTOR_PRESENTATION\": \"67ce4ad1-6651-4e2a-bf1f-a99755cf1c13.pdf\", \"RECORDID\": 14749633, \"DataInsDate\": \"2026-11-03T13:28:10.633\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67ce4ad1-6651-4e2a-bf1f-a99755cf1c13.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-03T13:28:10.67\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording of Earning Conference Call pertaining to the Unaudited Standalone and Consolidated Financial Results for the half year ended September 30,2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/dcc17ab7-ce58-4346-8d24-87ae05bfe9b0.pdf\", \"_id\": \"2a13c18f-678d-4795-95a4-ca484752012d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6746,6 +6746,10 @@
     {
       "message_id": "<a87369cf2b1e1d5a023a8aad61817d3290f0b7ac652f40f598f105a813720677@gmail.com>",
       "sent_at": "2026-11-02T13:00:28.321560+00:00"
+    },
+    {
+      "message_id": "<a9fcb22dc73c99f320553ab10efcf77bf6932a7525a5867b13dce0d210db45ca@gmail.com>",
+      "sent_at": "2026-11-03T08:01:52.824257+00:00"
     },
     {
       "message_id": "<af744ce58f57ef30c1a4ed904d08c83a512cac6fec1bdd9808877db4e7008a2d@gmail.com>",
