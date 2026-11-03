@@ -1374,6 +1374,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-11-03T08:21:33.489085+00:00",
+      "news_id": "c907962c-74c2-47ba-a8b2-9a6a37adfa8b",
+      "payload": "{\"NEWSID\": \"c907962c-74c2-47ba-a8b2-9a6a37adfa8b\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_C907962C-74C2-47BA-A8B2-9A6A37ADFA8B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-03T13:47:37.58\", \"NEWS_DT\": \"2026-11-03T13:47:37.58\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3f665caf-d6de-4931-a51a-b528f92c0262.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring agency report issued by CARE Ratings Limited for the quarter ended on 30.09.2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T13:47:37\", \"DissemDT\": \"2026-11-03T13:47:37.58\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 716148, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-03T13:47:37.58\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring agency report issued by CARE Ratings Limited for the quarter ended on 30.09.2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f665caf-d6de-4931-a51a-b528f92c0262.pdf\", \"_id\": \"c907962c-74c2-47ba-a8b2-9a6a37adfa8b\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584389+00:00",
       "news_id": "d106feff-49b0-4f31-aeb3-61d1796728ef",
       "payload": null,
