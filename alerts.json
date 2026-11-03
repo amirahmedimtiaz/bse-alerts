@@ -417,8 +417,8 @@
       "company_key": "504240",
       "discovered_at": "2026-11-03T13:37:04.918967+00:00",
       "news_id": "76f736fa-09e9-4fae-8f8c-5d41be562d81",
-      "payload": "{\"NEWSID\": \"76f736fa-09e9-4fae-8f8c-5d41be562d81\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_76F736FA-09E9-4FAE-8F8C-5D41BE562D81\", \"NEWSSUB\": \"Board Meeting Outcome for Board Meeting Outcome\", \"DT_TM\": \"2026-11-03T19:03:12.547\", \"NEWS_DT\": \"2026-11-03T19:03:12.547\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8f27f0bf-58c2-4356-adc7-d68fdf5ec4bd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting held on November 3, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T19:03:11\", \"DissemDT\": \"2026-11-03T19:03:12.547\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 2130312, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Board Meeting Outcome\", \"_published\": \"2026-11-03T19:03:12.547\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting held on November 3, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8f27f0bf-58c2-4356-adc7-d68fdf5ec4bd.pdf\", \"_id\": \"76f736fa-09e9-4fae-8f8c-5d41be562d81\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504240",
@@ -6862,6 +6862,10 @@
     {
       "message_id": "<a9fcb22dc73c99f320553ab10efcf77bf6932a7525a5867b13dce0d210db45ca@gmail.com>",
       "sent_at": "2026-11-03T08:01:52.824257+00:00"
+    },
+    {
+      "message_id": "<ab8cd383b680d9b4c87b5de8bcf4a5d0bed1b0211d319178da6b40a1350abac0@gmail.com>",
+      "sent_at": "2026-11-03T13:37:13.247567+00:00"
     },
     {
       "message_id": "<af744ce58f57ef30c1a4ed904d08c83a512cac6fec1bdd9808877db4e7008a2d@gmail.com>",
