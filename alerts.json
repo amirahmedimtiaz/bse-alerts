@@ -417,8 +417,8 @@
       "company_key": "504240",
       "discovered_at": "2026-11-03T14:27:03.390472+00:00",
       "news_id": "6e9bdb3a-dcb5-49cc-acc5-df80fa747507",
-      "payload": "{\"NEWSID\": \"6e9bdb3a-dcb5-49cc-acc5-df80fa747507\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_6E9BDB3A-DCB5-49CC-ACC5-DF80FA747507\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-03T19:55:52.467\", \"NEWS_DT\": \"2026-11-03T19:55:52.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7e756413-d70f-4b22-a5fd-a3a5c46868ee.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release for the quarter and half-year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T19:55:52\", \"DissemDT\": \"2026-11-03T19:55:52.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 599625, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-03T19:55:52.467\", \"_category\": \"Company Update\", \"_headline\": \"Press Release for the quarter and half-year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7e756413-d70f-4b22-a5fd-a3a5c46868ee.pdf\", \"_id\": \"6e9bdb3a-dcb5-49cc-acc5-df80fa747507\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504240",
@@ -6844,6 +6844,10 @@
     {
       "message_id": "<6768b51ba015a94524ce5be7f114a3c7e8cfdf01e94935c900d381f4cd5b743b@gmail.com>",
       "sent_at": "2026-11-03T13:02:13.025960+00:00"
+    },
+    {
+      "message_id": "<713bad53b815714abdb6f7885b85625642ef386056bf2846d6d0d3ba51e8c65b@gmail.com>",
+      "sent_at": "2026-11-03T14:27:13.529872+00:00"
     },
     {
       "message_id": "<80aae605b73932eee3dc0793931c7bbbcc58d45f00d01c138302130d267746c5@gmail.com>",
