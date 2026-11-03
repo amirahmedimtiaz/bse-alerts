@@ -4428,8 +4428,8 @@
       "company_key": "544291",
       "discovered_at": "2026-11-03T04:11:23.432840+00:00",
       "news_id": "fa3b146e-6de8-4f43-922a-36bb4fcbd24a",
-      "payload": "{\"NEWSID\": \"fa3b146e-6de8-4f43-922a-36bb4fcbd24a\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_FA3B146E-6DE8-4F43-922A-36BB4FCBD24A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-03T09:36:53.597\", \"NEWS_DT\": \"2026-11-03T09:36:53.597\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1a8b7f65-1d5e-4570-9dda-6060a39fcee2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release for Unaudited Standalone and Consolidated financials results of half year ended on September 30,2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T09:36:53\", \"DissemDT\": \"2026-11-03T09:36:53.597\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 221628, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-03T09:36:53.597\", \"_category\": \"Company Update\", \"_headline\": \"Press Release for Unaudited Standalone and Consolidated financials results of half year ended on September 30,2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1a8b7f65-1d5e-4570-9dda-6060a39fcee2.pdf\", \"_id\": \"fa3b146e-6de8-4f43-922a-36bb4fcbd24a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -6749,6 +6749,10 @@
     {
       "message_id": "<eaa1e0bda0751f098fafdcf88c517cb2c4045a79ba2b8d1fb50ae4c6753bbe10@gmail.com>",
       "sent_at": "2026-11-02T14:50:46.113338+00:00"
+    },
+    {
+      "message_id": "<fc1f5aaa0c5942787ca7229b1fda01092972771eba076b70e8a2b674d718a01f@gmail.com>",
+      "sent_at": "2026-11-03T04:11:33.218946+00:00"
     }
   ],
   "metadata": [
