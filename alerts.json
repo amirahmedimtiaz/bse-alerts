@@ -688,6 +688,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-11-03T11:31:56.408368+00:00",
+      "news_id": "48c6aa86-a74a-4bed-bd7f-4b73169741ae",
+      "payload": "{\"NEWSID\": \"48c6aa86-a74a-4bed-bd7f-4b73169741ae\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_48C6AA86-A74A-4BED-BD7F-4B73169741AE\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-03T17:00:44.593\", \"NEWS_DT\": \"2026-11-03T17:00:44.593\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"10c96810-1e02-4864-a451-9afea9988167.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Revised Intimation regarding Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T17:00:44\", \"DissemDT\": \"2026-11-03T17:00:44.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 729977, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-03T17:00:44.593\", \"_category\": \"Company Update\", \"_headline\": \"Revised Intimation regarding Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/10c96810-1e02-4864-a451-9afea9988167.pdf\", \"_id\": \"48c6aa86-a74a-4bed-bd7f-4b73169741ae\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584320+00:00",
       "news_id": "5fd35562-858f-42ec-846d-63b834e05a65",
       "payload": null,
