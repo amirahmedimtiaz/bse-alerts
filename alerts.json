@@ -2300,8 +2300,8 @@
       "company_key": "532374",
       "discovered_at": "2026-11-03T13:11:55.874363+00:00",
       "news_id": "e0a2f16e-21a2-429a-b697-2710f5683ae8",
-      "payload": "{\"NEWSID\": \"e0a2f16e-21a2-429a-b697-2710f5683ae8\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_E0A2F16E-21A2-429A-B697-2710F5683AE8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-03T18:38:18.623\", \"NEWS_DT\": \"2026-11-03T18:38:18.623\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8a247e1b-24a7-48e1-8047-b1f221e52c6e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Investor/ Analyst Meet to be held on November 13, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T18:38:18\", \"DissemDT\": \"2026-11-03T18:38:18.623\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 431924, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"e0a2f16e-21a2-429a-b697-2710f5683ae8\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14754095, \"DataInsDate\": \"2026-11-03T18:38:18.59\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-03T18:38:18.623\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Investor/ Analyst Meet to be held on November 13, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a247e1b-24a7-48e1-8047-b1f221e52c6e.pdf\", \"_id\": \"e0a2f16e-21a2-429a-b697-2710f5683ae8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -5695,8 +5695,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-03T13:12:01.056164+00:00",
       "news_id": "87788609-0c79-4a35-a51a-b54b020662a1",
-      "payload": "{\"NEWSID\": \"87788609-0c79-4a35-a51a-b54b020662a1\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_87788609-0C79-4A35-A51A-B54B020662A1\", \"NEWSSUB\": \"Change In Corporate Office Address Of Registrar And Share Trasnfer Agent\", \"DT_TM\": \"2026-11-03T18:41:09.283\", \"NEWS_DT\": \"2026-11-03T18:41:09.283\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ef038c6f-1c22-4d73-9db2-6826556516bd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Change in Corporate Office Address of Registrar and Share Transfer Agent of the Company with effect from December 01, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T18:41:09\", \"DissemDT\": \"2026-11-03T18:41:09.283\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 272833, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Change In Corporate Office Address Of Registrar And Share Trasnfer Agent\", \"_published\": \"2026-11-03T18:41:09.283\", \"_category\": \"Company Update\", \"_headline\": \"Change in Corporate Office Address of Registrar and Share Transfer Agent of the Company with effect from December 01, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef038c6f-1c22-4d73-9db2-6826556516bd.pdf\", \"_id\": \"87788609-0c79-4a35-a51a-b54b020662a1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -6867,6 +6867,10 @@
     {
       "message_id": "<c5f9694c66fc8491d8accea0e535982e3bc605c4ff4557c633f181bcaf4cf9b2@gmail.com>",
       "sent_at": "2026-11-02T07:00:00.433055+00:00"
+    },
+    {
+      "message_id": "<c659afb3b0f2c17ce6f9a84397070592076e71a6ebfde7d146765f22bae43ca8@gmail.com>",
+      "sent_at": "2026-11-03T13:12:11.858440+00:00"
     },
     {
       "message_id": "<d3d6066eb036e65d74ad8fabbd2536c078d65b3a3551ab7b984ba9072f1a1cdd@gmail.com>",
