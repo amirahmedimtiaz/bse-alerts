@@ -2874,8 +2874,8 @@
       "company_key": "538786",
       "discovered_at": "2026-11-03T09:57:01.158288+00:00",
       "news_id": "5313fe72-530f-4460-870e-9538abd5f743",
-      "payload": "{\"NEWSID\": \"5313fe72-530f-4460-870e-9538abd5f743\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_5313FE72-530F-4460-870E-9538ABD5F743\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-03T15:26:05.317\", \"NEWS_DT\": \"2026-11-03T15:26:05.317\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"43f6a86f-4d02-4d0a-b58c-7e8fb3d4c2b8.pdf\", \"MORE\": \"Pursuant to the provisions of Regulation 30 read with Regulation 47 of the SEBI(LODR) Regulations, 2015 attached herewith the newspaper copies of extract of unaudited financial results for the quarter and half year ended 30th September, 2026\", \"HEADLINE\": \"Pursuant to the provisions of Regulation 30 read with Regulation 47 of the SEBI(LODR) Regulations, 2015 attached herewith the newspaper copies of extract of unaudited financial results ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T15:26:05\", \"DissemDT\": \"2026-11-03T15:26:05.317\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4648983, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-03T15:26:05.317\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to the provisions of Regulation 30 read with Regulation 47 of the SEBI(LODR) Regulations, 2015 attached herewith the newspaper copies of extract of unaudited financial results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/43f6a86f-4d02-4d0a-b58c-7e8fb3d4c2b8.pdf\", \"_id\": \"5313fe72-530f-4460-870e-9538abd5f743\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "538786",
@@ -6814,6 +6814,10 @@
     {
       "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
       "sent_at": "2026-11-03T07:31:51.731218+00:00"
+    },
+    {
+      "message_id": "<faeeb301e8fac828c6ba3780ca6c170506ed762a7b93ab45a854088fc72309ee@gmail.com>",
+      "sent_at": "2026-11-03T09:57:11.984621+00:00"
     },
     {
       "message_id": "<fc1f5aaa0c5942787ca7229b1fda01092972771eba076b70e8a2b674d718a01f@gmail.com>",
