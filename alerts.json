@@ -2468,8 +2468,8 @@
       "company_key": "532941",
       "discovered_at": "2026-11-03T09:51:54.468654+00:00",
       "news_id": "ea2af318-21fa-4be8-a9cc-2e0e56ccd262",
-      "payload": "{\"NEWSID\": \"ea2af318-21fa-4be8-a9cc-2e0e56ccd262\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_EA2AF318-21FA-4BE8-A9CC-2E0E56CCD262\", \"NEWSSUB\": \" Intimation Regarding Dispatch Of Communication Letters To Shareholders\", \"DT_TM\": \"2026-11-03T15:17:59.207\", \"NEWS_DT\": \"2026-11-03T15:17:59.207\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8d91738d-18e6-411c-924e-632b2b70e2ae.pdf\", \"MORE\": \"Pursuant to the applicable provisions of the SEBI (LODR) Regulations, 2015, we wish to inform you that Cords Cable Industries Limited has dispatched following communication letters to the concerned shareholder of the company in respect of Final dividend for the FY 2025-26, falling under the following categories: 1. Intimation of Payment of Final Dividend and 2. Intimation regarding non-payment of final dividend.\", \"HEADLINE\": \"Pursuant to the applicable provisions of the SEBI (LODR) Regulations, 2015, we wish to inform you that Cords Cable Industries Limited has dispatched following communication letters to the ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T15:17:59\", \"DissemDT\": \"2026-11-03T15:17:59.207\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1820348, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \" Intimation Regarding Dispatch Of Communication Letters To Shareholders\", \"_published\": \"2026-11-03T15:17:59.207\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to the applicable provisions of the SEBI (LODR) Regulations, 2015, we wish to inform you that Cords Cable Industries Limited has dispatched following communication letters to the ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8d91738d-18e6-411c-924e-632b2b70e2ae.pdf\", \"_id\": \"ea2af318-21fa-4be8-a9cc-2e0e56ccd262\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -6739,6 +6739,10 @@
     {
       "message_id": "<571844038ae03fc82cf1687793827e6acdb46b3e9db3c860ad1616e3be4a35b2@gmail.com>",
       "sent_at": "2026-11-02T13:35:23.689648+00:00"
+    },
+    {
+      "message_id": "<576b3f9599426a0dff686a2f0b77a6ab07599629f7673666e594422d76ec754a@gmail.com>",
+      "sent_at": "2026-11-03T09:52:14.305143+00:00"
     },
     {
       "message_id": "<5cd8482419a1ffcf9c29ac540d48020b958b79276794e3e450aa5616c3095708@gmail.com>",
