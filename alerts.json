@@ -1138,8 +1138,8 @@
       "company_key": "522163",
       "discovered_at": "2026-11-03T07:31:33.413040+00:00",
       "news_id": "14c31c25-0aaf-4961-af00-271e9bbe0701",
-      "payload": "{\"NEWSID\": \"14c31c25-0aaf-4961-af00-271e9bbe0701\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_14C31C25-0AAF-4961-AF00-271E9BBE0701\", \"NEWSSUB\": \"Board Meeting Outcome for Financial Results For The Quarter Ended On 30.09.2026\", \"DT_TM\": \"2026-11-03T13:01:02.79\", \"NEWS_DT\": \"2026-11-03T13:01:02.79\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"57553b39-7995-4f8a-ab30-44bc4533d0a8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Financial results for the quarter ended on 30.09.2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-03T13:00:59\", \"DissemDT\": \"2026-11-03T13:01:02.79\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 1234541, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Financial Results For The Quarter Ended On 30.09.2026\", \"_published\": \"2026-11-03T13:01:02.79\", \"_category\": \"Board Meeting\", \"_headline\": \"Financial results for the quarter ended on 30.09.2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/57553b39-7995-4f8a-ab30-44bc4533d0a8.pdf\", \"_id\": \"14c31c25-0aaf-4961-af00-271e9bbe0701\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -6674,10 +6674,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<0608544983adf319a6deb212dd9a6125a39b1567d5d94cc749e2069a01f3821e@gmail.com>",
-      "sent_at": "2026-11-01T04:58:38.813170+00:00"
-    },
-    {
       "message_id": "<0f1dc850dd33d1ebdcb96ea2953fcebab3b53764fa477e08b066cad773948508@gmail.com>",
       "sent_at": "2026-11-02T17:55:44.246917+00:00"
     },
@@ -6756,6 +6752,10 @@
     {
       "message_id": "<eaa1e0bda0751f098fafdcf88c517cb2c4045a79ba2b8d1fb50ae4c6753bbe10@gmail.com>",
       "sent_at": "2026-11-02T14:50:46.113338+00:00"
+    },
+    {
+      "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
+      "sent_at": "2026-11-03T07:31:51.731218+00:00"
     },
     {
       "message_id": "<fc1f5aaa0c5942787ca7229b1fda01092972771eba076b70e8a2b674d718a01f@gmail.com>",
