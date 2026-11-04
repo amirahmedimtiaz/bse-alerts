@@ -6500,8 +6500,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-11-04T09:38:26.388871+00:00",
       "news_id": "106844208",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"04-Nov-2026 15:04:06\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_04112026150354_041126SSLBMOutcome.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"04-Nov-2026 15:04:06\", \"sort_date\": \"2026-11-04 15:04:06\", \"seq_id\": \"106844208\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has submitted to the Exchange, Standalone and Consolidated Unaudited financial results of the Company for the half year ended on September 30, 2026 along with Limited Review Report and interalia\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"26.56 MB\", \"attFileSize\": \"26.56 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-04 15:04:06\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Sahaj Solar Limited has submitted to the Exchange, Standalone and Consolidated Unaudited financial results of the Company for the half year ended on September 30, 2026 along with Limited Review Report and interalia\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_04112026150354_041126SSLBMOutcome.pdf\", \"_id\": \"106844208\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -6989,6 +6989,10 @@
     {
       "message_id": "<c659afb3b0f2c17ce6f9a84397070592076e71a6ebfde7d146765f22bae43ca8@gmail.com>",
       "sent_at": "2026-11-03T13:12:11.858440+00:00"
+    },
+    {
+      "message_id": "<d68eb6fc05f3709af321c8748d2444b953a161cf5d8c67a9a613e259d2add130@gmail.com>",
+      "sent_at": "2026-11-04T09:38:40.522829+00:00"
     },
     {
       "message_id": "<d739c598adafa89424d943237979b147e1e7a17d105f76f116c0c06aae04088b@gmail.com>",
