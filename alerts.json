@@ -613,8 +613,8 @@
       "company_key": "517354",
       "discovered_at": "2026-11-04T12:33:37.347667+00:00",
       "news_id": "8342805a-a57e-4d9c-b2d4-29e340e3e3aa",
-      "payload": "{\"NEWSID\": \"8342805a-a57e-4d9c-b2d4-29e340e3e3aa\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_8342805A-A57E-4D9C-B2D4-29E340E3E3AA\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Strikes /Lockouts / Disturbances\", \"DT_TM\": \"2026-11-04T18:02:04.38\", \"NEWS_DT\": \"2026-11-04T18:02:04.38\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fceda5cc-1e97-46df-9f94-0d1901ed9eec.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation u/r 30 in furtherance to earlier intimation filed today.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 150, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:02:04\", \"DissemDT\": \"2026-11-04T18:02:04.38\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 718362, \"SUBCATNAME\": \"Strikes /Lockouts / Disturbances\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Strikes /Lockouts / Disturbances\", \"_published\": \"2026-11-04T18:02:04.38\", \"_category\": \"Company Update\", \"_headline\": \"Intimation u/r 30 in furtherance to earlier intimation filed today.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fceda5cc-1e97-46df-9f94-0d1901ed9eec.pdf\", \"_id\": \"8342805a-a57e-4d9c-b2d4-29e340e3e3aa\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -6975,6 +6975,10 @@
     {
       "message_id": "<48549a043d0ec5e37bba8628958e033394506f5d8d70a6ce963d3278a32941be@gmail.com>",
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
+    },
+    {
+      "message_id": "<55fa64c9521188c29b3260081814ec3b4d8e2107b03c686f527b91b863adc6c8@gmail.com>",
+      "sent_at": "2026-11-04T12:33:52.134613+00:00"
     },
     {
       "message_id": "<571844038ae03fc82cf1687793827e6acdb46b3e9db3c860ad1616e3be4a35b2@gmail.com>",
