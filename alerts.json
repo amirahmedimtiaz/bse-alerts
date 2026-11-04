@@ -331,6 +331,13 @@
     },
     {
       "company_key": "504212",
+      "discovered_at": "2026-11-04T17:03:49.674027+00:00",
+      "news_id": "2842aae2-336e-4fa9-a2a0-f7b2f38c8dbf",
+      "payload": "{\"NEWSID\": \"2842aae2-336e-4fa9-a2a0-f7b2f38c8dbf\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_2842AAE2-336E-4FA9-A2A0-F7B2F38C8DBF\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Directorate\", \"DT_TM\": \"2026-11-04T22:31:58.437\", \"NEWS_DT\": \"2026-11-04T22:31:58.437\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a62266d4-7a0a-4445-a573-14a8ca2d9056.pdf\", \"MORE\": \"Completion of tenure of Shri Kishore Kumar Mehrotra as a Non Executive  Independent Director of the Company with effect from the close of business hours on 10th November, 2026 and Appointment of Shri Sutirtha Bhattacharya as an Addition Director with effect from 4th November, 2026.\", \"HEADLINE\": \"Completion of tenure of Shri Kishore Kumar Mehrotra as a Non Executive  Independent Director of the Company with effect from the close of business hours on 10th November, 2026 and Appointment ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 15, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T22:31:58\", \"DissemDT\": \"2026-11-04T22:31:58.437\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6364525, \"SUBCATNAME\": \"Change in Directorate\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Directorate\", \"_published\": \"2026-11-04T22:31:58.437\", \"_category\": \"Company Update\", \"_headline\": \"Completion of tenure of Shri Kishore Kumar Mehrotra as a Non Executive  Independent Director of the Company with effect from the close of business hours on 10th November, 2026 and Appointment ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a62266d4-7a0a-4445-a573-14a8ca2d9056.pdf\", \"_id\": \"2842aae2-336e-4fa9-a2a0-f7b2f38c8dbf\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504212",
       "discovered_at": "2026-09-23T05:12:07.584284+00:00",
       "news_id": "31bf8b68-61e3-4731-8f0c-71ff1424dd0e",
       "payload": null,
