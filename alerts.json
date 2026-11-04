@@ -7284,7 +7284,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 52, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-04T17:09:06.427520+00:00\", \"seconds\": 20.6}"
+      "value": "{\"companies\": 52, \"collected\": 3, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 3, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-04T17:14:11.087363+00:00\", \"seconds\": 25.51}"
     },
     {
       "key": "migration_date",
