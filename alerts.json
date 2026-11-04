@@ -387,6 +387,13 @@
     },
     {
       "company_key": "504240",
+      "discovered_at": "2026-11-04T09:58:27.593637+00:00",
+      "news_id": "1927f56a-b124-4cd5-ac66-c4df4fbad78b",
+      "payload": "{\"NEWSID\": \"1927f56a-b124-4cd5-ac66-c4df4fbad78b\", \"SCRIP_CD\": 504240, \"XML_NAME\": \"ANN_504240_1927F56A-B124-4CD5-AC66-C4DF4FBAD78B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-04T15:24:09.88\", \"NEWS_DT\": \"2026-11-04T15:24:09.88\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8f7363d2-dcd7-43f8-9048-493696ec64ba.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper advertisement for the un-audited financial results for the quarter and half-year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/\", \"SLONGNAME\": \"Delton Cables Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T15:24:09\", \"DissemDT\": \"2026-11-04T15:24:09.88\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4743794, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Delton Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/delton-cables-ltd/dltncbl/504240/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-04T15:24:09.88\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper advertisement for the un-audited financial results for the quarter and half-year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8f7363d2-dcd7-43f8-9048-493696ec64ba.pdf\", \"_id\": \"1927f56a-b124-4cd5-ac66-c4df4fbad78b\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504240",
       "discovered_at": "2026-10-07T12:30:06.731238+00:00",
       "news_id": "1dc2ec3c-6989-4db7-ad36-8b2ae3256d49",
       "payload": null,
@@ -6516,6 +6523,13 @@
       "news_id": "106844208",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-11-04T09:58:25.845470+00:00",
+      "news_id": "106844289",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"General Updates\", \"dt\": \"04-Nov-2026 15:26:41\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_04112026152614_041126SSLBMOutcome.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"04-Nov-2026 15:26:41\", \"sort_date\": \"2026-11-04 15:26:41\", \"seq_id\": \"106844289\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Further Investment in Sahaj Energies Limited, Wholly Owned Subsidiary in Mauritius.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"26.56 MB\", \"attFileSize\": \"26.56 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-04 15:26:41\", \"_category\": \"General Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Further Investment in Sahaj Energies Limited, Wholly Owned Subsidiary in Mauritius.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_04112026152614_041126SSLBMOutcome.pdf\", \"_id\": \"106844289\"}",
+      "status": "pending"
     },
     {
       "company_key": "NSE:TBI",
