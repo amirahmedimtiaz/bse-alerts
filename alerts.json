@@ -513,6 +513,13 @@
     },
     {
       "company_key": "517354",
+      "discovered_at": "2026-11-04T06:48:17.711039+00:00",
+      "news_id": "3e1865ca-0585-4bff-a48f-3d658af9319d",
+      "payload": "{\"NEWSID\": \"3e1865ca-0585-4bff-a48f-3d658af9319d\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_3E1865CA-0585-4BFF-A48F-3D658AF9319D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Strikes /Lockouts / Disturbances\", \"DT_TM\": \"2026-11-04T12:14:51.037\", \"NEWS_DT\": \"2026-11-04T12:14:51.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e16f632d-97e1-46de-a305-ca4a361fc812.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation u/r 30\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 150, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T12:14:51\", \"DissemDT\": \"2026-11-04T12:14:51.037\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 725238, \"SUBCATNAME\": \"Strikes /Lockouts / Disturbances\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Strikes /Lockouts / Disturbances\", \"_published\": \"2026-11-04T12:14:51.037\", \"_category\": \"Company Update\", \"_headline\": \"Intimation u/r 30\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e16f632d-97e1-46de-a305-ca4a361fc812.pdf\", \"_id\": \"3e1865ca-0585-4bff-a48f-3d658af9319d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517354",
       "discovered_at": "2026-09-23T05:12:07.584298+00:00",
       "news_id": "4a742e7d-4abf-46be-9b7d-d58fdc5c8bca",
       "payload": null,
