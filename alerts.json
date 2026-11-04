@@ -739,8 +739,8 @@
       "company_key": "517498",
       "discovered_at": "2026-11-04T14:28:38.424792+00:00",
       "news_id": "2760656f-45ee-41fe-9d9e-6394ed1083f3",
-      "payload": "{\"NEWSID\": \"2760656f-45ee-41fe-9d9e-6394ed1083f3\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_2760656F-45EE-41FE-9D9E-6394ED1083F3\", \"NEWSSUB\": \"Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026.\", \"DT_TM\": \"2026-11-04T19:54:40.96\", \"NEWS_DT\": \"2026-11-04T19:54:40.96\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fd764e82-929a-4721-ac49-63e9dd6216c2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached Unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T19:54:40\", \"DissemDT\": \"2026-11-04T19:54:40.96\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4464804, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026.\", \"_published\": \"2026-11-04T19:54:40.96\", \"_category\": \"Result\", \"_headline\": \"Please find attached Unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fd764e82-929a-4721-ac49-63e9dd6216c2.pdf\", \"_id\": \"2760656f-45ee-41fe-9d9e-6394ed1083f3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -6998,6 +6998,10 @@
     {
       "message_id": "<04f40b7648431c1ef83807b9f2a2d6cdff0325540bb058ab2a8b1324bc54748d@gmail.com>",
       "sent_at": "2026-11-03T10:52:12.809933+00:00"
+    },
+    {
+      "message_id": "<073b313b657735a8c9813ebf574a2240e831027c83131a1779a8fd9f7238daff@gmail.com>",
+      "sent_at": "2026-11-04T14:28:52.874439+00:00"
     },
     {
       "message_id": "<089718ba3419cceac8b916d6e53325d505eb1b86a2d2ddfbbeaf752bc709c9d1@gmail.com>",
