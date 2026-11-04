@@ -3945,8 +3945,8 @@
       "company_key": "543981",
       "discovered_at": "2026-11-04T13:08:34.438910+00:00",
       "news_id": "d975491f-fd3c-4922-9538-0ae941455b71",
-      "payload": "{\"NEWSID\": \"d975491f-fd3c-4922-9538-0ae941455b71\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_D975491F-FD3C-4922-9538-0AE941455B71\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-04T18:36:04.833\", \"NEWS_DT\": \"2026-11-04T18:36:04.833\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b256142c-628f-4878-b96d-beff8514f5f7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith transcript of the earnings conference call held on 29 October 2026 in relation to the financial results of the company for the quarter and half-year ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:36:04\", \"DissemDT\": \"2026-11-04T18:36:04.833\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1058680, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-04T18:36:04.833\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith transcript of the earnings conference call held on 29 October 2026 in relation to the financial results of the company for the quarter and half-year ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b256142c-628f-4878-b96d-beff8514f5f7.pdf\", \"_id\": \"d975491f-fd3c-4922-9538-0ae941455b71\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -7030,6 +7030,10 @@
       "sent_at": "2026-11-03T10:27:12.328183+00:00"
     },
     {
+      "message_id": "<865fb604b077997866a3e7873f64e182da33d06bfdb6713bc33259ae46df0dce@gmail.com>",
+      "sent_at": "2026-11-04T13:09:11.984796+00:00"
+    },
+    {
       "message_id": "<8df371fd7398a9cc2059b1b1217a4e6de3b21d2b882e80f9082fe944b7132108@gmail.com>",
       "sent_at": "2026-11-04T06:48:38.522342+00:00"
     },
@@ -7060,10 +7064,6 @@
     {
       "message_id": "<a6b878f8485fe6cedd93bb2589a526a16c3a96994540331542c8b63af3ac97c1@gmail.com>",
       "sent_at": "2026-11-04T04:23:22.530111+00:00"
-    },
-    {
-      "message_id": "<a87369cf2b1e1d5a023a8aad61817d3290f0b7ac652f40f598f105a813720677@gmail.com>",
-      "sent_at": "2026-11-02T13:00:28.321560+00:00"
     },
     {
       "message_id": "<a9fcb22dc73c99f320553ab10efcf77bf6932a7525a5867b13dce0d210db45ca@gmail.com>",
