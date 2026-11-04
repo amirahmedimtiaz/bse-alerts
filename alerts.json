@@ -772,6 +772,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-11-04T14:38:37.969151+00:00",
+      "news_id": "6303282b-2ead-4aec-b72b-0078ce8dd4eb",
+      "payload": "{\"NEWSID\": \"6303282b-2ead-4aec-b72b-0078ce8dd4eb\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_6303282B-2EAD-4AEC-B72B-0078CE8DD4EB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-11-04T20:05:42.053\", \"NEWS_DT\": \"2026-11-04T20:05:42.053\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d4f3ac40-8fe8-47d7-895b-a5823e492c61.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Board approved subscription of 40% of the Equity Share Capital of Bright Earth Cell Private Limited which will be engaged in the energy trading business\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T20:05:42\", \"DissemDT\": \"2026-11-04T20:05:42.053\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4464804, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-11-04T20:05:42.053\", \"_category\": \"Company Update\", \"_headline\": \"The Board approved subscription of 40% of the Equity Share Capital of Bright Earth Cell Private Limited which will be engaged in the energy trading business\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d4f3ac40-8fe8-47d7-895b-a5823e492c61.pdf\", \"_id\": \"6303282b-2ead-4aec-b72b-0078ce8dd4eb\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584314+00:00",
       "news_id": "633191a0-0a2c-4894-84fe-679d546172f2",
       "payload": null,
@@ -4178,6 +4185,13 @@
       "news_id": "d22a9f8a-4e15-45f6-98e8-851fccb80886",
       "payload": null,
       "status": "baseline"
+    },
+    {
+      "company_key": "544238",
+      "discovered_at": "2026-11-04T14:38:39.397674+00:00",
+      "news_id": "e68a55cf-33bd-4436-8975-a20a43bb396a",
+      "payload": "{\"NEWSID\": \"e68a55cf-33bd-4436-8975-a20a43bb396a\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_E68A55CF-33BD-4436-8975-A20A43BB396A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-04T20:04:46.023\", \"NEWS_DT\": \"2026-11-04T20:04:46.023\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"df495a9a-da28-4967-b2a4-3733b16515be.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation on Financial Results for the Quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T20:04:46\", \"DissemDT\": \"2026-11-04T20:04:46.023\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6610351, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-04T20:04:46.023\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation on Financial Results for the Quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/df495a9a-da28-4967-b2a4-3733b16515be.pdf\", \"_id\": \"e68a55cf-33bd-4436-8975-a20a43bb396a\"}",
+      "status": "pending"
     },
     {
       "company_key": "544238",
