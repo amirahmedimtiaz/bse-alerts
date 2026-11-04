@@ -368,8 +368,8 @@
       "company_key": "504212",
       "discovered_at": "2026-11-04T16:08:53.587267+00:00",
       "news_id": "90089c3e-cb75-4755-b251-14abd81979a7",
-      "payload": "{\"NEWSID\": \"90089c3e-cb75-4755-b251-14abd81979a7\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_90089C3E-CB75-4755-B251-14ABD81979A7\", \"NEWSSUB\": \"Unaudited Standalone And Consolidated Financial Results Of The Company For The Quarter & Half Year Ended 30Th September, 2026.\", \"DT_TM\": \"2026-11-04T21:35:42.953\", \"NEWS_DT\": \"2026-11-04T21:35:42.953\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1ad20fe1-0de9-44a6-941a-f987cf3c983b.pdf\", \"MORE\": \"The Board of Director of the Company at its meeting  held today i.e. 04-11-2026 has interalia considered  and approved  Unaudited Standalone and Consolidated  Financial Results  of the Company for the  Quarter and Half year ended 30th September, 2026.\", \"HEADLINE\": \"The Board of Director of the Company at its meeting  held today i.e. 04-11-2026 has interalia considered  and approved  Unaudited Standalone and Consolidated  Financial Results  of the ....\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T21:35:42\", \"DissemDT\": \"2026-11-04T21:35:42.953\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6364525, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Unaudited Standalone And Consolidated Financial Results Of The Company For The Quarter & Half Year Ended 30Th September, 2026.\", \"_published\": \"2026-11-04T21:35:42.953\", \"_category\": \"Result\", \"_headline\": \"The Board of Director of the Company at its meeting  held today i.e. 04-11-2026 has interalia considered  and approved  Unaudited Standalone and Consolidated  Financial Results  of the ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1ad20fe1-0de9-44a6-941a-f987cf3c983b.pdf\", \"_id\": \"90089c3e-cb75-4755-b251-14abd81979a7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -7052,10 +7052,6 @@
       "sent_at": "2026-11-03T11:37:11.960651+00:00"
     },
     {
-      "message_id": "<2b8af583b4b7ff15ee73e4cf0587b7f141da6bf512d50cbdca0df8287d9aefc6@gmail.com>",
-      "sent_at": "2026-11-02T15:41:23.335493+00:00"
-    },
-    {
       "message_id": "<2dd772bf0373fc049b17f32bd2e95392c6049106e6564a3cb18d02cc92f44e35@gmail.com>",
       "sent_at": "2026-11-04T12:18:51.928367+00:00"
     },
@@ -7168,10 +7164,6 @@
       "sent_at": "2026-11-04T09:43:50.435774+00:00"
     },
     {
-      "message_id": "<b90448f5fcb165511ab389cc045982ecdd5bdafc3febfdf1e5dc2bd393585514@gmail.com>",
-      "sent_at": "2026-11-02T16:05:44.806460+00:00"
-    },
-    {
       "message_id": "<baa935d96cd81d3f479ff9ce1ab97c35095526dabfdb9dc208a0aa82bab22e40@gmail.com>",
       "sent_at": "2026-11-03T14:32:12.479928+00:00"
     },
@@ -7198,6 +7190,10 @@
     {
       "message_id": "<d739c598adafa89424d943237979b147e1e7a17d105f76f116c0c06aae04088b@gmail.com>",
       "sent_at": "2026-11-04T09:23:38.183472+00:00"
+    },
+    {
+      "message_id": "<e8c017c9dd0063ec9cc52c7935081bc237e32f36c86b60e671d97352bee1e84d@gmail.com>",
+      "sent_at": "2026-11-04T16:09:08.883982+00:00"
     },
     {
       "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
