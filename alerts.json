@@ -1227,6 +1227,13 @@
     },
     {
       "company_key": "522163",
+      "discovered_at": "2026-11-04T09:48:20.241027+00:00",
+      "news_id": "20e361ce-88da-41d0-ab42-a74a5c0a6223",
+      "payload": "{\"NEWSID\": \"20e361ce-88da-41d0-ab42-a74a5c0a6223\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_20E361CE-88DA-41D0-AB42-A74A5C0A6223\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-04T15:14:31.887\", \"NEWS_DT\": \"2026-11-04T15:14:31.887\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a686751c-c689-482b-bac0-6405c6bb6eac.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper publication of financial results for the quarter and half year ended on 30 September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T15:14:31\", \"DissemDT\": \"2026-11-04T15:14:31.887\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 8923606, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-04T15:14:31.887\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper publication of financial results for the quarter and half year ended on 30 September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a686751c-c689-482b-bac0-6405c6bb6eac.pdf\", \"_id\": \"20e361ce-88da-41d0-ab42-a74a5c0a6223\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "522163",
       "discovered_at": "2026-09-23T05:12:07.584409+00:00",
       "news_id": "2f7449ae-c769-4d51-9d74-75807f2af55e",
       "payload": null,
