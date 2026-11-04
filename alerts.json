@@ -4622,6 +4622,13 @@
     },
     {
       "company_key": "544387",
+      "discovered_at": "2026-11-04T12:23:48.943999+00:00",
+      "news_id": "25566815-cd18-4e95-9e7f-c9d21330b5b6",
+      "payload": "{\"NEWSID\": \"25566815-cd18-4e95-9e7f-c9d21330b5b6\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_25566815-CD18-4E95-9E7F-C9D21330B5B6\", \"NEWSSUB\": \"Results - Financial Results As On 30/09/2026\", \"DT_TM\": \"2026-11-04T17:53:43.26\", \"NEWS_DT\": \"2026-11-04T17:53:43.26\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"964fdff2-567c-4b66-829b-42242ee778a3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Financial Results as on 30/09/2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T17:53:43\", \"DissemDT\": \"2026-11-04T17:53:43.26\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 12264025, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Results - Financial Results As On 30/09/2026\", \"_published\": \"2026-11-04T17:53:43.26\", \"_category\": \"Result\", \"_headline\": \"Financial Results as on 30/09/2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/964fdff2-567c-4b66-829b-42242ee778a3.pdf\", \"_id\": \"25566815-cd18-4e95-9e7f-c9d21330b5b6\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544387",
       "discovered_at": "2026-11-02T13:25:18.829941+00:00",
       "news_id": "9fa68b30-245f-429a-93d7-40d4b2b25206",
       "payload": null,
