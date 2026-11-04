@@ -1075,8 +1075,8 @@
       "company_key": "517569",
       "discovered_at": "2026-11-04T09:43:14.730497+00:00",
       "news_id": "7fd9716f-2450-4c50-bf73-4eae1c19e781",
-      "payload": "{\"NEWSID\": \"7fd9716f-2450-4c50-bf73-4eae1c19e781\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_7FD9716F-2450-4C50-BF73-4EAE1C19E781\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-04T15:12:18.657\", \"NEWS_DT\": \"2026-11-04T15:12:18.657\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"71d743be-ad95-4b18-8751-47634594d564.pdf\", \"MORE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, given below is the Schedule of Conference Call/Meet with the Analyst / Institutional Investors:\\r\\nDate: 16.11.2026\\r\\nMeeting Organized by: JM Financial Institutional Securities Limited\\r\\nMode of Meeting: Physical\\r\\nType/Location: One-on-One and Group Meeting \\r\\n(during business working hours) in Mumbai \\r\\nDate: 17.11.2026\\r\\nMeeting Organized by: Spark Institutional Equities Private Limited\\r\\nMode of Meeting: Physical\\r\\nType/Location: One-on-One and Group Meeting \\r\\n(during business working hours) in Mumbai\", \"HEADLINE\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, given below is the Schedule of Conference Call/Meet with the Analyst / Institutional ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T15:12:18\", \"DissemDT\": \"2026-11-04T15:12:18.657\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 834181, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-04T15:12:18.657\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, given below is the Schedule of Conference Call/Meet with the Analyst / Institutional ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/71d743be-ad95-4b18-8751-47634594d564.pdf\", \"_id\": \"7fd9716f-2450-4c50-bf73-4eae1c19e781\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -6984,6 +6984,10 @@
     {
       "message_id": "<af744ce58f57ef30c1a4ed904d08c83a512cac6fec1bdd9808877db4e7008a2d@gmail.com>",
       "sent_at": "2026-11-02T10:40:22.575420+00:00"
+    },
+    {
+      "message_id": "<b8b0d599b404ed783e11de9c25281a9d55756c03d3f2ecea126337b7243143de@gmail.com>",
+      "sent_at": "2026-11-04T09:43:50.435774+00:00"
     },
     {
       "message_id": "<b90448f5fcb165511ab389cc045982ecdd5bdafc3febfdf1e5dc2bd393585514@gmail.com>",
