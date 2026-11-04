@@ -4645,8 +4645,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-04T12:18:48.034682+00:00",
       "news_id": "dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d",
-      "payload": "{\"NEWSID\": \"dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_DCCBEFB9-8D4F-4D9D-B8C5-7B2DF1F3248D\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Wednesday, 04Th November 2026\", \"DT_TM\": \"2026-11-04T17:45:00.087\", \"NEWS_DT\": \"2026-11-04T17:45:00.087\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8705db1c-e101-47b6-8907-183c63a3f6b8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T17:44:55\", \"DissemDT\": \"2026-11-04T17:45:00.087\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 12264025, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Wednesday, 04Th November 2026\", \"_published\": \"2026-11-04T17:45:00.087\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8705db1c-e101-47b6-8907-183c63a3f6b8.pdf\", \"_id\": \"dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -6947,6 +6947,10 @@
       "sent_at": "2026-11-02T15:41:23.335493+00:00"
     },
     {
+      "message_id": "<2dd772bf0373fc049b17f32bd2e95392c6049106e6564a3cb18d02cc92f44e35@gmail.com>",
+      "sent_at": "2026-11-04T12:18:51.928367+00:00"
+    },
+    {
       "message_id": "<3e08427c5c7fe173fddc00c4428315cc045d37cbe921c73ca81c782794dc593f@gmail.com>",
       "sent_at": "2026-11-03T13:42:11.680650+00:00"
     },
@@ -6957,10 +6961,6 @@
     {
       "message_id": "<48549a043d0ec5e37bba8628958e033394506f5d8d70a6ce963d3278a32941be@gmail.com>",
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
-    },
-    {
-      "message_id": "<4e49aa921edc3f11ba941fdaabab472553ec4196c0dc6108420d2b46bfe27e28@gmail.com>",
-      "sent_at": "2026-11-02T12:05:24.009862+00:00"
     },
     {
       "message_id": "<571844038ae03fc82cf1687793827e6acdb46b3e9db3c860ad1616e3be4a35b2@gmail.com>",
@@ -6989,10 +6989,6 @@
     {
       "message_id": "<713bad53b815714abdb6f7885b85625642ef386056bf2846d6d0d3ba51e8c65b@gmail.com>",
       "sent_at": "2026-11-03T14:27:13.529872+00:00"
-    },
-    {
-      "message_id": "<80aae605b73932eee3dc0793931c7bbbcc58d45f00d01c138302130d267746c5@gmail.com>",
-      "sent_at": "2026-11-02T11:45:22.812161+00:00"
     },
     {
       "message_id": "<81ca7539c93ea8c0def9d15ab11774f1bcab41a3448a80e353e87b90c49cdb94@gmail.com>",
