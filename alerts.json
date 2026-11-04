@@ -5331,8 +5331,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-04T09:03:19.170450+00:00",
       "news_id": "0d70f398-8822-47ba-b660-e908fbc55f78",
-      "payload": "{\"NEWSID\": \"0d70f398-8822-47ba-b660-e908fbc55f78\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_0D70F398-8822-47BA-B660-E908FBC55F78\", \"NEWSSUB\": \"Updated Standalone Limited Review Report\", \"DT_TM\": \"2026-11-04T14:30:40.297\", \"NEWS_DT\": \"2026-11-04T14:30:40.297\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3c3b1d07-ebc5-40ff-8b6b-61ee19541c44.pdf\", \"MORE\": \"We are resubmitting the Standalone Results - Limited Review Report in response to query received from Bombay Stock Exchange dated November 3, 2026. Please find enclosed herewith a copy Unaudited Standalone Financial results of the company for the half year ended 30th September 2026 along with the Limited Review Report\", \"HEADLINE\": \"We are resubmitting the Standalone Results - Limited Review Report in response to query received from Bombay Stock Exchange dated November 3, 2026. Please find enclosed herewith a copy ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T14:30:40\", \"DissemDT\": \"2026-11-04T14:30:40.297\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3895225, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Updated Standalone Limited Review Report\", \"_published\": \"2026-11-04T14:30:40.297\", \"_category\": \"Company Update\", \"_headline\": \"We are resubmitting the Standalone Results - Limited Review Report in response to query received from Bombay Stock Exchange dated November 3, 2026. Please find enclosed herewith a copy ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3c3b1d07-ebc5-40ff-8b6b-61ee19541c44.pdf\", \"_id\": \"0d70f398-8822-47ba-b660-e908fbc55f78\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6956,16 +6956,8 @@
       "sent_at": "2026-11-03T14:32:12.479928+00:00"
     },
     {
-      "message_id": "<c5f9694c66fc8491d8accea0e535982e3bc605c4ff4557c633f181bcaf4cf9b2@gmail.com>",
-      "sent_at": "2026-11-02T07:00:00.433055+00:00"
-    },
-    {
       "message_id": "<c659afb3b0f2c17ce6f9a84397070592076e71a6ebfde7d146765f22bae43ca8@gmail.com>",
       "sent_at": "2026-11-03T13:12:11.858440+00:00"
-    },
-    {
-      "message_id": "<d3d6066eb036e65d74ad8fabbd2536c078d65b3a3551ab7b984ba9072f1a1cdd@gmail.com>",
-      "sent_at": "2026-11-02T07:10:01.287308+00:00"
     },
     {
       "message_id": "<e017eb791eff807103143615562c0b992c793164df4e7e380ce1e59a8c9e4c97@gmail.com>",
@@ -6978,6 +6970,10 @@
     {
       "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
       "sent_at": "2026-11-03T07:31:51.731218+00:00"
+    },
+    {
+      "message_id": "<f3de7bc4ba002c2774ec61f100a4c947243276a958dbd22d657e7197cf715df1@gmail.com>",
+      "sent_at": "2026-11-04T09:03:38.560026+00:00"
     },
     {
       "message_id": "<faeeb301e8fac828c6ba3780ca6c170506ed762a7b93ab45a854088fc72309ee@gmail.com>",
