@@ -6248,8 +6248,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-04T06:43:23.034877+00:00",
       "news_id": "106843706",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Press Release\", \"dt\": \"04-Nov-2026 12:12:20\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_04112026121139_PR_Upload__1_.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"04-Nov-2026 12:12:20\", \"sort_date\": \"2026-11-04 12:12:20\", \"seq_id\": \"106843706\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding a press release dated November 04, 2026, titled \\\"Secures New Order\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1005.97 KB\", \"attFileSize\": \"1005.97 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-04 12:12:20\", \"_category\": \"Press Release\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding a press release dated November 04, 2026, titled \\\"Secures New Order\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_04112026121139_PR_Upload__1_.pdf\", \"_id\": \"106843706\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -6818,6 +6818,10 @@
       "sent_at": "2026-11-03T10:52:12.809933+00:00"
     },
     {
+      "message_id": "<089718ba3419cceac8b916d6e53325d505eb1b86a2d2ddfbbeaf752bc709c9d1@gmail.com>",
+      "sent_at": "2026-11-04T06:43:38.840055+00:00"
+    },
+    {
       "message_id": "<0f1dc850dd33d1ebdcb96ea2953fcebab3b53764fa477e08b066cad773948508@gmail.com>",
       "sent_at": "2026-11-02T17:55:44.246917+00:00"
     },
@@ -6844,10 +6848,6 @@
     {
       "message_id": "<42bc7b6797f7a60c5c7570c5074ac0640a3d2ccb5e70af012269f6e12f177b11@gmail.com>",
       "sent_at": "2026-11-02T09:20:23.765387+00:00"
-    },
-    {
-      "message_id": "<46dd5b673ea12fd98aef34769a53422904a213c1f2d95380f1da3e4a0936c464@gmail.com>",
-      "sent_at": "2026-11-02T06:29:59.180162+00:00"
     },
     {
       "message_id": "<48549a043d0ec5e37bba8628958e033394506f5d8d70a6ce963d3278a32941be@gmail.com>",
