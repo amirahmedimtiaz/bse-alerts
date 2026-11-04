@@ -494,8 +494,8 @@
       "company_key": "505685",
       "discovered_at": "2026-11-04T09:23:29.107960+00:00",
       "news_id": "bc2329d2-ecc2-469b-8292-2c2ad40d07a8",
-      "payload": "{\"NEWSID\": \"bc2329d2-ecc2-469b-8292-2c2ad40d07a8\", \"SCRIP_CD\": 505685, \"XML_NAME\": \"ANN_505685_BC2329D2-ECC2-469B-8292-2C2AD40D07A8\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Dated 4Th November 2026\", \"DT_TM\": \"2026-11-04T14:50:24.547\", \"NEWS_DT\": \"2026-11-04T14:50:24.547\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"32842864-53a7-4ad8-9bfe-b85710114ab6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting dated 4th November 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/\", \"SLONGNAME\": \"Taparia Tools Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T14:50:21\", \"DissemDT\": \"2026-11-04T14:50:24.547\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 2264456, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Taparia Tools Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Dated 4Th November 2026\", \"_published\": \"2026-11-04T14:50:24.547\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting dated 4th November 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/32842864-53a7-4ad8-9bfe-b85710114ab6.pdf\", \"_id\": \"bc2329d2-ecc2-469b-8292-2c2ad40d07a8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "505685",
@@ -1488,8 +1488,8 @@
       "company_key": "522163",
       "discovered_at": "2026-11-04T09:23:19.673711+00:00",
       "news_id": "f090aa20-1955-4d42-8ba6-cc88f123f717",
-      "payload": "{\"NEWSID\": \"f090aa20-1955-4d42-8ba6-cc88f123f717\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_F090AA20-1955-4D42-8BA6-CC88F123F717\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-04T14:51:26.52\", \"NEWS_DT\": \"2026-11-04T14:51:26.52\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9e3ec7c7-9811-4edd-bf97-0cbd99729bb5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio recording of Earnings Call of Q2 FY2027\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T14:51:26\", \"DissemDT\": \"2026-11-04T14:51:26.52\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 310979, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-04T14:51:26.52\", \"_category\": \"Company Update\", \"_headline\": \"Audio recording of Earnings Call of Q2 FY2027\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e3ec7c7-9811-4edd-bf97-0cbd99729bb5.pdf\", \"_id\": \"f090aa20-1955-4d42-8ba6-cc88f123f717\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -5457,8 +5457,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-04T09:23:17.389804+00:00",
       "news_id": "9d3daebe-c014-46c7-bb17-ebfc20546336",
-      "payload": "{\"NEWSID\": \"9d3daebe-c014-46c7-bb17-ebfc20546336\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_9D3DAEBE-C014-46C7-BB17-EBFC20546336\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-04T14:51:11.713\", \"NEWS_DT\": \"2026-11-04T14:51:11.713\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"67bd0244-5eef-4d07-9436-af38b133d5c0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Monitoring Agency Report for the Quarter ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T14:51:11\", \"DissemDT\": \"2026-11-04T14:51:11.713\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1858113, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-04T14:51:11.713\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Monitoring Agency Report for the Quarter ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/67bd0244-5eef-4d07-9436-af38b133d5c0.pdf\", \"_id\": \"9d3daebe-c014-46c7-bb17-ebfc20546336\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -6881,10 +6881,6 @@
       "sent_at": "2026-11-03T13:42:11.680650+00:00"
     },
     {
-      "message_id": "<42bc7b6797f7a60c5c7570c5074ac0640a3d2ccb5e70af012269f6e12f177b11@gmail.com>",
-      "sent_at": "2026-11-02T09:20:23.765387+00:00"
-    },
-    {
       "message_id": "<48549a043d0ec5e37bba8628958e033394506f5d8d70a6ce963d3278a32941be@gmail.com>",
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
     },
@@ -6923,10 +6919,6 @@
     {
       "message_id": "<81ca7539c93ea8c0def9d15ab11774f1bcab41a3448a80e353e87b90c49cdb94@gmail.com>",
       "sent_at": "2026-11-03T10:27:12.328183+00:00"
-    },
-    {
-      "message_id": "<89b4553e60a8c90531b3b3de7e2579d543d469990a117d4abf5d61f8e08c0faa@gmail.com>",
-      "sent_at": "2026-11-02T09:10:23.862157+00:00"
     },
     {
       "message_id": "<89e7d711350b72e4dfc18961c564fddab68787145d482d061fcb64987f2c8092@gmail.com>",
@@ -6979,6 +6971,10 @@
     {
       "message_id": "<c659afb3b0f2c17ce6f9a84397070592076e71a6ebfde7d146765f22bae43ca8@gmail.com>",
       "sent_at": "2026-11-03T13:12:11.858440+00:00"
+    },
+    {
+      "message_id": "<d739c598adafa89424d943237979b147e1e7a17d105f76f116c0c06aae04088b@gmail.com>",
+      "sent_at": "2026-11-04T09:23:38.183472+00:00"
     },
     {
       "message_id": "<e017eb791eff807103143615562c0b992c793164df4e7e380ce1e59a8c9e4c97@gmail.com>",
