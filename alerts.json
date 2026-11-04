@@ -809,8 +809,8 @@
       "company_key": "517498",
       "discovered_at": "2026-11-04T14:23:37.082973+00:00",
       "news_id": "b2767e8d-86dd-43bd-99a6-7c1a9f250f72",
-      "payload": "{\"NEWSID\": \"b2767e8d-86dd-43bd-99a6-7c1a9f250f72\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_B2767E8D-86DD-43BD-99A6-7C1A9F250F72\", \"NEWSSUB\": \"Board Meeting Outcome for For Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-11-04T19:48:48.21\", \"NEWS_DT\": \"2026-11-04T19:48:48.21\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"76d2eab8-172c-4e27-8c1a-ab6baef86ec6.pdf\", \"MORE\": \"In furtherance to our intimation dated 22nd October, 2026 and pursuant to provisions of Regulation 30 of Securities and  Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), the Board of Directors of the Company at its meeting held today, i.e., Wednesday, 4th November 2026, inter alia, considered and approved the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026 along with Independent Auditor''s Review Report thereon, as recommended by the Audit Committee.\", \"HEADLINE\": \"In furtherance to our intimation dated 22nd October, 2026 and pursuant to provisions of Regulation 30 of Securities and  Exchange Board of India (Listing Obligations and Disclosure Requirements) ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T19:48:46\", \"DissemDT\": \"2026-11-04T19:48:48.21\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 4464804, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Board Meeting Outcome for For Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-11-04T19:48:48.21\", \"_category\": \"Board Meeting\", \"_headline\": \"In furtherance to our intimation dated 22nd October, 2026 and pursuant to provisions of Regulation 30 of Securities and  Exchange Board of India (Listing Obligations and Disclosure Requirements) ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/76d2eab8-172c-4e27-8c1a-ab6baef86ec6.pdf\", \"_id\": \"b2767e8d-86dd-43bd-99a6-7c1a9f250f72\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -5485,8 +5485,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-04T14:23:34.919805+00:00",
       "news_id": "179f13c0-0548-40e8-b4a7-0de5ee726235",
-      "payload": "{\"NEWSID\": \"179f13c0-0548-40e8-b4a7-0de5ee726235\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_179F13C0-0548-40E8-B4A7-0DE5EE726235\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release (Revised)\", \"DT_TM\": \"2026-11-04T19:53:01.44\", \"NEWS_DT\": \"2026-11-04T19:53:01.44\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"32083020-dd27-44ee-b3b8-fc466dd278c3.pdf\", \"MORE\": \"This is in furtherance of our earlier intimation dated 30th October, 2026 regarding the Earnings Conference Call to discuss the Q2 & H1 FY27 financial results, which was originally scheduled to be held on Thursday, 5th November, 2026 at 2:00 P.M. (IST).\\r\\n\\r\\nWith reference to the relevant provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the timing of the Earnings Conference Call has been revised from 2:00 P.M. to 5:00 P.M. (IST) on Thursday, 5th November, 2026.\\r\\n\\r\\nThe conference call time has been revised from 2.00 PM to 5.00 PM. The conference call date and meeting link shall remain unchanged.\\r\\n\", \"HEADLINE\": \"This is in furtherance of our earlier intimation dated 30th October, 2026 regarding the Earnings Conference Call to discuss the Q2 & H1 FY27 financial results, which was originally scheduled ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 155, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T19:53:01\", \"DissemDT\": \"2026-11-04T19:53:01.44\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 418501, \"SUBCATNAME\": \"Press Release / Media Release (Revised)\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release (Revised)\", \"_published\": \"2026-11-04T19:53:01.44\", \"_category\": \"Company Update\", \"_headline\": \"This is in furtherance of our earlier intimation dated 30th October, 2026 regarding the Earnings Conference Call to discuss the Q2 & H1 FY27 financial results, which was originally scheduled ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/32083020-dd27-44ee-b3b8-fc466dd278c3.pdf\", \"_id\": \"179f13c0-0548-40e8-b4a7-0de5ee726235\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -7037,12 +7037,12 @@
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
     },
     {
-      "message_id": "<55fa64c9521188c29b3260081814ec3b4d8e2107b03c686f527b91b863adc6c8@gmail.com>",
-      "sent_at": "2026-11-04T12:33:52.134613+00:00"
+      "message_id": "<524512a605424cabbcc98cab5a3296beb1262f35acc8e2f194bd5f679bd1a24b@gmail.com>",
+      "sent_at": "2026-11-04T14:23:52.759846+00:00"
     },
     {
-      "message_id": "<571844038ae03fc82cf1687793827e6acdb46b3e9db3c860ad1616e3be4a35b2@gmail.com>",
-      "sent_at": "2026-11-02T13:35:23.689648+00:00"
+      "message_id": "<55fa64c9521188c29b3260081814ec3b4d8e2107b03c686f527b91b863adc6c8@gmail.com>",
+      "sent_at": "2026-11-04T12:33:52.134613+00:00"
     },
     {
       "message_id": "<576b3f9599426a0dff686a2f0b77a6ab07599629f7673666e594422d76ec754a@gmail.com>",
