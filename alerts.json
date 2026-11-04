@@ -4643,6 +4643,13 @@
     },
     {
       "company_key": "544387",
+      "discovered_at": "2026-11-04T12:18:48.034682+00:00",
+      "news_id": "dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d",
+      "payload": "{\"NEWSID\": \"dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_DCCBEFB9-8D4F-4D9D-B8C5-7B2DF1F3248D\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Wednesday, 04Th November 2026\", \"DT_TM\": \"2026-11-04T17:45:00.087\", \"NEWS_DT\": \"2026-11-04T17:45:00.087\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8705db1c-e101-47b6-8907-183c63a3f6b8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T17:44:55\", \"DissemDT\": \"2026-11-04T17:45:00.087\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 12264025, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On Wednesday, 04Th November 2026\", \"_published\": \"2026-11-04T17:45:00.087\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8705db1c-e101-47b6-8907-183c63a3f6b8.pdf\", \"_id\": \"dccbefb9-8d4f-4d9d-b8c5-7b2df1f3248d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544387",
       "discovered_at": "2026-10-09T00:09:25.529884+00:00",
       "news_id": "def22cab-a781-4c89-9d1e-108ce67a36c5",
       "payload": null,
