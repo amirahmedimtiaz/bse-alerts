@@ -361,8 +361,8 @@
       "company_key": "504212",
       "discovered_at": "2026-11-04T16:58:52.158020+00:00",
       "news_id": "53c47b06-83ee-4caa-8c34-c5f7ba4a0b5c",
-      "payload": "{\"NEWSID\": \"53c47b06-83ee-4caa-8c34-c5f7ba4a0b5c\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_53C47B06-83EE-4CAA-8C34-C5F7BA4A0B5C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Cessation\", \"DT_TM\": \"2026-11-04T22:25:48.317\", \"NEWS_DT\": \"2026-11-04T22:25:48.317\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"29c4c543-ae78-429b-a7c9-31b17378696e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Completion of tenure of  Shri Kishore Kumar Mehrotra as a Non Executive Independent Director of the Company with effect from close of Business hours 10th November, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 123, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T22:25:48\", \"DissemDT\": \"2026-11-04T22:25:48.317\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6364525, \"SUBCATNAME\": \"Cessation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Cessation\", \"_published\": \"2026-11-04T22:25:48.317\", \"_category\": \"Company Update\", \"_headline\": \"Completion of tenure of  Shri Kishore Kumar Mehrotra as a Non Executive Independent Director of the Company with effect from close of Business hours 10th November, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/29c4c543-ae78-429b-a7c9-31b17378696e.pdf\", \"_id\": \"53c47b06-83ee-4caa-8c34-c5f7ba4a0b5c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -7223,6 +7223,10 @@
     {
       "message_id": "<e8c017c9dd0063ec9cc52c7935081bc237e32f36c86b60e671d97352bee1e84d@gmail.com>",
       "sent_at": "2026-11-04T16:09:08.883982+00:00"
+    },
+    {
+      "message_id": "<ed89246c320522c53028dc471cfd807f1e0aa3cab2ed9d2b0a1ea8d61203c9ec@gmail.com>",
+      "sent_at": "2026-11-04T16:59:08.205979+00:00"
     },
     {
       "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
