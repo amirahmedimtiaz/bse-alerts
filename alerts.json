@@ -487,8 +487,8 @@
       "company_key": "505685",
       "discovered_at": "2026-11-04T09:33:31.314229+00:00",
       "news_id": "52507317-870b-4bed-9b51-e3754fc0b7ca",
-      "payload": "{\"NEWSID\": \"52507317-870b-4bed-9b51-e3754fc0b7ca\", \"SCRIP_CD\": 505685, \"XML_NAME\": \"ANN_505685_52507317-870B-4BED-9B51-E3754FC0B7CA\", \"NEWSSUB\": \"Results - For The Quarter And Half Year Ended 30Th September 2026\", \"DT_TM\": \"2026-11-04T14:59:44.747\", \"NEWS_DT\": \"2026-11-04T14:59:44.747\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"28d181b2-5fb6-422b-8e0a-d542c10b5ffb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Results - for the quarter and half year ended 30th September 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/\", \"SLONGNAME\": \"Taparia Tools Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T14:59:44\", \"DissemDT\": \"2026-11-04T14:59:44.747\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2264456, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Taparia Tools Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/taparia-tools-ltd/taparia/505685/corp-announcements\", \"_subject\": \"Results - For The Quarter And Half Year Ended 30Th September 2026\", \"_published\": \"2026-11-04T14:59:44.747\", \"_category\": \"Result\", \"_headline\": \"Results - for the quarter and half year ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/28d181b2-5fb6-422b-8e0a-d542c10b5ffb.pdf\", \"_id\": \"52507317-870b-4bed-9b51-e3754fc0b7ca\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "505685",
@@ -6914,6 +6914,10 @@
     {
       "message_id": "<695cb2fa3cade3177783940105fd4cdb4229df5874081583a5c202543c98b2f0@gmail.com>",
       "sent_at": "2026-11-04T05:43:22.802723+00:00"
+    },
+    {
+      "message_id": "<6ddc785c8a0bbb65b8f5687122395adcd2dfce304a480ddf694f7d2744bbdba9@gmail.com>",
+      "sent_at": "2026-11-04T09:33:38.072442+00:00"
     },
     {
       "message_id": "<713bad53b815714abdb6f7885b85625642ef386056bf2846d6d0d3ba51e8c65b@gmail.com>",
