@@ -1852,8 +1852,8 @@
       "company_key": "532259",
       "discovered_at": "2026-11-04T12:43:34.412590+00:00",
       "news_id": "398e8250-b452-4d23-a493-cac7d0720860",
-      "payload": "{\"NEWSID\": \"398e8250-b452-4d23-a493-cac7d0720860\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_398E8250-B452-4D23-A493-CAC7D0720860\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-04T18:11:24.83\", \"NEWS_DT\": \"2026-11-04T18:11:24.83\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"304a4271-cf94-4804-87eb-8ee1171281f3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Submission of Transcript of the conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27)\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:11:24\", \"DissemDT\": \"2026-11-04T18:11:24.83\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 454391, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-04T18:11:24.83\", \"_category\": \"Company Update\", \"_headline\": \"Submission of Transcript of the conference call on Un-audited Financial Results (Standalone & Consolidated) on Q2FY27 (2026-27)\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/304a4271-cf94-4804-87eb-8ee1171281f3.pdf\", \"_id\": \"398e8250-b452-4d23-a493-cac7d0720860\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -6956,10 +6956,6 @@
       "sent_at": "2026-11-02T17:55:44.246917+00:00"
     },
     {
-      "message_id": "<15998005e9c35f200345e1bcd234c63a708ffb5e0f4bd9f97694ba91f1c40628@gmail.com>",
-      "sent_at": "2026-11-02T12:40:24.702087+00:00"
-    },
-    {
       "message_id": "<221b8c17af4f9602a8c5df8d5f3a4ca5984447442e5e8641be4e631b7db56e93@gmail.com>",
       "sent_at": "2026-11-03T11:37:11.960651+00:00"
     },
@@ -7070,6 +7066,10 @@
     {
       "message_id": "<baa935d96cd81d3f479ff9ce1ab97c35095526dabfdb9dc208a0aa82bab22e40@gmail.com>",
       "sent_at": "2026-11-03T14:32:12.479928+00:00"
+    },
+    {
+      "message_id": "<bc42abb9578ad955176d92547f73500f7bc5d7f2b9ecc00b81299f9ec09662a2@gmail.com>",
+      "sent_at": "2026-11-04T12:44:05.621733+00:00"
     },
     {
       "message_id": "<bda316561bcb8bbd372805aa09d63865dd112538b90661616f0e16b8684df5fb@gmail.com>",
