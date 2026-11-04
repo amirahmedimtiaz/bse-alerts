@@ -333,8 +333,8 @@
       "company_key": "504212",
       "discovered_at": "2026-11-04T17:13:48.973886+00:00",
       "news_id": "1e84a0ff-8aa3-4e41-831f-6ecbee022ff0",
-      "payload": "{\"NEWSID\": \"1e84a0ff-8aa3-4e41-831f-6ecbee022ff0\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_1E84A0FF-8AA3-4E41-831F-6ECBEE022FF0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-04T22:41:26.737\", \"NEWS_DT\": \"2026-11-04T22:41:26.737\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"63e22e68-10eb-426d-a8b2-4f3489f957b7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release issued by the Company after the conclusion Board Meeting dated 04-11-2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T22:41:26\", \"DissemDT\": \"2026-11-04T22:41:26.737\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6364525, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-04T22:41:26.737\", \"_category\": \"Company Update\", \"_headline\": \"Press Release issued by the Company after the conclusion Board Meeting dated 04-11-2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/63e22e68-10eb-426d-a8b2-4f3489f957b7.pdf\", \"_id\": \"1e84a0ff-8aa3-4e41-831f-6ecbee022ff0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -830,8 +830,8 @@
       "company_key": "517498",
       "discovered_at": "2026-11-04T17:13:53.476216+00:00",
       "news_id": "8417b53b-72e2-48cc-ba28-021215ab3605",
-      "payload": "{\"NEWSID\": \"8417b53b-72e2-48cc-ba28-021215ab3605\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_8417B53B-72E2-48CC-BA28-021215AB3605\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-04T22:42:13.62\", \"NEWS_DT\": \"2026-11-04T22:42:13.62\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ec6d1675-5094-4b11-81ef-e124b9850086.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation on the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T22:42:13\", \"DissemDT\": \"2026-11-04T22:42:13.62\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3055791, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-04T22:42:13.62\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation on the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec6d1675-5094-4b11-81ef-e124b9850086.pdf\", \"_id\": \"8417b53b-72e2-48cc-ba28-021215ab3605\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -921,8 +921,8 @@
       "company_key": "517498",
       "discovered_at": "2026-11-04T17:13:53.476071+00:00",
       "news_id": "d2fa37b8-9257-48cc-bc22-e841d326d9b5",
-      "payload": "{\"NEWSID\": \"d2fa37b8-9257-48cc-bc22-e841d326d9b5\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_D2FA37B8-9257-48CC-BC22-E841D326D9B5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-04T22:40:17.34\", \"NEWS_DT\": \"2026-11-04T22:40:17.34\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c7456a74-d2b4-445f-b2fd-0b79255ecb1a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release on the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T22:40:17\", \"DissemDT\": \"2026-11-04T22:40:17.34\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3055791, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-04T22:40:17.34\", \"_category\": \"Company Update\", \"_headline\": \"Press Release on the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c7456a74-d2b4-445f-b2fd-0b79255ecb1a.pdf\", \"_id\": \"d2fa37b8-9257-48cc-bc22-e841d326d9b5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -7195,6 +7195,10 @@
     {
       "message_id": "<99909873e8aea2826c5b0f1fea50564e9c257d811086674fc0c3842a6952397c@gmail.com>",
       "sent_at": "2026-11-03T08:26:51.971114+00:00"
+    },
+    {
+      "message_id": "<9a6714d0af6d3eec218fbb8e62f030f46cd63c7ba5a3eed818f990cbcde73239@gmail.com>",
+      "sent_at": "2026-11-04T17:14:09.615039+00:00"
     },
     {
       "message_id": "<9c97b97fcfe000a3aa0211b6e346391a56ce07872f2986dd7de9e3884167a206@gmail.com>",
