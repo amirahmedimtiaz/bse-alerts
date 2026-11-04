@@ -2851,6 +2851,13 @@
     },
     {
       "company_key": "538706",
+      "discovered_at": "2026-11-04T11:13:36.314486+00:00",
+      "news_id": "3044201a-ccd2-4211-a017-5b037ed21acc",
+      "payload": "{\"NEWSID\": \"3044201a-ccd2-4211-a017-5b037ed21acc\", \"SCRIP_CD\": 538706, \"XML_NAME\": \"ANN_538706_3044201A-CCD2-4211-A017-5B037ED21ACC\", \"NEWSSUB\": \"Board Meeting Outcome for The Meeting Held On November 04, 2026.\", \"DT_TM\": \"2026-11-04T16:40:22.163\", \"NEWS_DT\": \"2026-11-04T16:40:22.163\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5e0ba2e9-dd22-49c9-ad09-f776fcd542ca.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith outcome of the Board Meeting held on November 04, 2026 under Regulation 30 of the SEBI LODR Regulations, 2015.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/\", \"SLONGNAME\": \"Ultracab (India) Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T16:40:17\", \"DissemDT\": \"2026-11-04T16:40:22.163\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 10333510, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Ultracab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements\", \"_subject\": \"Board Meeting Outcome for The Meeting Held On November 04, 2026.\", \"_published\": \"2026-11-04T16:40:22.163\", \"_category\": \"Board Meeting\", \"_headline\": \"Please find enclosed herewith outcome of the Board Meeting held on November 04, 2026 under Regulation 30 of the SEBI LODR Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5e0ba2e9-dd22-49c9-ad09-f776fcd542ca.pdf\", \"_id\": \"3044201a-ccd2-4211-a017-5b037ed21acc\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "538706",
       "discovered_at": "2026-09-23T05:12:07.584620+00:00",
       "news_id": "731f424b-f5e5-4233-a209-a3920277c121",
       "payload": null,
