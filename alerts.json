@@ -4062,6 +4062,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-11-04T13:28:39.916151+00:00",
+      "news_id": "4f40aed1-b55d-4280-b78b-73371f18148b",
+      "payload": "{\"NEWSID\": \"4f40aed1-b55d-4280-b78b-73371f18148b\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_4F40AED1-B55D-4280-B78B-73371F18148B\", \"NEWSSUB\": \"Interim Dividend - Record Date\", \"DT_TM\": \"2026-11-04T18:54:51.753\", \"NEWS_DT\": \"2026-11-04T18:54:51.753\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"66b1a368-14fc-499f-a031-fc31c5a873d4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Board has fixed November 11, 2026 as the Record Date\", \"CATEGORYNAME\": \"Corp. Action\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 36, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:54:51\", \"DissemDT\": \"2026-11-04T18:54:51.753\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 9336309, \"SUBCATNAME\": \"Record Date\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Interim Dividend - Record Date\", \"_published\": \"2026-11-04T18:54:51.753\", \"_category\": \"Corp. Action\", \"_headline\": \"The Board has fixed November 11, 2026 as the Record Date\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/66b1a368-14fc-499f-a031-fc31c5a873d4.pdf\", \"_id\": \"4f40aed1-b55d-4280-b78b-73371f18148b\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584738+00:00",
       "news_id": "566f68fd-17bd-4643-9361-4b3cd49d7969",
       "payload": null,
