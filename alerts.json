@@ -4097,6 +4097,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-11-04T12:58:39.866399+00:00",
+      "news_id": "9069b06c-5c41-4cae-a43c-7d90bbc0715d",
+      "payload": "{\"NEWSID\": \"9069b06c-5c41-4cae-a43c-7d90bbc0715d\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_9069B06C-5C41-4CAE-A43C-7D90BBC0715D\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On November 04, 2026\", \"DT_TM\": \"2026-11-04T18:25:25.213\", \"NEWS_DT\": \"2026-11-04T18:25:25.213\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cc8b53a2-33e7-48c9-83a5-9bee81d64b58.pdf\", \"MORE\": \"\", \"HEADLINE\": \" Board Meeting Outcome  Held On November 04, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:25:22\", \"DissemDT\": \"2026-11-04T18:25:25.213\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 9336309, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On November 04, 2026\", \"_published\": \"2026-11-04T18:25:25.213\", \"_category\": \"Board Meeting\", \"_headline\": \" Board Meeting Outcome  Held On November 04, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc8b53a2-33e7-48c9-83a5-9bee81d64b58.pdf\", \"_id\": \"9069b06c-5c41-4cae-a43c-7d90bbc0715d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584739+00:00",
       "news_id": "9dea5053-4215-4bf2-8296-b6fd4aaf1707",
       "payload": null,
