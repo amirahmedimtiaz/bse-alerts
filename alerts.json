@@ -3943,6 +3943,13 @@
     },
     {
       "company_key": "543981",
+      "discovered_at": "2026-11-04T13:08:34.438910+00:00",
+      "news_id": "d975491f-fd3c-4922-9538-0ae941455b71",
+      "payload": "{\"NEWSID\": \"d975491f-fd3c-4922-9538-0ae941455b71\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_D975491F-FD3C-4922-9538-0AE941455B71\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-04T18:36:04.833\", \"NEWS_DT\": \"2026-11-04T18:36:04.833\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b256142c-628f-4878-b96d-beff8514f5f7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith transcript of the earnings conference call held on 29 October 2026 in relation to the financial results of the company for the quarter and half-year ended 30 September 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-04T18:36:04\", \"DissemDT\": \"2026-11-04T18:36:04.833\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1058680, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-04T18:36:04.833\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith transcript of the earnings conference call held on 29 October 2026 in relation to the financial results of the company for the quarter and half-year ended 30 September 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b256142c-628f-4878-b96d-beff8514f5f7.pdf\", \"_id\": \"d975491f-fd3c-4922-9538-0ae941455b71\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "543981",
       "discovered_at": "2026-10-23T04:55:02.437235+00:00",
       "news_id": "e4488143-928a-4abe-9d56-eed88f706784",
       "payload": null,
