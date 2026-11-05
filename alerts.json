@@ -2510,8 +2510,8 @@
       "company_key": "532374",
       "discovered_at": "2026-11-05T12:40:10.369324+00:00",
       "news_id": "e7e78ec3-e50c-4b17-8631-6ed205954c3b",
-      "payload": "{\"NEWSID\": \"e7e78ec3-e50c-4b17-8631-6ed205954c3b\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_E7E78EC3-E50C-4B17-8631-6ED205954C3B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-05T18:10:00\", \"NEWS_DT\": \"2026-11-05T18:10:00\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"df4f8489-dfa1-409e-b93b-ab638d9662f5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Investor/ Analyst Meet Intimation to be held on November 17 and 19, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T18:09:59\", \"DissemDT\": \"2026-11-05T18:10:00\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 433156, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-05T18:10:00\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Investor/ Analyst Meet Intimation to be held on November 17 and 19, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/df4f8489-dfa1-409e-b93b-ab638d9662f5.pdf\", \"_id\": \"e7e78ec3-e50c-4b17-8631-6ed205954c3b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -7327,6 +7327,10 @@
     {
       "message_id": "<3fd070b53c1d18d9e5ccdff97059b88c845038eebbff28087fa2cc7f1e50fa13@gmail.com>",
       "sent_at": "2026-11-05T04:50:08.229767+00:00"
+    },
+    {
+      "message_id": "<41701f9996fd5002014a2aab77359fc875efdc5da39dd378b071c0e491d88b1a@gmail.com>",
+      "sent_at": "2026-11-05T12:40:26.146879+00:00"
     },
     {
       "message_id": "<42c9df02b62e8e34aaf08f7dada45874fdc72a9d27000bfd1de9bb9f67c20d67@gmail.com>",
