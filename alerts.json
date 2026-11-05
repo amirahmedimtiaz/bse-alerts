@@ -5065,8 +5065,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-05T07:54:55.246279+00:00",
       "news_id": "6cc94db4-5d62-4b79-b438-a0028191bc80",
-      "payload": "{\"NEWSID\": \"6cc94db4-5d62-4b79-b438-a0028191bc80\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_6CC94DB4-5D62-4B79-B438-A0028191BC80\", \"NEWSSUB\": \"Update on board meeting\", \"DT_TM\": \"2026-11-05T13:19:49\", \"NEWS_DT\": \"2026-11-05T13:19:49\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fc028f7a-a7e7-4633-8536-78caebcb7d56.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Board Meeting to be held on 16/11/2026 has been revised to 14/11/2026 The Board Meeting to be held on 16/11/2026 has been revised to 14/11/2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 101, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T13:19:48\", \"DissemDT\": \"2026-11-05T13:19:49\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 716312, \"SUBCATNAME\": \"Board Meeting Rescheduled\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Update on board meeting\", \"_published\": \"2026-11-05T13:19:49\", \"_category\": \"Company Update\", \"_headline\": \"The Board Meeting to be held on 16/11/2026 has been revised to 14/11/2026 The Board Meeting to be held on 16/11/2026 has been revised to 14/11/2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc028f7a-a7e7-4633-8536-78caebcb7d56.pdf\", \"_id\": \"6cc94db4-5d62-4b79-b438-a0028191bc80\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -7257,6 +7257,10 @@
       "sent_at": "2026-11-05T07:20:07.598474+00:00"
     },
     {
+      "message_id": "<6346ae356a92e997b9a0695c5dd86172e58f3e8a6a4a1e456dee1b03c0d94bb6@gmail.com>",
+      "sent_at": "2026-11-05T07:55:08.227908+00:00"
+    },
+    {
       "message_id": "<6768b51ba015a94524ce5be7f114a3c7e8cfdf01e94935c900d381f4cd5b743b@gmail.com>",
       "sent_at": "2026-11-03T13:02:13.025960+00:00"
     },
@@ -7295,10 +7299,6 @@
     {
       "message_id": "<8df371fd7398a9cc2059b1b1217a4e6de3b21d2b882e80f9082fe944b7132108@gmail.com>",
       "sent_at": "2026-11-04T06:48:38.522342+00:00"
-    },
-    {
-      "message_id": "<8fab9a55336232cc26b30effa1be3dc8b5358084efc7d6af806d9084604b3209@gmail.com>",
-      "sent_at": "2026-11-03T07:41:51.035524+00:00"
     },
     {
       "message_id": "<99909873e8aea2826c5b0f1fea50564e9c257d811086674fc0c3842a6952397c@gmail.com>",
