@@ -5191,8 +5191,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-05T09:20:16.411843+00:00",
       "news_id": "423461c7-f027-497f-b282-f721ca0eeecc",
-      "payload": "{\"NEWSID\": \"423461c7-f027-497f-b282-f721ca0eeecc\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_423461C7-F027-497F-B282-F721CA0EEECC\", \"NEWSSUB\": \"Results - Financials For The Quarter And Half Year Ended September 30,2026\", \"DT_TM\": \"2026-11-05T14:47:28.977\", \"NEWS_DT\": \"2026-11-05T14:47:28.977\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f5f8e53d-800c-4b43-845a-d9c1491ecf12.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Standalone and Consolidated Unaudited Financials Results for the quarter and half year ended September 30,2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T14:47:28\", \"DissemDT\": \"2026-11-05T14:47:28.977\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4280069, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Results - Financials For The Quarter And Half Year Ended September 30,2026\", \"_published\": \"2026-11-05T14:47:28.977\", \"_category\": \"Result\", \"_headline\": \"Standalone and Consolidated Unaudited Financials Results for the quarter and half year ended September 30,2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f5f8e53d-800c-4b43-845a-d9c1491ecf12.pdf\", \"_id\": \"423461c7-f027-497f-b282-f721ca0eeecc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -7376,6 +7376,10 @@
     {
       "message_id": "<c659afb3b0f2c17ce6f9a84397070592076e71a6ebfde7d146765f22bae43ca8@gmail.com>",
       "sent_at": "2026-11-03T13:12:11.858440+00:00"
+    },
+    {
+      "message_id": "<cf651a2c9840c90de03e3f8fce9f5e9625558797de679efcb17f5055bed7e9a0@gmail.com>",
+      "sent_at": "2026-11-05T09:20:26.726375+00:00"
     },
     {
       "message_id": "<d6118233776b3de7a1d66614458fecccfe4d1517f6393bac45688f708f299d15@gmail.com>",
