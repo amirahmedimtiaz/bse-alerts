@@ -4225,8 +4225,8 @@
       "company_key": "544238",
       "discovered_at": "2026-11-05T04:49:56.149633+00:00",
       "news_id": "af87ef75-d5d6-416f-9c69-e188ed2df107",
-      "payload": "{\"NEWSID\": \"af87ef75-d5d6-416f-9c69-e188ed2df107\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_AF87EF75-D5D6-416F-9C69-E188ED2DF107\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-05T10:17:00.92\", \"NEWS_DT\": \"2026-11-05T10:17:00.92\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bcc12ea8-2445-413e-86c2-92cc866ca4c0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Premier Energies reports Strong Q2 FY27 Results\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T10:17:00\", \"DissemDT\": \"2026-11-05T10:17:00.92\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 436741, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-05T10:17:00.92\", \"_category\": \"Company Update\", \"_headline\": \"Premier Energies reports Strong Q2 FY27 Results\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bcc12ea8-2445-413e-86c2-92cc866ca4c0.pdf\", \"_id\": \"af87ef75-d5d6-416f-9c69-e188ed2df107\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -7136,6 +7136,10 @@
     {
       "message_id": "<3eabeb17d1a3f782dea690e20ee05791870ba0ed54a77cf8a25fec52262c2521@gmail.com>",
       "sent_at": "2026-11-04T11:14:00.461806+00:00"
+    },
+    {
+      "message_id": "<3fd070b53c1d18d9e5ccdff97059b88c845038eebbff28087fa2cc7f1e50fa13@gmail.com>",
+      "sent_at": "2026-11-05T04:50:08.229767+00:00"
     },
     {
       "message_id": "<42fbeef716f2ab8c49c4e789de0c901692f62a8524fab916d75d85f8aacafc57@gmail.com>",
