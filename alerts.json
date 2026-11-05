@@ -5196,6 +5196,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-11-05T09:15:17.967980+00:00",
+      "news_id": "50b1aedd-712f-4d0f-9ea9-a7cc5f351d02",
+      "payload": "{\"NEWSID\": \"50b1aedd-712f-4d0f-9ea9-a7cc5f351d02\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_50B1AEDD-712F-4D0F-9EA9-A7CC5F351D02\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On November 05, 2026\", \"DT_TM\": \"2026-11-05T14:40:19.867\", \"NEWS_DT\": \"2026-11-05T14:40:19.867\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2cfad49e-33ad-41a2-95a7-70c80311cedf.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board Meeting held on November 05, 2026 - Standalone and Consolidated Unaudited Financial Results for the Quarter and Half year ended September 30, 2026.\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T14:40:17\", \"DissemDT\": \"2026-11-05T14:40:19.867\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 4280069, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting Held On November 05, 2026\", \"_published\": \"2026-11-05T14:40:19.867\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board Meeting held on November 05, 2026 - Standalone and Consolidated Unaudited Financial Results for the Quarter and Half year ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2cfad49e-33ad-41a2-95a7-70c80311cedf.pdf\", \"_id\": \"50b1aedd-712f-4d0f-9ea9-a7cc5f351d02\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584844+00:00",
       "news_id": "51bc2bb9-161c-4c1a-9d64-1b71c53f23f4",
       "payload": null,
