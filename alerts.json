@@ -5189,6 +5189,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-11-05T09:20:16.411843+00:00",
+      "news_id": "423461c7-f027-497f-b282-f721ca0eeecc",
+      "payload": "{\"NEWSID\": \"423461c7-f027-497f-b282-f721ca0eeecc\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_423461C7-F027-497F-B282-F721CA0EEECC\", \"NEWSSUB\": \"Results - Financials For The Quarter And Half Year Ended September 30,2026\", \"DT_TM\": \"2026-11-05T14:47:28.977\", \"NEWS_DT\": \"2026-11-05T14:47:28.977\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f5f8e53d-800c-4b43-845a-d9c1491ecf12.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Standalone and Consolidated Unaudited Financials Results for the quarter and half year ended September 30,2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T14:47:28\", \"DissemDT\": \"2026-11-05T14:47:28.977\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4280069, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Results - Financials For The Quarter And Half Year Ended September 30,2026\", \"_published\": \"2026-11-05T14:47:28.977\", \"_category\": \"Result\", \"_headline\": \"Standalone and Consolidated Unaudited Financials Results for the quarter and half year ended September 30,2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f5f8e53d-800c-4b43-845a-d9c1491ecf12.pdf\", \"_id\": \"423461c7-f027-497f-b282-f721ca0eeecc\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584847+00:00",
       "news_id": "4fab137c-e922-4a21-bd83-1f16ec8e1ecd",
       "payload": null,
