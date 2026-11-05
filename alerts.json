@@ -912,6 +912,13 @@
     },
     {
       "company_key": "517498",
+      "discovered_at": "2026-11-05T12:10:12.012962+00:00",
+      "news_id": "b8c7b5da-1365-4403-97fe-5cb98f947e8b",
+      "payload": "{\"NEWSID\": \"b8c7b5da-1365-4403-97fe-5cb98f947e8b\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_B8C7B5DA-1365-4403-97FE-5CB98F947E8B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-05T17:39:48.473\", \"NEWS_DT\": \"2026-11-05T17:39:48.473\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f90e0664-f729-4cb2-8d68-b1172519e112.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Link to Audio Recording of Analysts/Institutional Investors Meeting / Call - Q2 FY 27 Financial Results\\r\\n\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T17:39:48\", \"DissemDT\": \"2026-11-05T17:39:48.473\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 285836, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-05T17:39:48.473\", \"_category\": \"Company Update\", \"_headline\": \"Link to Audio Recording of Analysts/Institutional Investors Meeting / Call - Q2 FY 27 Financial Results\\r\\n\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f90e0664-f729-4cb2-8d68-b1172519e112.pdf\", \"_id\": \"b8c7b5da-1365-4403-97fe-5cb98f947e8b\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "517498",
       "discovered_at": "2026-09-23T05:12:07.584318+00:00",
       "news_id": "b9124a66-6fe6-4cf4-a824-3724a3333e45",
       "payload": null,
@@ -6712,6 +6719,13 @@
       "news_id": "106822378",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:GGBL",
+      "discovered_at": "2026-11-05T12:10:15.558061+00:00",
+      "news_id": "106847904",
+      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"05-Nov-2026 17:40:12\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESH_05112026173425_OUTCOMEOFBOARDMEETING05112026.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 17:40:12\", \"sort_date\": \"2026-11-05 17:40:12\", \"seq_id\": \"106847904\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"7.61 MB\", \"attFileSize\": \"7.61 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-05 17:40:12\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Ganesh Green Bharat Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESH_05112026173425_OUTCOMEOFBOARDMEETING05112026.pdf\", \"_id\": \"106847904\"}",
+      "status": "pending"
     },
     {
       "company_key": "NSE:PROPSHOP",
