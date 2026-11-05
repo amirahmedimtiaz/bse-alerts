@@ -5658,6 +5658,13 @@
     },
     {
       "company_key": "544613",
+      "discovered_at": "2026-11-05T13:40:35.391509+00:00",
+      "news_id": "e32dfb40-8f62-47de-a877-660173425e0c",
+      "payload": "{\"NEWSID\": \"e32dfb40-8f62-47de-a877-660173425e0c\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_E32DFB40-8F62-47DE-A877-660173425E0C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-05T19:07:27.407\", \"NEWS_DT\": \"2026-11-05T19:07:27.407\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0c09f765-29ad-4bed-aca3-9b8b9f8fce65.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has submitted to the Exchange the Monitoring Agency Report for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T19:07:27\", \"DissemDT\": \"2026-11-05T19:07:27.407\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2299183, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-05T19:07:27.407\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has submitted to the Exchange the Monitoring Agency Report for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c09f765-29ad-4bed-aca3-9b8b9f8fce65.pdf\", \"_id\": \"e32dfb40-8f62-47de-a877-660173425e0c\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544613",
       "discovered_at": "2026-10-15T12:52:32.615071+00:00",
       "news_id": "e4ea1809-63ea-4251-a2ab-55ae1b3977cd",
       "payload": null,
