@@ -5952,6 +5952,13 @@
     },
     {
       "company_key": "544851",
+      "discovered_at": "2026-11-05T09:25:24.246342+00:00",
+      "news_id": "46166325-a195-4c7f-bbf1-662ef62df5db",
+      "payload": "{\"NEWSID\": \"46166325-a195-4c7f-bbf1-662ef62df5db\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_46166325-A195-4C7F-BBF1-662EF62DF5DB\", \"NEWSSUB\": \"Board Meeting Intimation for The Quarter & Half Year Ended On September 30, 2026\", \"DT_TM\": \"2026-11-05T14:53:08.703\", \"NEWS_DT\": \"2026-11-05T14:53:08.703\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"af0e5dab-c0b7-4572-8a65-c9163773c212.pdf\", \"MORE\": \"MV Electrosystems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results of the Company for the Quarter & Half year ended on September 30, 2026\", \"HEADLINE\": \"MV Electrosystems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the Un-audited Financial ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T14:53:07\", \"DissemDT\": \"2026-11-05T14:53:08.703\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 649752, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Board Meeting Intimation for The Quarter & Half Year Ended On September 30, 2026\", \"_published\": \"2026-11-05T14:53:08.703\", \"_category\": \"Board Meeting\", \"_headline\": \"MV Electrosystems Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the Un-audited Financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/af0e5dab-c0b7-4572-8a65-c9163773c212.pdf\", \"_id\": \"46166325-a195-4c7f-bbf1-662ef62df5db\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544851",
       "discovered_at": "2026-10-14T04:55:29.902745+00:00",
       "news_id": "463aa524-9f66-452a-838d-e5e605808807",
       "payload": null,
