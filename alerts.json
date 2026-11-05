@@ -7432,7 +7432,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-05T10:05:24.266931+00:00\", \"seconds\": 20.19}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-05T10:10:24.866825+00:00\", \"seconds\": 20.74}"
     },
     {
       "key": "migration_date",
