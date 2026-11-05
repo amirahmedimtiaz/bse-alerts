@@ -4827,8 +4827,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-05T10:25:24.007533+00:00",
       "news_id": "905ad187-88ee-4506-8ccf-90033ea344b8",
-      "payload": "{\"NEWSID\": \"905ad187-88ee-4506-8ccf-90033ea344b8\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_905AD187-88EE-4506-8CCF-90033EA344B8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-05T15:52:40.467\", \"NEWS_DT\": \"2026-11-05T15:52:40.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"044a9c79-ce17-4076-add1-8fc77549c22b.pdf\", \"MORE\": \"Desco Infratech Limited has informed the exchange about Audio Recording of Investors/Analysts Earnings Conference Call conducted on 05th November 2026, at 01:30 PM to discuss the Unaudited financial results for the half year ended 30th September 2026. Disclosure is attached herewith\", \"HEADLINE\": \"Desco Infratech Limited has informed the exchange about Audio Recording of Investors/Analysts Earnings Conference Call conducted on 05th November 2026, at 01:30 PM to discuss the Unaudited ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T15:52:40\", \"DissemDT\": \"2026-11-05T15:52:40.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3389901, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"905ad187-88ee-4506-8ccf-90033ea344b8\", \"INVESTOR_PRESENTATION\": \"3703aa00-10bc-424f-b1b3-f48d12a3010f.mp3\", \"RECORDID\": 14784943, \"DataInsDate\": \"2026-11-05T15:52:40.357\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/3703aa00-10bc-424f-b1b3-f48d12a3010f.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-05T15:52:40.467\", \"_category\": \"Company Update\", \"_headline\": \"Desco Infratech Limited has informed the exchange about Audio Recording of Investors/Analysts Earnings Conference Call conducted on 05th November 2026, at 01:30 PM to discuss the Unaudited ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/044a9c79-ce17-4076-add1-8fc77549c22b.pdf\", \"_id\": \"905ad187-88ee-4506-8ccf-90033ea344b8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -5205,8 +5205,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-05T10:25:15.049236+00:00",
       "news_id": "409503ec-d162-4538-bba8-18dd4d3facac",
-      "payload": "{\"NEWSID\": \"409503ec-d162-4538-bba8-18dd4d3facac\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_409503EC-D162-4538-BBA8-18DD4D3FACAC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-05T15:50:43.14\", \"NEWS_DT\": \"2026-11-05T15:50:43.14\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"92b878d1-e6d3-4674-aab5-21445abe69c3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release on the Standalone and Consolidated Unaudited Financial Results of the Company for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T15:50:43\", \"DissemDT\": \"2026-11-05T15:50:43.14\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 511994, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-05T15:50:43.14\", \"_category\": \"Company Update\", \"_headline\": \"Press Release on the Standalone and Consolidated Unaudited Financial Results of the Company for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/92b878d1-e6d3-4674-aab5-21445abe69c3.pdf\", \"_id\": \"409503ec-d162-4538-bba8-18dd4d3facac\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -7291,6 +7291,10 @@
     {
       "message_id": "<48549a043d0ec5e37bba8628958e033394506f5d8d70a6ce963d3278a32941be@gmail.com>",
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
+    },
+    {
+      "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
+      "sent_at": "2026-11-05T10:25:26.708622+00:00"
     },
     {
       "message_id": "<50ac4c08552da0e37bbde2b1a7062d3e088c856b94707824d1a32f55ad58bc05@gmail.com>",
