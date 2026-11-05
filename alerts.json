@@ -6665,6 +6665,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:PROPSHOP",
+      "discovered_at": "2026-11-05T07:15:03.433246+00:00",
+      "news_id": "106846675",
+      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Press Release\", \"dt\": \"05-Nov-2026 12:40:44\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_05112026123855_Propshop_-_Final_Press_release.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 12:40:44\", \"sort_date\": \"2026-11-05 12:40:44\", \"seq_id\": \"106846675\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \\\"Propshop Events and Exhibitions Limited ( Propshop ) in the first half of FY 2026-27 posts strong performance; global execution scale signals and accelerated growth ahead\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.01 MB\", \"attFileSize\": \"1.01 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-05 12:40:44\", \"_category\": \"Press Release\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \\\"Propshop Events and Exhibitions Limited ( Propshop ) in the first half of FY 2026-27 posts strong performance; global execution scale signals and accelerated growth ahead\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_05112026123855_Propshop_-_Final_Press_release.pdf\", \"_id\": \"106846675\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-09-23T05:12:07.584989+00:00",
       "news_id": "106779261",
