@@ -345,6 +345,13 @@
     },
     {
       "company_key": "504212",
+      "discovered_at": "2026-11-05T05:44:48.544443+00:00",
+      "news_id": "27b76809-2224-4abc-ba7e-0f4a67c4a70d",
+      "payload": "{\"NEWSID\": \"27b76809-2224-4abc-ba7e-0f4a67c4a70d\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_27B76809-2224-4ABC-BA7E-0F4A67C4A70D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-05T11:12:34.6\", \"NEWS_DT\": \"2026-11-05T11:12:34.6\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bf5051ae-0e69-4d8c-892d-a5fbdfdfdb81.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication - Unaudited Standalone and Consolidated Financial Result of the Company for the quarter and half year ended 30th September, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T11:12:34\", \"DissemDT\": \"2026-11-05T11:12:34.6\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3962191, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-05T11:12:34.6\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication - Unaudited Standalone and Consolidated Financial Result of the Company for the quarter and half year ended 30th September, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf5051ae-0e69-4d8c-892d-a5fbdfdfdb81.pdf\", \"_id\": \"27b76809-2224-4abc-ba7e-0f4a67c4a70d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "504212",
       "discovered_at": "2026-11-04T17:03:49.674027+00:00",
       "news_id": "2842aae2-336e-4fa9-a2a0-f7b2f38c8dbf",
       "payload": null,
