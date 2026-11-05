@@ -6934,8 +6934,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-05T07:39:54.132293+00:00",
       "news_id": "106846771",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"05-Nov-2026 13:07:04\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_05112026130653_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 13:07:04\", \"sort_date\": \"2026-11-05 13:07:04\", \"seq_id\": \"106846771\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"624.05 KB\", \"attFileSize\": \"624.05 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-05 13:07:04\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_05112026130653_VIL.pdf\", \"_id\": \"106846771\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -7318,6 +7318,10 @@
       "sent_at": "2026-11-04T12:23:52.007368+00:00"
     },
     {
+      "message_id": "<a471abb7fc69fa767e47e04f2245c03f90349b7aa4bc54a4f71eba841bbe403a@gmail.com>",
+      "sent_at": "2026-11-05T07:40:07.809663+00:00"
+    },
+    {
       "message_id": "<a6b878f8485fe6cedd93bb2589a526a16c3a96994540331542c8b63af3ac97c1@gmail.com>",
       "sent_at": "2026-11-04T04:23:22.530111+00:00"
     },
@@ -7376,10 +7380,6 @@
     {
       "message_id": "<ed89246c320522c53028dc471cfd807f1e0aa3cab2ed9d2b0a1ea8d61203c9ec@gmail.com>",
       "sent_at": "2026-11-04T16:59:08.205979+00:00"
-    },
-    {
-      "message_id": "<ed90e4a524f258f95f04053e3f3ce66b6632e5ad37f22887167b6cdced36cf7e@gmail.com>",
-      "sent_at": "2026-11-03T07:31:51.731218+00:00"
     },
     {
       "message_id": "<f3de7bc4ba002c2774ec61f100a4c947243276a958dbd22d657e7197cf715df1@gmail.com>",
