@@ -5254,8 +5254,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-05T16:10:35.195011+00:00",
       "news_id": "4fa1db24-6702-458a-bf7d-30dd62d22c0b",
-      "payload": "{\"NEWSID\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_4FA1DB24-6702-458A-BF7D-30DD62D22C0B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-05T21:38:40.813\", \"NEWS_DT\": \"2026-11-05T21:38:40.813\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bd68c0f0-78ab-4aef-bdc5-6c1c6b161161.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording of Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T21:38:40\", \"DissemDT\": \"2026-11-05T21:38:40.813\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 233130, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\", \"INVESTOR_PRESENTATION\": \"1dc6374b-3616-41ee-ac19-e10943e796c8.pdf\", \"RECORDID\": 14791412, \"DataInsDate\": \"2026-11-05T21:38:40.71\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dc6374b-3616-41ee-ac19-e10943e796c8.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-05T21:38:40.813\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording of Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bd68c0f0-78ab-4aef-bdc5-6c1c6b161161.pdf\", \"_id\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -7352,10 +7352,6 @@
       "sent_at": "2026-11-05T05:10:08.769658+00:00"
     },
     {
-      "message_id": "<3e08427c5c7fe173fddc00c4428315cc045d37cbe921c73ca81c782794dc593f@gmail.com>",
-      "sent_at": "2026-11-03T13:42:11.680650+00:00"
-    },
-    {
       "message_id": "<3eabeb17d1a3f782dea690e20ee05791870ba0ed54a77cf8a25fec52262c2521@gmail.com>",
       "sent_at": "2026-11-04T11:14:00.461806+00:00"
     },
@@ -7422,10 +7418,6 @@
     {
       "message_id": "<6ddc785c8a0bbb65b8f5687122395adcd2dfce304a480ddf694f7d2744bbdba9@gmail.com>",
       "sent_at": "2026-11-04T09:33:38.072442+00:00"
-    },
-    {
-      "message_id": "<713bad53b815714abdb6f7885b85625642ef386056bf2846d6d0d3ba51e8c65b@gmail.com>",
-      "sent_at": "2026-11-03T14:27:13.529872+00:00"
     },
     {
       "message_id": "<724c5aee4a759fb1719eac0b88bfdb25ff257dc555b1357abc1c7d885f87bf49@gmail.com>",
@@ -7500,10 +7492,6 @@
       "sent_at": "2026-11-04T09:43:50.435774+00:00"
     },
     {
-      "message_id": "<baa935d96cd81d3f479ff9ce1ab97c35095526dabfdb9dc208a0aa82bab22e40@gmail.com>",
-      "sent_at": "2026-11-03T14:32:12.479928+00:00"
-    },
-    {
       "message_id": "<bc42abb9578ad955176d92547f73500f7bc5d7f2b9ecc00b81299f9ec09662a2@gmail.com>",
       "sent_at": "2026-11-04T12:44:05.621733+00:00"
     },
@@ -7558,6 +7546,10 @@
     {
       "message_id": "<f4b0f10b147ce0b013dd61545b88878e21e0e1f96692f479978d47e7eb7b825d@gmail.com>",
       "sent_at": "2026-11-05T12:10:26.173456+00:00"
+    },
+    {
+      "message_id": "<fc73b5b3394e05c41144914d62e12e9da6be753bafb0e8b37383f1621f757caa@gmail.com>",
+      "sent_at": "2026-11-05T16:11:03.246021+00:00"
     },
     {
       "message_id": "<fe8b840199ad107fdf05ee8c2a0fb8497cecc5ecf9b1304e124b22afc15add74@gmail.com>",
