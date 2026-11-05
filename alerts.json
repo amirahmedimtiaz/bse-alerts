@@ -6724,8 +6724,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-11-05T04:34:58.103421+00:00",
       "news_id": "106846291",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Press Release\", \"dt\": \"05-Nov-2026 10:02:48\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026100204_PressRelease.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 10:02:48\", \"sort_date\": \"2026-11-05 10:02:48\", \"seq_id\": \"106846291\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \\\"H1 FY27 Earnings Release\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.07 MB\", \"attFileSize\": \"1.07 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-05 10:02:48\", \"_category\": \"Press Release\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \\\"H1 FY27 Earnings Release\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026100204_PressRelease.pdf\", \"_id\": \"106846291\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -7143,6 +7143,10 @@
       "sent_at": "2026-11-03T11:32:11.794055+00:00"
     },
     {
+      "message_id": "<50ac4c08552da0e37bbde2b1a7062d3e088c856b94707824d1a32f55ad58bc05@gmail.com>",
+      "sent_at": "2026-11-05T04:35:07.710742+00:00"
+    },
+    {
       "message_id": "<524512a605424cabbcc98cab5a3296beb1262f35acc8e2f194bd5f679bd1a24b@gmail.com>",
       "sent_at": "2026-11-04T14:23:52.759846+00:00"
     },
@@ -7289,10 +7293,6 @@
     {
       "message_id": "<faeeb301e8fac828c6ba3780ca6c170506ed762a7b93ab45a854088fc72309ee@gmail.com>",
       "sent_at": "2026-11-03T09:57:11.984621+00:00"
-    },
-    {
-      "message_id": "<fc1f5aaa0c5942787ca7229b1fda01092972771eba076b70e8a2b674d718a01f@gmail.com>",
-      "sent_at": "2026-11-03T04:11:33.218946+00:00"
     }
   ],
   "metadata": [
