@@ -4139,6 +4139,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-11-05T11:20:19.759476+00:00",
+      "news_id": "203abb29-5fca-4de9-bf13-72a1ae081159",
+      "payload": "{\"NEWSID\": \"203abb29-5fca-4de9-bf13-72a1ae081159\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_203ABB29-5FCA-4DE9-BF13-72A1AE081159\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-05T16:46:57.45\", \"NEWS_DT\": \"2026-11-05T16:46:57.45\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"efcc35ee-fcb6-4484-8f53-aa11f42f8e00.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording of Earnings call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T16:46:57\", \"DissemDT\": \"2026-11-05T16:46:57.45\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 416439, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"203abb29-5fca-4de9-bf13-72a1ae081159\", \"INVESTOR_PRESENTATION\": \"03e143cc-8d99-46f5-be62-1093c4fd5098.pdf\", \"RECORDID\": 14786472, \"DataInsDate\": \"2026-11-05T16:46:57.33\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03e143cc-8d99-46f5-be62-1093c4fd5098.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-05T16:46:57.45\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording of Earnings call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/efcc35ee-fcb6-4484-8f53-aa11f42f8e00.pdf\", \"_id\": \"203abb29-5fca-4de9-bf13-72a1ae081159\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-09-23T05:12:07.584737+00:00",
       "news_id": "25fc45ad-aeb1-426a-8286-01d43ab07dc3",
       "payload": null,
