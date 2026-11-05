@@ -6735,6 +6735,13 @@
       "status": "sent"
     },
     {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-11-05T04:54:57.714213+00:00",
+      "news_id": "106846311",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Investor Presentation\", \"dt\": \"05-Nov-2026 10:22:17\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026102209_051126SSLInvestorPresentation.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 10:22:17\", \"sort_date\": \"2026-11-05 10:22:17\", \"seq_id\": \"106846311\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.61 MB\", \"attFileSize\": \"3.61 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-05 10:22:17\", \"_category\": \"Investor Presentation\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026102209_051126SSLInvestorPresentation.pdf\", \"_id\": \"106846311\"}",
+      "status": "pending"
+    },
+    {
       "company_key": "NSE:TBI",
       "discovered_at": "2026-10-08T12:13:18.964018+00:00",
       "news_id": "106811469",
