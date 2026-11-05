@@ -4083,6 +4083,13 @@
     },
     {
       "company_key": "544238",
+      "discovered_at": "2026-11-05T05:09:55.789187+00:00",
+      "news_id": "0065fd5a-fa28-4699-ab19-3b9e4150e9b9",
+      "payload": "{\"NEWSID\": \"0065fd5a-fa28-4699-ab19-3b9e4150e9b9\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_0065FD5A-FA28-4699-AB19-3B9E4150E9B9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-05T10:37:50.003\", \"NEWS_DT\": \"2026-11-05T10:37:50.003\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fc2e935c-48f6-44bc-a20e-da7b5ea69577.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Copy of Newspaper Publication\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T10:37:50\", \"DissemDT\": \"2026-11-05T10:37:50.003\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2366095, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-05T10:37:50.003\", \"_category\": \"Company Update\", \"_headline\": \"Copy of Newspaper Publication\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc2e935c-48f6-44bc-a20e-da7b5ea69577.pdf\", \"_id\": \"0065fd5a-fa28-4699-ab19-3b9e4150e9b9\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544238",
       "discovered_at": "2026-11-04T13:18:41.936981+00:00",
       "news_id": "0150ed02-0666-4a42-987b-6f2024678487",
       "payload": null,
