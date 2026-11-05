@@ -5191,8 +5191,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-05T10:55:17.811887+00:00",
       "news_id": "1469e936-c485-4962-abe2-18c8393fb852",
-      "payload": "{\"NEWSID\": \"1469e936-c485-4962-abe2-18c8393fb852\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_1469E936-C485-4962-ABE2-18C8393FB852\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-05T16:24:47.65\", \"NEWS_DT\": \"2026-11-05T16:24:47.65\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c2d49914-b1fc-4f77-96c0-164e28df8275.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the quarter ended September 30,2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T16:24:47\", \"DissemDT\": \"2026-11-05T16:24:47.65\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 554494, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-05T16:24:47.65\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the quarter ended September 30,2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c2d49914-b1fc-4f77-96c0-164e28df8275.pdf\", \"_id\": \"1469e936-c485-4962-abe2-18c8393fb852\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -7231,10 +7231,6 @@
       "sent_at": "2026-11-04T16:19:09.666960+00:00"
     },
     {
-      "message_id": "<04f40b7648431c1ef83807b9f2a2d6cdff0325540bb058ab2a8b1324bc54748d@gmail.com>",
-      "sent_at": "2026-11-03T10:52:12.809933+00:00"
-    },
-    {
       "message_id": "<073b313b657735a8c9813ebf574a2240e831027c83131a1779a8fd9f7238daff@gmail.com>",
       "sent_at": "2026-11-04T14:28:52.874439+00:00"
     },
@@ -7249,6 +7245,10 @@
     {
       "message_id": "<0eda30be8de2e40fe73699bc2b25b3e6d5f18a4dc061b7b35a6d7cf39f674a2c@gmail.com>",
       "sent_at": "2026-11-04T10:38:54.737284+00:00"
+    },
+    {
+      "message_id": "<0f950700a3e31d82474a3f6c54575e90513e2b8bdb8b4eea6e738cf1a7c0e53f@gmail.com>",
+      "sent_at": "2026-11-05T10:55:26.003182+00:00"
     },
     {
       "message_id": "<221b8c17af4f9602a8c5df8d5f3a4ca5984447442e5e8641be4e631b7db56e93@gmail.com>",
