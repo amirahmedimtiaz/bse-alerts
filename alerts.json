@@ -6675,8 +6675,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-11-05T07:20:02.989040+00:00",
       "news_id": "106846693",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Press Release (Revised)\", \"dt\": \"05-Nov-2026 12:47:20\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_05112026124456_Propshop_-_Final_Press_release_intimation_sd.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 12:47:20\", \"sort_date\": \"2026-11-05 12:47:20\", \"seq_id\": \"106846693\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding a revised press release dated November 05, 2026, titled \\\"Propshop Events and Exhibitions Limited ( Propshop ) in the first half of FY 2026-27 posts strong performance; global execution scale signals and accelerated growth ahead\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.10 MB\", \"attFileSize\": \"1.10 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Press Release (Revised)\", \"_published\": \"2026-11-05 12:47:20\", \"_category\": \"Press Release (Revised)\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding a revised press release dated November 05, 2026, titled \\\"Propshop Events and Exhibitions Limited ( Propshop ) in the first half of FY 2026-27 posts strong performance; global execution scale signals and accelerated growth ahead\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_05112026124456_Propshop_-_Final_Press_release_intimation_sd.pdf\", \"_id\": \"106846693\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -7237,6 +7237,10 @@
     {
       "message_id": "<5cd8482419a1ffcf9c29ac540d48020b958b79276794e3e450aa5616c3095708@gmail.com>",
       "sent_at": "2026-11-03T08:21:51.510883+00:00"
+    },
+    {
+      "message_id": "<5ec7fa28745ac5a9941e0dd8c48b450cafd738ab85143d0bc6689ff855d8cbd0@gmail.com>",
+      "sent_at": "2026-11-05T07:20:07.598474+00:00"
     },
     {
       "message_id": "<6768b51ba015a94524ce5be7f114a3c7e8cfdf01e94935c900d381f4cd5b743b@gmail.com>",
