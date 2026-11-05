@@ -5252,6 +5252,13 @@
     },
     {
       "company_key": "544526",
+      "discovered_at": "2026-11-05T16:10:35.195011+00:00",
+      "news_id": "4fa1db24-6702-458a-bf7d-30dd62d22c0b",
+      "payload": "{\"NEWSID\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_4FA1DB24-6702-458A-BF7D-30DD62D22C0B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-05T21:38:40.813\", \"NEWS_DT\": \"2026-11-05T21:38:40.813\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bd68c0f0-78ab-4aef-bdc5-6c1c6b161161.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording of Earnings Call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T21:38:40\", \"DissemDT\": \"2026-11-05T21:38:40.813\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 233130, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\", \"INVESTOR_PRESENTATION\": \"1dc6374b-3616-41ee-ac19-e10943e796c8.pdf\", \"RECORDID\": 14791412, \"DataInsDate\": \"2026-11-05T21:38:40.71\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dc6374b-3616-41ee-ac19-e10943e796c8.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-05T21:38:40.813\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording of Earnings Call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bd68c0f0-78ab-4aef-bdc5-6c1c6b161161.pdf\", \"_id\": \"4fa1db24-6702-458a-bf7d-30dd62d22c0b\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544526",
       "discovered_at": "2026-09-23T05:12:07.584847+00:00",
       "news_id": "4fab137c-e922-4a21-bd83-1f16ec8e1ecd",
       "payload": null,
