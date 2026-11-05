@@ -7386,7 +7386,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-05T07:15:09.101895+00:00\", \"seconds\": 23.31}"
+      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-05T07:20:08.728260+00:00\", \"seconds\": 22.98}"
     },
     {
       "key": "migration_date",
