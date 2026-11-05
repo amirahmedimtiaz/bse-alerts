@@ -6647,8 +6647,8 @@
       "company_key": "NSE:BIOPOL",
       "discovered_at": "2026-11-05T12:30:20.483694+00:00",
       "news_id": "106848013",
-      "payload": "{\"symbol\": \"BIOPOL\", \"desc\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"dt\": \"05-Nov-2026 17:57:08\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_05112026175651_Statement_of_Deviation_fnl.pdf\", \"sm_name\": \"Biopol Chemicals Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 17:57:08\", \"sort_date\": \"2026-11-05 17:57:08\", \"seq_id\": \"106848013\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Biopol Chemicals Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.13 MB\", \"attFileSize\": \"3.13 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Biopol Chemicals Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BIOPOL/Biopol-Chemicals-Limited\", \"_subject\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_published\": \"2026-11-05 17:57:08\", \"_category\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_headline\": \"Biopol Chemicals Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BIOPOL2025_05112026175651_Statement_of_Deviation_fnl.pdf\", \"_id\": \"106848013\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:GGBL",
@@ -7500,6 +7500,10 @@
     {
       "message_id": "<ed89246c320522c53028dc471cfd807f1e0aa3cab2ed9d2b0a1ea8d61203c9ec@gmail.com>",
       "sent_at": "2026-11-04T16:59:08.205979+00:00"
+    },
+    {
+      "message_id": "<f25a5a4c73c7b681fb0245f720fa765fe1f8c4b7c9e9652b3753be03a13cff6e@gmail.com>",
+      "sent_at": "2026-11-05T12:30:27.014884+00:00"
     },
     {
       "message_id": "<f3de7bc4ba002c2774ec61f100a4c947243276a958dbd22d657e7197cf715df1@gmail.com>",
