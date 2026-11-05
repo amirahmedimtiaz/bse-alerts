@@ -4708,8 +4708,8 @@
       "company_key": "544291",
       "discovered_at": "2026-11-05T03:59:59.531094+00:00",
       "news_id": "5e739955-ea38-4481-a2a5-a112b7fb4bf0",
-      "payload": "{\"NEWSID\": \"5e739955-ea38-4481-a2a5-a112b7fb4bf0\", \"SCRIP_CD\": 544291, \"XML_NAME\": \"ANN_544291_5E739955-EA38-4481-A2A5-A112B7FB4BF0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-05T09:27:58.293\", \"NEWS_DT\": \"2026-11-05T09:27:58.293\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8b63aec5-e775-4817-aa39-46c0616ead80.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Press Release for receipt of Order from Dakshin Gujarat Vij Company Limited (DGVCL).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/\", \"SLONGNAME\": \"Rajesh Power Services Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T09:27:58\", \"DissemDT\": \"2026-11-05T09:27:58.293\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 508336, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rajesh Power Services Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/RAJESH/544291/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-05T09:27:58.293\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Press Release for receipt of Order from Dakshin Gujarat Vij Company Limited (DGVCL).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8b63aec5-e775-4817-aa39-46c0616ead80.pdf\", \"_id\": \"5e739955-ea38-4481-a2a5-a112b7fb4bf0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544291",
@@ -7104,10 +7104,6 @@
       "sent_at": "2026-11-04T10:38:54.737284+00:00"
     },
     {
-      "message_id": "<0f1dc850dd33d1ebdcb96ea2953fcebab3b53764fa477e08b066cad773948508@gmail.com>",
-      "sent_at": "2026-11-02T17:55:44.246917+00:00"
-    },
-    {
       "message_id": "<221b8c17af4f9602a8c5df8d5f3a4ca5984447442e5e8641be4e631b7db56e93@gmail.com>",
       "sent_at": "2026-11-03T11:37:11.960651+00:00"
     },
@@ -7210,6 +7206,10 @@
     {
       "message_id": "<9c97b97fcfe000a3aa0211b6e346391a56ce07872f2986dd7de9e3884167a206@gmail.com>",
       "sent_at": "2026-11-04T12:58:53.365854+00:00"
+    },
+    {
+      "message_id": "<9d03ebbba2cad5e0eff3ecffc6487aaf9d8d2854a122719589795248d8c21663@gmail.com>",
+      "sent_at": "2026-11-05T04:00:08.280426+00:00"
     },
     {
       "message_id": "<a0f7923ebcd00fe33254a0ac009d729a46667f18654d9c2265d9e8dea37d95b7@gmail.com>",
