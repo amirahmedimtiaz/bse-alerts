@@ -2956,6 +2956,13 @@
     },
     {
       "company_key": "538706",
+      "discovered_at": "2026-11-05T05:19:54.043823+00:00",
+      "news_id": "07d9e19f-1631-44e4-86f7-a90242a1fb6d",
+      "payload": "{\"NEWSID\": \"07d9e19f-1631-44e4-86f7-a90242a1fb6d\", \"SCRIP_CD\": 538706, \"XML_NAME\": \"ANN_538706_07D9E19F-1631-44E4-86F7-A90242A1FB6D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-05T10:45:14.713\", \"NEWS_DT\": \"2026-11-05T10:45:14.713\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"aafb90d0-55fb-42c4-b8bd-7519c8d7b71c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith copies of the newspaper publication of the financial results for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/\", \"SLONGNAME\": \"Ultracab (India) Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T10:45:14\", \"DissemDT\": \"2026-11-05T10:45:14.713\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6198128, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Ultracab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/ultracab-india-ltd/ultracab/538706/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-05T10:45:14.713\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith copies of the newspaper publication of the financial results for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/aafb90d0-55fb-42c4-b8bd-7519c8d7b71c.pdf\", \"_id\": \"07d9e19f-1631-44e4-86f7-a90242a1fb6d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "538706",
       "discovered_at": "2026-11-04T11:13:36.314486+00:00",
       "news_id": "3044201a-ccd2-4211-a017-5b037ed21acc",
       "payload": null,
