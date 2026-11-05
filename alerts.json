@@ -5660,8 +5660,8 @@
       "company_key": "544613",
       "discovered_at": "2026-11-05T13:40:35.391509+00:00",
       "news_id": "e32dfb40-8f62-47de-a877-660173425e0c",
-      "payload": "{\"NEWSID\": \"e32dfb40-8f62-47de-a877-660173425e0c\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_E32DFB40-8F62-47DE-A877-660173425E0C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-05T19:07:27.407\", \"NEWS_DT\": \"2026-11-05T19:07:27.407\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0c09f765-29ad-4bed-aca3-9b8b9f8fce65.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has submitted to the Exchange the Monitoring Agency Report for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T19:07:27\", \"DissemDT\": \"2026-11-05T19:07:27.407\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2299183, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-05T19:07:27.407\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has submitted to the Exchange the Monitoring Agency Report for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c09f765-29ad-4bed-aca3-9b8b9f8fce65.pdf\", \"_id\": \"e32dfb40-8f62-47de-a877-660173425e0c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -7405,6 +7405,10 @@
       "sent_at": "2026-11-05T07:55:08.227908+00:00"
     },
     {
+      "message_id": "<68cf0cd90a706188bba0145222f3499f2e17a3fb954293b1b2cfc013e39f29b8@gmail.com>",
+      "sent_at": "2026-11-05T13:40:51.281492+00:00"
+    },
+    {
       "message_id": "<695cb2fa3cade3177783940105fd4cdb4229df5874081583a5c202543c98b2f0@gmail.com>",
       "sent_at": "2026-11-04T05:43:22.802723+00:00"
     },
@@ -7479,10 +7483,6 @@
     {
       "message_id": "<a97cdc077567a7329ab6a3c5217168e9289258b234ec8064c9ef1fbd14b0955e@gmail.com>",
       "sent_at": "2026-11-05T13:30:46.047182+00:00"
-    },
-    {
-      "message_id": "<ab8cd383b680d9b4c87b5de8bcf4a5d0bed1b0211d319178da6b40a1350abac0@gmail.com>",
-      "sent_at": "2026-11-03T13:37:13.247567+00:00"
     },
     {
       "message_id": "<af10b000559fc648539aa66205503b025f73b8aae335b35a625941b0430dc958@gmail.com>",
