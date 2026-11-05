@@ -3138,6 +3138,13 @@
     },
     {
       "company_key": "538786",
+      "discovered_at": "2026-11-05T10:15:24.293757+00:00",
+      "news_id": "ab3b71a7-0659-4960-be13-c602f02bde82",
+      "payload": "{\"NEWSID\": \"ab3b71a7-0659-4960-be13-c602f02bde82\", \"SCRIP_CD\": 538786, \"XML_NAME\": \"ANN_538786_AB3B71A7-0659-4960-BE13-C602F02BDE82\", \"NEWSSUB\": \"Commencement Of Commercial Production At Unit-2, Ankhol, 1.2 GW Solar PV Module Manufacturing Facility, Gujarat\", \"DT_TM\": \"2026-11-05T15:44:25.463\", \"NEWS_DT\": \"2026-11-05T15:44:25.463\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d3c345da-66b6-44ce-ba5c-ea71b1f3e089.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Part B of Schedule III of the SEBI (LODR) Regulations, 2015 we are pleased to inform that Citizen Solar Limited has commenced its commercial production of solar PV Modules at a production capacity of approx. 1.2 GW at Unit-2 with effect from 05th November, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Part B of Schedule III of the SEBI (LODR) Regulations, 2015 we are pleased to inform that Citizen Solar Limited has commenced its commercial production ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/\", \"SLONGNAME\": \"Citizen Solar Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-05T15:44:25\", \"DissemDT\": \"2026-11-05T15:44:25.463\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4453441, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Citizen Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/citizen-solar-ltd/citizen/538786/corp-announcements\", \"_subject\": \"Commencement Of Commercial Production At Unit-2, Ankhol, 1.2 GW Solar PV Module Manufacturing Facility, Gujarat\", \"_published\": \"2026-11-05T15:44:25.463\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Part B of Schedule III of the SEBI (LODR) Regulations, 2015 we are pleased to inform that Citizen Solar Limited has commenced its commercial production ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d3c345da-66b6-44ce-ba5c-ea71b1f3e089.pdf\", \"_id\": \"ab3b71a7-0659-4960-be13-c602f02bde82\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "538786",
       "discovered_at": "2026-10-08T09:37:46.595321+00:00",
       "news_id": "e256a199-fef0-47a9-ab5c-31d3953d2cf8",
       "payload": null,
@@ -6817,6 +6824,13 @@
       "news_id": "106846311",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:SAHAJSOLAR",
+      "discovered_at": "2026-11-05T10:15:16.828395+00:00",
+      "news_id": "106847233",
+      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"05-Nov-2026 15:44:50\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026154433_051126SSLAudioRecording.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"05-Nov-2026 15:44:50\", \"sort_date\": \"2026-11-05 15:44:50\", \"seq_id\": \"106847233\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about Link of Recording of earnings conference call on the unaudited Standalone and Consolidated Financial Results of the Company for the Half Year ended September 30, 2026, held on Thursday, November 5, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"284.47 KB\", \"attFileSize\": \"284.47 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-05 15:44:50\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about Link of Recording of earnings conference call on the unaudited Standalone and Consolidated Financial Results of the Company for the Half Year ended September 30, 2026, held on Thursday, November 5, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SahajSolar_05112026154433_051126SSLAudioRecording.pdf\", \"_id\": \"106847233\"}",
+      "status": "pending"
     },
     {
       "company_key": "NSE:TBI",
