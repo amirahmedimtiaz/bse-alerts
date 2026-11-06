@@ -5793,8 +5793,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-06T06:46:27.201108+00:00",
       "news_id": "3874d191-d008-4585-b8e0-04e97bc325e8",
-      "payload": "{\"NEWSID\": \"3874d191-d008-4585-b8e0-04e97bc325e8\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_3874D191-D008-4585-B8E0-04E97BC325E8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-06T12:14:44.413\", \"NEWS_DT\": \"2026-11-06T12:14:44.413\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d5ec8fba-c338-4e6a-8209-c87624a00be6.pdf\", \"MORE\": \"This has reference to Regulation 30(6) read with Schedule-III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations').\\r\\nWe hereby submit the Audio Link for the earning call held with the Analysts/ Investors in respect of the Unaudited Financial Results of the Company for the Quarter and Half year ended 30th September 2026 conducted through digital means on Thursday, November 05, 2026 at 17:00 PM (IST) is available at the website of the Company \\r\\nhttps://seil.net.in/investors/invester-meet-and-earning-call/\\r\\n\", \"HEADLINE\": \"This has reference to Regulation 30(6) read with Schedule-III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations').\\r\\nWe hereby submit ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T12:14:43\", \"DissemDT\": \"2026-11-06T12:14:44.413\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 329856, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"3874d191-d008-4585-b8e0-04e97bc325e8\", \"INVESTOR_PRESENTATION\": \"26a73386-3da3-45ed-bf4a-1ca38e27bb2a.mp3\", \"RECORDID\": 14800126, \"DataInsDate\": \"2026-11-06T12:14:43.95\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/26a73386-3da3-45ed-bf4a-1ca38e27bb2a.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-06T12:14:44.413\", \"_category\": \"Company Update\", \"_headline\": \"This has reference to Regulation 30(6) read with Schedule-III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations').\\r\\nWe hereby submit ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d5ec8fba-c338-4e6a-8209-c87624a00be6.pdf\", \"_id\": \"3874d191-d008-4585-b8e0-04e97bc325e8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -7403,10 +7403,6 @@
       "sent_at": "2026-11-04T14:28:52.874439+00:00"
     },
     {
-      "message_id": "<089718ba3419cceac8b916d6e53325d505eb1b86a2d2ddfbbeaf752bc709c9d1@gmail.com>",
-      "sent_at": "2026-11-04T06:43:38.840055+00:00"
-    },
-    {
       "message_id": "<0d0dfc842241cfdc3745f934794f8b841bb40e511b418de291e05f0db7dfb3e9@gmail.com>",
       "sent_at": "2026-11-04T15:33:54.691811+00:00"
     },
@@ -7573,6 +7569,10 @@
     {
       "message_id": "<9d03ebbba2cad5e0eff3ecffc6487aaf9d8d2854a122719589795248d8c21663@gmail.com>",
       "sent_at": "2026-11-05T04:00:08.280426+00:00"
+    },
+    {
+      "message_id": "<9e5208dc9610ed317966ee745c40e2197805412ea5ad1d34d8e6e43f52684f3e@gmail.com>",
+      "sent_at": "2026-11-06T06:46:55.825961+00:00"
     },
     {
       "message_id": "<a0f7923ebcd00fe33254a0ac009d729a46667f18654d9c2265d9e8dea37d95b7@gmail.com>",
