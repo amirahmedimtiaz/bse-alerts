@@ -7165,8 +7165,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T20:02:57.680462+00:00",
       "news_id": "nse-fallback:19f36794f3379688fc8c0a48c342cef995f500e58cc977b6c24fb8a0b1b81014",
-      "payload": "{\"symbol\": \"KIRLOSENG\", \"desc\": \"Press Release\", \"dt\": \"07112026013029\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KIRLOSENG_07112026012948_SE_Outcome_6Nov26.pdf\", \"sm_name\": \"Kirloskar Oil Engines Limited\", \"sm_isin\": \"INE146L01010\", \"an_dt\": \"07-Nov-2026 01:30:29\", \"sort_date\": \"2026-11-07 01:30:29\", \"seq_id\": null, \"smIndustry\": \"Diesel Engines\", \"orgid\": null, \"attchmntText\": \"Kirloskar Oil Engines Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \\\"Press Release\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 01:30:30\", \"difference\": \"00:00:01\", \"fileSize\": \"491.04 KB\", \"attFileSize\": \"491.04 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/KIRLOSENG_07112026012948_SE_Outcome_6Nov26.mp3\", \"voiceSummary\": \"Kirloskar Oil Engines Limited approved the execution of a Shareholders Agreement with Arka Fincap Limited, Arka Financial Holdings Private Limited, and TPG SG Arca Pte Ltd on 6th November 2026. This agreement records rights and obligations regarding TPG's proposed investment in Arka Fincap. TPG will subscribe to equity and compulsorily convertible preference shares in two tranches. The first tranche involves an investment of INR 525,00,00,003. The second tranche involves an investment of INR 275,00,00,588, subject to business milestones and regulatory approvals. Following the first tranche, Kirloskar Oil Engines Limited will hold 68.587% of Arka Fincap Limited. After the second tranche, the holding will reduce to 62.607%. The agreement includes provisions for investor nomination of one director and minority protection rights. There is no impact on the management or control of Kirloskar Oil Engines Limited.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 01:30:29\", \"_category\": \"Press Release\", \"_headline\": \"Kirloskar Oil Engines Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \\\"Press Release\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KIRLOSENG_07112026012948_SE_Outcome_6Nov26.pdf\", \"_id\": \"nse-fallback:19f36794f3379688fc8c0a48c342cef995f500e58cc977b6c24fb8a0b1b81014\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7270,8 +7270,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T20:02:57.680623+00:00",
       "news_id": "nse-fallback:5d00a5729f5017986c775074849b69f0883fd2e97678e59127a0234659d3e11e",
-      "payload": "{\"symbol\": \"OLAELEC\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026013201\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/OLAELECTRIC_07112026013048_SEintimationearningscall.pdf\", \"sm_name\": \"Ola Electric Mobility Limited\", \"sm_isin\": \"INE0LXG01040\", \"an_dt\": \"07-Nov-2026 01:32:01\", \"sort_date\": \"2026-11-07 01:32:01\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ola Electric Mobility Limited has informed the Exchange about schedule of Earnings Conference Call-Q2 FY 2026-27\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 01:32:01\", \"difference\": \"00:00:00\", \"fileSize\": \"269.40 KB\", \"attFileSize\": \"269.40 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/OLAELECTRIC_07112026013048_SEintimationearningscall.mp3\", \"voiceSummary\": \"Ola Electric Mobility Limited has announced the schedule for its earnings conference call for the second quarter and half year ended September 30, 2026. The call will take place on Thursday, November 12, 2026, at 05:00 P.M. IST. The event is intended for analysts and investors to discuss the unaudited standalone and consolidated financial results. Management representatives including Bhavish Aggarwal, Founder, Chairman and Managing Director, and Deepak Rastogi, Chief Financial Officer, will participate. An invitation with a registration link is available on the company website at www.olaelectric.com. This intimation is filed pursuant to Regulation 30 of the SEBI Listing Regulations.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 01:32:01\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Ola Electric Mobility Limited has informed the Exchange about schedule of Earnings Conference Call-Q2 FY 2026-27\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/OLAELECTRIC_07112026013048_SEintimationearningscall.pdf\", \"_id\": \"nse-fallback:5d00a5729f5017986c775074849b69f0883fd2e97678e59127a0234659d3e11e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8003,6 +8003,10 @@
     {
       "message_id": "<b52eae97f0eb152da8c78d4b63a2317576afd80785ad4e9ae452b3f00b16e9e2@gmail.com>",
       "sent_at": "2026-11-06T09:32:00.137783+00:00"
+    },
+    {
+      "message_id": "<bd429b0bbb2b74fb963b05e0cc86b5be7b378f0d7a29587b30a4660a6ed4b70f@gmail.com>",
+      "sent_at": "2026-11-06T20:03:04.784668+00:00"
     },
     {
       "message_id": "<bd7b810ff27b5fea771a1e30902904bdf8e5238be043d3e677303cbc214fbffa@gmail.com>",
