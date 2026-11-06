@@ -7137,8 +7137,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:12:58.155792+00:00",
       "news_id": "nse-fallback:13d4ae44065effd3ddb64a33f473de2150616e9f82ca9a920a32e2186b247c1b",
-      "payload": "{\"symbol\": \"MEESHO\", \"desc\": \"Shareholders meeting\", \"dt\": \"06112026234250\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MEESHO_06112026234101_Cover_letter_Postal_Ballot_Notice_06112026.pdf\", \"sm_name\": \"Meesho Limited\", \"sm_isin\": \"INE0VDM01015\", \"an_dt\": \"06-Nov-2026 23:42:50\", \"sort_date\": \"2026-11-06 23:42:50\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Meesho Limited has informed the Exchange regarding Notice of Postal Ballot\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:42:51\", \"difference\": \"00:00:01\", \"fileSize\": \"831.92 KB\", \"attFileSize\": \"831.92 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-11-06 23:42:50\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Meesho Limited has informed the Exchange regarding Notice of Postal Ballot\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MEESHO_06112026234101_Cover_letter_Postal_Ballot_Notice_06112026.pdf\", \"_id\": \"nse-fallback:13d4ae44065effd3ddb64a33f473de2150616e9f82ca9a920a32e2186b247c1b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7256,8 +7256,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:12:58.155665+00:00",
       "news_id": "nse-fallback:797f3f1c00ba115ff01fdd3f253e6531eed20fa595cc8163f209693dde38a655",
-      "payload": "{\"symbol\": \"DENTA\", \"desc\": \"Press Release (Revised)\", \"dt\": \"06112026234118\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DENTA_06112026233924_Denta_Press_Release_Q2_H1_FY27.pdf\", \"sm_name\": \"Denta Water and Infra Solutions Limited\", \"sm_isin\": \"INE0R4L01018\", \"an_dt\": \"06-Nov-2026 23:41:18\", \"sort_date\": \"2026-11-06 23:41:18\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Denta Water and Infra Solutions Limited has informed the Exchange regarding a revised press release dated November 06, 2026, titled \\\"Denta Water Reports Q2 FY27 Performance; Order Book Stands at &#8377;7,824 Million, with Continued Focus on Execution and Order Book Growth\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:41:19\", \"difference\": \"00:00:01\", \"fileSize\": \"895.06 KB\", \"attFileSize\": \"895.06 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release (Revised)\", \"_published\": \"2026-11-06 23:41:18\", \"_category\": \"Press Release (Revised)\", \"_headline\": \"Denta Water and Infra Solutions Limited has informed the Exchange regarding a revised press release dated November 06, 2026, titled \\\"Denta Water Reports Q2 FY27 Performance; Order Book Stands at &#8377;7,824 Million, with Continued Focus on Execution and Order Book Growth\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DENTA_06112026233924_Denta_Press_Release_Q2_H1_FY27.pdf\", \"_id\": \"nse-fallback:797f3f1c00ba115ff01fdd3f253e6531eed20fa595cc8163f209693dde38a655\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7783,6 +7783,10 @@
     {
       "message_id": "<2aa067feb63562567c368249217255131c13f5475e9d1f70b2d74a63a8b20ecd@gmail.com>",
       "sent_at": "2026-11-06T11:17:49.431490+00:00"
+    },
+    {
+      "message_id": "<2ad88b520e640fe5b97a4d1cf2dc5a850a8c16ddeab18c283007f6695fd5525f@gmail.com>",
+      "sent_at": "2026-11-06T18:13:04.573040+00:00"
     },
     {
       "message_id": "<2d06045f523e41e5f515579b23c467ebc01adc68943e65f9d228ce2010001052@gmail.com>",
