@@ -7729,7 +7729,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [\"540795\", \"544608\", \"500144\", \"543240\", \"544387\", \"544121\", \"544442\"], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T08:52:30.285410+00:00\", \"seconds\": 68.01}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"543981\", \"500144\", \"517569\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T08:57:15.023363+00:00\", \"seconds\": 52.69}"
     },
     {
       "key": "migration_date",
