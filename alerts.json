@@ -872,8 +872,8 @@
       "company_key": "517498",
       "discovered_at": "2026-11-06T12:37:25.897119+00:00",
       "news_id": "7430dd8e-91ce-499e-bca2-b8ceddb0cd16",
-      "payload": "{\"NEWSID\": \"7430dd8e-91ce-499e-bca2-b8ceddb0cd16\", \"SCRIP_CD\": 517498, \"XML_NAME\": \"ANN_517498_7430DD8E-91CE-499E-BCA2-B8CEDDB0CD16\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-06T18:03:13.697\", \"NEWS_DT\": \"2026-11-06T18:03:13.697\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2508a921-aad4-464e-ba64-a94c5fb61112.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication of Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/\", \"SLONGNAME\": \"Websol Energy System Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T18:03:13\", \"DissemDT\": \"2026-11-06T18:03:13.697\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1480817, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Websol Energy System Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/websol-energy-system-ltd/webelsolar/517498/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-06T18:03:13.697\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication of Unaudited Financial Results (Standalone & Consolidated) for the quarter and half-year ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2508a921-aad4-464e-ba64-a94c5fb61112.pdf\", \"_id\": \"7430dd8e-91ce-499e-bca2-b8ceddb0cd16\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517498",
@@ -7601,6 +7601,10 @@
     {
       "message_id": "<432b86eb0342e0277189ba6ef4c0e7868854f2f5cafcc0123737ac5a9df246fb@gmail.com>",
       "sent_at": "2026-11-04T14:38:52.553615+00:00"
+    },
+    {
+      "message_id": "<46a9b3b1994ff7c1e79448746273fe70cd43320e982c6d075f25d1dcc6301af7@gmail.com>",
+      "sent_at": "2026-11-06T12:37:42.186374+00:00"
     },
     {
       "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
