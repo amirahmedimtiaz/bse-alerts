@@ -7214,8 +7214,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-06T08:51:46.119624+00:00",
       "news_id": "106850102",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"06-Nov-2026 14:18:28\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026141703_VIL_.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 14:18:28\", \"sort_date\": \"2026-11-06 14:18:28\", \"seq_id\": \"106850102\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has submitted to the Exchange, the Un-audited financial results (Standalone and Consolidated) for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"14.72 MB\", \"attFileSize\": \"14.72 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-06 14:18:28\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"V Marc India Limited has submitted to the Exchange, the Un-audited financial results (Standalone and Consolidated) for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026141703_VIL_.pdf\", \"_id\": \"106850102\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -7676,6 +7676,10 @@
     {
       "message_id": "<d739c598adafa89424d943237979b147e1e7a17d105f76f116c0c06aae04088b@gmail.com>",
       "sent_at": "2026-11-04T09:23:38.183472+00:00"
+    },
+    {
+      "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
+      "sent_at": "2026-11-06T08:52:29.037917+00:00"
     },
     {
       "message_id": "<dfc0e2b54ff9916ffd75725e44e8f2a2ab48a5b481d24db7266004a0b597609c@gmail.com>",
