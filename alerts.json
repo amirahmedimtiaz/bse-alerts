@@ -7144,8 +7144,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:27:57.676669+00:00",
       "news_id": "nse-fallback:117fc7ddcde7968df6f9dea09502e4de23fe15f8a3e16f309e1504aa446cf58e",
-      "payload": "{\"symbol\": \"CHENNPETRO\", \"desc\": \"Credit Rating\", \"dt\": \"06112026235753\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CHENNPETRO_06112026235743_Reg30_Credit_Rating.pdf\", \"sm_name\": \"Chennai Petroleum Corporation Limited\", \"sm_isin\": \"INE178A01016\", \"an_dt\": \"06-Nov-2026 23:57:53\", \"sort_date\": \"2026-11-06 23:57:53\", \"seq_id\": null, \"smIndustry\": \"Refineries\", \"orgid\": null, \"attchmntText\": \"Chennai Petroleum Corporation Limited has informed the Exchange about Credit Rating\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:57:54\", \"difference\": \"00:00:01\", \"fileSize\": \"412.11 KB\", \"attFileSize\": \"412.11 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Credit Rating\", \"_published\": \"2026-11-06 23:57:53\", \"_category\": \"Credit Rating\", \"_headline\": \"Chennai Petroleum Corporation Limited has informed the Exchange about Credit Rating\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CHENNPETRO_06112026235743_Reg30_Credit_Rating.pdf\", \"_id\": \"nse-fallback:117fc7ddcde7968df6f9dea09502e4de23fe15f8a3e16f309e1504aa446cf58e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7158,8 +7158,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:27:57.676531+00:00",
       "news_id": "nse-fallback:1764d700bcf09cf0eb2069d6a8cb29c1ba763b85074b9dadef8cbbf77e97c935",
-      "payload": "{\"symbol\": \"JNPR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026235527\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/JGEL2025_06112026235502_2026_11_06-Reg_30-Analyst_Meet-JGEL.pdf\", \"sm_name\": \"Juniper Green Energy Limited\", \"sm_isin\": \"INE05C901015\", \"an_dt\": \"06-Nov-2026 23:55:27\", \"sort_date\": \"2026-11-06 23:55:27\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Juniper Green Energy Limited has informed the Exchange about Schedule of Analyst/Institutional Investors Meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:55:28\", \"difference\": \"00:00:01\", \"fileSize\": \"227.68 KB\", \"attFileSize\": \"227.68 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 23:55:27\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Juniper Green Energy Limited has informed the Exchange about Schedule of Analyst/Institutional Investors Meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/JGEL2025_06112026235502_2026_11_06-Reg_30-Analyst_Meet-JGEL.pdf\", \"_id\": \"nse-fallback:1764d700bcf09cf0eb2069d6a8cb29c1ba763b85074b9dadef8cbbf77e97c935\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8015,6 +8015,10 @@
     {
       "message_id": "<f25a5a4c73c7b681fb0245f720fa765fe1f8c4b7c9e9652b3753be03a13cff6e@gmail.com>",
       "sent_at": "2026-11-05T12:30:27.014884+00:00"
+    },
+    {
+      "message_id": "<f39817502d44fff5c2ed4f16ce7731bdb8067ba70048307a1e4c2a97ea252f0a@gmail.com>",
+      "sent_at": "2026-11-06T18:28:03.939812+00:00"
     },
     {
       "message_id": "<f4b0f10b147ce0b013dd61545b88878e21e0e1f96692f479978d47e7eb7b825d@gmail.com>",
