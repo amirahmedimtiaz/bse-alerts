@@ -6591,8 +6591,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-06T05:46:36.089487+00:00",
       "news_id": "106849523",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"06-Nov-2026 11:14:10\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_06112026111219_OutcomeofBoardMeeting06112026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 11:14:10\", \"sort_date\": \"2026-11-06 11:14:10\", \"seq_id\": \"106849523\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"8.89 MB\", \"attFileSize\": \"8.89 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-06 11:14:10\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Australian Premium Solar (India) Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_06112026111219_OutcomeofBoardMeeting06112026.pdf\", \"_id\": \"106849523\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -7483,10 +7483,6 @@
       "sent_at": "2026-11-05T13:40:51.281492+00:00"
     },
     {
-      "message_id": "<695cb2fa3cade3177783940105fd4cdb4229df5874081583a5c202543c98b2f0@gmail.com>",
-      "sent_at": "2026-11-04T05:43:22.802723+00:00"
-    },
-    {
       "message_id": "<6d98ef6bece0b0ff3e684eb53a3e89efb7cf8d99a092033d8ecd8d5ac196095d@gmail.com>",
       "sent_at": "2026-11-06T04:41:46.577661+00:00"
     },
@@ -7513,6 +7509,10 @@
     {
       "message_id": "<865fb604b077997866a3e7873f64e182da33d06bfdb6713bc33259ae46df0dce@gmail.com>",
       "sent_at": "2026-11-04T13:09:11.984796+00:00"
+    },
+    {
+      "message_id": "<8672e9e084ae5c86a12f9c5a7694fe7bece2333d8ec9702338030929cb72558a@gmail.com>",
+      "sent_at": "2026-11-06T05:47:02.331186+00:00"
     },
     {
       "message_id": "<869f16d978f85fef9f09df1661a58c455ad1f3f75e6c33ac634d35211a9eafa8@gmail.com>",
