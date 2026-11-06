@@ -7718,7 +7718,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"504212\", \"517354\", \"522163\", \"530555\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T08:44:48.236699+00:00\", \"seconds\": 205.96}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"540795\", \"544524\", \"544608\", \"500144\", \"530555\", \"532941\", \"522163\", \"517354\", \"532374\", \"538706\", \"534618\", \"517498\", \"544277\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T08:47:23.775099+00:00\", \"seconds\": 61.5}"
     },
     {
       "key": "migration_date",
