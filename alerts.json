@@ -7305,15 +7305,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:02:57.682488+00:00",
       "news_id": "nse-fallback:b070d7f59826612e92dd488767da1c808ce03f34cee0279c8b974fa137a771b8",
-      "payload": "{\"symbol\": \"MUFIN\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"06112026233028\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MUFIN_06112026233014_Intimation_NP_Adv_06112026_signed.pdf\", \"sm_name\": \"Mufin Green Finance Limited\", \"sm_isin\": \"INE08KJ01020\", \"an_dt\": \"06-Nov-2026 23:30:28\", \"sort_date\": \"2026-11-06 23:30:28\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Mufin Green Finance Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:30:28\", \"difference\": \"00:00:00\", \"fileSize\": \"1.64 MB\", \"attFileSize\": \"1.64 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-06 23:30:28\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Mufin Green Finance Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MUFIN_06112026233014_Intimation_NP_Adv_06112026_signed.pdf\", \"_id\": \"nse-fallback:b070d7f59826612e92dd488767da1c808ce03f34cee0279c8b974fa137a771b8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:02:57.682349+00:00",
       "news_id": "nse-fallback:bc78502c1506534d7c3955eea07d45cb8f90bfc0d1ef018c5d93a0df1f80cf93",
-      "payload": "{\"symbol\": \"MANYAVAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026233019\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MANYAVAR_06112026233002_VFLConfCallAudioRecordingQ2FY27.pdf\", \"sm_name\": \"Vedant Fashions Limited\", \"sm_isin\": \"INE825V01034\", \"an_dt\": \"06-Nov-2026 23:30:19\", \"sort_date\": \"2026-11-06 23:30:19\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Vedant Fashions Limited has informed the Exchange about Link of Audio Recording of the Earnings Conference Call held on November 06, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:30:20\", \"difference\": \"00:00:01\", \"fileSize\": \"217.24 KB\", \"attFileSize\": \"217.24 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 23:30:19\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Vedant Fashions Limited has informed the Exchange about Link of Audio Recording of the Earnings Conference Call held on November 06, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MANYAVAR_06112026233002_VFLConfCallAudioRecordingQ2FY27.pdf\", \"_id\": \"nse-fallback:bc78502c1506534d7c3955eea07d45cb8f90bfc0d1ef018c5d93a0df1f80cf93\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7973,6 +7973,10 @@
     {
       "message_id": "<fc73b5b3394e05c41144914d62e12e9da6be753bafb0e8b37383f1621f757caa@gmail.com>",
       "sent_at": "2026-11-05T16:11:03.246021+00:00"
+    },
+    {
+      "message_id": "<fcabca42121112a83bd0a9665e0c02131f8c63283f82127116e44f167a9b1d50@gmail.com>",
+      "sent_at": "2026-11-06T18:03:05.018525+00:00"
     },
     {
       "message_id": "<fe68089f41b6bc35f516fbb11cd241749522eba75a8f50ff008314e78e887886@gmail.com>",
