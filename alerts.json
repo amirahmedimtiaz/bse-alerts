@@ -6295,6 +6295,13 @@
     },
     {
       "company_key": "544905",
+      "discovered_at": "2026-11-06T07:16:40.521821+00:00",
+      "news_id": "15376c9d-a4a9-4e9d-b1eb-f8022803e301",
+      "payload": "{\"NEWSID\": \"15376c9d-a4a9-4e9d-b1eb-f8022803e301\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_15376C9D-A4A9-4E9D-B1EB-F8022803E301\", \"NEWSSUB\": \"Board Meeting Intimation for Unaudited Financial Results Of The Company For The Half Year Ended On 30Th September, 2026\", \"DT_TM\": \"2026-11-06T12:43:35.49\", \"NEWS_DT\": \"2026-11-06T12:43:35.49\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6efa5ef7-f5ad-4308-a9d7-27e9281c618a.pdf\", \"MORE\": \"Farm Peace Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Unaudited Financial Results of the Company for the Half Year ended on 30th September, 2026\", \"HEADLINE\": \"Farm Peace Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Unaudited Financial Results of the ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T12:43:33\", \"DissemDT\": \"2026-11-06T12:43:35.49\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 418803, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Unaudited Financial Results Of The Company For The Half Year Ended On 30Th September, 2026\", \"_published\": \"2026-11-06T12:43:35.49\", \"_category\": \"Board Meeting\", \"_headline\": \"Farm Peace Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Unaudited Financial Results of the ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6efa5ef7-f5ad-4308-a9d7-27e9281c618a.pdf\", \"_id\": \"15376c9d-a4a9-4e9d-b1eb-f8022803e301\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544905",
       "discovered_at": "2026-10-01T15:23:03.729598+00:00",
       "news_id": "4a786165-7e2c-4ec4-8f70-c654f810f5b9",
       "payload": null,
