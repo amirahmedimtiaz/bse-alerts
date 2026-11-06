@@ -7696,7 +7696,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T07:11:55.357546+00:00\", \"seconds\": 33.08}"
+      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T07:16:49.017457+00:00\", \"seconds\": 26.74}"
     },
     {
       "key": "migration_date",
