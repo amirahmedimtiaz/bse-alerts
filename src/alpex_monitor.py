@@ -26,10 +26,11 @@ def save(store,data):
         store.db.execute('INSERT OR REPLACE INTO metadata VALUES (?,?)',(META,json.dumps(data,sort_keys=True)))
 
 
-def message(identity,subject,body,now):
+def message(identity,subject,body,now,*,view=None):
     return {'_id':identity,'_alpex':True,'_exchange':'NSE','_company_name':'Alpex Solar Limited',
             '_subject':'[ALPEX] '+subject,'_body':body+'\n\n'+LIMITS,
-            '_published':now.isoformat(),'_page_url':sources.PAGES['bulk']}
+            '_published':now.isoformat(),'_page_url':sources.PAGES['bulk'],
+            **({'_alpex_view':view} if view is not None else {})}
 
 
 def times(stamp):
@@ -114,7 +115,8 @@ def collect(store,*,now=None,fetch=sources.fetch_feed):
                     history.append(stored)
                     if not initial and (kind != "capital" or previous):
                         subject=('[Correction] ' if previous else '['+kind.capitalize()+'] ')+event.get('participant',event['source_id'])
-                        source_updates.append(message(v+":"+str(len(previous)+1),subject,describe(event,history),now))
+                        source_updates.append(message(v+":"+str(len(previous)+1),subject,describe(event,history),now,
+                            view={"type":"events","events":[event],"history":[e for e in history if e["kind"]=="shareholding"]}))
                 data['events']=history
                 updates.extend(source_updates)
                 if health.get('warned_at'):
@@ -142,7 +144,9 @@ def collect(store,*,now=None,fetch=sources.fetch_feed):
                'Capital/dilution filings continue through the existing corporate-announcement alerts; proposals are not completed issues.']
         lines.extend(describe(e,data['events']) for e in sorted(recent,key=lambda e:(e['published_at'],e['source_id'])))
         if not recent:lines.append('No matching rows found in successfully collected sources; unavailable feeds remain unknown.')
-        updates.insert(0,message('initial-30-day-summary','[30-day summary]', '\n\n'.join(lines),now))
+        updates.insert(0,message('initial-30-day-summary','[30-day summary]', '\n\n'.join(lines),now,
+            view={'type':'summary','period_start':cutoff.isoformat(),'period_end':today.isoformat(),
+                  'events':recent,'history':data['events'],'coverage':data['feeds']}))
         data['initialized']=True
         data['activated_at']=now.isoformat()
     # Durable snapshot + outbox commit together; caller checkpoints before SMTP.

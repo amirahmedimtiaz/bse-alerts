@@ -145,4 +145,5 @@ def test_custom_email_keeps_alpex_subject_and_evidence(monkeypatch):
         client.close()
         msg=connection.send_message.call_args.args[0]
         assert msg['Subject']=='[ALPEX] [30-day summary]'
-        assert '663.26' in msg.get_content() and 'https://www.nseindia.com/' in msg.get_content()
+        plain = msg.get_body(preferencelist=('plain',)).get_content()
+        assert '663.26' in plain and 'https://www.nseindia.com/' in plain

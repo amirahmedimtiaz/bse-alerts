@@ -18,6 +18,8 @@ def _single_message(announcement: dict[str, Any]) -> EmailMessage:
         message["From"], message["To"] = sender, receiver
         message["Subject"] = subject
         message.set_content(announcement["_body"])
+        from .alpex_email import render
+        message.add_alternative(render([announcement]), subtype="html")
         return message
     published = announcement.get("_published", "Unknown")
     category = announcement.get("_category", "Unknown")
@@ -71,7 +73,10 @@ class EmailSender:
             message["Subject"] = (f"[ALPEX][Updates] {len(announcements)} trade/ownership disclosures"
                 if all(item.get("_alpex") for item in announcements) else
                 f"[BSE/NSE] {len(announcements)} new corporate announcements")
-            message.set_content("\n\n".join(_single_message(item).get_content() for item in announcements))
+            message.set_content("\n\n".join(_single_message(item).get_body(preferencelist=("plain",)).get_content() for item in announcements))
+        if len(announcements) > 1 and all(item.get("_alpex") for item in announcements):
+            from .alpex_email import render
+            message.add_alternative(render(announcements), subtype="html")
         identity = "|".join(sorted(
             f"{item.get('_exchange')}:{item.get('_company_name')}:{item.get('_id') or item.get('NEWSID') or item.get('seq_id')}"
             for item in announcements

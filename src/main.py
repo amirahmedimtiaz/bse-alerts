@@ -78,6 +78,13 @@ def add_company_details(
             from .alpex_monitor import times
             base["_alpex"] = True
             base["_subject"] = "[ALPEX][Capital filing] " + str(base["_subject"])
+            base["_alpex_view"] = {"type": "events", "events": [{
+                "kind": "capital", "source_id": str(announcement.get("seq_id") or base.get("_pdf_url")),
+                "published_at": str(base["_published"]).replace(" ", "T"),
+                "event_date": str(base["_published"])[:10], "source_url": base["_page_url"],
+                "document_url": base.get("_pdf_url"),
+                "details": {"subject": announcement.get("desc"), "headline": base.get("_headline")},
+            }], "history": []}
             base["_body"] = (str(base["_subject"]) + "\nPublished: " + times(str(base["_published"]).replace(" ", "T")) +
                 "\n" + str(base.get("_headline", "")) + "\nSource: " + str(base.get("_pdf_url") or base["_page_url"]) +
                 "\nSource wording only: proposals and approvals must not be treated as completed issuance.")

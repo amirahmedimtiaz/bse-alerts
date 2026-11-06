@@ -34,7 +34,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Verify alert pipeline
-        run: python -m pytest -q tests/test_alert_pipeline.py tests/test_bse_client.py tests/test_email_sender.py tests/test_main.py tests/test_alpex_sources.py tests/test_alpex_monitor.py
+        run: python -m pytest -q tests/test_alert_pipeline.py tests/test_bse_client.py tests/test_email_sender.py tests/test_main.py tests/test_alpex_sources.py tests/test_alpex_monitor.py tests/test_alpex_email_html.py
       - name: Poll, checkpoint, and deliver
         id: worker
         run: python -u -m src.worker --cycles "$WORKER_CYCLES"
