@@ -6598,8 +6598,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-06T05:51:33.361433+00:00",
       "news_id": "106849533",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Record Date\", \"dt\": \"06-Nov-2026 11:18:58\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_06112026111802_OutcomeofBoardMeeting06112026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 11:18:58\", \"sort_date\": \"2026-11-06 11:18:58\", \"seq_id\": \"106849533\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 16-Nov-2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"8.89 MB\", \"attFileSize\": \"8.89 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Record Date\", \"_published\": \"2026-11-06 11:18:58\", \"_category\": \"Record Date\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange that Record date for the purpose of Dividend  is 16-Nov-2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_06112026111802_OutcomeofBoardMeeting06112026.pdf\", \"_id\": \"106849533\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -7388,6 +7388,10 @@
     {
       "message_id": "<0d0dfc842241cfdc3745f934794f8b841bb40e511b418de291e05f0db7dfb3e9@gmail.com>",
       "sent_at": "2026-11-04T15:33:54.691811+00:00"
+    },
+    {
+      "message_id": "<0dcbe713a118f37b606f94f85551d2259a0e6c6d0c5cc914b40f22d91cc5ce6f@gmail.com>",
+      "sent_at": "2026-11-06T05:51:50.155606+00:00"
     },
     {
       "message_id": "<0eda30be8de2e40fe73699bc2b25b3e6d5f18a4dc061b7b35a6d7cf39f674a2c@gmail.com>",
