@@ -7382,8 +7382,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T19:02:58.061949+00:00",
       "news_id": "nse-fallback:c8210a9c4eb660b53141ea6de903f1ba2de7102e519222fee68f0e2b373d1a35",
-      "payload": "{\"symbol\": \"TMCV\", \"desc\": \"Press Release\", \"dt\": \"07112026003048\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_07112026002910_final.pdf\", \"sm_name\": \"Tata Motors Limited\", \"sm_isin\": \"INE1TAE01010\", \"an_dt\": \"07-Nov-2026 00:30:48\", \"sort_date\": \"2026-11-07 00:30:48\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Tata Motors Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"TML CV Holdings B.V., an Indirect Wholly Owned Subsidiary of Tata Motors Limited (formerly TML Commercial Vehicles Limited) ( the Company )   Voluntary Totalitarian Tender Offer for all the common shares of Iveco Group N.V.\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 00:30:49\", \"difference\": \"00:00:01\", \"fileSize\": \"3.51 MB\", \"attFileSize\": \"3.51 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 00:30:48\", \"_category\": \"Press Release\", \"_headline\": \"Tata Motors Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"TML CV Holdings B.V., an Indirect Wholly Owned Subsidiary of Tata Motors Limited (formerly TML Commercial Vehicles Limited) ( the Company )   Voluntary Totalitarian Tender Offer for all the common shares of Iveco Group N.V.\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_07112026002910_final.pdf\", \"_id\": \"nse-fallback:c8210a9c4eb660b53141ea6de903f1ba2de7102e519222fee68f0e2b373d1a35\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7861,6 +7861,10 @@
     {
       "message_id": "<41701f9996fd5002014a2aab77359fc875efdc5da39dd378b071c0e491d88b1a@gmail.com>",
       "sent_at": "2026-11-05T12:40:26.146879+00:00"
+    },
+    {
+      "message_id": "<4246f2182a7fe02c0bbe59d3917b11c93579d4c9c02a1f96265015ea7de26cac@gmail.com>",
+      "sent_at": "2026-11-06T19:03:04.508670+00:00"
     },
     {
       "message_id": "<42c9df02b62e8e34aaf08f7dada45874fdc72a9d27000bfd1de9bb9f67c20d67@gmail.com>",
