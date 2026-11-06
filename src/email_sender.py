@@ -13,6 +13,12 @@ def _single_message(announcement: dict[str, Any]) -> EmailMessage:
     receiver = os.environ["EMAIL_RECEIVER"]
     company_name = " ".join(str(announcement["_company_name"]).split())
     subject = " ".join(str(announcement["_subject"]).split())
+    if announcement.get("_alpex"):
+        message = EmailMessage()
+        message["From"], message["To"] = sender, receiver
+        message["Subject"] = subject
+        message.set_content(announcement["_body"])
+        return message
     published = announcement.get("_published", "Unknown")
     category = announcement.get("_category", "Unknown")
     headline = announcement.get("_headline", "")
@@ -62,7 +68,9 @@ class EmailSender:
             message = EmailMessage()
             message["From"] = os.environ["EMAIL_SENDER"]
             message["To"] = os.environ["EMAIL_RECEIVER"]
-            message["Subject"] = f"[BSE/NSE] {len(announcements)} new corporate announcements"
+            message["Subject"] = (f"[ALPEX][Updates] {len(announcements)} trade/ownership disclosures"
+                if all(item.get("_alpex") for item in announcements) else
+                f"[BSE/NSE] {len(announcements)} new corporate announcements")
             message.set_content("\n\n".join(_single_message(item).get_content() for item in announcements))
         identity = "|".join(sorted(
             f"{item.get('_exchange')}:{item.get('_company_name')}:{item.get('_id') or item.get('NEWSID') or item.get('seq_id')}"

@@ -72,6 +72,15 @@ def add_company_details(
         base["_category"] = announcement.get("CATEGORYNAME", "Unknown")
         base["_headline"] = (announcement.get("HEADLINE") or announcement.get("MORE") or "")
         base["_pdf_url"] = bse_client.announcement_pdf_url(announcement)
+    if exchange == "NSE" and company.get("symbol") == "ALPEXSOLAR":
+        from .alpex_sources import is_capital
+        if is_capital(str(base.get("_subject", "")) + " " + str(base.get("_headline", ""))):
+            from .alpex_monitor import times
+            base["_alpex"] = True
+            base["_subject"] = "[ALPEX][Capital filing] " + str(base["_subject"])
+            base["_body"] = (str(base["_subject"]) + "\nPublished: " + times(str(base["_published"]).replace(" ", "T")) +
+                "\n" + str(base.get("_headline", "")) + "\nSource: " + str(base.get("_pdf_url") or base["_page_url"]) +
+                "\nSource wording only: proposals and approvals must not be treated as completed issuance.")
     return base
 
 

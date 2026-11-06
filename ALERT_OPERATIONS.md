@@ -107,3 +107,59 @@ raise concurrency to evade exchange limits.
 GitHub references: [workflow dispatch](https://docs.github.com/en/actions/concepts/security/github_token),
 [job limits](https://docs.github.com/en/actions/reference/limits), and
 [public-repository billing](https://docs.github.com/en/actions/concepts/billing-and-usage).
+
+## Alpex trade and ownership monitor
+
+Production enables `ALPEX_MONITOR_ENABLED=true` inside the existing single-writer
+worker. It adds official NSE bulk/block CSV downloads, SME PIT, SAST Regulation 29,
+Regulation 31 encumbrances, shareholding XBRL, and capital-announcement history.
+The current historical deal endpoint is `/api/historicalOR/bulk-block-short-deals`;
+the retired `/api/historical/bulk-deals` must not be used. SME PIT uses
+`/api/corporates-pit-gg?index=sme`, not the legacy equity-only PIT feed.
+
+State remains schema v1: metadata `alpex-monitor-v1` retains source health and
+versioned evidence; the `ALPEX:ownership` outbox shares the existing SMTP quota,
+checkpoint ordering, and worker lock. The initial email summarizes 30 IST calendar
+dates. Shareholding collection seeds up to one year for prior-period comparisons.
+Other source history before activation is not claimed complete. A new or revised
+capital filing is delivered through the existing corporate-announcement path,
+with an Alpex subject, to avoid a duplicate copy from the ownership monitor.
+Same-ID capital corrections are detected by the monitor and do generate one
+correction email.
+
+Every cycle overlaps the previous date; the first successful cycle each IST day
+reconciles 30 days, and longer outages recover from the saved source date in
+windows up to 365 days. Detection latency includes exchange publication delays,
+worker runtime and hosting outages. Invalid/blocked responses do not advance source
+watermarks. After 30 minutes of failures, coverage warnings enter the durable
+outbox (maximum one per source per 24 hours); a subsequent recovery queues a notice.
+If SMTP itself is unavailable, warnings also remain queued. GitHub failure notices
+are the independent fallback; this is not an independent external uptime monitor.
+
+Source files may be corrected; changed facts retain the original event and queue
+a correction. Rows that disappear or whose participant identity changes cannot
+be reliably matched as cancellations; they remain separate evidence. XBRL ratios
+are raw fractions; shareholding changes are calculations in percentage points.
+New/no-longer-disclosed holders do not prove complete entry/exit. Names and
+categories overlap; never sum them. Unsupported XML schemas are coverage failures.
+
+Generate a local HTML source guide, CSV and JSON from live read-only collection
+(no email, no production-state writes):
+
+```text
+python -m src.alpex_report --output-dir reports
+```
+
+Export production evidence without polling NSE or sending mail:
+
+```text
+python -m src.alpex_report --remote --output-dir reports
+```
+
+The remote export requires authenticated `gh` access. Reports show source health,
+original precision, source/document URLs, revisions and limitations. The remote
+state is the durable archive; regenerate local artifacts with the second command.
+To disable only this monitor, set the workflow flag false and deploy. Existing
+corporate-announcement delivery and saved history remain intact. Delivery remains
+at-least-once: a crash after SMTP acceptance but before checkpointing may repeat
+an email; stable Message-IDs are not an exactly-once guarantee.

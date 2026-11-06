@@ -83,6 +83,9 @@ def deliver(store: AlertStore, checkpoint: Callable[[], None], *, sender=None,
     try:
         while store.pending_count() and store.sent_recently() < daily_limit:
             batch = store.pending(batch_size)
+            # Keep Alpex ownership mail separate from ordinary announcement batches.
+            alpex = bool(batch[0]["announcement"].get("_alpex"))
+            batch = [row for row in batch if bool(row["announcement"].get("_alpex")) == alpex]
             try:
                 message_id = client.send([item["announcement"] for item in batch])
             except Exception as exc:
@@ -108,6 +111,10 @@ def cycle(store: AlertStore, checkpoint: Callable[[], None], *, companies=None,
     started = time.monotonic()
     report = collect(store, load_companies() if companies is None else companies,
                      today=today, fetch=fetch, workers=int(os.getenv("ALERT_WORKERS", "4")))
+    if os.getenv("ALPEX_MONITOR_ENABLED") == "true":
+        from .alpex_monitor import collect as collect_alpex
+        report["alpex"] = collect_alpex(store)
+        report["failed"].extend("ALPEX:" + kind for kind in report["alpex"]["failed"])
     # Persist discovered payloads BEFORE any external delivery, including on
     # partial collection failure, so an exchange/date change cannot lose them.
     checkpoint()
