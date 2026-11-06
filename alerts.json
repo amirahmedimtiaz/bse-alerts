@@ -7216,6 +7216,13 @@
       "news_id": "106850102",
       "payload": null,
       "status": "sent"
+    },
+    {
+      "company_key": "NSE:VMARCIND",
+      "discovered_at": "2026-11-06T09:16:48.872638+00:00",
+      "news_id": "106850234",
+      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Updates\", \"dt\": \"06-Nov-2026 14:45:43\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026144507_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 14:45:43\", \"sort_date\": \"2026-11-06 14:45:43\", \"seq_id\": \"106850234\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange regarding 'Outcome of Board Meeting - Unaudited Financial Results & Limited Review Report (Standalone & Consolidated) for the quarter and half year ended September 30, 2026'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"14.72 MB\", \"attFileSize\": \"14.72 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-06 14:45:43\", \"_category\": \"Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange regarding 'Outcome of Board Meeting - Unaudited Financial Results & Limited Review Report (Standalone & Consolidated) for the quarter and half year ended September 30, 2026'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026144507_VIL.pdf\", \"_id\": \"106850234\"}",
+      "status": "pending"
     }
   ],
   "companies": [
