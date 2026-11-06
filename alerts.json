@@ -613,8 +613,8 @@
       "company_key": "517354",
       "discovered_at": "2026-11-06T12:32:35.957652+00:00",
       "news_id": "4a89e4fe-823a-4633-9982-132f148d2d8c",
-      "payload": "{\"NEWSID\": \"4a89e4fe-823a-4633-9982-132f148d2d8c\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_4A89E4FE-823A-4633-9982-132F148D2D8C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-11-06T18:01:37.593\", \"NEWS_DT\": \"2026-11-06T18:01:37.593\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"76c1af3b-cd5a-41f9-a5a0-c28ad060a97c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Resubmission of intimation regarding allotment of equity shares dated 26th October 2026, out of abundant caution and to ensure due dissemination.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T18:01:37\", \"DissemDT\": \"2026-11-06T18:01:37.593\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 718249, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-11-06T18:01:37.593\", \"_category\": \"Company Update\", \"_headline\": \"Resubmission of intimation regarding allotment of equity shares dated 26th October 2026, out of abundant caution and to ensure due dissemination.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/76c1af3b-cd5a-41f9-a5a0-c28ad060a97c.pdf\", \"_id\": \"4a89e4fe-823a-4633-9982-132f148d2d8c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -7604,16 +7604,16 @@
       "sent_at": "2026-11-06T07:21:47.217092+00:00"
     },
     {
+      "message_id": "<504f2054e09c4a00188a80c5f4ef0ba1be734922ebfdbf1c09bf823c261ba0f5@gmail.com>",
+      "sent_at": "2026-11-06T12:34:18.550433+00:00"
+    },
+    {
       "message_id": "<50ac4c08552da0e37bbde2b1a7062d3e088c856b94707824d1a32f55ad58bc05@gmail.com>",
       "sent_at": "2026-11-05T04:35:07.710742+00:00"
     },
     {
       "message_id": "<524512a605424cabbcc98cab5a3296beb1262f35acc8e2f194bd5f679bd1a24b@gmail.com>",
       "sent_at": "2026-11-04T14:23:52.759846+00:00"
-    },
-    {
-      "message_id": "<55fa64c9521188c29b3260081814ec3b4d8e2107b03c686f527b91b863adc6c8@gmail.com>",
-      "sent_at": "2026-11-04T12:33:52.134613+00:00"
     },
     {
       "message_id": "<5619a9f1bbf3c6f98cd3d1cbaea4c8daa3d1c76f2241ef6ba01be4df70ef0676@gmail.com>",
