@@ -7620,7 +7620,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"544905\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T05:22:40.421864+00:00\", \"seconds\": 92.65}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T05:27:03.633047+00:00\", \"seconds\": 41.41}"
     },
     {
       "key": "migration_date",
