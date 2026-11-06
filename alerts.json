@@ -711,8 +711,8 @@
       "company_key": "517354",
       "discovered_at": "2026-11-06T07:11:28.554821+00:00",
       "news_id": "a54f97de-fa50-4360-a8e5-f92b2b970e9e",
-      "payload": "{\"NEWSID\": \"a54f97de-fa50-4360-a8e5-f92b2b970e9e\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_A54F97DE-FA50-4360-A8E5-F92B2B970E9E\", \"NEWSSUB\": \"Intimation U/R 30\", \"DT_TM\": \"2026-11-06T12:38:54.323\", \"NEWS_DT\": \"2026-11-06T12:38:54.323\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4b43eb5d-d126-415c-997d-ea3d67138b49.pdf\", \"MORE\": \"The Company has received a Letter of Comfort from Invest UP, Govt of UP, for fiscal incentives under Uttar Pradesh Global Capability Centres Policy 2024 (GCC-2024) for the Company''s proposed Centre of Excellence (R&D Centre).\", \"HEADLINE\": \"The Company has received a Letter of Comfort from Invest UP, Govt of UP, for fiscal incentives under Uttar Pradesh Global Capability Centres Policy 2024 (GCC-2024) for the Company''s proposed ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T12:38:54\", \"DissemDT\": \"2026-11-06T12:38:54.323\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 744911, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Intimation U/R 30\", \"_published\": \"2026-11-06T12:38:54.323\", \"_category\": \"Company Update\", \"_headline\": \"The Company has received a Letter of Comfort from Invest UP, Govt of UP, for fiscal incentives under Uttar Pradesh Global Capability Centres Policy 2024 (GCC-2024) for the Company''s proposed ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b43eb5d-d126-415c-997d-ea3d67138b49.pdf\", \"_id\": \"a54f97de-fa50-4360-a8e5-f92b2b970e9e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -7526,6 +7526,10 @@
       "sent_at": "2026-11-04T09:33:38.072442+00:00"
     },
     {
+      "message_id": "<7236cbb5213235533f093631d62ecbc23b618a0a81ad5ebb4554f6fe960221f6@gmail.com>",
+      "sent_at": "2026-11-06T07:11:54.161983+00:00"
+    },
+    {
       "message_id": "<724c5aee4a759fb1719eac0b88bfdb25ff257dc555b1357abc1c7d885f87bf49@gmail.com>",
       "sent_at": "2026-11-04T16:54:09.744340+00:00"
     },
@@ -7556,10 +7560,6 @@
     {
       "message_id": "<8d6a2feb9ec1ad64406c9eca0ceaa99c18f82e1912acfe9bcbc67d52e03e10f3@gmail.com>",
       "sent_at": "2026-11-05T07:15:07.829183+00:00"
-    },
-    {
-      "message_id": "<8df371fd7398a9cc2059b1b1217a4e6de3b21d2b882e80f9082fe944b7132108@gmail.com>",
-      "sent_at": "2026-11-04T06:48:38.522342+00:00"
     },
     {
       "message_id": "<9a6714d0af6d3eec218fbb8e62f030f46cd63c7ba5a3eed818f990cbcde73239@gmail.com>",
