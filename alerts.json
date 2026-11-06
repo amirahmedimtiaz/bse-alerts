@@ -2601,8 +2601,8 @@
       "company_key": "532941",
       "discovered_at": "2026-11-06T09:26:44.208756+00:00",
       "news_id": "53dcf0f9-01e8-4a37-8bc1-116f87965bd5",
-      "payload": "{\"NEWSID\": \"53dcf0f9-01e8-4a37-8bc1-116f87965bd5\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_53DCF0F9-01E8-4A37-8BC1-116F87965BD5\", \"NEWSSUB\": \"Outcome Of Board Meeting\", \"DT_TM\": \"2026-11-06T14:54:56.61\", \"NEWS_DT\": \"2026-11-06T14:54:56.61\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2ef7c222-8a06-4751-b14a-8ed5b0ca52cb.pdf\", \"MORE\": \"Pursuant to SEBI (LODR) Reg , 2015   this is to inform the exchanges that the Board of Directors of the Company at its meeting held on today i.e. Friday , November 06 , 2026 at the registered office of the company considered and approved \\r\\n1.  the Un-audited financial results and Cash Flow Statement for the 2nd Quarter / Half year ended September 30, 2026.\\r\\n2. Statement of Asset and Liabilities for the Hal year ended September 30, 2026.\\r\\n3. Limited Review Report issued by the Statutory Auditor of the company.\\r\\n\\r\\nThe Board Meeting Commenced at 12:35 p.m. and concluded at 02:00 p.m.\\r\\n\", \"HEADLINE\": \"Pursuant to SEBI (LODR) Reg , 2015   this is to inform the exchanges that the Board of Directors of the Company at its meeting held on today i.e. Friday , November 06 , 2026 at the registered ....\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T14:54:56\", \"DissemDT\": \"2026-11-06T14:54:56.61\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1892747, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Outcome Of Board Meeting\", \"_published\": \"2026-11-06T14:54:56.61\", \"_category\": \"Result\", \"_headline\": \"Pursuant to SEBI (LODR) Reg , 2015   this is to inform the exchanges that the Board of Directors of the Company at its meeting held on today i.e. Friday , November 06 , 2026 at the registered ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ef7c222-8a06-4751-b14a-8ed5b0ca52cb.pdf\", \"_id\": \"53dcf0f9-01e8-4a37-8bc1-116f87965bd5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -7507,6 +7507,10 @@
       "sent_at": "2026-11-06T09:22:00.603620+00:00"
     },
     {
+      "message_id": "<32c3918d12d60d0280656a677965175b8ade58ba209f922c4d6aeaff9e31ca0c@gmail.com>",
+      "sent_at": "2026-11-06T09:27:08.734171+00:00"
+    },
+    {
       "message_id": "<3418787548d926795c62636919bfc75e4c73ec8ba08d1ea59596fd957328a49c@gmail.com>",
       "sent_at": "2026-11-05T09:25:26.651540+00:00"
     },
@@ -7701,10 +7705,6 @@
     {
       "message_id": "<d68eb6fc05f3709af321c8748d2444b953a161cf5d8c67a9a613e259d2add130@gmail.com>",
       "sent_at": "2026-11-04T09:38:40.522829+00:00"
-    },
-    {
-      "message_id": "<d739c598adafa89424d943237979b147e1e7a17d105f76f116c0c06aae04088b@gmail.com>",
-      "sent_at": "2026-11-04T09:23:38.183472+00:00"
     },
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
