@@ -3714,8 +3714,8 @@
       "company_key": "543240",
       "discovered_at": "2026-11-06T11:52:23.549939+00:00",
       "news_id": "9f97c444-1849-4039-a431-6984fef8f4d5",
-      "payload": "{\"NEWSID\": \"9f97c444-1849-4039-a431-6984fef8f4d5\", \"SCRIP_CD\": 543240, \"XML_NAME\": \"ANN_543240_9F97C444-1849-4039-A431-6984FEF8F4D5\", \"NEWSSUB\": \"Board Meeting Outcome for Board Meeting Outcome For Outcome Of The Board Meeting Held On Friday, November 06, 2026\", \"DT_TM\": \"2026-11-06T17:21:44.893\", \"NEWS_DT\": \"2026-11-06T17:21:44.893\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a883ef50-1116-4463-94a8-04bc3895b5d5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting held on Friday, November 06, 2027\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/\", \"SLONGNAME\": \"Likhitha Infrastructure Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T17:21:42\", \"DissemDT\": \"2026-11-06T17:21:44.893\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 6650933, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Likhitha Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Board Meeting Outcome For Outcome Of The Board Meeting Held On Friday, November 06, 2026\", \"_published\": \"2026-11-06T17:21:44.893\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of the Board Meeting held on Friday, November 06, 2027\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a883ef50-1116-4463-94a8-04bc3895b5d5.pdf\", \"_id\": \"9f97c444-1849-4039-a431-6984fef8f4d5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543240",
@@ -7700,6 +7700,10 @@
     {
       "message_id": "<af10b000559fc648539aa66205503b025f73b8aae335b35a625941b0430dc958@gmail.com>",
       "sent_at": "2026-11-05T11:20:35.897299+00:00"
+    },
+    {
+      "message_id": "<b259e1b90a6e9908449c34159596aa2c6820d50939987a35062ea4d7057e8939@gmail.com>",
+      "sent_at": "2026-11-06T11:52:29.967027+00:00"
     },
     {
       "message_id": "<b52eae97f0eb152da8c78d4b63a2317576afd80785ad4e9ae452b3f00b16e9e2@gmail.com>",
