@@ -4407,8 +4407,8 @@
       "company_key": "544272",
       "discovered_at": "2026-11-06T11:17:43.604720+00:00",
       "news_id": "2292d02d-3cab-4114-9d1f-732ca7352cb0",
-      "payload": "{\"NEWSID\": \"2292d02d-3cab-4114-9d1f-732ca7352cb0\", \"SCRIP_CD\": 544272, \"XML_NAME\": \"ANN_544272_2292D02D-3CAB-4114-9D1F-732CA7352CB0\", \"NEWSSUB\": \"Board Meeting Intimation for Notice Of Board Meeting - Regulations 29 & 33 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 [SEBI (LODR) Regulations, 2015]\", \"DT_TM\": \"2026-11-06T16:45:50.37\", \"NEWS_DT\": \"2026-11-06T16:45:50.37\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"620f4c7d-1763-40c2-8042-ff0a1c35b36c.pdf\", \"MORE\": \"Shiv Texchem Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulations 29 & 33 & of the SEBI (LODR) Regulations, 2015, Notice is hereby given that a meeting of the Board of Directors of Shiv Texchem Limited ('the Company') is scheduled to be held on Friday, November 13th, 2026, inter alia to consider, approve and take on record the Unaudited financial results of the Company for the half year ended on September 30, 2026.\\r\\n\\r\\n\", \"HEADLINE\": \"Shiv Texchem Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulations 29 & 33 ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/shiv-texchem-ltd/shivtexchem/544272/\", \"SLONGNAME\": \"Shiv Texchem Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T16:45:45\", \"DissemDT\": \"2026-11-06T16:45:50.37\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 3405919, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Shiv Texchem Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/shiv-texchem-ltd/shivtexchem/544272/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Notice Of Board Meeting - Regulations 29 & 33 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 [SEBI (LODR) Regulations, 2015]\", \"_published\": \"2026-11-06T16:45:50.37\", \"_category\": \"Board Meeting\", \"_headline\": \"Shiv Texchem Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulations 29 & 33 ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/620f4c7d-1763-40c2-8042-ff0a1c35b36c.pdf\", \"_id\": \"2292d02d-3cab-4114-9d1f-732ca7352cb0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544272",
@@ -7516,6 +7516,10 @@
       "sent_at": "2026-11-05T05:20:08.555353+00:00"
     },
     {
+      "message_id": "<2aa067feb63562567c368249217255131c13f5475e9d1f70b2d74a63a8b20ecd@gmail.com>",
+      "sent_at": "2026-11-06T11:17:49.431490+00:00"
+    },
+    {
       "message_id": "<2d06045f523e41e5f515579b23c467ebc01adc68943e65f9d228ce2010001052@gmail.com>",
       "sent_at": "2026-11-06T05:32:39.984565+00:00"
     },
@@ -7542,10 +7546,6 @@
     {
       "message_id": "<3dd16f0971dd98f51fa964c9c5e8b454f533842458593306cacae4dd6b8c6400@gmail.com>",
       "sent_at": "2026-11-05T05:10:08.769658+00:00"
-    },
-    {
-      "message_id": "<3eabeb17d1a3f782dea690e20ee05791870ba0ed54a77cf8a25fec52262c2521@gmail.com>",
-      "sent_at": "2026-11-04T11:14:00.461806+00:00"
     },
     {
       "message_id": "<3fd070b53c1d18d9e5ccdff97059b88c845038eebbff28087fa2cc7f1e50fa13@gmail.com>",
