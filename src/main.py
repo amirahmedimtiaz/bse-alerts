@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -76,7 +77,18 @@ def add_company_details(
 
 def get_announcement_id(announcement: dict[str, object], exchange: str) -> str:
     if exchange == "NSE":
-        return str(announcement.get("seq_id", ""))
+        sequence = announcement.get("seq_id")
+        if sequence is not None and str(sequence).strip() not in ("", "None"):
+            return str(sequence)
+        # Some NSE filings (including Viviana's) have no sequence number.
+        # Identify these by stable source fields, never by mutable display text.
+        attachment = nse_client.announcement_pdf_url(announcement)
+        symbol = announcement.get("symbol")
+        published = announcement.get("sort_date")
+        if attachment and symbol and published:
+            identity = json.dumps([symbol, published, attachment], separators=(",", ":"))
+            return "nse-fallback:" + hashlib.sha256(identity.encode()).hexdigest()
+        return ""
     return str(announcement.get("NEWSID", ""))
 
 

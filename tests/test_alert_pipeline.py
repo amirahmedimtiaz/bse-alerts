@@ -422,3 +422,36 @@ def test_checkpoint_retries_transient_push_with_diagnostic(tmp_path, monkeypatch
             restored.close()
     finally:
         store.close()
+
+
+def test_nse_null_sequence_filings_catch_up_and_deduplicate(store, monkeypatch):
+    from pathlib import Path
+    row = json.loads((Path(__file__).parent / "fixtures/nse_viviana_null_id.json").read_text())
+    c = {**company(), "exchange": "NSE", "symbol": "VIVIANA"}
+    store.seed_legacy({"NSE:VIVIANA": set()}, as_of="2026-10-22")
+    monkeypatch.setattr(nse_client, "fetch_announcements", lambda *args: [row])
+    rows = scanner.fetch_window(c, date(2026, 10, 21), date(2026, 10, 27))
+    assert len(rows) == 1
+    assert rows[0]["_id"] not in ("", "None")
+    assert rows[0]["_pdf_url"] == row["attchmntFile"]
+    assert store.collect("NSE:VIVIANA", "2026-10-27", rows) == 1
+    # Presentation-only changes cannot create repeated alerts on each poll.
+    monkeypatch.setattr(nse_client, "fetch_announcements", lambda *args: [{**row, "fileSize": "updated", "attchmntText": "updated"}])
+    repeated = scanner.fetch_window(c, date(2026, 10, 21), date(2026, 10, 27))
+    assert store.collect("NSE:VIVIANA", "2026-10-27", repeated) == 0
+    assert store.pending_count() == 1
+    assert store.company("NSE:VIVIANA")["last_success"] == "2026-10-27"
+    # A revised attachment is a distinct filing even at the same timestamp.
+    monkeypatch.setattr(nse_client, "fetch_announcements", lambda *args: [{**row, "attchmntFile": row["attchmntFile"].replace(".pdf", "_revised.pdf")}])
+    revised = scanner.fetch_window(c, date(2026, 10, 21), date(2026, 10, 27))
+    assert store.collect("NSE:VIVIANA", "2026-10-27", revised) == 1
+
+
+@pytest.mark.parametrize("attachment", [None, "", "https://nsearchives.nseindia.com/-"])
+def test_nse_missing_sequence_and_attachment_still_fails_closed(monkeypatch, attachment):
+    c = {**company(), "exchange": "NSE", "symbol": "VIVIANA"}
+    monkeypatch.setattr(nse_client, "fetch_announcements", lambda *args: [{
+        "symbol": "VIVIANA", "seq_id": None, "sort_date": "2026-10-22 16:39:02", "attchmntFile": attachment,
+    }])
+    with pytest.raises(ValueError, match="without an ID"):
+        scanner.fetch_window(c, date(2026, 10, 21), date(2026, 10, 27))
