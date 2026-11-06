@@ -7165,8 +7165,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:32:58.210348+00:00",
       "news_id": "nse-fallback:27eb04ae9501856a119d3720a36033d866bc428ce018ab181cfe54d3d5a66e69",
-      "payload": "{\"symbol\": \"PAKKA\", \"desc\": \"Disclosure of material issue\", \"dt\": \"06112026225846\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/yashpakka_06112026225835_Disclosure_under_Regulation_30_SEBI_LODR.pdf\", \"sm_name\": \"PAKKA LIMITED\", \"sm_isin\": \"INE551D01018\", \"an_dt\": \"06-Nov-2026 22:58:46\", \"sort_date\": \"2026-11-06 22:58:46\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"PAKKA LIMITED has informed regarding Sanction of the Scheme of Amalgamation of Pakka Impact Limited with Pakka Limited by the Hon ble National Company Law Tribunal, Allahabad Bench, Prayagraj\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:58:47\", \"difference\": \"00:00:01\", \"fileSize\": \"911.04 KB\", \"attFileSize\": \"911.04 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Disclosure of material issue\", \"_published\": \"2026-11-06 22:58:46\", \"_category\": \"Disclosure of material issue\", \"_headline\": \"PAKKA LIMITED has informed regarding Sanction of the Scheme of Amalgamation of Pakka Impact Limited with Pakka Limited by the Hon ble National Company Law Tribunal, Allahabad Bench, Prayagraj\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/yashpakka_06112026225835_Disclosure_under_Regulation_30_SEBI_LODR.pdf\", \"_id\": \"nse-fallback:27eb04ae9501856a119d3720a36033d866bc428ce018ab181cfe54d3d5a66e69\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7207,8 +7207,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:32:58.210460+00:00",
       "news_id": "nse-fallback:44a89f10473fc79e6931d7843706eb17b60d126a9d3512dea044a3aed2fb70fe",
-      "payload": "{\"symbol\": \"BHARATCOAL\", \"desc\": \"Change in Director(s)\", \"dt\": \"06112026230012\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BCCL_06112026225947_Disclosure_under_Regulation_30_of_SEBI__LODR_-Change_in_Director.pdf\", \"sm_name\": \"Bharat Coking Coal Limited\", \"sm_isin\": \"INE05XR01022\", \"an_dt\": \"06-Nov-2026 23:00:12\", \"sort_date\": \"2026-11-06 23:00:12\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bharat Coking Coal Limited has informed the Exchange regarding Change in Director(s) of the company.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:00:12\", \"difference\": \"00:00:00\", \"fileSize\": \"577.67 KB\", \"attFileSize\": \"577.67 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Change in Director(s)\", \"_published\": \"2026-11-06 23:00:12\", \"_category\": \"Change in Director(s)\", \"_headline\": \"Bharat Coking Coal Limited has informed the Exchange regarding Change in Director(s) of the company.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BCCL_06112026225947_Disclosure_under_Regulation_30_of_SEBI__LODR_-Change_in_Director.pdf\", \"_id\": \"nse-fallback:44a89f10473fc79e6931d7843706eb17b60d126a9d3512dea044a3aed2fb70fe\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7242,8 +7242,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:32:58.210493+00:00",
       "news_id": "nse-fallback:729d51e609030327ae88778db44c42e1891706a38e5abf3bc57bc60c94baafa5",
-      "payload": "{\"symbol\": \"DPABHUSHAN\", \"desc\": \"Press Release\", \"dt\": \"06112026230027\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DPABHUSHAN_06112026230007_PR_Q2_FY_2026-27_F_-_SIGNED.pdf\", \"sm_name\": \"D. P. Abhushan Limited\", \"sm_isin\": \"INE266Y01019\", \"an_dt\": \"06-Nov-2026 23:00:27\", \"sort_date\": \"2026-11-06 23:00:27\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"D. P. Abhushan Limited has informed the Exchange regarding a press release dated November 06, 2026, titled  Achieve 19% PAT Growth in H1-FY27 \\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:00:28\", \"difference\": \"00:00:01\", \"fileSize\": \"416.56 KB\", \"attFileSize\": \"416.56 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-06 23:00:27\", \"_category\": \"Press Release\", \"_headline\": \"D. P. Abhushan Limited has informed the Exchange regarding a press release dated November 06, 2026, titled  Achieve 19% PAT Growth in H1-FY27 \\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DPABHUSHAN_06112026230007_PR_Q2_FY_2026-27_F_-_SIGNED.pdf\", \"_id\": \"nse-fallback:729d51e609030327ae88778db44c42e1891706a38e5abf3bc57bc60c94baafa5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7865,6 +7865,10 @@
     {
       "message_id": "<cf651a2c9840c90de03e3f8fce9f5e9625558797de679efcb17f5055bed7e9a0@gmail.com>",
       "sent_at": "2026-11-05T09:20:26.726375+00:00"
+    },
+    {
+      "message_id": "<d049f9d3647649dde68bade27c2785bc1fbcdd19a4f07a0eb868d96a84117ccd@gmail.com>",
+      "sent_at": "2026-11-06T17:33:05.095964+00:00"
     },
     {
       "message_id": "<d2569ec39dc73a50cd998cc5d285024bce02317f7b3e627612a7e805f29b9c6d@gmail.com>",
