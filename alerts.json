@@ -7137,8 +7137,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:17:57.750359+00:00",
       "news_id": "nse-fallback:0fffaecb027d5ef84899e65c82c6ed3c667c70862c99896b51ad9ebe9130511f",
-      "payload": "{\"symbol\": \"ASTERDM\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026234358\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026233857_Earning_Call_recording_s.pdf\", \"sm_name\": \"Aster DM Quality Care Limited\", \"sm_isin\": \"INE914M01019\", \"an_dt\": \"06-Nov-2026 23:43:58\", \"sort_date\": \"2026-11-06 23:43:58\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Aster DM Quality Care Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:43:59\", \"difference\": \"00:00:01\", \"fileSize\": \"2.21 MB\", \"attFileSize\": \"2.21 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 23:43:58\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Aster DM Quality Care Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026233857_Earning_Call_recording_s.pdf\", \"_id\": \"nse-fallback:0fffaecb027d5ef84899e65c82c6ed3c667c70862c99896b51ad9ebe9130511f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7263,8 +7263,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T18:17:57.750232+00:00",
       "news_id": "nse-fallback:793bc93ec1456fb00e929066740600b4ee6abba0b1296c6d597d584d1d8b08f7",
-      "payload": "{\"symbol\": \"GANESHBE\", \"desc\": \"Credit Rating\", \"dt\": \"06112026234352\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GANESHBE_06112026234340_Disclosurecreditrating.pdf\", \"sm_name\": \"Ganesh Benzoplast Limited\", \"sm_isin\": \"INE388A01029\", \"an_dt\": \"06-Nov-2026 23:43:52\", \"sort_date\": \"2026-11-06 23:43:52\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Benzoplast Limited has informed the Exchange about Credit Rating\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:43:53\", \"difference\": \"00:00:01\", \"fileSize\": \"298.33 KB\", \"attFileSize\": \"298.33 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Credit Rating\", \"_published\": \"2026-11-06 23:43:52\", \"_category\": \"Credit Rating\", \"_headline\": \"Ganesh Benzoplast Limited has informed the Exchange about Credit Rating\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GANESHBE_06112026234340_Disclosurecreditrating.pdf\", \"_id\": \"nse-fallback:793bc93ec1456fb00e929066740600b4ee6abba0b1296c6d597d584d1d8b08f7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7817,6 +7817,10 @@
     {
       "message_id": "<3418787548d926795c62636919bfc75e4c73ec8ba08d1ea59596fd957328a49c@gmail.com>",
       "sent_at": "2026-11-05T09:25:26.651540+00:00"
+    },
+    {
+      "message_id": "<35895885ff639640064c10291088802ed4bb7097692410410de81bde97b80bde@gmail.com>",
+      "sent_at": "2026-11-06T18:18:04.048923+00:00"
     },
     {
       "message_id": "<3dd16f0971dd98f51fa964c9c5e8b454f533842458593306cacae4dd6b8c6400@gmail.com>",
