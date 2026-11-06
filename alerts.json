@@ -7298,8 +7298,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:57:57.696077+00:00",
       "news_id": "nse-fallback:af6140f98c9299fab527de2d630efa030d8e0e84505786ad3c6a6aacb05d26a7",
-      "payload": "{\"symbol\": \"TIRUMALCHM\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"06112026232404\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TIRUMALCHM4_06112026232232_REG47_sd.pdf\", \"sm_name\": \"Thirumalai Chemicals Limited\", \"sm_isin\": \"INE338A01016\", \"an_dt\": \"06-Nov-2026 23:24:04\", \"sort_date\": \"2026-11-06 23:24:04\", \"seq_id\": null, \"smIndustry\": \"Chemicals - Organic\", \"orgid\": null, \"attchmntText\": \"Thirumalai Chemicals Limited has informed the Exchange about Copy of Newspaper Publication - Unaudited Financial Results for the quarter /half year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:24:05\", \"difference\": \"00:00:01\", \"fileSize\": \"3.74 MB\", \"attFileSize\": \"3.74 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-06 23:24:04\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Thirumalai Chemicals Limited has informed the Exchange about Copy of Newspaper Publication - Unaudited Financial Results for the quarter /half year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TIRUMALCHM4_06112026232232_REG47_sd.pdf\", \"_id\": \"nse-fallback:af6140f98c9299fab527de2d630efa030d8e0e84505786ad3c6a6aacb05d26a7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7361,8 +7361,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:57:57.696206+00:00",
       "news_id": "nse-fallback:fd40282d57022fa942e0d45715a93f3cfa5b0cd287d18c6b1d49c5e71a9e63a7",
-      "payload": "{\"symbol\": \"ZENTEC\", \"desc\": \"ESOP/ESOS/ESPS\", \"dt\": \"06112026232434\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ZENTEC_06112026232313_SEIntimationEsop_350_Shares_Signed.pdf\", \"sm_name\": \"Zen Technologies Limited\", \"sm_isin\": \"INE251B01027\", \"an_dt\": \"06-Nov-2026 23:24:34\", \"sort_date\": \"2026-11-06 23:24:34\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Zen Technologies Limited has informed the Exchange regarding Exercise of 350  Options.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 23:24:34\", \"difference\": \"00:00:00\", \"fileSize\": \"560.49 KB\", \"attFileSize\": \"560.49 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"ESOP/ESOS/ESPS\", \"_published\": \"2026-11-06 23:24:34\", \"_category\": \"ESOP/ESOS/ESPS\", \"_headline\": \"Zen Technologies Limited has informed the Exchange regarding Exercise of 350  Options.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ZENTEC_06112026232313_SEIntimationEsop_350_Shares_Signed.pdf\", \"_id\": \"nse-fallback:fd40282d57022fa942e0d45715a93f3cfa5b0cd287d18c6b1d49c5e71a9e63a7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -7863,6 +7863,10 @@
     {
       "message_id": "<8d6a2feb9ec1ad64406c9eca0ceaa99c18f82e1912acfe9bcbc67d52e03e10f3@gmail.com>",
       "sent_at": "2026-11-05T07:15:07.829183+00:00"
+    },
+    {
+      "message_id": "<967833d9faf55dbae52b2ff5262a3e0b534803be6eccad6c0d6a59fb3eba2234@gmail.com>",
+      "sent_at": "2026-11-06T17:58:04.302022+00:00"
     },
     {
       "message_id": "<9cd698bc943546b10f1d08de14f88690e6cef84069bf668d4ffeeea833d76d97@gmail.com>",
