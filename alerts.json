@@ -6605,8 +6605,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-06T05:56:33.907751+00:00",
       "news_id": "106849548",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Dividend\", \"dt\": \"06-Nov-2026 11:22:51\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_06112026112219_OutcomeofBoardMeeting06112026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 11:22:51\", \"sort_date\": \"2026-11-06 11:22:51\", \"seq_id\": \"106849548\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange that Board of Directors at its meeting held on November 06, 2026, declared Interim Dividend of Rs. 0.15 per equity share.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"8.89 MB\", \"attFileSize\": \"8.89 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Dividend\", \"_published\": \"2026-11-06 11:22:51\", \"_category\": \"Dividend\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange that Board of Directors at its meeting held on November 06, 2026, declared Interim Dividend of Rs. 0.15 per equity share.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_06112026112219_OutcomeofBoardMeeting06112026.pdf\", \"_id\": \"106849548\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -7623,6 +7623,10 @@
     {
       "message_id": "<e8c017c9dd0063ec9cc52c7935081bc237e32f36c86b60e671d97352bee1e84d@gmail.com>",
       "sent_at": "2026-11-04T16:09:08.883982+00:00"
+    },
+    {
+      "message_id": "<e9abe55ce7b59e043016912992af5ff41f11b8ae4a3a6cc54053fb5272965dd8@gmail.com>",
+      "sent_at": "2026-11-06T05:56:52.641522+00:00"
     },
     {
       "message_id": "<ed89246c320522c53028dc471cfd807f1e0aa3cab2ed9d2b0a1ea8d61203c9ec@gmail.com>",
