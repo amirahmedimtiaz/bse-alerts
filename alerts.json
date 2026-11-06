@@ -6969,15 +6969,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T00:21:08.333617+00:00",
       "news_id": "nse-fallback:27770aef2b4339a05709311047c5fab7a12d927fac359bfac267f60bdf059545",
-      "payload": "{\"symbol\": \"VIVIANA\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"02112026200135\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_02112026195946_OUTCOME_BM_02112026.pdf\", \"sm_name\": \"Viviana Power Tech Limited\", \"sm_isin\": \"INE0MEG01014\", \"an_dt\": \"02-Nov-2026 20:01:35\", \"sort_date\": \"2026-11-02 20:01:35\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Viviana Power Tech Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"02-Nov-2026 20:01:36\", \"difference\": \"00:00:01\", \"fileSize\": \"10.04 MB\", \"attFileSize\": \"10.04 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-02 20:01:35\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Viviana Power Tech Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_02112026195946_OUTCOME_BM_02112026.pdf\", \"_id\": \"nse-fallback:27770aef2b4339a05709311047c5fab7a12d927fac359bfac267f60bdf059545\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T00:21:08.333807+00:00",
       "news_id": "nse-fallback:4405bc780a2599ba2dac208bc98c13a18c41eb82cdae19054324f2b09c2e4056",
-      "payload": "{\"symbol\": \"VIVIANA\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"03112026213801\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_03112026213704_INVESTOR_CALL_INTIMATION_03112026.pdf\", \"sm_name\": \"Viviana Power Tech Limited\", \"sm_isin\": \"INE0MEG01014\", \"an_dt\": \"03-Nov-2026 21:38:01\", \"sort_date\": \"2026-11-03 21:38:01\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange about Schedule of meet on Friday, 06th November, 2026 at 04.00 PM IST.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"03-Nov-2026 21:38:02\", \"difference\": \"00:00:01\", \"fileSize\": \"1.74 MB\", \"attFileSize\": \"1.74 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-03 21:38:01\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange about Schedule of meet on Friday, 06th November, 2026 at 04.00 PM IST.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_03112026213704_INVESTOR_CALL_INTIMATION_03112026.pdf\", \"_id\": \"nse-fallback:4405bc780a2599ba2dac208bc98c13a18c41eb82cdae19054324f2b09c2e4056\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -6990,15 +6990,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T00:21:08.333845+00:00",
       "news_id": "nse-fallback:bcfef69e16ff1fbaa2939db8fca02a43cb1c60efcfaa25c74ad7749292a141a6",
-      "payload": "{\"symbol\": \"VIVIANA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"04112026171122\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_04112026171108_NEWSPAPER_ADVERTISEMENT_NSE.pdf\", \"sm_name\": \"Viviana Power Tech Limited\", \"sm_isin\": \"INE0MEG01014\", \"an_dt\": \"04-Nov-2026 17:11:22\", \"sort_date\": \"2026-11-04 17:11:22\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"04-Nov-2026 17:11:23\", \"difference\": \"00:00:01\", \"fileSize\": \"3.77 MB\", \"attFileSize\": \"3.77 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-04 17:11:22\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_04112026171108_NEWSPAPER_ADVERTISEMENT_NSE.pdf\", \"_id\": \"nse-fallback:bcfef69e16ff1fbaa2939db8fca02a43cb1c60efcfaa25c74ad7749292a141a6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T00:21:08.333782+00:00",
       "news_id": "nse-fallback:da6e1f763b827424ab9ff9ef1fa664cf3e535e90ecc8826cd6d0c42bc1e91e9a",
-      "payload": "{\"symbol\": \"VIVIANA\", \"desc\": \"Press Release\", \"dt\": \"02112026204630\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_02112026204617_PRESS_RELEASE_30092026.pdf\", \"sm_name\": \"Viviana Power Tech Limited\", \"sm_isin\": \"INE0MEG01014\", \"an_dt\": \"02-Nov-2026 20:46:30\", \"sort_date\": \"2026-11-02 20:46:30\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \\\"HIGHLIGHTS OF FINANCIALS FOR HALF YEAR ENDED SEPTEMBER 30, 2026\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"02-Nov-2026 20:46:31\", \"difference\": \"00:00:01\", \"fileSize\": \"892.12 KB\", \"attFileSize\": \"892.12 KB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-02 20:46:30\", \"_category\": \"Press Release\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \\\"HIGHLIGHTS OF FINANCIALS FOR HALF YEAR ENDED SEPTEMBER 30, 2026\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_02112026204617_PRESS_RELEASE_30092026.pdf\", \"_id\": \"nse-fallback:da6e1f763b827424ab9ff9ef1fa664cf3e535e90ecc8826cd6d0c42bc1e91e9a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
@@ -7477,6 +7477,10 @@
     {
       "message_id": "<865fb604b077997866a3e7873f64e182da33d06bfdb6713bc33259ae46df0dce@gmail.com>",
       "sent_at": "2026-11-04T13:09:11.984796+00:00"
+    },
+    {
+      "message_id": "<869f16d978f85fef9f09df1661a58c455ad1f3f75e6c33ac634d35211a9eafa8@gmail.com>",
+      "sent_at": "2026-11-06T00:21:11.732067+00:00"
     },
     {
       "message_id": "<8d6a2feb9ec1ad64406c9eca0ceaa99c18f82e1912acfe9bcbc67d52e03e10f3@gmail.com>",
