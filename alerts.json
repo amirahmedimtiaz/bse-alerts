@@ -3714,8 +3714,8 @@
       "company_key": "543240",
       "discovered_at": "2026-11-06T12:29:21.551593+00:00",
       "news_id": "6266c7d7-fbd8-4153-9a7d-21c9ef875b07",
-      "payload": "{\"NEWSID\": \"6266c7d7-fbd8-4153-9a7d-21c9ef875b07\", \"SCRIP_CD\": 543240, \"XML_NAME\": \"ANN_543240_6266C7D7-FBD8-4153-9A7D-21C9EF875B07\", \"NEWSSUB\": \"Unaudited Financial Results (Standalone And Consolidated) For The Second Quarter And Half Year Ended September 30, 2026.\\r\\n\\r\\n\", \"DT_TM\": \"2026-11-06T17:58:55.07\", \"NEWS_DT\": \"2026-11-06T17:58:55.07\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8d3f3202-ff55-4499-863d-7592c561a787.pdf\", \"MORE\": \"\", \"HEADLINE\": \"We submit the Unaudited Financial Results ( Standalone AND Consolidated) for the Quarter and Half-Yearly Ended September  30 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/\", \"SLONGNAME\": \"Likhitha Infrastructure Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T17:58:54\", \"DissemDT\": \"2026-11-06T17:58:55.07\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 6650933, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Likhitha Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/corp-announcements\", \"_subject\": \"Unaudited Financial Results (Standalone And Consolidated) For The Second Quarter And Half Year Ended September 30, 2026.\\r\\n\\r\\n\", \"_published\": \"2026-11-06T17:58:55.07\", \"_category\": \"Result\", \"_headline\": \"We submit the Unaudited Financial Results ( Standalone AND Consolidated) for the Quarter and Half-Yearly Ended September  30 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8d3f3202-ff55-4499-863d-7592c561a787.pdf\", \"_id\": \"6266c7d7-fbd8-4153-9a7d-21c9ef875b07\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543240",
@@ -7525,6 +7525,10 @@
       "sent_at": "2026-11-06T00:11:12.793851+00:00"
     },
     {
+      "message_id": "<2484c487f3a604615d9613c9b4cf8da60c8eaa40f433aaa2b950c606d3f56a2d@gmail.com>",
+      "sent_at": "2026-11-06T12:29:32.934198+00:00"
+    },
+    {
       "message_id": "<2499bd913f5644fd134fdb4bbbeaa1e141a9319ec3d9256da15d57dffb04bf57@gmail.com>",
       "sent_at": "2026-11-05T08:05:10.234207+00:00"
     },
@@ -7543,10 +7547,6 @@
     {
       "message_id": "<2d06045f523e41e5f515579b23c467ebc01adc68943e65f9d228ce2010001052@gmail.com>",
       "sent_at": "2026-11-06T05:32:39.984565+00:00"
-    },
-    {
-      "message_id": "<2dd772bf0373fc049b17f32bd2e95392c6049106e6564a3cb18d02cc92f44e35@gmail.com>",
-      "sent_at": "2026-11-04T12:18:51.928367+00:00"
     },
     {
       "message_id": "<2dda5842e4f41f5b59936a1ea538885961448cbe1cd3c51e467dba600c267d9f@gmail.com>",
@@ -7691,10 +7691,6 @@
     {
       "message_id": "<9e5208dc9610ed317966ee745c40e2197805412ea5ad1d34d8e6e43f52684f3e@gmail.com>",
       "sent_at": "2026-11-06T06:46:55.825961+00:00"
-    },
-    {
-      "message_id": "<a44f6f0d478851043643e74ac6582ca975b660e2692f351e81624fb0032fc794@gmail.com>",
-      "sent_at": "2026-11-04T12:23:52.007368+00:00"
     },
     {
       "message_id": "<a471abb7fc69fa767e47e04f2245c03f90349b7aa4bc54a4f71eba841bbe403a@gmail.com>",
