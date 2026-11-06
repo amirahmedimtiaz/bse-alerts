@@ -6073,8 +6073,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-06T11:47:08.257017+00:00",
       "news_id": "5c5e92da-0b02-4d53-939c-5f6e634838d1",
-      "payload": "{\"NEWSID\": \"5c5e92da-0b02-4d53-939c-5f6e634838d1\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_5C5E92DA-0B02-4D53-939C-5F6E634838D1\", \"NEWSSUB\": \"Board Meeting Intimation for Consideration And Approval Of The Unaudited Financial Results Of The Company For The Quarter Ended 30Th September, 2026\", \"DT_TM\": \"2026-11-06T17:12:33.09\", \"NEWS_DT\": \"2026-11-06T17:12:33.09\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"02a9d084-051c-4731-a474-7874b5d8de33.pdf\", \"MORE\": \"Laser Power & Infra Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the unaudited financial results of the Company for the quarter ended 30th September, 2026\", \"HEADLINE\": \"Laser Power & Infra Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the unaudited financial ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T17:12:31\", \"DissemDT\": \"2026-11-06T17:12:33.09\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 839782, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Consideration And Approval Of The Unaudited Financial Results Of The Company For The Quarter Ended 30Th September, 2026\", \"_published\": \"2026-11-06T17:12:33.09\", \"_category\": \"Board Meeting\", \"_headline\": \"Laser Power & Infra Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/11/2026 ,inter alia, to consider and approve the unaudited financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/02a9d084-051c-4731-a474-7874b5d8de33.pdf\", \"_id\": \"5c5e92da-0b02-4d53-939c-5f6e634838d1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -7703,6 +7703,10 @@
       "sent_at": "2026-11-04T12:44:05.621733+00:00"
     },
     {
+      "message_id": "<bd7b810ff27b5fea771a1e30902904bdf8e5238be043d3e677303cbc214fbffa@gmail.com>",
+      "sent_at": "2026-11-06T11:47:23.133727+00:00"
+    },
+    {
       "message_id": "<c6238def6e602c61186e1fe4f6ea245977c910a9787bae80caa37a20f91e16cf@gmail.com>",
       "sent_at": "2026-11-06T08:37:00.717927+00:00"
     },
@@ -7717,10 +7721,6 @@
     {
       "message_id": "<d42a4d1d010f98607b09f45c1f4f8ed16cca868ac23c74b3f689fcca5bbb9d41@gmail.com>",
       "sent_at": "2026-11-06T06:21:53.773857+00:00"
-    },
-    {
-      "message_id": "<d6118233776b3de7a1d66614458fecccfe4d1517f6393bac45688f708f299d15@gmail.com>",
-      "sent_at": "2026-11-04T11:23:52.078872+00:00"
     },
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
