@@ -7678,7 +7678,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T07:01:44.339001+00:00\", \"seconds\": 22.06}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T07:06:51.039719+00:00\", \"seconds\": 28.76}"
     },
     {
       "key": "migration_date",
