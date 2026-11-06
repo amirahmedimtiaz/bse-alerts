@@ -7221,8 +7221,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-06T09:16:48.872638+00:00",
       "news_id": "106850234",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Updates\", \"dt\": \"06-Nov-2026 14:45:43\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026144507_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 14:45:43\", \"sort_date\": \"2026-11-06 14:45:43\", \"seq_id\": \"106850234\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange regarding 'Outcome of Board Meeting - Unaudited Financial Results & Limited Review Report (Standalone & Consolidated) for the quarter and half year ended September 30, 2026'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"14.72 MB\", \"attFileSize\": \"14.72 MB\", \"hasXbrl\": true, \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-06 14:45:43\", \"_category\": \"Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange regarding 'Outcome of Board Meeting - Unaudited Financial Results & Limited Review Report (Standalone & Consolidated) for the quarter and half year ended September 30, 2026'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_06112026144507_VIL.pdf\", \"_id\": \"106850234\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -7439,6 +7439,10 @@
     {
       "message_id": "<0186b1834f322223c8043145849647e142108366111c376fc53d88cbf2ff58c3@gmail.com>",
       "sent_at": "2026-11-04T16:19:09.666960+00:00"
+    },
+    {
+      "message_id": "<06b7caffd8583a4d0a12fdf2bd84615471a8c8dc6a6a21a750504ccb9d145850@gmail.com>",
+      "sent_at": "2026-11-06T09:17:28.765018+00:00"
     },
     {
       "message_id": "<073b313b657735a8c9813ebf574a2240e831027c83131a1779a8fd9f7238daff@gmail.com>",
@@ -7711,10 +7715,6 @@
     {
       "message_id": "<f25a5a4c73c7b681fb0245f720fa765fe1f8c4b7c9e9652b3753be03a13cff6e@gmail.com>",
       "sent_at": "2026-11-05T12:30:27.014884+00:00"
-    },
-    {
-      "message_id": "<f3de7bc4ba002c2774ec61f100a4c947243276a958dbd22d657e7197cf715df1@gmail.com>",
-      "sent_at": "2026-11-04T09:03:38.560026+00:00"
     },
     {
       "message_id": "<f4b0f10b147ce0b013dd61545b88878e21e0e1f96692f479978d47e7eb7b825d@gmail.com>",
