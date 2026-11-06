@@ -7186,8 +7186,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T20:12:57.547095+00:00",
       "news_id": "nse-fallback:207f9e253b0e79a97ff962ac1d95f2b80ad3f2ad642f212b9d3ab9c3a629f968",
-      "payload": "{\"symbol\": \"KIRLOSENG\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026014059\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KIRLOSENG_07112026013628_SE_Outcome_6Nov26.pdf\", \"sm_name\": \"Kirloskar Oil Engines Limited\", \"sm_isin\": \"INE146L01010\", \"an_dt\": \"07-Nov-2026 01:40:59\", \"sort_date\": \"2026-11-07 01:40:59\", \"seq_id\": null, \"smIndustry\": \"Diesel Engines\", \"orgid\": null, \"attchmntText\": \"Kirloskar Oil Engines Limited has informed the Exchange regarding Outcome of Board Meeting held on November 06, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 01:41:00\", \"difference\": \"00:00:01\", \"fileSize\": \"491.04 KB\", \"attFileSize\": \"491.04 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/KIRLOSENG_07112026013628_SE_Outcome_6Nov26.mp3\", \"voiceSummary\": \"Kirloskar Oil Engines Limited approved the execution of a Shareholders Agreement with TPG SG Arca Pte Ltd for TPG's proposed investment in step-down subsidiary Arka Fincap Limited. The agreement records rights and obligations among Kirloskar Oil Engines, wholly owned subsidiary Arka Financial Holdings Private Limited, Arka Fincap, and TPG. TPG will subscribe to equity and compulsorily convertible preference shares in two tranches. The first tranche involves an investment of INR 525,00,00,003 for 100 equity shares and 32,53,45,231 preference shares. The second tranche involves an investment of INR 275,00,00,588 for 12,93,34,496 preference shares, subject to business milestones and regulatory approvals. Post-investment, Kirloskar Oil Engines will hold 62.607% of Arka Fincap. The agreement grants TPG one nominee director and certain minority protection rights. There is no impact on the management or control of Kirloskar Oil Engines.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 01:40:59\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Kirloskar Oil Engines Limited has informed the Exchange regarding Outcome of Board Meeting held on November 06, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KIRLOSENG_07112026013628_SE_Outcome_6Nov26.pdf\", \"_id\": \"nse-fallback:207f9e253b0e79a97ff962ac1d95f2b80ad3f2ad642f212b9d3ab9c3a629f968\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7905,6 +7905,10 @@
     {
       "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
       "sent_at": "2026-11-05T10:25:26.708622+00:00"
+    },
+    {
+      "message_id": "<4c3afd77906c22aff243f81f611df56367dba6b60a31ce82c997ffb9cb64d009@gmail.com>",
+      "sent_at": "2026-11-06T20:13:03.455599+00:00"
     },
     {
       "message_id": "<4d386b7f9b128c069f7c8f276a3ab25d9d2ef20054c59155d8950ec6bef34779@gmail.com>",
