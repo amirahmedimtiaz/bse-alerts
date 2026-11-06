@@ -7130,29 +7130,29 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.432058+00:00",
       "news_id": "nse-fallback:0a76d7eadb8c400319f40cf914f4c4715366c470f3764dbac78d3366c539af48",
-      "payload": "{\"symbol\": \"POWERGRID\", \"desc\": \"Appointment\", \"dt\": \"06112026225501\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/POWERGRID1_06112026225441_BSENSEReg30Apptt06112026_s.pdf\", \"sm_name\": \"Power Grid Corporation of India Limited\", \"sm_isin\": \"INE752E01010\", \"an_dt\": \"06-Nov-2026 22:55:01\", \"sort_date\": \"2026-11-06 22:55:01\", \"seq_id\": null, \"smIndustry\": \"Power\", \"orgid\": null, \"attchmntText\": \"Power Grid Corporation of India Limited has informed the Exchange regarding Appointment of Mr Anupam Kumar as Non- Executive (Govt. Nominee) Director of the company w.e.f. November 06, 2026 (I.e. Date of allotment of DIN).\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:55:01\", \"difference\": \"00:00:00\", \"fileSize\": \"1.85 MB\", \"attFileSize\": \"1.85 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Appointment\", \"_published\": \"2026-11-06 22:55:01\", \"_category\": \"Appointment\", \"_headline\": \"Power Grid Corporation of India Limited has informed the Exchange regarding Appointment of Mr Anupam Kumar as Non- Executive (Govt. Nominee) Director of the company w.e.f. November 06, 2026 (I.e. Date of allotment of DIN).\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/POWERGRID1_06112026225441_BSENSEReg30Apptt06112026_s.pdf\", \"_id\": \"nse-fallback:0a76d7eadb8c400319f40cf914f4c4715366c470f3764dbac78d3366c539af48\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431836+00:00",
       "news_id": "nse-fallback:1fb74a974458b8120971e4f70b25fb7288fc809df7b98d0ab81a7af6b70e925f",
-      "payload": "{\"symbol\": \"KINGFA\", \"desc\": \"Monitoring Agency Report\", \"dt\": \"06112026221053\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KINGFA_06112026220913_Monitoring_Age.pdf\", \"sm_name\": \"Kingfa Science & Technology (India) Limited\", \"sm_isin\": \"INE473D01015\", \"an_dt\": \"06-Nov-2026 22:10:53\", \"sort_date\": \"2026-11-06 22:10:53\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Please find the attached Monitoring Agency report for the quarter ended on September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:10:54\", \"difference\": \"00:00:01\", \"fileSize\": \"761.24 KB\", \"attFileSize\": \"761.24 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Monitoring Agency Report\", \"_published\": \"2026-11-06 22:10:53\", \"_category\": \"Monitoring Agency Report\", \"_headline\": \"Please find the attached Monitoring Agency report for the quarter ended on September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KINGFA_06112026220913_Monitoring_Age.pdf\", \"_id\": \"nse-fallback:1fb74a974458b8120971e4f70b25fb7288fc809df7b98d0ab81a7af6b70e925f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431739+00:00",
       "news_id": "nse-fallback:2537b3c6ed63974331bbdfd7122c7a0902b8a8343c0dc41ab7240e7ea8bb6f35",
-      "payload": "{\"symbol\": \"ASIANPAINT\", \"desc\": \"Change in Director(s)\", \"dt\": \"06112026220245\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf\", \"sm_name\": \"Asian Paints Limited\", \"sm_isin\": \"INE021A01018\", \"an_dt\": \"06-Nov-2026 22:02:45\", \"sort_date\": \"2026-11-06 22:02:45\", \"seq_id\": null, \"smIndustry\": \"Paints\", \"orgid\": null, \"attchmntText\": \"Asian Paints Limited has informed the Exchange regarding Change in Director(s) of the company.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:02:46\", \"difference\": \"00:00:01\", \"fileSize\": \"229.88 KB\", \"attFileSize\": \"229.88 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Change in Director(s)\", \"_published\": \"2026-11-06 22:02:45\", \"_category\": \"Change in Director(s)\", \"_headline\": \"Asian Paints Limited has informed the Exchange regarding Change in Director(s) of the company.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf\", \"_id\": \"nse-fallback:2537b3c6ed63974331bbdfd7122c7a0902b8a8343c0dc41ab7240e7ea8bb6f35\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431920+00:00",
       "news_id": "nse-fallback:26659d23afd2f3741a910a8cd2d25efc9b41d0dc425c17fc6ddc2029237f3f0c",
-      "payload": "{\"symbol\": \"VIKRAN\", \"desc\": \"General Updates\", \"dt\": \"06112026222652\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIKRAN123_06112026222638_Intimation_of_Warning_Letter_-_SEBI.pdf\", \"sm_name\": \"Vikran Engineering Limited\", \"sm_isin\": \"INE01R501028\", \"an_dt\": \"06-Nov-2026 22:26:52\", \"sort_date\": \"2026-11-06 22:26:52\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:26:53\", \"difference\": \"00:00:01\", \"fileSize\": \"1.66 MB\", \"attFileSize\": \"1.66 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-06 22:26:52\", \"_category\": \"General Updates\", \"_headline\": \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIKRAN123_06112026222638_Intimation_of_Warning_Letter_-_SEBI.pdf\", \"_id\": \"nse-fallback:26659d23afd2f3741a910a8cd2d25efc9b41d0dc425c17fc6ddc2029237f3f0c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7165,29 +7165,29 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431885+00:00",
       "news_id": "nse-fallback:2b54f75da4dce70012a06472836619e34f8751840717659004e5ee6dbb70f63d",
-      "payload": "{\"symbol\": \"LCL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026222106\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/LOHIA2023_06112026222023_SE_Intimation.pdf\", \"sm_name\": \"Lohia Corp Limited\", \"sm_isin\": \"INE0QJW01029\", \"an_dt\": \"06-Nov-2026 22:21:06\", \"sort_date\": \"2026-11-06 22:21:06\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Lohia Corp Limited has informed the Exchange about Link of Earnings Call Audio Recording held on November 06, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:21:07\", \"difference\": \"00:00:01\", \"fileSize\": \"492.81 KB\", \"attFileSize\": \"492.81 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:21:06\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Lohia Corp Limited has informed the Exchange about Link of Earnings Call Audio Recording held on November 06, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/LOHIA2023_06112026222023_SE_Intimation.pdf\", \"_id\": \"nse-fallback:2b54f75da4dce70012a06472836619e34f8751840717659004e5ee6dbb70f63d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431820+00:00",
       "news_id": "nse-fallback:2cfacdba20fefa61546a6347e14c533a8ee81757f4acc4a131b73272e00d4766",
-      "payload": "{\"symbol\": \"VIKRAN\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026221011\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIKRAN123_06112026220959_Intimation_of_Earnings_Call_Audio_Link.pdf\", \"sm_name\": \"Vikran Engineering Limited\", \"sm_isin\": \"INE01R501028\", \"an_dt\": \"06-Nov-2026 22:10:11\", \"sort_date\": \"2026-11-06 22:10:11\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Vikran Engineering Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:10:12\", \"difference\": \"00:00:01\", \"fileSize\": \"386.84 KB\", \"attFileSize\": \"386.84 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:10:11\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Vikran Engineering Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIKRAN123_06112026220959_Intimation_of_Earnings_Call_Audio_Link.pdf\", \"_id\": \"nse-fallback:2cfacdba20fefa61546a6347e14c533a8ee81757f4acc4a131b73272e00d4766\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.432022+00:00",
       "news_id": "nse-fallback:2e69d76bddf3d55ff05a012e006950bf2d630ccdf937a85c9f3159e8783f4916",
-      "payload": "{\"symbol\": \"RELIGARE\", \"desc\": \"Updates\", \"dt\": \"06112026225219\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/RELIGARE_06112026225131_RELUPDATE2026.pdf\", \"sm_name\": \"Religare Enterprises Limited\", \"sm_isin\": \"INE621H01010\", \"an_dt\": \"06-Nov-2026 22:52:19\", \"sort_date\": \"2026-11-06 22:52:19\", \"seq_id\": null, \"smIndustry\": \"Finance\", \"orgid\": null, \"attchmntText\": \"Religare Enterprises Limited has informed the Exchange regarding 'Announcement under Regulation 30(9) of SEBI LODR Regulations 2015'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:52:20\", \"difference\": \"00:00:01\", \"fileSize\": \"599.18 KB\", \"attFileSize\": \"599.18 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-06 22:52:19\", \"_category\": \"Updates\", \"_headline\": \"Religare Enterprises Limited has informed the Exchange regarding 'Announcement under Regulation 30(9) of SEBI LODR Regulations 2015'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/RELIGARE_06112026225131_RELUPDATE2026.pdf\", \"_id\": \"nse-fallback:2e69d76bddf3d55ff05a012e006950bf2d630ccdf937a85c9f3159e8783f4916\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431966+00:00",
       "news_id": "nse-fallback:3cc7336f5af71dbfafd7109c8c632030de559f7f7cb89fb4088909353dd1455c",
-      "payload": "{\"symbol\": \"BIRLACORPN\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026223939\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BIRLACORP1_06112026223901_Transcript_earningscall_021126.pdf\", \"sm_name\": \"Birla Corporation Limited\", \"sm_isin\": \"INE340A01012\", \"an_dt\": \"06-Nov-2026 22:39:39\", \"sort_date\": \"2026-11-06 22:39:39\", \"seq_id\": null, \"smIndustry\": \"Cement And Cement Products\", \"orgid\": null, \"attchmntText\": \"Birla Corporation Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:39:40\", \"difference\": \"00:00:01\", \"fileSize\": \"513.79 KB\", \"attFileSize\": \"513.79 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:39:39\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Birla Corporation Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BIRLACORP1_06112026223901_Transcript_earningscall_021126.pdf\", \"_id\": \"nse-fallback:3cc7336f5af71dbfafd7109c8c632030de559f7f7cb89fb4088909353dd1455c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7200,71 +7200,71 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.432002+00:00",
       "news_id": "nse-fallback:4d8ccbea399966478275174a56a872eef6816a5958f56dab7632e66378d7e0ba",
-      "payload": "{\"symbol\": \"ESDS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026224735\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ESDS_06112026224717_ESDS_Transcript_Inv_meet_06112026.pdf\", \"sm_name\": \"ESDS Software Solution Limited\", \"sm_isin\": \"INE0DRI01029\", \"an_dt\": \"06-Nov-2026 22:47:35\", \"sort_date\": \"2026-11-06 22:47:35\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"ESDS Software Solution Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:47:36\", \"difference\": \"00:00:01\", \"fileSize\": \"520.11 KB\", \"attFileSize\": \"520.11 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:47:35\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"ESDS Software Solution Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ESDS_06112026224717_ESDS_Transcript_Inv_meet_06112026.pdf\", \"_id\": \"nse-fallback:4d8ccbea399966478275174a56a872eef6816a5958f56dab7632e66378d7e0ba\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431451+00:00",
       "news_id": "nse-fallback:53a01c917c4724ef5578c00ffaecc758508ad5ec5729147a3f7929d2188119b7",
-      "payload": "{\"symbol\": \"INNOVISION\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"06112026215927\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/INNOVISION2007_06112026215918_IntimationPost_Dispatch_Newspaper20th_AGM_061126_combinedsigned.pdf\", \"sm_name\": \"Innovision Limited\", \"sm_isin\": \"INE0ADB01012\", \"an_dt\": \"06-Nov-2026 21:59:27\", \"sort_date\": \"2026-11-06 21:59:27\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Innovision Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 21:59:28\", \"difference\": \"00:00:01\", \"fileSize\": \"1.58 MB\", \"attFileSize\": \"1.58 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-06 21:59:27\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Innovision Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/INNOVISION2007_06112026215918_IntimationPost_Dispatch_Newspaper20th_AGM_061126_combinedsigned.pdf\", \"_id\": \"nse-fallback:53a01c917c4724ef5578c00ffaecc758508ad5ec5729147a3f7929d2188119b7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431949+00:00",
       "news_id": "nse-fallback:54a1da4e6fbdf0b1a347a46943f91da676a9fefe6296840a60df84724f384fb9",
-      "payload": "{\"symbol\": \"GLAND\", \"desc\": \"Shareholders meeting\", \"dt\": \"06112026222939\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GLAND_06112026222930_PBvotingresults_05112026_Final.pdf\", \"sm_name\": \"Gland Pharma Limited\", \"sm_isin\": \"INE068V01023\", \"an_dt\": \"06-Nov-2026 22:29:39\", \"sort_date\": \"2026-11-06 22:29:39\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Gland Pharma Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:29:40\", \"difference\": \"00:00:01\", \"fileSize\": \"1.10 MB\", \"attFileSize\": \"1.10 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-11-06 22:29:39\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Gland Pharma Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GLAND_06112026222930_PBvotingresults_05112026_Final.pdf\", \"_id\": \"nse-fallback:54a1da4e6fbdf0b1a347a46943f91da676a9fefe6296840a60df84724f384fb9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431903+00:00",
       "news_id": "nse-fallback:6836d740f847534fbf6ff4bf1449abc1e7d2652142ab3b240a508ce0d3846dfa",
-      "payload": "{\"symbol\": \"NYKAA\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026222150\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/NYKAA_06112026222127_TranscriptQ2FY27.pdf\", \"sm_name\": \"FSN E-Commerce Ventures Limited\", \"sm_isin\": \"INE388Y01029\", \"an_dt\": \"06-Nov-2026 22:21:50\", \"sort_date\": \"2026-11-06 22:21:50\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"FSN E Commerce Ventures Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:21:51\", \"difference\": \"00:00:01\", \"fileSize\": \"487.21 KB\", \"attFileSize\": \"487.21 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:21:50\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"FSN E Commerce Ventures Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/NYKAA_06112026222127_TranscriptQ2FY27.pdf\", \"_id\": \"nse-fallback:6836d740f847534fbf6ff4bf1449abc1e7d2652142ab3b240a508ce0d3846dfa\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431802+00:00",
       "news_id": "nse-fallback:7c877d5b7f996494ccc097200bdc77e311cd0bd7e1142714be60fd48466df5ee",
-      "payload": "{\"symbol\": \"ASIANPAINT\", \"desc\": \"Appointment\", \"dt\": \"06112026220658\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf\", \"sm_name\": \"Asian Paints Limited\", \"sm_isin\": \"INE021A01018\", \"an_dt\": \"06-Nov-2026 22:06:58\", \"sort_date\": \"2026-11-06 22:06:58\", \"seq_id\": null, \"smIndustry\": \"Paints\", \"orgid\": null, \"attchmntText\": \"Asian Paints Limited has informed the Exchange regarding Appointment of Mr Leo Puri as Independent Director of the company w.e.f. September 07, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:06:59\", \"difference\": \"00:00:01\", \"fileSize\": \"229.88 KB\", \"attFileSize\": \"229.88 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Appointment\", \"_published\": \"2026-11-06 22:06:58\", \"_category\": \"Appointment\", \"_headline\": \"Asian Paints Limited has informed the Exchange regarding Appointment of Mr Leo Puri as Independent Director of the company w.e.f. September 07, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf\", \"_id\": \"nse-fallback:7c877d5b7f996494ccc097200bdc77e311cd0bd7e1142714be60fd48466df5ee\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431934+00:00",
       "news_id": "nse-fallback:85dc1f249b20c9c982a43acb23ce3d44b2cb77980bdcee545c9e1e1eee2a8bfd",
-      "payload": "{\"symbol\": \"HDFCBANK\", \"desc\": \"Shareholders meeting\", \"dt\": \"06112026222743\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HDFCBANK_06112026222722_SEIntimation_PBResults_06112026.pdf\", \"sm_name\": \"HDFC Bank Limited\", \"sm_isin\": \"INE040A01018\", \"an_dt\": \"06-Nov-2026 22:27:43\", \"sort_date\": \"2026-11-06 22:27:43\", \"seq_id\": null, \"smIndustry\": \"Banks\", \"orgid\": null, \"attchmntText\": \"HDFC Bank Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:27:44\", \"difference\": \"00:00:01\", \"fileSize\": \"3.43 MB\", \"attFileSize\": \"3.43 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-11-06 22:27:43\", \"_category\": \"Shareholders meeting\", \"_headline\": \"HDFC Bank Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HDFCBANK_06112026222722_SEIntimation_PBResults_06112026.pdf\", \"_id\": \"nse-fallback:85dc1f249b20c9c982a43acb23ce3d44b2cb77980bdcee545c9e1e1eee2a8bfd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431869+00:00",
       "news_id": "nse-fallback:8f8e190c6bb1cae9fec572edc0b12996b80814a54ef843bde150d58bc1adfcc9",
-      "payload": "{\"symbol\": \"BRITANNIA\", \"desc\": \"Shareholders meeting\", \"dt\": \"06112026221751\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BRITANNIA1_06112026221718_SE_Intimation_on_Voting_Results.pdf\", \"sm_name\": \"Britannia Industries Limited\", \"sm_isin\": \"INE216A01014\", \"an_dt\": \"06-Nov-2026 22:17:51\", \"sort_date\": \"2026-11-06 22:17:51\", \"seq_id\": null, \"smIndustry\": \"Food And Food Processing\", \"orgid\": null, \"attchmntText\": \"Britannia Industries Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:17:51\", \"difference\": \"00:00:00\", \"fileSize\": \"1.40 MB\", \"attFileSize\": \"1.40 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Shareholders meeting\", \"_published\": \"2026-11-06 22:17:51\", \"_category\": \"Shareholders meeting\", \"_headline\": \"Britannia Industries Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BRITANNIA1_06112026221718_SE_Intimation_on_Voting_Results.pdf\", \"_id\": \"nse-fallback:8f8e190c6bb1cae9fec572edc0b12996b80814a54ef843bde150d58bc1adfcc9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431681+00:00",
       "news_id": "nse-fallback:9d9b79278c61dff6d2d757e38e9f4d130740c8878ae4481f9c3a7d8d3dfcacf7",
-      "payload": "{\"symbol\": \"TRACXN\", \"desc\": \"ESOP/ESOS/ESPS\", \"dt\": \"06112026220117\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TRACXN_06112026220054_Intimationofallotment.pdf\", \"sm_name\": \"Tracxn Technologies Limited\", \"sm_isin\": \"INE0HMF01019\", \"an_dt\": \"06-Nov-2026 22:01:17\", \"sort_date\": \"2026-11-06 22:01:17\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Tracxn Technologies Limited has informed the Exchange regarding Allotment of 58982  securities pursuant to ESOP/ESPS at its meeting held on November 06, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:01:18\", \"difference\": \"00:00:01\", \"fileSize\": \"219.21 KB\", \"attFileSize\": \"219.21 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"ESOP/ESOS/ESPS\", \"_published\": \"2026-11-06 22:01:17\", \"_category\": \"ESOP/ESOS/ESPS\", \"_headline\": \"Tracxn Technologies Limited has informed the Exchange regarding Allotment of 58982  securities pursuant to ESOP/ESPS at its meeting held on November 06, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TRACXN_06112026220054_Intimationofallotment.pdf\", \"_id\": \"nse-fallback:9d9b79278c61dff6d2d757e38e9f4d130740c8878ae4481f9c3a7d8d3dfcacf7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431853+00:00",
       "news_id": "nse-fallback:a6a8e7af5ad511579ae5567d5b87d052aaa9f438f9f6c785b99d8ab4daf40ee1",
-      "payload": "{\"symbol\": \"GLAND\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"06112026221711\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GLAND_06112026221702_EarningsCallRecordingQ2FY2027.pdf\", \"sm_name\": \"Gland Pharma Limited\", \"sm_isin\": \"INE068V01023\", \"an_dt\": \"06-Nov-2026 22:17:11\", \"sort_date\": \"2026-11-06 22:17:11\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Gland Pharma Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:17:12\", \"difference\": \"00:00:01\", \"fileSize\": \"180.53 KB\", \"attFileSize\": \"180.53 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-06 22:17:11\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Gland Pharma Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GLAND_06112026221702_EarningsCallRecordingQ2FY2027.pdf\", \"_id\": \"nse-fallback:a6a8e7af5ad511579ae5567d5b87d052aaa9f438f9f6c785b99d8ab4daf40ee1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.432041+00:00",
       "news_id": "nse-fallback:a717db6545c45cc6747a830fa325de91b54a4380ad9faf72b5e041c7a9e3c9a9",
-      "payload": "{\"symbol\": \"BEL\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"06112026225258\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BEL_06112026225005_Press_Release_06112026_SIGNED.pdf\", \"sm_name\": \"Bharat Electronics Limited\", \"sm_isin\": \"INE263A01016\", \"an_dt\": \"06-Nov-2026 22:52:58\", \"sort_date\": \"2026-11-06 22:52:58\", \"seq_id\": null, \"smIndustry\": \"Electronics - Industrial\", \"orgid\": null, \"attchmntText\": \"Bharat Electronics Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:52:59\", \"difference\": \"00:00:01\", \"fileSize\": \"1.20 MB\", \"attFileSize\": \"1.20 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-06 22:52:58\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Bharat Electronics Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BEL_06112026225005_Press_Release_06112026_SIGNED.pdf\", \"_id\": \"nse-fallback:a717db6545c45cc6747a830fa325de91b54a4380ad9faf72b5e041c7a9e3c9a9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7284,15 +7284,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431983+00:00",
       "news_id": "nse-fallback:c59c3c678a56242e6854d610e3850c2d184a957ed50e2ecd8ea85f2e66f3d7ca",
-      "payload": "{\"symbol\": \"BRITANNIA\", \"desc\": \"General Updates\", \"dt\": \"06112026224130\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BRITANNIA1_06112026223958_Intimation.pdf\", \"sm_name\": \"Britannia Industries Limited\", \"sm_isin\": \"INE216A01014\", \"an_dt\": \"06-Nov-2026 22:41:30\", \"sort_date\": \"2026-11-06 22:41:30\", \"seq_id\": null, \"smIndustry\": \"Food And Food Processing\", \"orgid\": null, \"attchmntText\": \"Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015 and our letters dated 6 August 2026 and 6 October 2026, this is to inform you that the Members of the Company have approved the Special Resolution as set out in the Notice of Postal Ballot dated 6 August 2026, for the appointment of Mr. Sonny Iqbal (DIN: 02962053) as a Non-Executive Independent Director of the Company.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:41:31\", \"difference\": \"00:00:01\", \"fileSize\": \"244.59 KB\", \"attFileSize\": \"244.59 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-06 22:41:30\", \"_category\": \"General Updates\", \"_headline\": \"Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015 and our letters dated 6 August 2026 and 6 October 2026, this is to inform you that the Members of the Company have approved the Special Resolution as set out in the Notice of Postal Ballot dated 6 August 2026, for the appointment of Mr. Sonny Iqbal (DIN: 02962053) as a Non-Executive Independent Director of the Company.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BRITANNIA1_06112026223958_Intimation.pdf\", \"_id\": \"nse-fallback:c59c3c678a56242e6854d610e3850c2d184a957ed50e2ecd8ea85f2e66f3d7ca\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-06T17:28:03.431782+00:00",
       "news_id": "nse-fallback:d40ab6c7fdd7b6c978eb59fed8a1435ddcf011b70214908690c93cfeb6a67ff9",
-      "payload": "{\"symbol\": \"POLYCAB\", \"desc\": \"General Updates\", \"dt\": \"06112026220341\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/POLYCAB_06112026220329_Intimationtostockexchange.pdf\", \"sm_name\": \"Polycab India Limited\", \"sm_isin\": \"INE455K01017\", \"an_dt\": \"06-Nov-2026 22:03:41\", \"sort_date\": \"2026-11-06 22:03:41\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"06-Nov-2026 22:03:42\", \"difference\": \"00:00:01\", \"fileSize\": \"254.49 KB\", \"attFileSize\": \"254.49 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-06 22:03:41\", \"_category\": \"General Updates\", \"_headline\": \"Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/POLYCAB_06112026220329_Intimationtostockexchange.pdf\", \"_id\": \"nse-fallback:d40ab6c7fdd7b6c978eb59fed8a1435ddcf011b70214908690c93cfeb6a67ff9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7750,10 +7750,6 @@
       "sent_at": "2026-11-06T16:35:08.963825+00:00"
     },
     {
-      "message_id": "<5619a9f1bbf3c6f98cd3d1cbaea4c8daa3d1c76f2241ef6ba01be4df70ef0676@gmail.com>",
-      "sent_at": "2026-11-04T17:04:08.303364+00:00"
-    },
-    {
       "message_id": "<5ec7fa28745ac5a9941e0dd8c48b450cafd738ab85143d0bc6689ff855d8cbd0@gmail.com>",
       "sent_at": "2026-11-05T07:20:07.598474+00:00"
     },
@@ -7772,10 +7768,6 @@
     {
       "message_id": "<7236cbb5213235533f093631d62ecbc23b618a0a81ad5ebb4554f6fe960221f6@gmail.com>",
       "sent_at": "2026-11-06T07:11:54.161983+00:00"
-    },
-    {
-      "message_id": "<724c5aee4a759fb1719eac0b88bfdb25ff257dc555b1357abc1c7d885f87bf49@gmail.com>",
-      "sent_at": "2026-11-04T16:54:09.744340+00:00"
     },
     {
       "message_id": "<744273d53f98ef8126340119ad6936e18fddfb5a8ae5b41880de731110cc374a@gmail.com>",
@@ -7806,10 +7798,6 @@
       "sent_at": "2026-11-05T07:15:07.829183+00:00"
     },
     {
-      "message_id": "<9a6714d0af6d3eec218fbb8e62f030f46cd63c7ba5a3eed818f990cbcde73239@gmail.com>",
-      "sent_at": "2026-11-04T17:14:09.615039+00:00"
-    },
-    {
       "message_id": "<9cd698bc943546b10f1d08de14f88690e6cef84069bf668d4ffeeea833d76d97@gmail.com>",
       "sent_at": "2026-11-05T12:25:27.793639+00:00"
     },
@@ -7820,6 +7808,10 @@
     {
       "message_id": "<9e5208dc9610ed317966ee745c40e2197805412ea5ad1d34d8e6e43f52684f3e@gmail.com>",
       "sent_at": "2026-11-06T06:46:55.825961+00:00"
+    },
+    {
+      "message_id": "<9f0580f1443d8e4ca5f34410cda350f71ab4e92ca5b809fb589e9532a800a260@gmail.com>",
+      "sent_at": "2026-11-06T17:28:09.464723+00:00"
     },
     {
       "message_id": "<a471abb7fc69fa767e47e04f2245c03f90349b7aa4bc54a4f71eba841bbe403a@gmail.com>",
@@ -7876,10 +7868,6 @@
     {
       "message_id": "<e9abe55ce7b59e043016912992af5ff41f11b8ae4a3a6cc54053fb5272965dd8@gmail.com>",
       "sent_at": "2026-11-06T05:56:52.641522+00:00"
-    },
-    {
-      "message_id": "<ed89246c320522c53028dc471cfd807f1e0aa3cab2ed9d2b0a1ea8d61203c9ec@gmail.com>",
-      "sent_at": "2026-11-04T16:59:08.205979+00:00"
     },
     {
       "message_id": "<f25a5a4c73c7b681fb0245f720fa765fe1f8c4b7c9e9652b3753be03a13cff6e@gmail.com>",
