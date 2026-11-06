@@ -6381,8 +6381,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-06T11:13:15.783047+00:00",
       "news_id": "initial-30-day-summary",
-      "payload": "{\"_id\": \"initial-30-day-summary\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [30-day summary]\", \"_body\": \"Initial 30-day disclosure summary: 2026-10-08 to 2026-11-06 (IST calendar dates).\\n\\nDetected: 2026-11-06T20:13:15.783047+09:00\\n\\nCoverage:\\nbulk: validated response through 2026-11-06\\nblock: validated response through 2026-11-06\\npit: validated response through 2026-11-06\\nsast: validated response through 2026-11-06\\npledge: validated response through 2026-11-06\\nshareholding: validated response through 2026-11-06\\ncapital: validated response through 2026-11-06\\n\\nCapital/dilution filings continue through the existing corporate-announcement alerts; proposals are not completed issues.\\n\\nSHAREHOLDING\\nTransaction / period date: 30-SEP-2026\\nPublished: 2026-10-16 14:16:35 IST / 2026-10-16 17:46:35 JST\\nbroadcastDate: 16-OCT-2026 14:16:35\\ndate: 30-SEP-2026\\nemployeeTrusts: 0\\nisin: INE0R4701017\\nname: Alpex Solar Limited\\nnewColumn: True\\npr_and_prgrp: 65.9\\npublic_val: 34.1\\nrecordId: 214860\\nrevisedStatus: -\\nsubmissionDate: 16-OCT-2026\\nsymbol: ALPEXSOLAR\\nsystemDate: 16-OCT-2026 14:16:39\\nxbrl: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1739722_16102026021630_WEB.xml\\nCompared 30-JUN-2026 with 30-SEP-2026.\\ncategory: AlternativeInvestmentFunds: 101600 \\u2192 100600 shares; calculated change -0.01 pp\\ncategory: BodiesCorporate: 676003 \\u2192 700105 shares; calculated change +0.09 pp\\ncategory: InstitutionsDomestic: 101600 \\u2192 100600 shares; calculated change -0.01 pp\\ncategory: InstitutionsForeign: 798300 \\u2192 838300 shares; calculated change +0.15 pp\\ncategory: InstitutionsForeignPortfolioInvestorCategoryOne: 792400 \\u2192 838300 shares; calculated change +0.18 pp\\ncategory: NonInstitutions: 7810600 \\u2192 7771600 shares; calculated change -0.15 pp\\ncategory: NonResidentIndians: 452600 \\u2192 382500 shares; calculated change -0.27 pp\\ncategory: OtherNonInstitutions: 311726 \\u2192 332498 shares; calculated change +0.08 pp\\ncategory: ResidentIndividualShareholdersHoldingNominalShareCapitalInExcessOfRsTwoLakh: 1588400 \\u2192 1650300 shares; calculated change +0.24 pp; NumberOfSharesUnderlyingOutstandingWarrants: 180000 \\u2192 140000\\ncategory: ResidentIndividualShareholdersHoldingNominalShareCapitalUpToRsTwoLakh: 4781871 \\u2192 4706197 shares; calculated change -0.30 pp; NumberOfSharesUnderlyingOutstandingWarrants: 351400 \\u2192 391400\\nNewly disclosed or no longer disclosed (not proof of entry/exit): category: InstitutionsForeignPortfolioInvestorCategoryTwo\\nSnapshot differences are not proof of a trade; check share capital and classification changes.\\nREVIEW: anonymous typed XBRL rows are excluded from holder/category comparisons; use the source document.\\nXBRL percentage facts are raw fractions; overview promoter/public fields are percentages.\\nOfficial data: https://www.nseindia.com/api/corporate-share-holdings-master?from_date=06-11-2025&to_date=06-11-2026&symbol=ALPEXSOLAR&index=sme\\nOfficial document: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1739722_16102026021630_WEB.xml\\n\\nBULK\\nTransaction / period date: 2026-11-04\\nReport trade date (publication timestamp unavailable): 2026-11-04 (date only; publication time not disclosed in this report)\\nFARADAY TEST AND RESEARCH LAB PRIVATE LIMITED | BUY | 148000 shares | INR 663.26\\nCalculated approximate value (quantity \\u00d7 reported weighted-average price): INR 98162480.00\\nOfficial data: https://www.nseindia.com/api/historicalOR/bulk-block-short-deals?optionType=bulk_deals&symbol=ALPEXSOLAR&from=07-10-2026&to=06-11-2026&csv=true\\n\\nBULK\\nTransaction / period date: 2026-11-04\\nReport trade date (publication timestamp unavailable): 2026-11-04 (date only; publication time not disclosed in this report)\\nZETA GLOBAL FUNDS (OEIC) PCC LIMITED-ZETA SERIES B FUND PC | SELL | 155000 shares | INR 663.28\\nCalculated approximate value (quantity \\u00d7 reported weighted-average price): INR 102808400.00\\nOfficial data: https://www.nseindia.com/api/historicalOR/bulk-block-short-deals?optionType=bulk_deals&symbol=ALPEXSOLAR&from=07-10-2026&to=06-11-2026&csv=true\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-06T11:13:15.783047+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:ALPEXSOLAR",
@@ -7489,10 +7489,6 @@
       "sent_at": "2026-11-06T05:51:50.155606+00:00"
     },
     {
-      "message_id": "<0eda30be8de2e40fe73699bc2b25b3e6d5f18a4dc061b7b35a6d7cf39f674a2c@gmail.com>",
-      "sent_at": "2026-11-04T10:38:54.737284+00:00"
-    },
-    {
       "message_id": "<0f950700a3e31d82474a3f6c54575e90513e2b8bdb8b4eea6e738cf1a7c0e53f@gmail.com>",
       "sent_at": "2026-11-05T10:55:26.003182+00:00"
     },
@@ -7609,10 +7605,6 @@
       "sent_at": "2026-11-06T04:41:46.577661+00:00"
     },
     {
-      "message_id": "<6ddc785c8a0bbb65b8f5687122395adcd2dfce304a480ddf694f7d2744bbdba9@gmail.com>",
-      "sent_at": "2026-11-04T09:33:38.072442+00:00"
-    },
-    {
       "message_id": "<7236cbb5213235533f093631d62ecbc23b618a0a81ad5ebb4554f6fe960221f6@gmail.com>",
       "sent_at": "2026-11-06T07:11:54.161983+00:00"
     },
@@ -7627,6 +7619,10 @@
     {
       "message_id": "<760ca3f33b8e8ce721fe9271ae0bb231cf5bf73ddd41d0c97b046ef2a885ea37@gmail.com>",
       "sent_at": "2026-11-05T04:55:08.193796+00:00"
+    },
+    {
+      "message_id": "<76403fc113057d679bce060be1fcb2e352367e6c35992eaa26b0e6a4e5e15e5b@gmail.com>",
+      "sent_at": "2026-11-06T11:13:21.875073+00:00"
     },
     {
       "message_id": "<81ef7fb34c32e6376e6fcef2235112106a0047976e33f207970948ddd952ca21@gmail.com>",
@@ -7669,10 +7665,6 @@
       "sent_at": "2026-11-06T06:46:55.825961+00:00"
     },
     {
-      "message_id": "<a0f7923ebcd00fe33254a0ac009d729a46667f18654d9c2265d9e8dea37d95b7@gmail.com>",
-      "sent_at": "2026-11-04T09:58:43.363362+00:00"
-    },
-    {
       "message_id": "<a44f6f0d478851043643e74ac6582ca975b660e2692f351e81624fb0032fc794@gmail.com>",
       "sent_at": "2026-11-04T12:23:52.007368+00:00"
     },
@@ -7693,16 +7685,8 @@
       "sent_at": "2026-11-06T09:32:00.137783+00:00"
     },
     {
-      "message_id": "<b8b0d599b404ed783e11de9c25281a9d55756c03d3f2ecea126337b7243143de@gmail.com>",
-      "sent_at": "2026-11-04T09:43:50.435774+00:00"
-    },
-    {
       "message_id": "<bc42abb9578ad955176d92547f73500f7bc5d7f2b9ecc00b81299f9ec09662a2@gmail.com>",
       "sent_at": "2026-11-04T12:44:05.621733+00:00"
-    },
-    {
-      "message_id": "<bda316561bcb8bbd372805aa09d63865dd112538b90661616f0e16b8684df5fb@gmail.com>",
-      "sent_at": "2026-11-04T09:49:07.034607+00:00"
     },
     {
       "message_id": "<c6238def6e602c61186e1fe4f6ea245977c910a9787bae80caa37a20f91e16cf@gmail.com>",
@@ -7723,10 +7707,6 @@
     {
       "message_id": "<d6118233776b3de7a1d66614458fecccfe4d1517f6393bac45688f708f299d15@gmail.com>",
       "sent_at": "2026-11-04T11:23:52.078872+00:00"
-    },
-    {
-      "message_id": "<d68eb6fc05f3709af321c8748d2444b953a161cf5d8c67a9a613e259d2add130@gmail.com>",
-      "sent_at": "2026-11-04T09:38:40.522829+00:00"
     },
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
