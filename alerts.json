@@ -7765,7 +7765,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"540795\", \"544608\", \"544524\", \"500144\", \"517569\", \"542652\", \"543981\", \"544793\", \"504212\", \"532259\", \"530555\", \"517354\", \"522163\", \"532941\", \"538706\", \"534618\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T10:38:48.099369+00:00\", \"seconds\": 129.75}"
+      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"543981\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T10:43:00.825146+00:00\", \"seconds\": 82.52}"
     },
     {
       "key": "migration_date",
