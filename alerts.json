@@ -3875,8 +3875,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-06T07:21:37.907497+00:00",
       "news_id": "a661f97e-0751-42ae-9d97-d9c18fec8b6a",
-      "payload": "{\"NEWSID\": \"a661f97e-0751-42ae-9d97-d9c18fec8b6a\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_A661F97E-0751-42AE-9D97-D9C18FEC8B6A\", \"NEWSSUB\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Pursuant To Regulation 29 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-11-06T12:47:42.587\", \"NEWS_DT\": \"2026-11-06T12:47:42.587\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e9a85c9f-a90e-4d2b-922e-840a329a0fe5.pdf\", \"MORE\": \"Insolation Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, we wish to inform that a meeting of the Board of Directors of the Company is scheduled to be held on Friday, 13th November, 2026, inter alia, to consider and approve the standalone and consolidated un-audited financial results of the Company for the quarter and half year ended 30th September, 2026 and to transact such other businesses.\\r\\n\\r\\nIn continuation to our letter dated 25th September, 2026, regarding the closure of Trading Window from 1st October, 2026 till 48 hours after declaration of the unaudited Financial Results (Standalone & Consolidated) for the quarter and half year ended on 30th September, 2026, we wish to inform you that the trading window shall remain closed till 15th November, 2026 (both inclusive days) for all the designated persons of the Company and their immediate relatives.\\r\\n\", \"HEADLINE\": \"Insolation Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T12:47:41\", \"DissemDT\": \"2026-11-06T12:47:42.587\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 365128, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Prior Intimation Of Board Meeting Pursuant To Regulation 29 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-11-06T12:47:42.587\", \"_category\": \"Board Meeting\", \"_headline\": \"Insolation Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9a85c9f-a90e-4d2b-922e-840a329a0fe5.pdf\", \"_id\": \"a661f97e-0751-42ae-9d97-d9c18fec8b6a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -7502,6 +7502,10 @@
     {
       "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
       "sent_at": "2026-11-05T10:25:26.708622+00:00"
+    },
+    {
+      "message_id": "<4d386b7f9b128c069f7c8f276a3ab25d9d2ef20054c59155d8950ec6bef34779@gmail.com>",
+      "sent_at": "2026-11-06T07:21:47.217092+00:00"
     },
     {
       "message_id": "<50ac4c08552da0e37bbde2b1a7062d3e088c856b94707824d1a32f55ad58bc05@gmail.com>",
