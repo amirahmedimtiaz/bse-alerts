@@ -6113,6 +6113,13 @@
     },
     {
       "company_key": "544862",
+      "discovered_at": "2026-11-06T04:41:22.144229+00:00",
+      "news_id": "4c5240ae-b668-43b0-84d8-d9cf4985185d",
+      "payload": "{\"NEWSID\": \"4c5240ae-b668-43b0-84d8-d9cf4985185d\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_4C5240AE-B668-43B0-84D8-D9CF4985185D\", \"NEWSSUB\": \"Board Meeting Intimation for Resheduling Of Board Meeting\", \"DT_TM\": \"2026-11-06T10:07:21.803\", \"NEWS_DT\": \"2026-11-06T10:07:21.803\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cdcf45c9-d5da-4be0-9114-a35358844663.pdf\", \"MORE\": \"Solex Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Standalone and Consolidated  Financial Results of the Company for the quarter and half year ended September 30, 2026.\", \"HEADLINE\": \"Solex Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Standalone and Consolidated ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 101, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T10:07:20\", \"DissemDT\": \"2026-11-06T10:07:21.803\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 274773, \"SUBCATNAME\": \"Board Meeting Rescheduled\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Resheduling Of Board Meeting\", \"_published\": \"2026-11-06T10:07:21.803\", \"_category\": \"Company Update\", \"_headline\": \"Solex Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Standalone and Consolidated ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cdcf45c9-d5da-4be0-9114-a35358844663.pdf\", \"_id\": \"4c5240ae-b668-43b0-84d8-d9cf4985185d\"}",
+      "status": "pending"
+    },
+    {
+      "company_key": "544862",
       "discovered_at": "2026-09-23T05:12:07.584913+00:00",
       "news_id": "5023c185-c804-40b9-87f1-563d6f4b3195",
       "payload": null,
