@@ -5303,8 +5303,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-06T09:21:41.780681+00:00",
       "news_id": "51333bcb-eb63-4013-b964-4ad0373b4bb7",
-      "payload": "{\"NEWSID\": \"51333bcb-eb63-4013-b964-4ad0373b4bb7\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_51333BCB-EB63-4013-B964-4AD0373B4BB7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-06T14:50:32.267\", \"NEWS_DT\": \"2026-11-06T14:50:32.267\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2d774902-575a-494d-a0d3-5d53e877bcdc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publications\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-06T14:50:32\", \"DissemDT\": \"2026-11-06T14:50:32.267\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 12693866, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-06T14:50:32.267\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publications\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2d774902-575a-494d-a0d3-5d53e877bcdc.pdf\", \"_id\": \"51333bcb-eb63-4013-b964-4ad0373b4bb7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -7494,6 +7494,10 @@
     {
       "message_id": "<2dd772bf0373fc049b17f32bd2e95392c6049106e6564a3cb18d02cc92f44e35@gmail.com>",
       "sent_at": "2026-11-04T12:18:51.928367+00:00"
+    },
+    {
+      "message_id": "<2dda5842e4f41f5b59936a1ea538885961448cbe1cd3c51e467dba600c267d9f@gmail.com>",
+      "sent_at": "2026-11-06T09:22:00.603620+00:00"
     },
     {
       "message_id": "<3418787548d926795c62636919bfc75e4c73ec8ba08d1ea59596fd957328a49c@gmail.com>",
