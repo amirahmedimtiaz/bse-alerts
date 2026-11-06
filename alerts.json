@@ -7570,7 +7570,7 @@
   "metadata": [
     {
       "key": "health",
-      "value": "{\"companies\": 51, \"collected\": 0, \"failed\": [\"NSE:VIVIANA\"], \"catching_up\": [], \"sent\": 0, \"emails\": 0, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-05T23:16:20.094631+00:00\", \"seconds\": 20.11}"
+      "value": "{\"companies\": 51, \"collected\": 1, \"failed\": [], \"catching_up\": [\"NSE:VIVIANA\"], \"sent\": 1, \"emails\": 1, \"email_failed\": false, \"pending\": 0, \"finished_at\": \"2026-11-06T00:11:14.530517+00:00\", \"seconds\": 26.36}"
     },
     {
       "key": "migration_date",
