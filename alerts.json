@@ -7158,8 +7158,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548019+00:00",
       "news_id": "nse-fallback:0244e510d1963689baf816a3fe48c1ef14270a8e8aed8a2c26dbe39c644c9045",
-      "payload": "{\"symbol\": \"VEEDOL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125448\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TIDEWATER1_07112026125439_UFRnewspaper07112026.pdf\", \"sm_name\": \"Veedol Corporation Limited\", \"sm_isin\": \"INE484C01030\", \"an_dt\": \"07-Nov-2026 12:54:48\", \"sort_date\": \"2026-11-07 12:54:48\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Veedol Corporation Limited has informed the Exchange about Copy of Newspaper Publication in respect of publication of the extract of the Unaudited Financial Results of the Company for the quarter and half year ended 30th September, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:54:49\", \"difference\": \"00:00:01\", \"fileSize\": \"930.25 KB\", \"attFileSize\": \"930.25 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:54:48\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Veedol Corporation Limited has informed the Exchange about Copy of Newspaper Publication in respect of publication of the extract of the Unaudited Financial Results of the Company for the quarter and half year ended 30th September, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TIDEWATER1_07112026125439_UFRnewspaper07112026.pdf\", \"_id\": \"nse-fallback:0244e510d1963689baf816a3fe48c1ef14270a8e8aed8a2c26dbe39c644c9045\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7249,8 +7249,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.547878+00:00",
       "news_id": "nse-fallback:11e30bca4079d8079cf7944869ec5723caf220798d479b336bd10a5f5bf080c0",
-      "payload": "{\"symbol\": \"MUKKA\", \"desc\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"dt\": \"07112026125331\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MUKKA_07112026125320_Statement_of_Deviation.pdf\", \"sm_name\": \"Mukka Proteins Limited\", \"sm_isin\": \"INE0CG401037\", \"an_dt\": \"07-Nov-2026 12:53:31\", \"sort_date\": \"2026-11-07 12:53:31\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Mukka Proteins Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:53:32\", \"difference\": \"00:00:01\", \"fileSize\": \"651.64 KB\", \"attFileSize\": \"651.64 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/MUKKA_07112026125320_Statement_of_Deviation.mp3\", \"voiceSummary\": \"Mukka Proteins Limited filed a statement of deviation or variation in the utilization of funds raised through a preferential issue of warrants for the quarter ended 30th September 2026. The company confirms there has been no deviation or variation in the use of proceeds. The preferential issue was allotted on 09/09/2026, raising Rs. 47,00,00,000. The Audit Committee reviewed the statement on 7th November 2026. Funds were allocated for working capital requirements, business expansion plans, and general corporate purposes. The original allocation for working capital was Rs. 35,00,00,000, with Rs. 11,75,00,000 utilized. Allocations for business expansion and general corporate purposes were Rs. 5,00,00,000 and Rs. 7,00,00,000 respectively, with no utilization reported for these categories. The monitoring agency is not applicable.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_published\": \"2026-11-07 12:53:31\", \"_category\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_headline\": \"Mukka Proteins Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MUKKA_07112026125320_Statement_of_Deviation.pdf\", \"_id\": \"nse-fallback:11e30bca4079d8079cf7944869ec5723caf220798d479b336bd10a5f5bf080c0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7613,8 +7613,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548099+00:00",
       "news_id": "nse-fallback:5fdac896c68c95b5acb1a74ebdff69314b88624055ffd5d95fcfa7e1b9f86a5f",
-      "payload": "{\"symbol\": \"GOLDIAM\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026125617\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125359_Outcome_of_BM-7-11-26.pdf\", \"sm_name\": \"Goldiam International Limited\", \"sm_isin\": \"INE025B01017\", \"an_dt\": \"07-Nov-2026 12:56:17\", \"sort_date\": \"2026-11-07 12:56:17\", \"seq_id\": null, \"smIndustry\": \"Gems Jewellery And Watches\", \"orgid\": null, \"attchmntText\": \"Goldiam International Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:56:18\", \"difference\": \"00:00:01\", \"fileSize\": \"7.09 MB\", \"attFileSize\": \"7.09 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 12:56:17\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Goldiam International Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125359_Outcome_of_BM-7-11-26.pdf\", \"_id\": \"nse-fallback:5fdac896c68c95b5acb1a74ebdff69314b88624055ffd5d95fcfa7e1b9f86a5f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7627,8 +7627,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548079+00:00",
       "news_id": "nse-fallback:60f06b7dd1be02d529c2f53dfed12ca7936b17e07970285e54096a44cf382a8c",
-      "payload": "{\"symbol\": \"SEDEMAC\", \"desc\": \"ESOP/ESOS/ESPS\", \"dt\": \"07112026125600\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SEDEMAC2007_07112026125549_20261107-IntimationofAllotmentofShares.pdf\", \"sm_name\": \"SEDEMAC Mechatronics Limited\", \"sm_isin\": \"INE00XB01019\", \"an_dt\": \"07-Nov-2026 12:56:00\", \"sort_date\": \"2026-11-07 12:56:00\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"SEDEMAC Mechatronics Limited has informed the Exchange regarding Allotment of 4390  Shares.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:56:02\", \"difference\": \"00:00:02\", \"fileSize\": \"192.76 KB\", \"attFileSize\": \"192.76 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"ESOP/ESOS/ESPS\", \"_published\": \"2026-11-07 12:56:00\", \"_category\": \"ESOP/ESOS/ESPS\", \"_headline\": \"SEDEMAC Mechatronics Limited has informed the Exchange regarding Allotment of 4390  Shares.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SEDEMAC2007_07112026125549_20261107-IntimationofAllotmentofShares.pdf\", \"_id\": \"nse-fallback:60f06b7dd1be02d529c2f53dfed12ca7936b17e07970285e54096a44cf382a8c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7795,8 +7795,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548131+00:00",
       "news_id": "nse-fallback:98d78cfc44b1c0dc3931047a471c8b3ab47e9a2b1c519b19459f560067baf270",
-      "payload": "{\"symbol\": \"ZODIACLOTH\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125750\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ZODIACLOTH_07112026125713_NewspaperdisclosureBM06112026Sd.pdf\", \"sm_name\": \"Zodiac Clothing Company Limited\", \"sm_isin\": \"INE206B01013\", \"an_dt\": \"07-Nov-2026 12:57:50\", \"sort_date\": \"2026-11-07 12:57:50\", \"seq_id\": null, \"smIndustry\": \"Textile Products\", \"orgid\": null, \"attchmntText\": \"Zodiac Clothing Company Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:57:51\", \"difference\": \"00:00:01\", \"fileSize\": \"5.76 MB\", \"attFileSize\": \"5.76 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:57:50\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Zodiac Clothing Company Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ZODIACLOTH_07112026125713_NewspaperdisclosureBM06112026Sd.pdf\", \"_id\": \"nse-fallback:98d78cfc44b1c0dc3931047a471c8b3ab47e9a2b1c519b19459f560067baf270\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7886,8 +7886,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548059+00:00",
       "news_id": "nse-fallback:b2c63e83684ddd5ca0eb13c14371ebbd71cc6478ab2a01a960613dfb5ecd8894",
-      "payload": "{\"symbol\": \"VOEPL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125515\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIRTUOSO_07112026125506_Final_Newspaper_ad.pdf\", \"sm_name\": \"Virtuoso Optoelectronics Limited\", \"sm_isin\": \"INE0I0T01010\", \"an_dt\": \"07-Nov-2026 12:55:15\", \"sort_date\": \"2026-11-07 12:55:15\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Virtuoso Optoelectronics Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:55:16\", \"difference\": \"00:00:01\", \"fileSize\": \"3.92 MB\", \"attFileSize\": \"3.92 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:55:15\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Virtuoso Optoelectronics Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIRTUOSO_07112026125506_Final_Newspaper_ad.pdf\", \"_id\": \"nse-fallback:b2c63e83684ddd5ca0eb13c14371ebbd71cc6478ab2a01a960613dfb5ecd8894\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8033,8 +8033,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:28:29.548112+00:00",
       "news_id": "nse-fallback:d6e027e689451666a6eeb8975dbb43b95a3c4acc9e8a6e1e6edbf1e2c431bbc1",
-      "payload": "{\"symbol\": \"REMSONSIND\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026125743\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/REMSONSIND_07112026125535_Outcome.pdf\", \"sm_name\": \"Remsons Industries Limited\", \"sm_isin\": \"INE474C01015\", \"an_dt\": \"07-Nov-2026 12:57:43\", \"sort_date\": \"2026-11-07 12:57:43\", \"seq_id\": null, \"smIndustry\": \"Auto Ancillaries\", \"orgid\": null, \"attchmntText\": \"Remsons Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:57:44\", \"difference\": \"00:00:01\", \"fileSize\": \"6.23 MB\", \"attFileSize\": \"6.23 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 12:57:43\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Remsons Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/REMSONSIND_07112026125535_Outcome.pdf\", \"_id\": \"nse-fallback:d6e027e689451666a6eeb8975dbb43b95a3c4acc9e8a6e1e6edbf1e2c431bbc1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8692,6 +8692,10 @@
     {
       "message_id": "<5c6adf9af1a961272ca3169333462fb1848870ac2338a66ff4189ba9bd51488c@gmail.com>",
       "sent_at": "2026-11-06T17:38:03.671172+00:00"
+    },
+    {
+      "message_id": "<5da829b82ed5723e51343e2613ff6d163b40dee05a058de15967edd7c7a145bf@gmail.com>",
+      "sent_at": "2026-11-07T07:28:36.784605+00:00"
     },
     {
       "message_id": "<6346ae356a92e997b9a0695c5dd86172e58f3e8a6a4a1e456dee1b03c0d94bb6@gmail.com>",
