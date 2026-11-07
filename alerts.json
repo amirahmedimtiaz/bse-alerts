@@ -7627,8 +7627,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636507+00:00",
       "news_id": "nse-fallback:84990e6f3ed17015924ef168d8122ff3256ece1a6edf1bad68a4a1b9468c12d1",
-      "payload": "{\"symbol\": \"MGEL\", \"desc\": \"Credit Rating\", \"dt\": \"07112026122038\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MGEL_07112026121928_CREDIT_RATING_07112026_SIGNED.pdf\", \"sm_name\": \"Mangalam Global Enterprise Limited\", \"sm_isin\": \"INE0APB01016\", \"an_dt\": \"07-Nov-2026 12:20:38\", \"sort_date\": \"2026-11-07 12:20:38\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Mangalam Global Enterprise Limited has informed the Exchange about Credit Rating\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:20:39\", \"difference\": \"00:00:01\", \"fileSize\": \"825.51 KB\", \"attFileSize\": \"825.51 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Credit Rating\", \"_published\": \"2026-11-07 12:20:38\", \"_category\": \"Credit Rating\", \"_headline\": \"Mangalam Global Enterprise Limited has informed the Exchange about Credit Rating\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MGEL_07112026121928_CREDIT_RATING_07112026_SIGNED.pdf\", \"_id\": \"nse-fallback:84990e6f3ed17015924ef168d8122ff3256ece1a6edf1bad68a4a1b9468c12d1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7739,8 +7739,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636494+00:00",
       "news_id": "nse-fallback:b18e690107ef58fcfdbcb76b564c7cc18a88c78ff9294cc948bb011cec09823d",
-      "payload": "{\"symbol\": \"VARMORA\", \"desc\": \"Monitoring Agency Report\", \"dt\": \"07112026122023\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VARMORA_07112026121915_Monitoring_Agency_Final-Signed.pdf\", \"sm_name\": \"Varmora Granito Limited\", \"sm_isin\": \"INE0M5301040\", \"an_dt\": \"07-Nov-2026 12:20:23\", \"sort_date\": \"2026-11-07 12:20:23\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Disclosure under Regulation 32 (6) of the Securities and Exchange Board of India(Listing Obligations and Disclosure Requirements) Regulations, 2015- Monitoring AgencyReport\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:20:24\", \"difference\": \"00:00:01\", \"fileSize\": \"5.58 MB\", \"attFileSize\": \"5.58 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Monitoring Agency Report\", \"_published\": \"2026-11-07 12:20:23\", \"_category\": \"Monitoring Agency Report\", \"_headline\": \"Disclosure under Regulation 32 (6) of the Securities and Exchange Board of India(Listing Obligations and Disclosure Requirements) Regulations, 2015- Monitoring AgencyReport\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VARMORA_07112026121915_Monitoring_Agency_Final-Signed.pdf\", \"_id\": \"nse-fallback:b18e690107ef58fcfdbcb76b564c7cc18a88c78ff9294cc948bb011cec09823d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7760,8 +7760,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636403+00:00",
       "news_id": "nse-fallback:b6fc5f73d5a18439dcf469c87de18f084f51ce50af32ef2dfffcd2d55d024182",
-      "payload": "{\"symbol\": \"VSSL\", \"desc\": \"Updates\", \"dt\": \"07112026121915\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VSSL_07112026121855_vssl_demat_sd.pdf\", \"sm_name\": \"Vardhman Special Steels Limited\", \"sm_isin\": \"INE050M01012\", \"an_dt\": \"07-Nov-2026 12:19:15\", \"sort_date\": \"2026-11-07 12:19:15\", \"seq_id\": null, \"smIndustry\": \"Steel And Steel Products\", \"orgid\": null, \"attchmntText\": \"Vardhman Special Steels Limited has informed the Exchange regarding 'Demat Report for the month ended October, 2026.'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:19:16\", \"difference\": \"00:00:01\", \"fileSize\": \"1.17 MB\", \"attFileSize\": \"1.17 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VSSL_07112026121855_vssl_demat_sd.mp3\", \"voiceSummary\": \"Vardhman Special Steels Limited filed a notice with the BSE and NSE regarding the dematerialization of shares. The company certified that 476 equity shares were dematerialized during October 2026. The dematerialization occurred on 13th October 2026. Share certificates were cancelled and substituted with the depository name as the registered owner. The filing was made pursuant to Regulation 74(5) of the SEBI Depositories and Participants Regulations, 2018. The notice was issued on 07.11.2026. Sonam Dhingra, Company Secretary, signed the certification. The document includes an annexure listing distinctive numbers, certificate numbers, and share counts for the dematerialized holdings.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-07 12:19:15\", \"_category\": \"Updates\", \"_headline\": \"Vardhman Special Steels Limited has informed the Exchange regarding 'Demat Report for the month ended October, 2026.'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VSSL_07112026121855_vssl_demat_sd.pdf\", \"_id\": \"nse-fallback:b6fc5f73d5a18439dcf469c87de18f084f51ce50af32ef2dfffcd2d55d024182\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7872,15 +7872,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636466+00:00",
       "news_id": "nse-fallback:daa2a3618ef5e3f03ce4d95e8f5dcd72024216a76776e99bf8ab392e73eb472c",
-      "payload": "{\"symbol\": \"SUBROS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026121925\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SUBROS_07112026121627_Transcript07112026.pdf\", \"sm_name\": \"Subros Limited\", \"sm_isin\": \"INE287B01021\", \"an_dt\": \"07-Nov-2026 12:19:25\", \"sort_date\": \"2026-11-07 12:19:25\", \"seq_id\": null, \"smIndustry\": \"Auto Ancillaries\", \"orgid\": null, \"attchmntText\": \"Subros Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:19:27\", \"difference\": \"00:00:02\", \"fileSize\": \"249.76 KB\", \"attFileSize\": \"249.76 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SUBROS_07112026121627_Transcript07112026.mp3\", \"voiceSummary\": \"Subros Limited has uploaded the transcript of the Analyst and Investor Conference Call held on November 4, 2026. The document is available on the company website at https://www.subros.com/investors/investor-presentation. This filing is made pursuant to Regulation 30 of SEBI Listing Obligations and Disclosure Requirements Regulations, 2015. The company requests the National Stock Exchange and BSE to take the transcript on record.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 12:19:25\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Subros Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SUBROS_07112026121627_Transcript07112026.pdf\", \"_id\": \"nse-fallback:daa2a3618ef5e3f03ce4d95e8f5dcd72024216a76776e99bf8ab392e73eb472c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636521+00:00",
       "news_id": "nse-fallback:deb607f3e19ebd57141a3e1a895f5ee258de0401aeaa0a89cbfcab21d54db897",
-      "payload": "{\"symbol\": \"ASTRAZEN\", \"desc\": \"Product launch\", \"dt\": \"07112026122121\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASTRAZEN_07112026122025_Intimation_to_Stock_Exchanges__Product_launch__Without_TB02_.pdf\", \"sm_name\": \"AstraZeneca Pharma India Limited\", \"sm_isin\": \"INE203A01020\", \"an_dt\": \"07-Nov-2026 12:21:21\", \"sort_date\": \"2026-11-07 12:21:21\", \"seq_id\": null, \"smIndustry\": \"Pharmaceuticals\", \"orgid\": null, \"attchmntText\": \"AstraZeneca Pharma India Limited has informed the Exchange about Product launch\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:21:22\", \"difference\": \"00:00:01\", \"fileSize\": \"289.31 KB\", \"attFileSize\": \"289.31 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Product launch\", \"_published\": \"2026-11-07 12:21:21\", \"_category\": \"Product launch\", \"_headline\": \"AstraZeneca Pharma India Limited has informed the Exchange about Product launch\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASTRAZEN_07112026122025_Intimation_to_Stock_Exchanges__Product_launch__Without_TB02_.pdf\", \"_id\": \"nse-fallback:deb607f3e19ebd57141a3e1a895f5ee258de0401aeaa0a89cbfcab21d54db897\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7921,8 +7921,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636534+00:00",
       "news_id": "nse-fallback:f1122ffc776f581d8a7fc3a0de6859af8b87b72c49dd83897520982129cbccf7",
-      "payload": "{\"symbol\": \"NACLIND\", \"desc\": \"General Updates\", \"dt\": \"07112026122218\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/NACLIND_07112026122019_NewspaperpublicationofQ2results2026.pdf\", \"sm_name\": \"NACL Industries Limited\", \"sm_isin\": \"INE295D01020\", \"an_dt\": \"07-Nov-2026 12:22:18\", \"sort_date\": \"2026-11-07 12:22:18\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"NACL Industries Limited has informed the Exchange about Newspaper publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:22:19\", \"difference\": \"00:00:01\", \"fileSize\": \"5.70 MB\", \"attFileSize\": \"5.70 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-07 12:22:18\", \"_category\": \"General Updates\", \"_headline\": \"NACL Industries Limited has informed the Exchange about Newspaper publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/NACLIND_07112026122019_NewspaperpublicationofQ2results2026.pdf\", \"_id\": \"nse-fallback:f1122ffc776f581d8a7fc3a0de6859af8b87b72c49dd83897520982129cbccf7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7977,15 +7977,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636273+00:00",
       "news_id": "nse-fallback:fb735e2d492f1ad6143627d21fe92fe98ccf948771ab35ca96d16cd632bd38d5",
-      "payload": "{\"symbol\": \"DCMSRIND\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026121833\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DCMSRIND_07112026121558_Outcome_Financials.pdf\", \"sm_name\": \"DCM Shriram Industries Limited\", \"sm_isin\": \"INE843D01027\", \"an_dt\": \"07-Nov-2026 12:18:33\", \"sort_date\": \"2026-11-07 12:18:33\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"DCM Shriram Industries Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:18:34\", \"difference\": \"00:00:01\", \"fileSize\": \"6.44 MB\", \"attFileSize\": \"6.44 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/DCMSRIND_07112026121558_Outcome_Financials.mp3\", \"voiceSummary\": \"DCM Shriram Industries Limited has adopted its unaudited financial results for the quarter and half year ended 30 September 2026. The Board of Directors approved the results during a meeting held on 07 November 2026. The statutory auditors, BSR & Co. LLP, issued an unmodified opinion following a limited review. For the quarter ended 30 September 2026, the company reported net sales of 30,933 lakhs and a net profit after tax of 1,302 lakhs. Earnings per share stood at 1.50. For the six-month period, net sales were 60,221 lakhs with a net profit after tax of 1,457 lakhs. Total assets as at 30 September 2026 amounted to 96,873 lakhs. The results are available on the company website and stock exchange portals.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 12:18:33\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"DCM Shriram Industries Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DCMSRIND_07112026121558_Outcome_Financials.pdf\", \"_id\": \"nse-fallback:fb735e2d492f1ad6143627d21fe92fe98ccf948771ab35ca96d16cd632bd38d5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:53:29.636481+00:00",
       "news_id": "nse-fallback:fb90a8a782076efbbf89b196c1fcae11d6fcec1ce0abbdfb98087665aae71140",
-      "payload": "{\"symbol\": \"CORDSCABLE\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026121951\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CORDSCABLE_07112026121808_NewsPaper_Advertisement.pdf\", \"sm_name\": \"Cords Cable Industries Limited\", \"sm_isin\": \"INE792I01017\", \"an_dt\": \"07-Nov-2026 12:19:51\", \"sort_date\": \"2026-11-07 12:19:51\", \"seq_id\": null, \"smIndustry\": \"Miscellaneous\", \"orgid\": null, \"attchmntText\": \"Cords Cable Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:19:52\", \"difference\": \"00:00:01\", \"fileSize\": \"2.06 MB\", \"attFileSize\": \"2.06 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/CORDSCABLE_07112026121808_NewsPaper_Advertisement.mp3\", \"voiceSummary\": \"Cords Cable Industries Limited published its un-audited financial results for the second quarter and half year ended on September 30, 2026. The results were published in the Financial Express and Jansatta newspapers on November 07, 2026. This disclosure was made pursuant to Regulation 30 of the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015. The company submitted the announcement to the National Stock Exchange of India Limited and BSE Limited. The document serves as a routine compliance filing to place the financial data on record with the exchanges. No specific financial figures or voting resolutions are detailed in this text.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:19:51\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Cords Cable Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CORDSCABLE_07112026121808_NewsPaper_Advertisement.pdf\", \"_id\": \"nse-fallback:fb90a8a782076efbbf89b196c1fcae11d6fcec1ce0abbdfb98087665aae71140\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8635,6 +8635,10 @@
     {
       "message_id": "<bef23b861fd15b6cb752deccf108ee1355b38b0a9026000c5aa7e1839e2a71b2@gmail.com>",
       "sent_at": "2026-11-07T06:48:36.116506+00:00"
+    },
+    {
+      "message_id": "<c117c5b3fddfe935f322bf0b59a232eaf97bd7c71e55acc136b15e70be31fd2a@gmail.com>",
+      "sent_at": "2026-11-07T06:53:37.218220+00:00"
     },
     {
       "message_id": "<c3eed706ad9a3e694494db27c564d06eaf97b740fd71ae3072b11ce692a82e8e@gmail.com>",
