@@ -6808,8 +6808,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-07T14:52:11.988257+00:00",
       "news_id": "106852274",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Press Release\", \"dt\": \"07-Nov-2026 13:56:59\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_07112026135642_PressReleaseH1FY27.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"07-Nov-2026 13:56:59\", \"sort_date\": \"2026-11-07 13:56:59\", \"seq_id\": \"106852274\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \\\"Australian Premium Solar (India) Limited Delivers 45% Growth in Total Income in H1 FY27; PAT Up 16% as Module Capacity Scales to 1.2 GW\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"727.49 KB\", \"attFileSize\": \"727.49 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/APS_07112026135642_PressReleaseH1FY27.mp3\", \"voiceSummary\": \"Australian Premium Solar India Limited filed a press release regarding its unaudited consolidated financial results for the half-year ended September 30th, 2026. Total income grew 45.05% year-on-year to Rs. 439.41 crore. EBITDA rose 21.07% to Rs. 52.40 crore. Profit after tax increased 15.80% to Rs. 33.12 crore. Diluted earnings per share stood at Rs. 16.43. The Board declared an interim dividend of Rs. 0.15 per equity share. Commercial production commenced at a second 400 MW TOPCon module line on October 13, 2026. Total module capacity scaled to 1.2 GW. The company acquired the remaining stake in Aplus Solar Cell Limited for Rs. 99,990. This acquisition makes Aplus Solar Cell Limited a wholly owned subsidiary.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 13:56:59\", \"_category\": \"Press Release\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \\\"Australian Premium Solar (India) Limited Delivers 45% Growth in Total Income in H1 FY27; PAT Up 16% as Module Capacity Scales to 1.2 GW\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_07112026135642_PressReleaseH1FY27.pdf\", \"_id\": \"106852274\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -7214,15 +7214,15 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-07T14:52:21.788583+00:00",
       "news_id": "106851570",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"06-Nov-2026 19:34:45\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_06112026193325_Outcome_NSE.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 19:34:45\", \"sort_date\": \"2026-11-06 19:34:45\", \"seq_id\": \"106851570\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"4.50 MB\", \"attFileSize\": \"4.50 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-06 19:34:45\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"TBI Corn Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_06112026193325_Outcome_NSE.pdf\", \"_id\": \"106851570\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-07T14:52:21.788848+00:00",
       "news_id": "106851584",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"dt\": \"06-Nov-2026 19:39:03\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBICORN_06112026193851_SOD_TBI.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"06-Nov-2026 19:39:03\", \"sort_date\": \"2026-11-06 19:39:03\", \"seq_id\": \"106851584\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.29 MB\", \"attFileSize\": \"1.29 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_published\": \"2026-11-06 19:39:03\", \"_category\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_headline\": \"TBI Corn Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBICORN_06112026193851_SOD_TBI.pdf\", \"_id\": \"106851584\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8523,15 +8523,15 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-07T14:52:11.032873+00:00",
       "news_id": "106852009",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07-Nov-2026 10:37:13\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_07112026103701_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"07-Nov-2026 10:37:13\", \"sort_date\": \"2026-11-07 10:37:13\", \"seq_id\": \"106852009\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.61 MB\", \"attFileSize\": \"3.61 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/Ranjan_07112026103701_VIL.mp3\", \"voiceSummary\": \"V-MARC India Limited filed a public notice regarding its Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026. The notice was advertised in newspapers. The company submitted the results to the National Stock Exchange of India Limited. The document includes an extract of the consolidated results. Revenue from operations for the half year ended September 30, 2026, was 127536. For the previous period, it was 179731. For the quarter ended September 30, 2026, revenue was 69154. The full format of the standalone and consolidated results is available on the company website. The notice was issued by Company Secretary Anuj Ahluwalia. The date of the letter is 07.11.2026. The NSE symbol is VMARCIND. The ISIN is INEOGXK01018.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 10:37:13\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"V Marc India Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_07112026103701_VIL.pdf\", \"_id\": \"106852009\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-07T14:52:11.033003+00:00",
       "news_id": "106852138",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Investor Presentation\", \"dt\": \"07-Nov-2026 12:39:51\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_07112026123940_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"07-Nov-2026 12:39:51\", \"sort_date\": \"2026-11-07 12:39:51\", \"seq_id\": \"106852138\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"9.26 MB\", \"attFileSize\": \"9.26 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/Ranjan_07112026123940_VIL.mp3\", \"voiceSummary\": \"V-MARC India Limited filed an investor presentation for the second quarter and half-year ended September 2026. The company reported consolidated revenue from operations of Rs 7,198 Mn for Q2 FY27, representing a 29.6% quarter-on-quarter increase and a 72.6% year-on-year rise. Half-year revenue reached Rs 12,754 Mn, up 84.4% year-on-year. Profit after tax for Q2 FY27 stood at Rs 479 Mn, a 68.0% increase from the previous quarter. Half-year profit after tax was Rs 764 Mn, showing a 103.8% year-on-year growth. The EBITDA margin for Q2 FY27 improved to 12.2%. The company revised its full-year FY27 revenue growth guidance upward to 60% or more from the previous 40% or more.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-07 12:39:51\", \"_category\": \"Investor Presentation\", \"_headline\": \"V Marc India Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_07112026123940_VIL.pdf\", \"_id\": \"106852138\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -8932,6 +8932,10 @@
     {
       "message_id": "<7faa75d9a04c1738c2b6a89f418df0bbbae973216b8368b72e7d72b4205ffb27@gmail.com>",
       "sent_at": "2026-11-07T08:11:55.066631+00:00"
+    },
+    {
+      "message_id": "<82c101c81b87d1deca0a5ade249cbef36b7b16fcbe721260d039e667d3a19cff@gmail.com>",
+      "sent_at": "2026-11-07T14:52:44.782878+00:00"
     },
     {
       "message_id": "<8672e9e084ae5c86a12f9c5a7694fe7bece2333d8ec9702338030929cb72558a@gmail.com>",
