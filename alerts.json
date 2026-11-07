@@ -7459,8 +7459,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:23:29.548294+00:00",
       "news_id": "nse-fallback:5d497fda775d554288354ab1d55832ad38e87c054339ff1551be3fd536d07dff",
-      "payload": "{\"symbol\": \"MARICO\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026115324\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/marico_07112026115258_Seint.pdf\", \"sm_name\": \"Marico Limited\", \"sm_isin\": \"INE196A01026\", \"an_dt\": \"07-Nov-2026 11:53:24\", \"sort_date\": \"2026-11-07 11:53:24\", \"seq_id\": null, \"smIndustry\": \"Personal Care\", \"orgid\": null, \"attchmntText\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the copies of the notice published in Business Standard (English) and Navshakti (Marathi) editions today i.e. November 7, 2026.  The same is being made available on the website of the Company.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:53:26\", \"difference\": \"00:00:02\", \"fileSize\": \"3.11 MB\", \"attFileSize\": \"3.11 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:53:24\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the copies of the notice published in Business Standard (English) and Navshakti (Marathi) editions today i.e. November 7, 2026.  The same is being made available on the website of the Company.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/marico_07112026115258_Seint.pdf\", \"_id\": \"nse-fallback:5d497fda775d554288354ab1d55832ad38e87c054339ff1551be3fd536d07dff\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7571,8 +7571,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:23:29.548116+00:00",
       "news_id": "nse-fallback:93c8769ea51f020e12b65e4370dc3d6c344b26141b70292553dfdafa2a38bca4",
-      "payload": "{\"symbol\": \"AHLUCONT\", \"desc\": \"Press Release\", \"dt\": \"07112026114831\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/532811_07112026114809_NewsPaperCutting07112026.pdf\", \"sm_name\": \"Ahluwalia Contracts (India) Limited\", \"sm_isin\": \"INE758C01029\", \"an_dt\": \"07-Nov-2026 11:48:31\", \"sort_date\": \"2026-11-07 11:48:31\", \"seq_id\": null, \"smIndustry\": \"Construction\", \"orgid\": null, \"attchmntText\": \"Ahluwalia Contracts (India) Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"News Published for Board Meeting\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:48:31\", \"difference\": \"00:00:00\", \"fileSize\": \"2.12 MB\", \"attFileSize\": \"2.12 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/532811_07112026114809_NewsPaperCutting07112026.mp3\", \"voiceSummary\": \"Ahluwalia Contracts India Limited has issued a notice for a Board of Directors meeting scheduled for Saturday, 14th November 2026. The agenda includes considering the Un-Audited Financial Results, both Standalone and Consolidated, for the quarter ended September 30, 2026, along with a limited review report. The trading window for dealing in the company's securities remains closed until 48 hours after the declaration of these financial results. The notice was published in the Financial Express and Jansatta on 07th November 2026. Additionally, the document contains unrelated notices from Bella Casa Fashion and Retail Limited regarding its financial results, Northern Railway e-tenders, and legal notices from Nivas Housing Finance Limited and IDFC First Bank Limited regarding property possession and gold auction.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 11:48:31\", \"_category\": \"Press Release\", \"_headline\": \"Ahluwalia Contracts (India) Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"News Published for Board Meeting\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/532811_07112026114809_NewsPaperCutting07112026.pdf\", \"_id\": \"nse-fallback:93c8769ea51f020e12b65e4370dc3d6c344b26141b70292553dfdafa2a38bca4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7753,8 +7753,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:23:29.548262+00:00",
       "news_id": "nse-fallback:f618c1568a3db3b7396056284a18f476507baa6cc68ffb11d38dab1533d02eb5",
-      "payload": "{\"symbol\": \"KIRIINDUS\", \"desc\": \"Allotment of Securities\", \"dt\": \"07112026115051\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KIRIINDUS_07112026115002_Intimation_Allotment_of_Warrants_S.pdf\", \"sm_name\": \"Kiri Industries Limited\", \"sm_isin\": \"INE415I01015\", \"an_dt\": \"07-Nov-2026 11:50:51\", \"sort_date\": \"2026-11-07 11:50:51\", \"seq_id\": null, \"smIndustry\": \"Dyes And Pigments\", \"orgid\": null, \"attchmntText\": \"Kiri Industries Limited has informed the Exchange regarding allotment of 6082600 securities pursuant to Preferential Issue at its meeting held on November 07, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:50:51\", \"difference\": \"00:00:00\", \"fileSize\": \"846.43 KB\", \"attFileSize\": \"846.43 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Allotment of Securities\", \"_published\": \"2026-11-07 11:50:51\", \"_category\": \"Allotment of Securities\", \"_headline\": \"Kiri Industries Limited has informed the Exchange regarding allotment of 6082600 securities pursuant to Preferential Issue at its meeting held on November 07, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KIRIINDUS_07112026115002_Intimation_Allotment_of_Warrants_S.pdf\", \"_id\": \"nse-fallback:f618c1568a3db3b7396056284a18f476507baa6cc68ffb11d38dab1533d02eb5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8289,6 +8289,10 @@
     {
       "message_id": "<68cf0cd90a706188bba0145222f3499f2e17a3fb954293b1b2cfc013e39f29b8@gmail.com>",
       "sent_at": "2026-11-05T13:40:51.281492+00:00"
+    },
+    {
+      "message_id": "<6b96eddcf8a318621fcb69e0cbbc5102a1e0b812793cdf80a9963e90004666cc@gmail.com>",
+      "sent_at": "2026-11-07T06:23:36.409477+00:00"
     },
     {
       "message_id": "<6d2529f47c2b1c63cdb2bc5bc21a032a8824f6f318a406558febba158c9ac2d6@gmail.com>",
