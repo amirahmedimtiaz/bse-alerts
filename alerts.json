@@ -7550,8 +7550,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:48:29.476177+00:00",
       "news_id": "nse-fallback:6d9288a5792e29914f441544d70800e0d033054c8e0e03d4df31ab19b1e4f99b",
-      "payload": "{\"symbol\": \"ATGL\", \"desc\": \"General Updates\", \"dt\": \"07112026121818\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ATGL2024_07112026121809_ATGL_SE_Intimation_Appt_SMP_07112026.pdf\", \"sm_name\": \"Adani Total Gas Limited\", \"sm_isin\": \"INE399L01023\", \"an_dt\": \"07-Nov-2026 12:18:18\", \"sort_date\": \"2026-11-07 12:18:18\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Adani Total Gas Limited has informed the Exchange about General Updates - Change in Senior Management Personnel of the Company\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:18:19\", \"difference\": \"00:00:01\", \"fileSize\": \"274.84 KB\", \"attFileSize\": \"274.84 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-07 12:18:18\", \"_category\": \"General Updates\", \"_headline\": \"Adani Total Gas Limited has informed the Exchange about General Updates - Change in Senior Management Personnel of the Company\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ATGL2024_07112026121809_ATGL_SE_Intimation_Appt_SMP_07112026.pdf\", \"_id\": \"nse-fallback:6d9288a5792e29914f441544d70800e0d033054c8e0e03d4df31ab19b1e4f99b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7795,8 +7795,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:48:29.476037+00:00",
       "news_id": "nse-fallback:cbc5f4afea50b29e191808bfc3642e07d9f0f74b96bdf652b11b7140c304b988",
-      "payload": "{\"symbol\": \"KAMOPAINTS\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026121424\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KVENTURES_07112026121100_Intimation_.pdf\", \"sm_name\": \"Kamdhenu Ventures Limited\", \"sm_isin\": \"INE0BTI01029\", \"an_dt\": \"07-Nov-2026 12:14:24\", \"sort_date\": \"2026-11-07 12:14:24\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"KAMOPAINTS: Kamdhenu Ventures Limited has informed the Exchange about copies of the newspaper publication regarding dispatch of the postal ballot notice dated 30th October, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:14:25\", \"difference\": \"00:00:01\", \"fileSize\": \"8.84 MB\", \"attFileSize\": \"8.84 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:14:24\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"KAMOPAINTS: Kamdhenu Ventures Limited has informed the Exchange about copies of the newspaper publication regarding dispatch of the postal ballot notice dated 30th October, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KVENTURES_07112026121100_Intimation_.pdf\", \"_id\": \"nse-fallback:cbc5f4afea50b29e191808bfc3642e07d9f0f74b96bdf652b11b7140c304b988\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7879,8 +7879,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:48:29.476156+00:00",
       "news_id": "nse-fallback:eea72c1cbca4f3b99ebba95f535d082d6a9a89459cd6b4a99558660a2f5aae8e",
-      "payload": "{\"symbol\": \"BANCOINDIA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026121551\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BANCOINDIA_07112026121347_Newspaper_Advertisement_Q2_sd.pdf\", \"sm_name\": \"Banco Products (I) Limited\", \"sm_isin\": \"INE213C01025\", \"an_dt\": \"07-Nov-2026 12:15:51\", \"sort_date\": \"2026-11-07 12:15:51\", \"seq_id\": null, \"smIndustry\": \"Auto Ancillaries\", \"orgid\": null, \"attchmntText\": \"Banco Products (I) Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:15:52\", \"difference\": \"00:00:01\", \"fileSize\": \"9.43 MB\", \"attFileSize\": \"9.43 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:15:51\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Banco Products (I) Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BANCOINDIA_07112026121347_Newspaper_Advertisement_Q2_sd.pdf\", \"_id\": \"nse-fallback:eea72c1cbca4f3b99ebba95f535d082d6a9a89459cd6b4a99558660a2f5aae8e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8575,6 +8575,10 @@
     {
       "message_id": "<bd7b810ff27b5fea771a1e30902904bdf8e5238be043d3e677303cbc214fbffa@gmail.com>",
       "sent_at": "2026-11-06T11:47:23.133727+00:00"
+    },
+    {
+      "message_id": "<bef23b861fd15b6cb752deccf108ee1355b38b0a9026000c5aa7e1839e2a71b2@gmail.com>",
+      "sent_at": "2026-11-07T06:48:36.116506+00:00"
     },
     {
       "message_id": "<c3eed706ad9a3e694494db27c564d06eaf97b740fd71ae3072b11ce692a82e8e@gmail.com>",
