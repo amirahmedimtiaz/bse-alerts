@@ -7158,15 +7158,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524201+00:00",
       "news_id": "nse-fallback:0625b9c01ce86e6da652f0ce97c93ade7a54afa20ae76fc1698d735cb6f21405",
-      "payload": "{\"symbol\": \"BAGFILMS\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026124433\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BAGFILMS_07112026124341_BAGFILMSNP07112026.pdf\", \"sm_name\": \"B.A.G Films and Media Limited\", \"sm_isin\": \"INE116D01028\", \"an_dt\": \"07-Nov-2026 12:44:33\", \"sort_date\": \"2026-11-07 12:44:33\", \"seq_id\": null, \"smIndustry\": \"Media & Entertainment\", \"orgid\": null, \"attchmntText\": \"B.A.G Films and Media Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:44:34\", \"difference\": \"00:00:01\", \"fileSize\": \"1.89 MB\", \"attFileSize\": \"1.89 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:44:33\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"B.A.G Films and Media Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BAGFILMS_07112026124341_BAGFILMSNP07112026.pdf\", \"_id\": \"nse-fallback:0625b9c01ce86e6da652f0ce97c93ade7a54afa20ae76fc1698d735cb6f21405\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524277+00:00",
       "news_id": "nse-fallback:0638b8d0678c1315c3064947a39d606124024ff0970acabf9368695a4559f9f1",
-      "payload": "{\"symbol\": \"MAWANASUG\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026124628\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MAWANASUG_07112026123734_OutcomeofBMResult.pdf\", \"sm_name\": \"Mawana Sugars Limited\", \"sm_isin\": \"INE636A01039\", \"an_dt\": \"07-Nov-2026 12:46:28\", \"sort_date\": \"2026-11-07 12:46:28\", \"seq_id\": null, \"smIndustry\": \"Sugar\", \"orgid\": null, \"attchmntText\": \"Mawana Sugars Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:46:29\", \"difference\": \"00:00:01\", \"fileSize\": \"1.30 MB\", \"attFileSize\": \"1.30 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 12:46:28\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Mawana Sugars Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MAWANASUG_07112026123734_OutcomeofBMResult.pdf\", \"_id\": \"nse-fallback:0638b8d0678c1315c3064947a39d606124024ff0970acabf9368695a4559f9f1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7186,8 +7186,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524318+00:00",
       "news_id": "nse-fallback:07cf94e69334f6b85f0f0911dccb199ad6054aa45d2f21fb20f741a733c239c9",
-      "payload": "{\"symbol\": \"AKASH\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026124809\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AKASH_07112026124720_Akash.pdf\", \"sm_name\": \"Akash Infra Projects Limited\", \"sm_isin\": \"INE737W01013\", \"an_dt\": \"07-Nov-2026 12:48:09\", \"sort_date\": \"2026-11-07 12:48:09\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"AKASH: Akash Infra Projects Limited has informed the Exchange about Newspaper Publication of Financial Results for quarter and half year ended on 30th September 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:48:10\", \"difference\": \"00:00:01\", \"fileSize\": \"6.17 MB\", \"attFileSize\": \"6.17 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:48:09\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"AKASH: Akash Infra Projects Limited has informed the Exchange about Newspaper Publication of Financial Results for quarter and half year ended on 30th September 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AKASH_07112026124720_Akash.pdf\", \"_id\": \"nse-fallback:07cf94e69334f6b85f0f0911dccb199ad6054aa45d2f21fb20f741a733c239c9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7403,8 +7403,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524079+00:00",
       "news_id": "nse-fallback:38ae6085335af22140951e17290a0284e5c1352acc65ba97da725cc4208ecf76",
-      "payload": "{\"symbol\": \"KPIGREEN\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026124419\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KPIGLOBAL_07112026124019_44_Intimation_of_Earnings_call_07112026_To_Exchange_Signed.pdf\", \"sm_name\": \"KPI Green Energy Limited\", \"sm_isin\": \"INE542W01017\", \"an_dt\": \"07-Nov-2026 12:44:19\", \"sort_date\": \"2026-11-07 12:44:19\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"KPI Green Energy Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:44:20\", \"difference\": \"00:00:01\", \"fileSize\": \"533.81 KB\", \"attFileSize\": \"533.81 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 12:44:19\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"KPI Green Energy Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KPIGLOBAL_07112026124019_44_Intimation_of_Earnings_call_07112026_To_Exchange_Signed.pdf\", \"_id\": \"nse-fallback:38ae6085335af22140951e17290a0284e5c1352acc65ba97da725cc4208ecf76\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7690,8 +7690,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524294+00:00",
       "news_id": "nse-fallback:83a4d458962df898e53b599b55b916feac17e8440793bd462970de9e29429f75",
-      "payload": "{\"symbol\": \"DENTA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026124712\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DENTA_07112026124644_Newspaper_Publication.pdf\", \"sm_name\": \"Denta Water and Infra Solutions Limited\", \"sm_isin\": \"INE0R4L01018\", \"an_dt\": \"07-Nov-2026 12:47:12\", \"sort_date\": \"2026-11-07 12:47:12\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Denta Water and Infra Solutions Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:47:12\", \"difference\": \"00:00:00\", \"fileSize\": \"6.70 MB\", \"attFileSize\": \"6.70 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:47:12\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Denta Water and Infra Solutions Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DENTA_07112026124644_Newspaper_Publication.pdf\", \"_id\": \"nse-fallback:83a4d458962df898e53b599b55b916feac17e8440793bd462970de9e29429f75\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7886,8 +7886,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:18:29.524243+00:00",
       "news_id": "nse-fallback:c1b00652bf60c8633736f2460ca9644173da68471872ac25a41a3921f2c5dd84",
-      "payload": "{\"symbol\": \"CEATLTD\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026124453\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CEATLTD_07112026124409_SELetterNewspaperPublicationPostalBallotNov726signed.pdf\", \"sm_name\": \"CEAT Limited\", \"sm_isin\": \"INE482A01020\", \"an_dt\": \"07-Nov-2026 12:44:53\", \"sort_date\": \"2026-11-07 12:44:53\", \"seq_id\": null, \"smIndustry\": \"Tyres\", \"orgid\": null, \"attchmntText\": \"CEAT Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:44:55\", \"difference\": \"00:00:02\", \"fileSize\": \"4.64 MB\", \"attFileSize\": \"4.64 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:44:53\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"CEAT Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CEATLTD_07112026124409_SELetterNewspaperPublicationPostalBallotNov726signed.pdf\", \"_id\": \"nse-fallback:c1b00652bf60c8633736f2460ca9644173da68471872ac25a41a3921f2c5dd84\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8493,6 +8493,10 @@
       "sent_at": "2026-11-07T06:13:37.000804+00:00"
     },
     {
+      "message_id": "<20b6c4c2308acc91f578f719900033dd65e6fd97e255210b95b0f66b749e89a1@gmail.com>",
+      "sent_at": "2026-11-07T07:18:37.104653+00:00"
+    },
+    {
       "message_id": "<2166aff78cad9e43edda76158a618bc92c5b20e787f1ea8b0b7ad47e27b8060e@gmail.com>",
       "sent_at": "2026-11-07T05:58:36.815920+00:00"
     },
@@ -8675,10 +8679,6 @@
     {
       "message_id": "<87c6f6dd0d434efc76b0e0ef233838c42fba3c70a17bb31bfbd2cc128854943b@gmail.com>",
       "sent_at": "2026-11-07T04:08:37.046340+00:00"
-    },
-    {
-      "message_id": "<8d6a2feb9ec1ad64406c9eca0ceaa99c18f82e1912acfe9bcbc67d52e03e10f3@gmail.com>",
-      "sent_at": "2026-11-05T07:15:07.829183+00:00"
     },
     {
       "message_id": "<918f9b349d1b455969415a1b291231651741f86cd276273f6a928580b3f81565@gmail.com>",
