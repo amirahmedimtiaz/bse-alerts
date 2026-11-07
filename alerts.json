@@ -7137,8 +7137,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:03:29.670335+00:00",
       "news_id": "nse-fallback:078e2d4f95dd22be1d839032ffd72b6fe5277dd6c82921a9799e9e63a7c57dc5",
-      "payload": "{\"symbol\": \"EPACKPEB\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026113004\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/EPACKPREFAB_07112026112651_Intimation_Transcript.pdf\", \"sm_name\": \"EPack Prefab Technologies Limited\", \"sm_isin\": \"INE0MLS01022\", \"an_dt\": \"07-Nov-2026 11:30:04\", \"sort_date\": \"2026-11-07 11:30:04\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"EPACK Prefab Technologies Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:30:05\", \"difference\": \"00:00:01\", \"fileSize\": \"974.62 KB\", \"attFileSize\": \"974.62 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/EPACKPREFAB_07112026112651_Intimation_Transcript.mp3\", \"voiceSummary\": \"EPACK Prefab Technologies Limited filed a transcript of its investor conference call held on November 4, 2026, regarding performance for the quarter and half year ended September 30, 2026. H1 revenue grew 19% to INR 867 crores, with Q2 revenue at INR 501 crores. Profit grew 2%, but operating cash flow was negative due to a 2.3% gross margin decline from rising steel costs and working capital increasing to 60 days. Order inflow in H1 rose 71% to INR 1124 crores, bringing the order book to INR 1462 crores. The company maintains an FY27 revenue guidance of INR 1900 crores with an EBITDA margin of 10% to 10.5%. Management targets 25% to 30% CAGR growth for the next two years. New capacity includes 13,000 tons at Ghiloth and a Gujarat plant expected in Q4.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:30:04\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"EPACK Prefab Technologies Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/EPACKPREFAB_07112026112651_Intimation_Transcript.pdf\", \"_id\": \"nse-fallback:078e2d4f95dd22be1d839032ffd72b6fe5277dd6c82921a9799e9e63a7c57dc5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7172,8 +7172,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:03:29.670460+00:00",
       "news_id": "nse-fallback:10a8c75747210b74f4a73c7efab02b562431c7f080929d8364f01fb648900071",
-      "payload": "{\"symbol\": \"RAMCOIND\", \"desc\": \"Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company\", \"dt\": \"07112026113031\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/RAMCOIND_07112026113002_Reg30int_imp_penalty_07112026.pdf\", \"sm_name\": \"Ramco Industries Limited\", \"sm_isin\": \"INE614A01028\", \"an_dt\": \"07-Nov-2026 11:30:31\", \"sort_date\": \"2026-11-07 11:30:31\", \"seq_id\": null, \"smIndustry\": \"Cement And Cement Products\", \"orgid\": null, \"attchmntText\": \"Ramco Industries Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:30:32\", \"difference\": \"00:00:01\", \"fileSize\": \"259.02 KB\", \"attFileSize\": \"259.02 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company\", \"_published\": \"2026-11-07 11:30:31\", \"_category\": \"Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company\", \"_headline\": \"Ramco Industries Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/RAMCOIND_07112026113002_Reg30int_imp_penalty_07112026.pdf\", \"_id\": \"nse-fallback:10a8c75747210b74f4a73c7efab02b562431c7f080929d8364f01fb648900071\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7312,8 +7312,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:03:29.670514+00:00",
       "news_id": "nse-fallback:338fcd0d342766d4ae07cae7af875e5c9c24a338a6cefbca1112c49019728f88",
-      "payload": "{\"symbol\": \"AMBER\", \"desc\": \"Updates\", \"dt\": \"07112026113038\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AMBER_07112026112953_StockExchangeIntimations_ILJINDRHPFiling.pdf\", \"sm_name\": \"Amber Enterprises India Limited\", \"sm_isin\": \"INE371P01015\", \"an_dt\": \"07-Nov-2026 11:30:38\", \"sort_date\": \"2026-11-07 11:30:38\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 of SEBI LODR Regulations, IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red Herring Prospectus dated 6th November 2026, on 7th November 2026 with the SEBI, BSE and NSE in connection with its proposed Initial Public Offer.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:30:38\", \"difference\": \"00:00:00\", \"fileSize\": \"522.84 KB\", \"attFileSize\": \"522.84 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-07 11:30:38\", \"_category\": \"Updates\", \"_headline\": \"In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 of SEBI LODR Regulations, IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red Herring Prospectus dated 6th November 2026, on 7th November 2026 with the SEBI, BSE and NSE in connection with its proposed Initial Public Offer.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AMBER_07112026112953_StockExchangeIntimations_ILJINDRHPFiling.pdf\", \"_id\": \"nse-fallback:338fcd0d342766d4ae07cae7af875e5c9c24a338a6cefbca1112c49019728f88\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7592,8 +7592,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:03:29.670528+00:00",
       "news_id": "nse-fallback:cf14c40b13029dfe01186b6df97ef147d349a9bb7f7a30cdce5161398541cfa7",
-      "payload": "{\"symbol\": \"BANSWRAS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026113304\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BANSWRAS_07112026113240_Intimation_Letter_to_SE_-_Transcript.pdf\", \"sm_name\": \"Banswara Syntex Limited\", \"sm_isin\": \"INE629D01012\", \"an_dt\": \"07-Nov-2026 11:33:04\", \"sort_date\": \"2026-11-07 11:33:04\", \"seq_id\": null, \"smIndustry\": \"Textiles - Synthetic\", \"orgid\": null, \"attchmntText\": \"Banswara Syntex Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:33:06\", \"difference\": \"00:00:02\", \"fileSize\": \"557.76 KB\", \"attFileSize\": \"557.76 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:33:04\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Banswara Syntex Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BANSWRAS_07112026113240_Intimation_Letter_to_SE_-_Transcript.pdf\", \"_id\": \"nse-fallback:cf14c40b13029dfe01186b6df97ef147d349a9bb7f7a30cdce5161398541cfa7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8262,6 +8262,10 @@
     {
       "message_id": "<b52eae97f0eb152da8c78d4b63a2317576afd80785ad4e9ae452b3f00b16e9e2@gmail.com>",
       "sent_at": "2026-11-06T09:32:00.137783+00:00"
+    },
+    {
+      "message_id": "<bc478e4f0eb70438a46afe128f1598fd6efe3f29f05e02d3088b5438d2c2e799@gmail.com>",
+      "sent_at": "2026-11-07T06:03:37.151223+00:00"
     },
     {
       "message_id": "<bd429b0bbb2b74fb963b05e0cc86b5be7b378f0d7a29587b30a4660a6ed4b70f@gmail.com>",
