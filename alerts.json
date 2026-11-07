@@ -7445,8 +7445,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T08:56:48.597895+00:00",
       "news_id": "nse-fallback:2f7354bf56b5d2c5882c55f8290f55b05f5cef4aa5cb32b1c31ac7b1660c9538",
-      "payload": "{\"an_dt\": \"07-Nov-2026 14:22:22\", \"attFileSize\": \"632.00 KB\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_07112026142158_Audio_link_covering_letter.pdf\", \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"csvName\": null, \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"difference\": \"00:00:01\", \"dt\": \"07112026142222\", \"exchdisstime\": \"07-Nov-2026 14:22:23\", \"fileSize\": \"632.00 KB\", \"hasXbrl\": true, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106852330\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-07 14:22:22\", \"symbol\": \"VIVIANA\", \"voiceSummary\": null, \"voiceUrl\": null, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 14:22:22\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VIVIANA_07112026142158_Audio_link_covering_letter.pdf\", \"_id\": \"nse-fallback:2f7354bf56b5d2c5882c55f8290f55b05f5cef4aa5cb32b1c31ac7b1660c9538\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8679,6 +8679,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<04ad65b746070987290439063f528e9c9245e67134e8e606a11e5b5cd1fe7b73@gmail.com>",
+      "sent_at": "2026-11-07T08:56:55.064068+00:00"
+    },
     {
       "message_id": "<06b7caffd8583a4d0a12fdf2bd84615471a8c8dc6a6a21a750504ccb9d145850@gmail.com>",
       "sent_at": "2026-11-06T09:17:28.765018+00:00"
