@@ -7179,8 +7179,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:33:29.451876+00:00",
       "news_id": "nse-fallback:0b19cd61a0cecc1710cc3ada8af825119353fb114dbe37684cb0d192016c8401",
-      "payload": "{\"symbol\": \"HCG\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026115928\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HCG1_07112026115843_Newspaper_ad_Results_7_November_2026.pdf\", \"sm_name\": \"Healthcare Global Enterprises Limited\", \"sm_isin\": \"INE075I01017\", \"an_dt\": \"07-Nov-2026 11:59:28\", \"sort_date\": \"2026-11-07 11:59:28\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Healthcare Global Enterprises Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:59:29\", \"difference\": \"00:00:01\", \"fileSize\": \"2.59 MB\", \"attFileSize\": \"2.59 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/HCG1_07112026115843_Newspaper_ad_Results_7_November_2026.mp3\", \"voiceSummary\": \"HealthCare Global Enterprises Limited published a newspaper advertisement regarding the approval of its Unaudited Financial Results for the quarter ended June 30, 2026. The Board of Directors approved the Standalone and Consolidated results on August 06, 2026. The advertisement was published in Business Standard and Vijayawani on August 08, 2026. The company submitted copies of the advertisement to the National Stock Exchange and BSE Limited on November 07, 2026. The document also contains unrelated public notices regarding an adoption petition in Bombay City Civil Court, a property purchase notice by advocates in Mumbai, and tender notices from Navi Mumbai Municipal Corporation and Punjab State Power Corporation Limited.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:59:28\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Healthcare Global Enterprises Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HCG1_07112026115843_Newspaper_ad_Results_7_November_2026.pdf\", \"_id\": \"nse-fallback:0b19cd61a0cecc1710cc3ada8af825119353fb114dbe37684cb0d192016c8401\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7403,8 +7403,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:33:29.452026+00:00",
       "news_id": "nse-fallback:43c25a3e47a4a6d6d1541f12702c7e7bfa72358b6ac2228283d0643e566b064c",
-      "payload": "{\"symbol\": \"OSWALPUMPS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026115933\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/OSWALPUMPS_07112026115814_SELetterEarningCallIntimationOPL07112026.pdf\", \"sm_name\": \"Oswal Pumps Limited\", \"sm_isin\": \"INE0BYP01024\", \"an_dt\": \"07-Nov-2026 11:59:33\", \"sort_date\": \"2026-11-07 11:59:33\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Oswal Pumps Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:59:34\", \"difference\": \"00:00:01\", \"fileSize\": \"739.80 KB\", \"attFileSize\": \"739.80 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/OSWALPUMPS_07112026115814_SELetterEarningCallIntimationOPL07112026.mp3\", \"voiceSummary\": \"Oswal Pumps Limited has announced a conference call for investors and analysts on Friday, November 13, 2026, at 02:30 P.M. IST. The call will discuss the Q2 FY27 financial results. The event is hosted by Anand Rathi Research. Participants include Mr Vivek Gupta, Chairman and Managing Director; Mr Amulya Gupta, Whole Time Director; Mr Avadhesh K. Singh, Group COO; and Mr Vijay Kumar Yadav, Chief Financial Officer. Mr Sanjeev Sancheti from Uirtus Advisors LLP will also participate. Universal access numbers are 022 6280 1386 and 022 7115 8287. International access is available for the USA, Hong Kong, UK, and Singapore. The company secretary is Anish Kumar.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:59:33\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Oswal Pumps Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/OSWALPUMPS_07112026115814_SELetterEarningCallIntimationOPL07112026.pdf\", \"_id\": \"nse-fallback:43c25a3e47a4a6d6d1541f12702c7e7bfa72358b6ac2228283d0643e566b064c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7445,8 +7445,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:33:29.452119+00:00",
       "news_id": "nse-fallback:5235004d337e1385224c2e605e6cfb12fd16fd4767a30fdc4d78e077126e1e80",
-      "payload": "{\"symbol\": \"TBZ\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026120318\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TBZ_07112026120302_Intimation_BSE_NSE_Newspaper_advt.pdf\", \"sm_name\": \"Tribhovandas Bhimji Zaveri Limited\", \"sm_isin\": \"INE760L01018\", \"an_dt\": \"07-Nov-2026 12:03:18\", \"sort_date\": \"2026-11-07 12:03:18\", \"seq_id\": null, \"smIndustry\": \"Gems Jewellery And Watches\", \"orgid\": null, \"attchmntText\": \"Tribhovandas Bhimji Zaveri Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:03:19\", \"difference\": \"00:00:01\", \"fileSize\": \"7.43 MB\", \"attFileSize\": \"7.43 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:03:18\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Tribhovandas Bhimji Zaveri Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TBZ_07112026120302_Intimation_BSE_NSE_Newspaper_advt.pdf\", \"_id\": \"nse-fallback:5235004d337e1385224c2e605e6cfb12fd16fd4767a30fdc4d78e077126e1e80\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7480,8 +7480,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:33:29.452083+00:00",
       "news_id": "nse-fallback:5909604c21817909dc18cb282b6874e2688db4921584e442609be042649952fb",
-      "payload": "{\"symbol\": \"GERMAN\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026120010\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GERMAN2025_07112026115955_FinalRegulation47_NewspaperPublication_SE.pdf\", \"sm_name\": \"German Green Steel and Power Limited\", \"sm_isin\": \"INE0D4501011\", \"an_dt\": \"07-Nov-2026 12:00:10\", \"sort_date\": \"2026-11-07 12:00:10\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"German Green Steel and Power Limited has informed the Exchange about Copy of Newspaper Publication for Unaudited Standalone and Consolidated Financial Results for the second quarter and half year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:00:11\", \"difference\": \"00:00:01\", \"fileSize\": \"1.52 MB\", \"attFileSize\": \"1.52 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/GERMAN2025_07112026115955_FinalRegulation47_NewspaperPublication_SE.mp3\", \"voiceSummary\": \"German Green Steel and Power Limited published its unaudited financial results for the quarter and half year ended September 30, 2026. Standalone net profit after tax was 1196.30 lakh rupees for the quarter and 2997.93 lakh rupees for the half year. Consolidated net profit after tax was 1686.22 lakh rupees for the quarter and 3849.93 lakh rupees for the half year. Earnings per share were 2.19 and 3.06 respectively. S.A.L. Steel Limited reported standalone net profit after tax of 10.41 crore rupees for the quarter and 13.51 crore rupees for the half year ended September 30, 2026. The Anup Engineering Limited reported consolidated net profit after tax of 658.36 lakh rupees for the quarter and 715.38 lakh rupees for the half year. Samor Reality Limited reported a net loss after tax of 1.06 lakh rupees for the quarter ended September 30, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:00:10\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"German Green Steel and Power Limited has informed the Exchange about Copy of Newspaper Publication for Unaudited Standalone and Consolidated Financial Results for the second quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GERMAN2025_07112026115955_FinalRegulation47_NewspaperPublication_SE.pdf\", \"_id\": \"nse-fallback:5909604c21817909dc18cb282b6874e2688db4921584e442609be042649952fb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7711,8 +7711,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:33:29.452098+00:00",
       "news_id": "nse-fallback:c37d7b6c916dec863ac5b9cc00c0c31162981188c7cfc69d352c1171f887bc7c",
-      "payload": "{\"symbol\": \"VTL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026120130\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VTL_07112026120022_VTXL_NP_sd.pdf\", \"sm_name\": \"Vardhman Textiles Limited\", \"sm_isin\": \"INE825A01012\", \"an_dt\": \"07-Nov-2026 12:01:30\", \"sort_date\": \"2026-11-07 12:01:30\", \"seq_id\": null, \"smIndustry\": \"Textiles - Cotton\", \"orgid\": null, \"attchmntText\": \"Vardhman Textiles Limited has informed the Exchange about Copy of Newspaper Publication.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:01:32\", \"difference\": \"00:00:02\", \"fileSize\": \"4.65 MB\", \"attFileSize\": \"4.65 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:01:30\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Vardhman Textiles Limited has informed the Exchange about Copy of Newspaper Publication.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VTL_07112026120022_VTXL_NP_sd.pdf\", \"_id\": \"nse-fallback:c37d7b6c916dec863ac5b9cc00c0c31162981188c7cfc69d352c1171f887bc7c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8311,6 +8311,10 @@
     {
       "message_id": "<46a9b3b1994ff7c1e79448746273fe70cd43320e982c6d075f25d1dcc6301af7@gmail.com>",
       "sent_at": "2026-11-06T12:37:42.186374+00:00"
+    },
+    {
+      "message_id": "<481989aa2c769c395204ac5982f1d67a2ed197090ed98fbb24bafa8a6a33feb8@gmail.com>",
+      "sent_at": "2026-11-07T06:33:36.894359+00:00"
     },
     {
       "message_id": "<49a55802397472927a3e02acd5d6213014f027fdfc907c185e13e0df969498fb@gmail.com>",
