@@ -2769,8 +2769,8 @@
       "company_key": "534618",
       "discovered_at": "2026-11-07T06:08:17.983549+00:00",
       "news_id": "213f107b-6bfb-4319-a0e0-9d9ed0e83055",
-      "payload": "{\"NEWSID\": \"213f107b-6bfb-4319-a0e0-9d9ed0e83055\", \"SCRIP_CD\": 534618, \"XML_NAME\": \"ANN_534618_213F107B-6BFB-4319-A0E0-9D9ED0E83055\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"DT_TM\": \"2026-11-07T11:30:27.16\", \"NEWS_DT\": \"2026-11-07T11:30:27.16\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a6664236-ce9a-436d-abbf-3c36c39cd635.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached herewith Intimation of receiving Work Order\", \"CATEGORYNAME\": \"Others\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/\", \"SLONGNAME\": \"Waaree Renewable Technologies Ltd\", \"AGENDA_ID\": null, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T11:30:27\", \"DissemDT\": \"2026-11-07T11:30:27.16\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1069601, \"SUBCATNAME\": null, \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Renewable Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\", \"_published\": \"2026-11-07T11:30:27.16\", \"_category\": \"Others\", \"_headline\": \"Please find attached herewith Intimation of receiving Work Order\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6664236-ce9a-436d-abbf-3c36c39cd635.pdf\", \"_id\": \"213f107b-6bfb-4319-a0e0-9d9ed0e83055\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "534618",
@@ -7137,8 +7137,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:08:29.596935+00:00",
       "news_id": "nse-fallback:0081c311bafe37a3cd7b8282d02b8519927dc86dda4d01da3ea1eaae447156fe",
-      "payload": "{\"symbol\": \"VALIANTORG\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026113743\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VALIANTORG_07112026113728_Intimation_NP_September_2026.pdf\", \"sm_name\": \"Valiant Organics Limited\", \"sm_isin\": \"INE565V01010\", \"an_dt\": \"07-Nov-2026 11:37:43\", \"sort_date\": \"2026-11-07 11:37:43\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Valiant Organics Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:37:44\", \"difference\": \"00:00:01\", \"fileSize\": \"3.07 MB\", \"attFileSize\": \"3.07 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:37:43\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Valiant Organics Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VALIANTORG_07112026113728_Intimation_NP_September_2026.pdf\", \"_id\": \"nse-fallback:0081c311bafe37a3cd7b8282d02b8519927dc86dda4d01da3ea1eaae447156fe\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7445,8 +7445,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:08:29.596809+00:00",
       "news_id": "nse-fallback:6cc8be9f0b696d8095eb3e22f1c8ecb68e9ff82587e7ba69dfe761a3e2866ba4",
-      "payload": "{\"symbol\": \"WAAREERTL\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"07112026113351\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/WAAREERTL_07112026113344_Intimation-s.pdf\", \"sm_name\": \"Waaree Renewable Technologies Limited\", \"sm_isin\": \"INE299N01021\", \"an_dt\": \"07-Nov-2026 11:33:51\", \"sort_date\": \"2026-11-07 11:33:51\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Waaree Renewable Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:33:52\", \"difference\": \"00:00:01\", \"fileSize\": \"1.02 MB\", \"attFileSize\": \"1.02 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/WAAREERTL_07112026113344_Intimation-s.mp3\", \"voiceSummary\": \"Waaree Renewable Technologies Limited signed a work order on November 06, 2026, for Engineering, Procurement, and Construction works for a 285 MWp Solar Power Project. The client is a leading domestic Independent Power Producer. The project is scheduled for completion during the financial year 2027-28. The order size is 285 MWp. The company confirmed that the promoter group has no interest in the entity awarding the order. The transaction does not fall within related party transactions.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-07 11:33:51\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Waaree Renewable Technologies Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/WAAREERTL_07112026113344_Intimation-s.pdf\", \"_id\": \"nse-fallback:6cc8be9f0b696d8095eb3e22f1c8ecb68e9ff82587e7ba69dfe761a3e2866ba4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7676,8 +7676,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:08:29.596898+00:00",
       "news_id": "nse-fallback:e8f47f38e0dbe9398add0cd1f98798cd42ea98f0ff9998f2be6740f24666fb6b",
-      "payload": "{\"symbol\": \"GAMMONIND\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026113440\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GAMMONIND_07112026113425_Intimation_of_Newspaper_Ad.pdf\", \"sm_name\": \"Gammon India Limited\", \"sm_isin\": \"INE259B01020\", \"an_dt\": \"07-Nov-2026 11:34:40\", \"sort_date\": \"2026-11-07 11:34:40\", \"seq_id\": null, \"smIndustry\": \"Construction\", \"orgid\": null, \"attchmntText\": \"Gammon India Limited has informed the Exchange about Copy of Newspaper Publication of extract of financial results of quarter and half year ended 30th September, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:34:41\", \"difference\": \"00:00:01\", \"fileSize\": \"3.20 MB\", \"attFileSize\": \"3.20 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/GAMMONIND_07112026113425_Intimation_of_Newspaper_Ad.mp3\", \"voiceSummary\": \"Gammon India Limited disclosed unaudited financial results for the quarter and half year ended 30th September 2026. The Board of Directors approved these results on 6th November 2026. The company reported a standalone loss after tax of 316.78 crores for the quarter ended 30th September 2026. For the half year ended 30th September 2026, the standalone loss after tax was 605.55 crores. Consolidated loss after tax for the quarter was 365.51 crores, and 738.26 crores for the half year. Paid-up equity share capital remains at 74.11 crores with a face value of 2 rupees per equity share. Basic and diluted earnings per share for the quarter were negative 8.59 rupees. The results were published in The Free Press Journal and Navshak on 7th November 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:34:40\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Gammon India Limited has informed the Exchange about Copy of Newspaper Publication of extract of financial results of quarter and half year ended 30th September, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GAMMONIND_07112026113425_Intimation_of_Newspaper_Ad.pdf\", \"_id\": \"nse-fallback:e8f47f38e0dbe9398add0cd1f98798cd42ea98f0ff9998f2be6740f24666fb6b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8302,6 +8302,10 @@
     {
       "message_id": "<bd7b810ff27b5fea771a1e30902904bdf8e5238be043d3e677303cbc214fbffa@gmail.com>",
       "sent_at": "2026-11-06T11:47:23.133727+00:00"
+    },
+    {
+      "message_id": "<c3eed706ad9a3e694494db27c564d06eaf97b740fd71ae3072b11ce692a82e8e@gmail.com>",
+      "sent_at": "2026-11-07T06:08:36.215439+00:00"
     },
     {
       "message_id": "<c6238def6e602c61186e1fe4f6ea245977c910a9787bae80caa37a20f91e16cf@gmail.com>",
