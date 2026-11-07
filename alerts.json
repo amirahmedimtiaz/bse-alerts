@@ -7144,8 +7144,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:48:29.442219+00:00",
       "news_id": "nse-fallback:0f594f5e6eb8703afad6f11bf27f174ad93c512f7293c2181bbbadd03aad5091",
-      "payload": "{\"symbol\": \"CNL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026111750\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CREATIVE_07112026111740_Active_Times_Pg3_EGM_Notice.pdf\", \"sm_name\": \"Creative Newtech Limited\", \"sm_isin\": \"INE985W01018\", \"an_dt\": \"07-Nov-2026 11:17:50\", \"sort_date\": \"2026-11-07 11:17:50\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Submission of Newspaper Advertisement published in Active Times, English Newspaper, Page No. 3 regarding Dispatch of EGM Notice and Details for the Extraordinary General Meeting scheduled on 28th November 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:17:50\", \"difference\": \"00:00:00\", \"fileSize\": \"3.58 MB\", \"attFileSize\": \"3.58 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:17:50\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Submission of Newspaper Advertisement published in Active Times, English Newspaper, Page No. 3 regarding Dispatch of EGM Notice and Details for the Extraordinary General Meeting scheduled on 28th November 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CREATIVE_07112026111740_Active_Times_Pg3_EGM_Notice.pdf\", \"_id\": \"nse-fallback:0f594f5e6eb8703afad6f11bf27f174ad93c512f7293c2181bbbadd03aad5091\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7305,8 +7305,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:48:29.442062+00:00",
       "news_id": "nse-fallback:3d8dcdfda577f82659044a5770cbd062a122317057caaa7f0ede29c1c4d57c34",
-      "payload": "{\"symbol\": \"COHANCE\", \"desc\": \"General Updates\", \"dt\": \"07112026111409\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026111339_Cohance_USFDA_disclosure_7Nov26.pdf\", \"sm_name\": \"Cohance Lifesciences Limited\", \"sm_isin\": \"INE03QK01018\", \"an_dt\": \"07-Nov-2026 11:14:09\", \"sort_date\": \"2026-11-07 11:14:09\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Cohance Lifesciences Limited has informed the Exchange about update on USFDA Inspection for Company s Pashamylaram Manufacturing Facility\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:14:10\", \"difference\": \"00:00:01\", \"fileSize\": \"235.54 KB\", \"attFileSize\": \"235.54 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SUVENPHARMROHIT_07112026111339_Cohance_USFDA_disclosure_7Nov26.mp3\", \"voiceSummary\": \"Cohance Lifesciences Limited, formerly Suven Pharmaceuticals Limited, has updated the National Stock Exchange and BSE Limited regarding the USFDA inspection at its Pashamylaram, Hyderabad manufacturing facility. The facility's FEI number is 1000623515. The United States Food and Drug Administration has issued the Establishment Inspection Report for this facility. The inspection outcome is classified as Voluntary Action Indicated. This update follows the company's earlier communication dated 5 August 2026. With the receipt of the report, the inspection is concluded. The company requests that this information be taken on record.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-07 11:14:09\", \"_category\": \"General Updates\", \"_headline\": \"Cohance Lifesciences Limited has informed the Exchange about update on USFDA Inspection for Company s Pashamylaram Manufacturing Facility\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026111339_Cohance_USFDA_disclosure_7Nov26.pdf\", \"_id\": \"nse-fallback:3d8dcdfda577f82659044a5770cbd062a122317057caaa7f0ede29c1c4d57c34\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7606,8 +7606,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:48:29.442182+00:00",
       "news_id": "nse-fallback:fa72dba0c41c0df65832a5c899cdb09d714a8b0af34cc8acbee80fa0c280d4d3",
-      "payload": "{\"symbol\": \"GALAPREC\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026111623\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GALAPRE_07112026111609_Gala-_Investor_Presentation_Con_call_updates.pdf\", \"sm_name\": \"Gala Precision Engineering Limited\", \"sm_isin\": \"INE0RE001014\", \"an_dt\": \"07-Nov-2026 11:16:23\", \"sort_date\": \"2026-11-07 11:16:23\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Gala Precision Engineering Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:16:24\", \"difference\": \"00:00:01\", \"fileSize\": \"384.65 KB\", \"attFileSize\": \"384.65 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:16:23\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Gala Precision Engineering Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GALAPRE_07112026111609_Gala-_Investor_Presentation_Con_call_updates.pdf\", \"_id\": \"nse-fallback:fa72dba0c41c0df65832a5c899cdb09d714a8b0af34cc8acbee80fa0c280d4d3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8169,6 +8169,10 @@
       "sent_at": "2026-11-05T07:40:07.809663+00:00"
     },
     {
+      "message_id": "<a8fb6dfb0a980b6c58ed1ec415e6f5629e083e1c005603a83d0cd63c427913af@gmail.com>",
+      "sent_at": "2026-11-07T05:48:36.939869+00:00"
+    },
+    {
       "message_id": "<a97cdc077567a7329ab6a3c5217168e9289258b234ec8064c9ef1fbd14b0955e@gmail.com>",
       "sent_at": "2026-11-05T13:30:46.047182+00:00"
     },
@@ -8227,10 +8231,6 @@
     {
       "message_id": "<dd11036704d4fcab403996eae8ac5d02213997224ce7fa4802b2a4897d898223@gmail.com>",
       "sent_at": "2026-11-07T04:38:37.148335+00:00"
-    },
-    {
-      "message_id": "<dfc0e2b54ff9916ffd75725e44e8f2a2ab48a5b481d24db7266004a0b597609c@gmail.com>",
-      "sent_at": "2026-11-05T05:45:07.867768+00:00"
     },
     {
       "message_id": "<e9abe55ce7b59e043016912992af5ff41f11b8ae4a3a6cc54053fb5272965dd8@gmail.com>",
