@@ -7403,8 +7403,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:28:29.570064+00:00",
       "news_id": "nse-fallback:44605d53a7a36f9c22bb596d9599f149ba7bf39f03a9ec94bc076ba72d2798b5",
-      "payload": "{\"symbol\": \"DIVISLAB\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026115636\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DIVISLAB_07112026115520_Outcome_BoardMeeting_07112026_DivisLabs.pdf\", \"sm_name\": \"Divi's Laboratories Limited\", \"sm_isin\": \"INE361B01024\", \"an_dt\": \"07-Nov-2026 11:56:36\", \"sort_date\": \"2026-11-07 11:56:36\", \"seq_id\": null, \"smIndustry\": \"Pharmaceuticals\", \"orgid\": null, \"attchmntText\": \"Divi's Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:56:37\", \"difference\": \"00:00:01\", \"fileSize\": \"18.09 MB\", \"attFileSize\": \"18.09 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 11:56:36\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Divi's Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DIVISLAB_07112026115520_Outcome_BoardMeeting_07112026_DivisLabs.pdf\", \"_id\": \"nse-fallback:44605d53a7a36f9c22bb596d9599f149ba7bf39f03a9ec94bc076ba72d2798b5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7627,8 +7627,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:28:29.570100+00:00",
       "news_id": "nse-fallback:aec4903d3605232368def8e85bfdca8aa99ea0496633861a09084d9a3ca9603d",
-      "payload": "{\"symbol\": \"RMC\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"07112026115744\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/RMC_07112026115633_LETTER_OF_AWARD_INTIMATION.pdf\", \"sm_name\": \"RMC Switchgears Limited\", \"sm_isin\": \"INE655V01019\", \"an_dt\": \"07-Nov-2026 11:57:44\", \"sort_date\": \"2026-11-07 11:57:44\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Rmc Switchgears Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:57:45\", \"difference\": \"00:00:01\", \"fileSize\": \"272.24 KB\", \"attFileSize\": \"272.24 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-07 11:57:44\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Rmc Switchgears Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/RMC_07112026115633_LETTER_OF_AWARD_INTIMATION.pdf\", \"_id\": \"nse-fallback:aec4903d3605232368def8e85bfdca8aa99ea0496633861a09084d9a3ca9603d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7655,8 +7655,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:28:29.569897+00:00",
       "news_id": "nse-fallback:b922d575ff5041dd921d8498a3dff94727937e079c7079f1b320a8302e6407a5",
-      "payload": "{\"symbol\": \"SANOFICONR\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026115537\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SANOFICONSUMER_07112026114837_SE_Intimation_s.pdf\", \"sm_name\": \"Sanofi Consumer Healthcare India Limited\", \"sm_isin\": \"INE0UOS01011\", \"an_dt\": \"07-Nov-2026 11:55:37\", \"sort_date\": \"2026-11-07 11:55:37\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sanofi Consumer Healthcare India Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:55:38\", \"difference\": \"00:00:01\", \"fileSize\": \"7.47 MB\", \"attFileSize\": \"7.47 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SANOFICONSUMER_07112026114837_SE_Intimation_s.mp3\", \"voiceSummary\": \"Sanofi Consumer Healthcare India Limited has dispatched a Postal Ballot Notice on 6 November 2026 to seek member approval for two ordinary resolutions. The resolutions concern material related party transactions with Opella Healthcare India Private Limited and Opella Healthcare International SAS. The remote e-voting period is open from 9:00 a.m. on 7 November 2026 until 5:00 p.m. on 6 December 2026. Voting is conducted via National Securities Depository Limited. Mr. Omkar Dindorkar has been appointed as Scrutinizer. The cut-off date for determining voting rights is 30 October 2026. Results are pending the Scrutinizer's report.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:55:37\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Sanofi Consumer Healthcare India Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SANOFICONSUMER_07112026114837_SE_Intimation_s.pdf\", \"_id\": \"nse-fallback:b922d575ff5041dd921d8498a3dff94727937e079c7079f1b320a8302e6407a5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7774,8 +7774,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:28:29.570113+00:00",
       "news_id": "nse-fallback:f4bc4f1107dd76e59e5c2e4555772df1bfef293a1d1b384e054afc71a7d1e8b8",
-      "payload": "{\"symbol\": \"NIMBSPROJ\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026115826\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/NIMBUS_07112026115817_Newspaper_Ad.pdf\", \"sm_name\": \"Nimbus Projects Limited\", \"sm_isin\": \"INE875B01015\", \"an_dt\": \"07-Nov-2026 11:58:26\", \"sort_date\": \"2026-11-07 11:58:26\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Newspaper Clipping of the Un-Audited Financial Results for the quarter & half year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:58:27\", \"difference\": \"00:00:01\", \"fileSize\": \"1.67 MB\", \"attFileSize\": \"1.67 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:58:26\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Newspaper Clipping of the Un-Audited Financial Results for the quarter & half year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/NIMBUS_07112026115817_Newspaper_Ad.pdf\", \"_id\": \"nse-fallback:f4bc4f1107dd76e59e5c2e4555772df1bfef293a1d1b384e054afc71a7d1e8b8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7809,8 +7809,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:28:29.570031+00:00",
       "news_id": "nse-fallback:fb40d51aa9373f634b6a825c2fa6cf09d6716b81cc239d1102bc1c8cd0f12263",
-      "payload": "{\"symbol\": \"HCG\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026115634\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HCG1_07112026115614_HCG_Intimation_on_Earnings_Call_Recording_06_November_2026.pdf\", \"sm_name\": \"Healthcare Global Enterprises Limited\", \"sm_isin\": \"INE075I01017\", \"an_dt\": \"07-Nov-2026 11:56:34\", \"sort_date\": \"2026-11-07 11:56:34\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Healthcare Global Enterprises Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:56:35\", \"difference\": \"00:00:01\", \"fileSize\": \"260.26 KB\", \"attFileSize\": \"260.26 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:56:34\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Healthcare Global Enterprises Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HCG1_07112026115614_HCG_Intimation_on_Earnings_Call_Recording_06_November_2026.pdf\", \"_id\": \"nse-fallback:fb40d51aa9373f634b6a825c2fa6cf09d6716b81cc239d1102bc1c8cd0f12263\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8232,6 +8232,10 @@
     {
       "message_id": "<2ad88b520e640fe5b97a4d1cf2dc5a850a8c16ddeab18c283007f6695fd5525f@gmail.com>",
       "sent_at": "2026-11-06T18:13:04.573040+00:00"
+    },
+    {
+      "message_id": "<2c3d56ccb386c46defad87dbe88b4d791537c77a8dbe3ab3409d2b95463a41eb@gmail.com>",
+      "sent_at": "2026-11-07T06:28:36.886014+00:00"
     },
     {
       "message_id": "<2d06045f523e41e5f515579b23c467ebc01adc68943e65f9d228ce2010001052@gmail.com>",
