@@ -7193,8 +7193,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:33:29.627149+00:00",
       "news_id": "nse-fallback:19903b76ef1994933036ecd61e946e0ca247b8f4f01494e60b7ed45cda2d0c05",
-      "payload": "{\"symbol\": \"COHANCE\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026110006\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026105953_Cohance_conferencecallaudiolink7Nov26.pdf\", \"sm_name\": \"Cohance Lifesciences Limited\", \"sm_isin\": \"INE03QK01018\", \"an_dt\": \"07-Nov-2026 11:00:06\", \"sort_date\": \"2026-11-07 11:00:06\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Cohance Lifesciences Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:00:07\", \"difference\": \"00:00:01\", \"fileSize\": \"233.03 KB\", \"attFileSize\": \"233.03 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SUVENPHARMROHIT_07112026105953_Cohance_conferencecallaudiolink7Nov26.mp3\", \"voiceSummary\": \"Cohance Lifesciences Limited has uploaded the audio recording of the conference call for the quarter and half year ended 30 September 2026. The call was held on Friday, 6 November 2026. The recording is available on the company website at the provided link. This filing follows the results conference call intimation dated 3 November 2026. The company requests the exchanges to take this information on record.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 11:00:06\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Cohance Lifesciences Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026105953_Cohance_conferencecallaudiolink7Nov26.pdf\", \"_id\": \"nse-fallback:19903b76ef1994933036ecd61e946e0ca247b8f4f01494e60b7ed45cda2d0c05\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7529,8 +7529,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:33:29.627271+00:00",
       "news_id": "nse-fallback:d44f163b3e7ef62da5b6056edfd5bb9880d515294702b4e51bdac13d74796340",
-      "payload": "{\"symbol\": \"AJMERA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026110047\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AJMERA_07112026110031_Intimation_of_NP_of_PB_Notice_sd.pdf\", \"sm_name\": \"Ajmera Realty & Infra India Limited\", \"sm_isin\": \"INE298G01027\", \"an_dt\": \"07-Nov-2026 11:00:47\", \"sort_date\": \"2026-11-07 11:00:47\", \"seq_id\": null, \"smIndustry\": \"Construction\", \"orgid\": null, \"attchmntText\": \"Newspaper advertisement regarding dispatch of notice of Postal ballot and E-voting information\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:00:48\", \"difference\": \"00:00:01\", \"fileSize\": \"5.79 MB\", \"attFileSize\": \"5.79 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/AJMERA_07112026110031_Intimation_of_NP_of_PB_Notice_sd.mp3\", \"voiceSummary\": \"Ajmera Realty & Infra India Limited published a newspaper advertisement on November 07, 2026, regarding the completion of dispatch of Postal Ballot notices to its members. The disclosure was made under Regulation 30 of the SEBI Listing Regulations. The notice seeks member approval for resolutions placed before them. The company confirmed that the advertisement was published in Business Standard and Mumbai Lakshdeep. The notice text indicates that approval of the members is sought for specific resolutions. The results of the postal ballot are pending.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:00:47\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Newspaper advertisement regarding dispatch of notice of Postal ballot and E-voting information\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AJMERA_07112026110031_Intimation_of_NP_of_PB_Notice_sd.pdf\", \"_id\": \"nse-fallback:d44f163b3e7ef62da5b6056edfd5bb9880d515294702b4e51bdac13d74796340\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8169,6 +8169,10 @@
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
       "sent_at": "2026-11-06T08:52:29.037917+00:00"
+    },
+    {
+      "message_id": "<dbff6683b5c0209bd0101b5546b6c55ba0c17d635dac1b85efe80f77dd23eecc@gmail.com>",
+      "sent_at": "2026-11-07T05:33:37.102394+00:00"
     },
     {
       "message_id": "<dd11036704d4fcab403996eae8ac5d02213997224ce7fa4802b2a4897d898223@gmail.com>",
