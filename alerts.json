@@ -7431,8 +7431,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T04:38:29.632316+00:00",
       "news_id": "nse-fallback:d402f6d41cbcde4881597c9773fe7edfa036b1247d2908733cba6444139c307c",
-      "payload": "{\"symbol\": \"KAKATCEM\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026100548\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KAKATCEM_07112026100534_ADD07112026.pdf\", \"sm_name\": \"Kakatiya Cement Sugar & Industries Limited\", \"sm_isin\": \"INE437B01014\", \"an_dt\": \"07-Nov-2026 10:05:48\", \"sort_date\": \"2026-11-07 10:05:48\", \"seq_id\": null, \"smIndustry\": \"Cement And Cement Products\", \"orgid\": null, \"attchmntText\": \"Kakatiya Cement Sugar & Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:05:49\", \"difference\": \"00:00:01\", \"fileSize\": \"1.27 MB\", \"attFileSize\": \"1.27 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/KAKATCEM_07112026100534_ADD07112026.mp3\", \"voiceSummary\": \"Kakatiya Cement Sugar and Industries Limited published its unaudited financial results for the quarter and half-year ended 30 September 2026. The Board of Directors reviewed and approved these results at a meeting held on 06 November 2026. The company filed the detailed financial results with the BSE and NSE under Regulation 33 of the SEBI Listing Obligations and Disclosure Requirements Regulations 2015. Newspaper advertisements regarding the publication were released on 07 November 2026 in the Financial Express and Andhra Prabha. The full financial statements are available on the websites of BSE Limited, NSE India, and the company.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 10:05:48\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Kakatiya Cement Sugar & Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KAKATCEM_07112026100534_ADD07112026.pdf\", \"_id\": \"nse-fallback:d402f6d41cbcde4881597c9773fe7edfa036b1247d2908733cba6444139c307c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7445,8 +7445,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T04:38:29.632433+00:00",
       "news_id": "nse-fallback:d431b2ce213e3296f562c2bac7376d9e92df166b90df108b8352df6b094534e1",
-      "payload": "{\"symbol\": \"MANAPPURAM\", \"desc\": \"Resignation of Director/KMP/SMP\", \"dt\": \"07112026100606\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MANAPPURAM_ROID_104248_KMP_Doc.zip\", \"sm_name\": \"Manappuram Finance Limited\", \"sm_isin\": \"INE522D01027\", \"an_dt\": \"07-Nov-2026 10:06:06\", \"sort_date\": \"2026-11-07 10:06:06\", \"seq_id\": null, \"smIndustry\": \"Finance\", \"orgid\": null, \"attchmntText\": \"Manappuram Finance Limited has informed the Exchange about Resignation of Director/KMP/SMP\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:06:06\", \"difference\": \"00:00:00\", \"fileSize\": \"149.28 KB\", \"attFileSize\": \"149.28 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Resignation of Director/KMP/SMP\", \"_published\": \"2026-11-07 10:06:06\", \"_category\": \"Resignation of Director/KMP/SMP\", \"_headline\": \"Manappuram Finance Limited has informed the Exchange about Resignation of Director/KMP/SMP\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MANAPPURAM_ROID_104248_KMP_Doc.zip\", \"_id\": \"nse-fallback:d431b2ce213e3296f562c2bac7376d9e92df166b90df108b8352df6b094534e1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7947,10 +7947,6 @@
       "sent_at": "2026-11-06T12:34:18.550433+00:00"
     },
     {
-      "message_id": "<50ac4c08552da0e37bbde2b1a7062d3e088c856b94707824d1a32f55ad58bc05@gmail.com>",
-      "sent_at": "2026-11-05T04:35:07.710742+00:00"
-    },
-    {
       "message_id": "<50b6ada3d04d5b9825f5ff122870b0028c93728dc91a196d1e37c8ea83d9d7fb@gmail.com>",
       "sent_at": "2026-11-06T16:35:08.963825+00:00"
     },
@@ -8085,6 +8081,10 @@
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
       "sent_at": "2026-11-06T08:52:29.037917+00:00"
+    },
+    {
+      "message_id": "<dd11036704d4fcab403996eae8ac5d02213997224ce7fa4802b2a4897d898223@gmail.com>",
+      "sent_at": "2026-11-07T04:38:37.148335+00:00"
     },
     {
       "message_id": "<dfc0e2b54ff9916ffd75725e44e8f2a2ab48a5b481d24db7266004a0b597609c@gmail.com>",
