@@ -7186,8 +7186,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T03:18:15.549341+00:00",
       "news_id": "nse-fallback:206e88e266e9f678435eb37fba68479e5997fd1efb53d4daeaa64ebd080aa26f",
-      "payload": "{\"symbol\": \"HINDOILEXP\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026084359\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_07112026084345_EarningsCall_signed.pdf\", \"sm_name\": \"Hindustan Oil Exploration Company Limited\", \"sm_isin\": \"INE345A01011\", \"an_dt\": \"07-Nov-2026 08:43:59\", \"sort_date\": \"2026-11-07 08:43:59\", \"seq_id\": null, \"smIndustry\": \"Oil Exploration/Production\", \"orgid\": null, \"attchmntText\": \"Hindustan Oil Exploration Company Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 08:44:01\", \"difference\": \"00:00:02\", \"fileSize\": \"590.13 KB\", \"attFileSize\": \"590.13 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/HINDOILEXPCS_07112026084345_EarningsCall_signed.mp3\", \"voiceSummary\": \"Hindustan Oil Exploration Company Limited has made the audio recording of its Earnings Call for the second quarter of the fiscal year 2026-27 available on its website. The call was held on November 6, 2026, at 7.30 PM. It discussed the unaudited financial results for the quarter and half year ended September 30, 2026. The recording can be accessed at https://hoec.com/earnings-call/. This disclosure is pursuant to Regulation 30 of the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015. The notice was issued on November 7, 2026. Baroruchi Mishra, Managing Director and CEO, signed the communication. The company requests the exchanges to take the information on record.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 08:43:59\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Hindustan Oil Exploration Company Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_07112026084345_EarningsCall_signed.pdf\", \"_id\": \"nse-fallback:206e88e266e9f678435eb37fba68479e5997fd1efb53d4daeaa64ebd080aa26f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8092,6 +8092,10 @@
     {
       "message_id": "<f4b0f10b147ce0b013dd61545b88878e21e0e1f96692f479978d47e7eb7b825d@gmail.com>",
       "sent_at": "2026-11-05T12:10:26.173456+00:00"
+    },
+    {
+      "message_id": "<f5eff48516bf6e130c8b8f9a338c88821e405919ccd52bcd21d311098e9ff863@gmail.com>",
+      "sent_at": "2026-11-07T03:18:23.087411+00:00"
     },
     {
       "message_id": "<fc73b5b3394e05c41144914d62e12e9da6be753bafb0e8b37383f1621f757caa@gmail.com>",
