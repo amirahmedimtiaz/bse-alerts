@@ -7312,15 +7312,15 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:53:29.782207+00:00",
       "news_id": "nse-fallback:3df20772a2bade05bb610e81a45fe2a4a90e9fd2c4f2db37d346e8ddf692a415",
-      "payload": "{\"symbol\": \"CNL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026112303\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CREATIVE_07112026112246_PratahKaal_Pg5_EGM_Notice.pdf\", \"sm_name\": \"Creative Newtech Limited\", \"sm_isin\": \"INE985W01018\", \"an_dt\": \"07-Nov-2026 11:23:03\", \"sort_date\": \"2026-11-07 11:23:03\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Submission of Newspaper Advertisement published in Pratah Kaal, Marathi Newspaper, Page No. 5 regarding Dispatch of EGM Notice and Details for the Extraordinary General Meeting scheduled on 28th November 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:23:03\", \"difference\": \"00:00:00\", \"fileSize\": \"2.13 MB\", \"attFileSize\": \"2.13 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:23:03\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Submission of Newspaper Advertisement published in Pratah Kaal, Marathi Newspaper, Page No. 5 regarding Dispatch of EGM Notice and Details for the Extraordinary General Meeting scheduled on 28th November 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CREATIVE_07112026112246_PratahKaal_Pg5_EGM_Notice.pdf\", \"_id\": \"nse-fallback:3df20772a2bade05bb610e81a45fe2a4a90e9fd2c4f2db37d346e8ddf692a415\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:53:29.782163+00:00",
       "news_id": "nse-fallback:435c18695557b23c5eab909800bcc26b4eefa31061d97a2be57f4f81385da96b",
-      "payload": "{\"symbol\": \"NAGREEKCAP\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026112209\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/NAGREEKCAP_07112026112201_FINAL_ocr.pdf\", \"sm_name\": \"Nagreeka Capital & Infrastructure Limited\", \"sm_isin\": \"INE245I01016\", \"an_dt\": \"07-Nov-2026 11:22:09\", \"sort_date\": \"2026-11-07 11:22:09\", \"seq_id\": null, \"smIndustry\": \"Finance\", \"orgid\": null, \"attchmntText\": \"Nagreeka Capital & Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:22:10\", \"difference\": \"00:00:01\", \"fileSize\": \"6.23 MB\", \"attFileSize\": \"6.23 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:22:09\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Nagreeka Capital & Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/NAGREEKCAP_07112026112201_FINAL_ocr.pdf\", \"_id\": \"nse-fallback:435c18695557b23c5eab909800bcc26b4eefa31061d97a2be57f4f81385da96b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7403,8 +7403,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:53:29.782040+00:00",
       "news_id": "nse-fallback:75366170e770f59e24743f60bfc1a79a7a062ebc665c737b821fabbb23c64382",
-      "payload": "{\"symbol\": \"BYKE\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026112136\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BYKE_07112026112117_Cover_Letter_Final-signed.pdf\", \"sm_name\": \"The Byke Hospitality Ltd\", \"sm_isin\": \"INE319B01014\", \"an_dt\": \"07-Nov-2026 11:21:36\", \"sort_date\": \"2026-11-07 11:21:36\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"The Byke Hospitality Ltd has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:21:37\", \"difference\": \"00:00:01\", \"fileSize\": \"5.07 MB\", \"attFileSize\": \"5.07 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BYKE_07112026112117_Cover_Letter_Final-signed.mp3\", \"voiceSummary\": \"The Byke Hospitality Limited filed a notice regarding the publication of its un-audited financial results for the quarter and half year ended September 30, 2026. The results were published in The Free Press Journal and Navshakti. Indo Borax and Chemicals Limited reported its unaudited standalone financial results for the same period. The board approved these results on November 6, 2026. For the quarter ended September 30, 2026, the standalone net profit after tax was Rs. 1,146.78 lakhs. The basic earnings per share was Rs. 3.57. TJSB Sahakari Bank Limited issued a public notice under Section 13(2) of the SARFAESI Act, 2002. The bank seeks substituted service of demand notices for borrowers who defaulted on loans. The outstanding amounts range from Rs. 5,18,214 to Rs. 1,58,17,148. Borrowers are advised to clear dues within 60 days.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:21:36\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"The Byke Hospitality Ltd has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BYKE_07112026112117_Cover_Letter_Final-signed.pdf\", \"_id\": \"nse-fallback:75366170e770f59e24743f60bfc1a79a7a062ebc665c737b821fabbb23c64382\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8164,6 +8164,10 @@
     {
       "message_id": "<8d6a2feb9ec1ad64406c9eca0ceaa99c18f82e1912acfe9bcbc67d52e03e10f3@gmail.com>",
       "sent_at": "2026-11-05T07:15:07.829183+00:00"
+    },
+    {
+      "message_id": "<918f9b349d1b455969415a1b291231651741f86cd276273f6a928580b3f81565@gmail.com>",
+      "sent_at": "2026-11-07T05:53:36.593579+00:00"
     },
     {
       "message_id": "<967833d9faf55dbae52b2ff5262a3e0b534803be6eccad6c0d6a59fb3eba2234@gmail.com>",
