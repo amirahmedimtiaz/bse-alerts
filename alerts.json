@@ -4218,8 +4218,8 @@
       "company_key": "544121",
       "discovered_at": "2026-11-07T08:06:48.126834+00:00",
       "news_id": "eab1e56c-b600-4257-86df-ce19e734c250",
-      "payload": "{\"NEWSID\": \"eab1e56c-b600-4257-86df-ce19e734c250\", \"SCRIP_CD\": 544121, \"XML_NAME\": \"ANN_544121_EAB1E56C-B600-4257-86DF-CE19E734C250\", \"NEWSSUB\": \"Results Standalone And Consolidated 30 September, 2026\", \"DT_TM\": \"2026-11-07T13:32:42.39\", \"NEWS_DT\": \"2026-11-07T13:32:42.39\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5df1caa6-de0d-466e-ab5e-bfcdb0c89fb8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Approval of Half yearly Standalone and Consolidated Results 30th September, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/\", \"SLONGNAME\": \"Rudra Gas Enterprise Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T13:32:42\", \"DissemDT\": \"2026-11-07T13:32:42.39\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4615555, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Rudra Gas Enterprise Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/corp-announcements\", \"_subject\": \"Results Standalone And Consolidated 30 September, 2026\", \"_published\": \"2026-11-07T13:32:42.39\", \"_category\": \"Result\", \"_headline\": \"Approval of Half yearly Standalone and Consolidated Results 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5df1caa6-de0d-466e-ab5e-bfcdb0c89fb8.pdf\", \"_id\": \"eab1e56c-b600-4257-86df-ce19e734c250\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -8664,6 +8664,10 @@
       "sent_at": "2026-11-05T10:55:26.003182+00:00"
     },
     {
+      "message_id": "<139a5f565b83bcea74d031be994a60c198c860fc6ef2f5e02cb45b48f7c78302@gmail.com>",
+      "sent_at": "2026-11-07T08:06:56.648812+00:00"
+    },
+    {
       "message_id": "<19c93563cf63397fc44d7dc0a4523511d4470208d520793c0e8bb1a186f04022@gmail.com>",
       "sent_at": "2026-11-07T06:13:37.000804+00:00"
     },
@@ -8682,10 +8686,6 @@
     {
       "message_id": "<2484c487f3a604615d9613c9b4cf8da60c8eaa40f433aaa2b950c606d3f56a2d@gmail.com>",
       "sent_at": "2026-11-06T12:29:32.934198+00:00"
-    },
-    {
-      "message_id": "<2499bd913f5644fd134fdb4bbbeaa1e141a9319ec3d9256da15d57dffb04bf57@gmail.com>",
-      "sent_at": "2026-11-05T08:05:10.234207+00:00"
     },
     {
       "message_id": "<2546d0a3e74c4e25cda699103b013116197e899869abc19c255475ee7c5b0890@gmail.com>",
@@ -8796,10 +8796,6 @@
       "sent_at": "2026-11-07T07:28:36.784605+00:00"
     },
     {
-      "message_id": "<6346ae356a92e997b9a0695c5dd86172e58f3e8a6a4a1e456dee1b03c0d94bb6@gmail.com>",
-      "sent_at": "2026-11-05T07:55:08.227908+00:00"
-    },
-    {
       "message_id": "<68cf0cd90a706188bba0145222f3499f2e17a3fb954293b1b2cfc013e39f29b8@gmail.com>",
       "sent_at": "2026-11-05T13:40:51.281492+00:00"
     },
@@ -8890,10 +8886,6 @@
     {
       "message_id": "<9f0580f1443d8e4ca5f34410cda350f71ab4e92ca5b809fb589e9532a800a260@gmail.com>",
       "sent_at": "2026-11-06T17:28:09.464723+00:00"
-    },
-    {
-      "message_id": "<a471abb7fc69fa767e47e04f2245c03f90349b7aa4bc54a4f71eba841bbe403a@gmail.com>",
-      "sent_at": "2026-11-05T07:40:07.809663+00:00"
     },
     {
       "message_id": "<a8fb6dfb0a980b6c58ed1ec415e6f5629e083e1c005603a83d0cd63c427913af@gmail.com>",
