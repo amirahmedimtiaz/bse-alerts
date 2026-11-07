@@ -7571,8 +7571,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:43:30.049000+00:00",
       "news_id": "nse-fallback:e8aaf1e10e41f93f9a7c8dfc8a40381345d85b4c82ee72e6f8f223f52f821ae0",
-      "payload": "{\"symbol\": \"GIPCL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026110832\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Gipcl7868_07112026110737_GIPCL_SE_REG47_UFR_07112026_Signed.pdf\", \"sm_name\": \"Gujarat Industries Power Company Limited\", \"sm_isin\": \"INE162A01010\", \"an_dt\": \"07-Nov-2026 11:08:32\", \"sort_date\": \"2026-11-07 11:08:32\", \"seq_id\": null, \"smIndustry\": \"Power\", \"orgid\": null, \"attchmntText\": \"has informed the Exchange about Copy of Newspaper Publication for Standalone Unaudited Financial Results for the Q2 of FY 2026-27 period ended on 30/09/2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:08:33\", \"difference\": \"00:00:01\", \"fileSize\": \"2.48 MB\", \"attFileSize\": \"2.48 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/Gipcl7868_07112026110737_GIPCL_SE_REG47_UFR_07112026_Signed.mp3\", \"voiceSummary\": \"Gujarat Industries Power Company Limited published standalone unaudited financial results for the second quarter of fiscal year 2026-27 ended on 30th September 2026. The results were approved by the Board of Directors on 5th November 2026. For the quarter ended 30th September 2026, total income from operations was 453823 lakh rupees. Net profit after tax was 392355 lakh rupees. Earnings per share were 253 rupees on a basic and diluted basis. Equity share capital remains 15521.60 lakh rupees with a face value of 10 rupees each. The company published the notice in Financial Express and Loksatta Jansatta on 7th November 2026. The results are available on the company website and stock exchange portals.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:08:32\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"has informed the Exchange about Copy of Newspaper Publication for Standalone Unaudited Financial Results for the Q2 of FY 2026-27 period ended on 30/09/2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Gipcl7868_07112026110737_GIPCL_SE_REG47_UFR_07112026_Signed.pdf\", \"_id\": \"nse-fallback:e8aaf1e10e41f93f9a7c8dfc8a40381345d85b4c82ee72e6f8f223f52f821ae0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8026,6 +8026,10 @@
     {
       "message_id": "<46a9b3b1994ff7c1e79448746273fe70cd43320e982c6d075f25d1dcc6301af7@gmail.com>",
       "sent_at": "2026-11-06T12:37:42.186374+00:00"
+    },
+    {
+      "message_id": "<49a55802397472927a3e02acd5d6213014f027fdfc907c185e13e0df969498fb@gmail.com>",
+      "sent_at": "2026-11-07T05:43:37.625499+00:00"
     },
     {
       "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
