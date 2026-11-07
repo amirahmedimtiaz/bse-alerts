@@ -4946,8 +4946,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-07T08:11:48.209305+00:00",
       "news_id": "1389d3aa-c454-4335-ab9d-7290c961448f",
-      "payload": "{\"NEWSID\": \"1389d3aa-c454-4335-ab9d-7290c961448f\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_1389D3AA-C454-4335-AB9D-7290C961448F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-07T13:41:41.64\", \"NEWS_DT\": \"2026-11-07T13:41:41.64\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"931b3549-1ca1-4ce9-8514-7561fd2a691b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release - Unaudited Financial Results of the Company for the Half Year ended 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T13:41:41\", \"DissemDT\": \"2026-11-07T13:41:41.64\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3803437, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-07T13:41:41.64\", \"_category\": \"Company Update\", \"_headline\": \"Press Release - Unaudited Financial Results of the Company for the Half Year ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/931b3549-1ca1-4ce9-8514-7561fd2a691b.pdf\", \"_id\": \"1389d3aa-c454-4335-ab9d-7290c961448f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -8845,6 +8845,10 @@
     {
       "message_id": "<76403fc113057d679bce060be1fcb2e352367e6c35992eaa26b0e6a4e5e15e5b@gmail.com>",
       "sent_at": "2026-11-06T11:13:21.875073+00:00"
+    },
+    {
+      "message_id": "<7faa75d9a04c1738c2b6a89f418df0bbbae973216b8368b72e7d72b4205ffb27@gmail.com>",
+      "sent_at": "2026-11-07T08:11:55.066631+00:00"
     },
     {
       "message_id": "<81ef7fb34c32e6376e6fcef2235112106a0047976e33f207970948ddd952ca21@gmail.com>",
