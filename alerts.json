@@ -347,8 +347,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-07T12:41:59.540185+00:00",
       "news_id": "d766e815-99f1-49da-9ad9-dadea4bf8719",
-      "payload": "{\"NEWSID\": \"d766e815-99f1-49da-9ad9-dadea4bf8719\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_D766E815-99F1-49DA-9AD9-DADEA4BF8719\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"DT_TM\": \"2026-11-07T18:08:28.113\", \"NEWS_DT\": \"2026-11-07T18:08:28.113\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d7ac2233-ec14-4247-a363-92be10e5752c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation, 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T18:08:28\", \"DissemDT\": \"2026-11-07T18:08:28.113\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 405270, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"_published\": \"2026-11-07T18:08:28.113\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation, 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d7ac2233-ec14-4247-a363-92be10e5752c.pdf\", \"_id\": \"d766e815-99f1-49da-9ad9-dadea4bf8719\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -8784,10 +8784,6 @@
       "sent_at": "2026-11-06T18:18:04.048923+00:00"
     },
     {
-      "message_id": "<41701f9996fd5002014a2aab77359fc875efdc5da39dd378b071c0e491d88b1a@gmail.com>",
-      "sent_at": "2026-11-05T12:40:26.146879+00:00"
-    },
-    {
       "message_id": "<4246f2182a7fe02c0bbe59d3917b11c93579d4c9c02a1f96265015ea7de26cac@gmail.com>",
       "sent_at": "2026-11-06T19:03:04.508670+00:00"
     },
@@ -8924,10 +8920,6 @@
       "sent_at": "2026-11-07T05:28:37.239623+00:00"
     },
     {
-      "message_id": "<9cd698bc943546b10f1d08de14f88690e6cef84069bf668d4ffeeea833d76d97@gmail.com>",
-      "sent_at": "2026-11-05T12:25:27.793639+00:00"
-    },
-    {
       "message_id": "<9d006e2415e166c77d1e86405c370b22ccc1e24784553f12d5723b5f56087165@gmail.com>",
       "sent_at": "2026-11-07T06:43:37.332826+00:00"
     },
@@ -8938,6 +8930,10 @@
     {
       "message_id": "<9f0580f1443d8e4ca5f34410cda350f71ab4e92ca5b809fb589e9532a800a260@gmail.com>",
       "sent_at": "2026-11-06T17:28:09.464723+00:00"
+    },
+    {
+      "message_id": "<a14abe513369897bdbe69f2540a7ff23cae190b5e563ec7e89505eb92ff301c2@gmail.com>",
+      "sent_at": "2026-11-07T12:42:11.881167+00:00"
     },
     {
       "message_id": "<a8fb6dfb0a980b6c58ed1ec415e6f5629e083e1c005603a83d0cd63c427913af@gmail.com>",
@@ -9044,16 +9040,8 @@
       "sent_at": "2026-11-06T17:53:04.268734+00:00"
     },
     {
-      "message_id": "<f25a5a4c73c7b681fb0245f720fa765fe1f8c4b7c9e9652b3753be03a13cff6e@gmail.com>",
-      "sent_at": "2026-11-05T12:30:27.014884+00:00"
-    },
-    {
       "message_id": "<f39817502d44fff5c2ed4f16ce7731bdb8067ba70048307a1e4c2a97ea252f0a@gmail.com>",
       "sent_at": "2026-11-06T18:28:03.939812+00:00"
-    },
-    {
-      "message_id": "<f4b0f10b147ce0b013dd61545b88878e21e0e1f96692f479978d47e7eb7b825d@gmail.com>",
-      "sent_at": "2026-11-05T12:10:26.173456+00:00"
     },
     {
       "message_id": "<f5eff48516bf6e130c8b8f9a338c88821e405919ccd52bcd21d311098e9ff863@gmail.com>",
