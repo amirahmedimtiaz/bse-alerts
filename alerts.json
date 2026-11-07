@@ -7200,8 +7200,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492174+00:00",
       "news_id": "nse-fallback:09df33484e88109c759d5d4089eabb4f5affc825e6082185f9e129eb95ab1719",
-      "payload": "{\"symbol\": \"GOLDIAM\", \"desc\": \"Press Release\", \"dt\": \"07112026125951\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125931_Intimation_of_Press_Release-7-11-2026.pdf\", \"sm_name\": \"Goldiam International Limited\", \"sm_isin\": \"INE025B01017\", \"an_dt\": \"07-Nov-2026 12:59:51\", \"sort_date\": \"2026-11-07 12:59:51\", \"seq_id\": null, \"smIndustry\": \"Gems Jewellery And Watches\", \"orgid\": null, \"attchmntText\": \"Goldiam International Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"Press Release in respect of Unaudited Financial Results for the quarter and half year ended September 30, 2026\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:59:53\", \"difference\": \"00:00:02\", \"fileSize\": \"357.55 KB\", \"attFileSize\": \"357.55 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 12:59:51\", \"_category\": \"Press Release\", \"_headline\": \"Goldiam International Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"Press Release in respect of Unaudited Financial Results for the quarter and half year ended September 30, 2026\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125931_Intimation_of_Press_Release-7-11-2026.pdf\", \"_id\": \"nse-fallback:09df33484e88109c759d5d4089eabb4f5affc825e6082185f9e129eb95ab1719\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7228,8 +7228,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492134+00:00",
       "news_id": "nse-fallback:0c212ce1a1cf696bd6cefccff33bdd65d64b3c231720ee7485b3e16587564360",
-      "payload": "{\"symbol\": \"SILGO\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125936\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SILGO_07112026125920_Newspaper_Publication_07112026.pdf\", \"sm_name\": \"Silgo Retail Limited\", \"sm_isin\": \"INE01II01013\", \"an_dt\": \"07-Nov-2026 12:59:36\", \"sort_date\": \"2026-11-07 12:59:36\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Silgo Retail Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:59:37\", \"difference\": \"00:00:01\", \"fileSize\": \"878.54 KB\", \"attFileSize\": \"878.54 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:59:36\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Silgo Retail Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SILGO_07112026125920_Newspaper_Publication_07112026.pdf\", \"_id\": \"nse-fallback:0c212ce1a1cf696bd6cefccff33bdd65d64b3c231720ee7485b3e16587564360\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7529,8 +7529,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492014+00:00",
       "news_id": "nse-fallback:4a87c9097362a7410c3fe677b4575f3f2aa1f851af2c633c91550adc2863c32b",
-      "payload": "{\"symbol\": \"PRUDMOULI\", \"desc\": \"Press Release\", \"dt\": \"07112026125836\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PRUDMOULI_07112026125822_NPP_05112026.pdf\", \"sm_name\": \"Prudential Sugar Corporation Limited\", \"sm_isin\": \"INE463301015\", \"an_dt\": \"07-Nov-2026 12:58:36\", \"sort_date\": \"2026-11-07 12:58:36\", \"seq_id\": null, \"smIndustry\": \"-\", \"orgid\": null, \"attchmntText\": \"Pursuant to Regulation 47 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed herewith Newspaper Publication regarding Meeting of the Board of Directors of the Company Scheduled to be held on Saturday, November 14, 2026 for adoption of Unaudited (Standalone & Consolidated) Financial Results for the 2nd Quarter and Half Year Ended September 30, 2026 along with the Limited Review Report of the Statutory Auditors of the Company. Notice had been published in both Business Standard and Saksham (Local) on November 06, 2026.We request you to take the above information on record and acknowledge receipt of the same.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:58:37\", \"difference\": \"00:00:01\", \"fileSize\": \"4.27 MB\", \"attFileSize\": \"4.27 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 12:58:36\", \"_category\": \"Press Release\", \"_headline\": \"Pursuant to Regulation 47 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed herewith Newspaper Publication regarding Meeting of the Board of Directors of the Company Scheduled to be held on Saturday, November 14, 2026 for adoption of Unaudited (Standalone & Consolidated) Financial Results for the 2nd Quarter and Half Year Ended September 30, 2026 along with the Limited Review Report of the Statutory Auditors of the Company. Notice had been published in both Business Standard and Saksham (Local) on November 06, 2026.We request you to take the above information on record and acknowledge receipt of the same.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PRUDMOULI_07112026125822_NPP_05112026.pdf\", \"_id\": \"nse-fallback:4a87c9097362a7410c3fe677b4575f3f2aa1f851af2c633c91550adc2863c32b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7634,8 +7634,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492200+00:00",
       "news_id": "nse-fallback:5f9275a5819078ed2284c3155e870c6c17733a2bd4658515fcaaf958b25de0a2",
-      "payload": "{\"symbol\": \"ASHOKA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026130026\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASHOKA_07112026125924_ABL_BSE_NSE_Results_Publication_071126.pdf\", \"sm_name\": \"Ashoka Buildcon Limited\", \"sm_isin\": \"INE442H01011\", \"an_dt\": \"07-Nov-2026 13:00:26\", \"sort_date\": \"2026-11-07 13:00:26\", \"seq_id\": null, \"smIndustry\": \"Construction\", \"orgid\": null, \"attchmntText\": \"Ashoka Buildcon Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:00:27\", \"difference\": \"00:00:01\", \"fileSize\": \"2.59 MB\", \"attFileSize\": \"2.59 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 13:00:26\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Ashoka Buildcon Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASHOKA_07112026125924_ABL_BSE_NSE_Results_Publication_071126.pdf\", \"_id\": \"nse-fallback:5f9275a5819078ed2284c3155e870c6c17733a2bd4658515fcaaf958b25de0a2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7662,8 +7662,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492187+00:00",
       "news_id": "nse-fallback:6464ed1462b2abbec4232249718b7d1a8e35593a86d16246955d0e88872bc0f6",
-      "payload": "{\"symbol\": \"BHEL\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"07112026125958\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHEL_07112026125946_orderpgil07112026.pdf\", \"sm_name\": \"Bharat Heavy Electricals Limited\", \"sm_isin\": \"INE257A01018\", \"an_dt\": \"07-Nov-2026 12:59:58\", \"sort_date\": \"2026-11-07 12:59:58\", \"seq_id\": null, \"smIndustry\": \"Electrical Equipment\", \"orgid\": null, \"attchmntText\": \"Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:59:59\", \"difference\": \"00:00:01\", \"fileSize\": \"934.94 KB\", \"attFileSize\": \"934.94 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-07 12:59:58\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHEL_07112026125946_orderpgil07112026.pdf\", \"_id\": \"nse-fallback:6464ed1462b2abbec4232249718b7d1a8e35593a86d16246955d0e88872bc0f6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8103,8 +8103,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492211+00:00",
       "news_id": "nse-fallback:e5f7b16d28bc6edffd524a3957c6dc64e02ea7b1d3de177b1ca1b0a9122ce74d",
-      "payload": "{\"symbol\": \"MODINATUR\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026130113\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MODINATURALS_07112026130053_Final_Intimation_newspaper.pdf\", \"sm_name\": \"Modi Naturals Limited\", \"sm_isin\": \"INE537F01012\", \"an_dt\": \"07-Nov-2026 13:01:13\", \"sort_date\": \"2026-11-07 13:01:13\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Newspaper Publication of an extract of Unaudited Financial Results for the Quarter & half year ended 30th September 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:01:14\", \"difference\": \"00:00:01\", \"fileSize\": \"1.07 MB\", \"attFileSize\": \"1.07 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 13:01:13\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Newspaper Publication of an extract of Unaudited Financial Results for the Quarter & half year ended 30th September 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MODINATURALS_07112026130053_Final_Intimation_newspaper.pdf\", \"_id\": \"nse-fallback:e5f7b16d28bc6edffd524a3957c6dc64e02ea7b1d3de177b1ca1b0a9122ce74d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8173,8 +8173,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:33:29.492231+00:00",
       "news_id": "nse-fallback:f6459150ebfdd6adea09751e8744877b719487a445db756f3389448449a7ef49",
-      "payload": "{\"symbol\": \"GLOTTIS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026130115\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GLOTTISLTD_07112026125859_Earning_call_Intimation_12-11-2026.pdf\", \"sm_name\": \"Glottis Limited\", \"sm_isin\": \"INE0TQE01026\", \"an_dt\": \"07-Nov-2026 13:01:15\", \"sort_date\": \"2026-11-07 13:01:15\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Glottis Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:01:15\", \"difference\": \"00:00:00\", \"fileSize\": \"306.81 KB\", \"attFileSize\": \"306.81 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 13:01:15\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Glottis Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GLOTTISLTD_07112026125859_Earning_call_Intimation_12-11-2026.pdf\", \"_id\": \"nse-fallback:f6459150ebfdd6adea09751e8744877b719487a445db756f3389448449a7ef49\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8917,6 +8917,10 @@
     {
       "message_id": "<db85db85694b0aa539129d9113d3e6b609d7f44ee4c4b037b7b92fd07fa6af67@gmail.com>",
       "sent_at": "2026-11-07T07:03:37.240089+00:00"
+    },
+    {
+      "message_id": "<dbb99d7e538261db7456af84b6d07615f0010ae3b6a6d6bd33d8dce5d5bdcf8a@gmail.com>",
+      "sent_at": "2026-11-07T07:33:36.953448+00:00"
     },
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
