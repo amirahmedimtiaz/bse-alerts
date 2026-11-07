@@ -7298,8 +7298,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:08:29.490842+00:00",
       "news_id": "nse-fallback:24222fbfe9069045406b7641b0ccf5b585d86d88cd6038f05cb976d7b8b82890",
-      "payload": "{\"symbol\": \"AZAD\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026123449\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AZAD2356_07112026123318_Covering.pdf\", \"sm_name\": \"Azad Engineering Limited\", \"sm_isin\": \"INE02IJ01035\", \"an_dt\": \"07-Nov-2026 12:34:49\", \"sort_date\": \"2026-11-07 12:34:49\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Newspaper publications of Unaudited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:34:49\", \"difference\": \"00:00:00\", \"fileSize\": \"3.09 MB\", \"attFileSize\": \"3.09 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:34:49\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Newspaper publications of Unaudited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AZAD2356_07112026123318_Covering.pdf\", \"_id\": \"nse-fallback:24222fbfe9069045406b7641b0ccf5b585d86d88cd6038f05cb976d7b8b82890\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7354,8 +7354,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:08:29.490981+00:00",
       "news_id": "nse-fallback:2e58be1e94304ed775f1727cf8a6f6b2c682df7392e782ea22fef379ccb4cc3a",
-      "payload": "{\"symbol\": \"UNIVASTU\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026123502\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/UNIVASTU_07112026123454_NSENewspaper_Intimation.pdf\", \"sm_name\": \"Univastu India Limited\", \"sm_isin\": \"INE562X01013\", \"an_dt\": \"07-Nov-2026 12:35:02\", \"sort_date\": \"2026-11-07 12:35:02\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Univastu India Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:35:03\", \"difference\": \"00:00:01\", \"fileSize\": \"2.03 MB\", \"attFileSize\": \"2.03 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:35:02\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Univastu India Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/UNIVASTU_07112026123454_NSENewspaper_Intimation.pdf\", \"_id\": \"nse-fallback:2e58be1e94304ed775f1727cf8a6f6b2c682df7392e782ea22fef379ccb4cc3a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8521,6 +8521,10 @@
     {
       "message_id": "<46a9b3b1994ff7c1e79448746273fe70cd43320e982c6d075f25d1dcc6301af7@gmail.com>",
       "sent_at": "2026-11-06T12:37:42.186374+00:00"
+    },
+    {
+      "message_id": "<475f639b87e8374e9bec8b338c8a4ded7012c94e3f9bd176d4cd5f4f8cb1d4dd@gmail.com>",
+      "sent_at": "2026-11-07T07:08:37.240636+00:00"
     },
     {
       "message_id": "<481989aa2c769c395204ac5982f1d67a2ed197090ed98fbb24bafa8a6a33feb8@gmail.com>",
