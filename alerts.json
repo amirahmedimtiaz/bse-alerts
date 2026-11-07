@@ -2650,8 +2650,8 @@
       "company_key": "532941",
       "discovered_at": "2026-11-07T07:03:20.997036+00:00",
       "news_id": "75a4748c-55dd-40f7-a999-b8b12eff7814",
-      "payload": "{\"NEWSID\": \"75a4748c-55dd-40f7-a999-b8b12eff7814\", \"SCRIP_CD\": 532941, \"XML_NAME\": \"ANN_532941_75A4748C-55DD-40F7-A999-B8B12EFF7814\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-07T12:28:39.347\", \"NEWS_DT\": \"2026-11-07T12:28:39.347\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bc309509-a558-42ef-a8af-1c359b62a215.pdf\", \"MORE\": \"Please find enclosed herewith copy of Unaudited Financial Results for the 2nd Quarter / Half Year ended on September 30, 2026, as published in Financial Express and Jansatta newspapers on November 07, 2026.\", \"HEADLINE\": \"Please find enclosed herewith copy of Unaudited Financial Results for the 2nd Quarter / Half Year ended on September 30, 2026, as published in Financial Express and Jansatta newspapers ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/\", \"SLONGNAME\": \"Cords Cable Industries Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T12:28:39\", \"DissemDT\": \"2026-11-07T12:28:39.347\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2162908, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Cords Cable Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/cords-cable-industries-ltd/cordscable/532941/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-07T12:28:39.347\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed herewith copy of Unaudited Financial Results for the 2nd Quarter / Half Year ended on September 30, 2026, as published in Financial Express and Jansatta newspapers ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc309509-a558-42ef-a8af-1c359b62a215.pdf\", \"_id\": \"75a4748c-55dd-40f7-a999-b8b12eff7814\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532941",
@@ -7711,8 +7711,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:03:29.588947+00:00",
       "news_id": "nse-fallback:a413884fae328aefd9e4565258ea2417f27a8a27ce3de2eee5e8d6059042f907",
-      "payload": "{\"symbol\": \"CCAVENUE\", \"desc\": \"Monitoring Agency Report\", \"dt\": \"07112026122854\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/INFIBEAM_07112026122803_AALMonitoringagencyreport.pdf\", \"sm_name\": \"AvenuesAI Limited\", \"sm_isin\": \"INE483S01020\", \"an_dt\": \"07-Nov-2026 12:28:54\", \"sort_date\": \"2026-11-07 12:28:54\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Monitoring Agency Report for the quarter ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:28:55\", \"difference\": \"00:00:01\", \"fileSize\": \"573.69 KB\", \"attFileSize\": \"573.69 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Monitoring Agency Report\", \"_published\": \"2026-11-07 12:28:54\", \"_category\": \"Monitoring Agency Report\", \"_headline\": \"Monitoring Agency Report for the quarter ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/INFIBEAM_07112026122803_AALMonitoringagencyreport.pdf\", \"_id\": \"nse-fallback:a413884fae328aefd9e4565258ea2417f27a8a27ce3de2eee5e8d6059042f907\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7872,8 +7872,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:03:29.589089+00:00",
       "news_id": "nse-fallback:d0c79532ad7dd6ef3b072a057e5c945ad356b948b90384b2504720e4d58614b3",
-      "payload": "{\"symbol\": \"KUSUMGAR\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026123139\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KUSUMGAR_07112026123109_Newspaper_ad_intimation.pdf\", \"sm_name\": \"Kusumgar Limited\", \"sm_isin\": \"INE0ISX01025\", \"an_dt\": \"07-Nov-2026 12:31:39\", \"sort_date\": \"2026-11-07 12:31:39\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Kusumgar Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Standalone and Consolidated Financial Resultsfor the Quarter and Half-Year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:31:40\", \"difference\": \"00:00:01\", \"fileSize\": \"4.48 MB\", \"attFileSize\": \"4.48 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:31:39\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Kusumgar Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Standalone and Consolidated Financial Resultsfor the Quarter and Half-Year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KUSUMGAR_07112026123109_Newspaper_ad_intimation.pdf\", \"_id\": \"nse-fallback:d0c79532ad7dd6ef3b072a057e5c945ad356b948b90384b2504720e4d58614b3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8723,6 +8723,10 @@
     {
       "message_id": "<d42a4d1d010f98607b09f45c1f4f8ed16cca868ac23c74b3f689fcca5bbb9d41@gmail.com>",
       "sent_at": "2026-11-06T06:21:53.773857+00:00"
+    },
+    {
+      "message_id": "<db85db85694b0aa539129d9113d3e6b609d7f44ee4c4b037b7b92fd07fa6af67@gmail.com>",
+      "sent_at": "2026-11-07T07:03:37.240089+00:00"
     },
     {
       "message_id": "<dbd8d8db902dbb0b3147d85c67a22a93c43c0d249ab77cb9c8cf3fc6e6d2cd3d@gmail.com>",
