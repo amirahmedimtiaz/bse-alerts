@@ -53,8 +53,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-07T08:31:31.619614+00:00",
       "news_id": "39cd3849-b340-491a-a663-1d7b81cdd3a2",
-      "payload": "{\"NEWSID\": \"39cd3849-b340-491a-a663-1d7b81cdd3a2\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_39CD3849-B340-491A-A663-1D7B81CDD3A2\", \"NEWSSUB\": \"Results-Financial Results For The Quarter Ended 30Th September 2026\", \"DT_TM\": \"2026-11-07T13:56:52.067\", \"NEWS_DT\": \"2026-11-07T13:56:52.067\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ca0e3cfa-1bc6-4d60-b56a-ed64e157878f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Results-Financial Results for the quarter ended 30th September 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T13:56:52\", \"DissemDT\": \"2026-11-07T13:56:52.067\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 8090538, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Results-Financial Results For The Quarter Ended 30Th September 2026\", \"_published\": \"2026-11-07T13:56:52.067\", \"_category\": \"Result\", \"_headline\": \"Results-Financial Results for the quarter ended 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ca0e3cfa-1bc6-4d60-b56a-ed64e157878f.pdf\", \"_id\": \"39cd3849-b340-491a-a663-1d7b81cdd3a2\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -8683,6 +8683,10 @@
     {
       "message_id": "<0f950700a3e31d82474a3f6c54575e90513e2b8bdb8b4eea6e738cf1a7c0e53f@gmail.com>",
       "sent_at": "2026-11-05T10:55:26.003182+00:00"
+    },
+    {
+      "message_id": "<0fa9850339dd2b036bf2d360e5c17bec0dac57c34d079d14df62098bbc2bd32a@gmail.com>",
+      "sent_at": "2026-11-07T08:31:54.464172+00:00"
     },
     {
       "message_id": "<139a5f565b83bcea74d031be994a60c198c860fc6ef2f5e02cb45b48f7c78302@gmail.com>",
