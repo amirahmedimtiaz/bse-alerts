@@ -7578,8 +7578,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189833+00:00",
       "news_id": "nse-fallback:531a56326cce993ce04471483865d3b06c5f2a984b7fc8bc4203bfb0ade4edd6",
-      "payload": "{\"symbol\": \"PATINTLOG\", \"desc\": \"General Updates\", \"dt\": \"07112026130712\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PATELINT_07112026130702_GST_order.pdf\", \"sm_name\": \"Patel Integrated Logistics Limited\", \"sm_isin\": \"INE529D01014\", \"an_dt\": \"07-Nov-2026 13:07:12\", \"sort_date\": \"2026-11-07 13:07:12\", \"seq_id\": null, \"smIndustry\": \"Travel And Transport\", \"orgid\": null, \"attchmntText\": \"Patel Integrated Logistics Limited has informed the Exchange about receipt of GST Demand Notice\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:07:13\", \"difference\": \"00:00:01\", \"fileSize\": \"926.99 KB\", \"attFileSize\": \"926.99 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-07 13:07:12\", \"_category\": \"General Updates\", \"_headline\": \"Patel Integrated Logistics Limited has informed the Exchange about receipt of GST Demand Notice\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PATELINT_07112026130702_GST_order.pdf\", \"_id\": \"nse-fallback:531a56326cce993ce04471483865d3b06c5f2a984b7fc8bc4203bfb0ade4edd6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7613,8 +7613,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189844+00:00",
       "news_id": "nse-fallback:580fb8812f00f326e62e3795364f57a42b0f135dba244a7cbf05382da5a31a32",
-      "payload": "{\"symbol\": \"DUCON\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026130743\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/DUCON_07112026130725_paper.pdf\", \"sm_name\": \"Ducon Infratechnologies Limited\", \"sm_isin\": \"INE741L01018\", \"an_dt\": \"07-Nov-2026 13:07:43\", \"sort_date\": \"2026-11-07 13:07:43\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ducon Infratechnologies Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:07:44\", \"difference\": \"00:00:01\", \"fileSize\": \"5.19 MB\", \"attFileSize\": \"5.19 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 13:07:43\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Ducon Infratechnologies Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/DUCON_07112026130725_paper.pdf\", \"_id\": \"nse-fallback:580fb8812f00f326e62e3795364f57a42b0f135dba244a7cbf05382da5a31a32\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7697,8 +7697,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189855+00:00",
       "news_id": "nse-fallback:6c2710b4483f7cf44dbce50b148e2063f437e1db7df80cfeeee2579c775a3b4b",
-      "payload": "{\"symbol\": \"MICEL\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026130813\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MICEL_07112026130656_MIC_Q2_Results_merged.pdf\", \"sm_name\": \"MIC Electronics Limited\", \"sm_isin\": \"INE287C01037\", \"an_dt\": \"07-Nov-2026 13:08:13\", \"sort_date\": \"2026-11-07 13:08:13\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"MIC Electronics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:08:14\", \"difference\": \"00:00:01\", \"fileSize\": \"1.21 MB\", \"attFileSize\": \"1.21 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 13:08:13\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"MIC Electronics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MICEL_07112026130656_MIC_Q2_Results_merged.pdf\", \"_id\": \"nse-fallback:6c2710b4483f7cf44dbce50b148e2063f437e1db7df80cfeeee2579c775a3b4b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7760,8 +7760,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189665+00:00",
       "news_id": "nse-fallback:7c322a0d4edc8e463d723fbeffc09d2b9998bd6d8f769a3d96359489180dd779",
-      "payload": "{\"symbol\": \"RATNAMANI\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026130352\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/RATNAMANI_07112026130344_RMTLPUBEXTRACT07112026.pdf\", \"sm_name\": \"Ratnamani Metals & Tubes Limited\", \"sm_isin\": \"INE703B01027\", \"an_dt\": \"07-Nov-2026 13:03:52\", \"sort_date\": \"2026-11-07 13:03:52\", \"seq_id\": null, \"smIndustry\": \"Steel And Steel Products\", \"orgid\": null, \"attchmntText\": \"Ratnamani Metals & Tubes Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:03:53\", \"difference\": \"00:00:01\", \"fileSize\": \"7.01 MB\", \"attFileSize\": \"7.01 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/RATNAMANI_07112026130344_RMTLPUBEXTRACT07112026.mp3\", \"voiceSummary\": \"Ratnamani Metals and Tubes Limited published the extract of its unaudited financial results for the quarter and half year ended September 30, 2026, in the Financial Express English and Gujarati editions on November 7, 2026. The Board of Directors approved these standalone and consolidated results on November 6, 2026. The results were submitted to the BSE Limited and National Stock Exchange of India Limited and uploaded on their respective websites and the company website. The company code for BSE is 520111 and for NSE is RATNAMANI.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 13:03:52\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Ratnamani Metals & Tubes Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/RATNAMANI_07112026130344_RMTLPUBEXTRACT07112026.pdf\", \"_id\": \"nse-fallback:7c322a0d4edc8e463d723fbeffc09d2b9998bd6d8f769a3d96359489180dd779\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7977,8 +7977,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189781+00:00",
       "news_id": "nse-fallback:b74fd1c75e248f18d199b909097ccfbba7a2629302aa228744b92c657b6560c8",
-      "payload": "{\"symbol\": \"SVLL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026130429\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SVLL_07112026130415_svll.pdf\", \"sm_name\": \"Shree Vasu Logistics Limited\", \"sm_isin\": \"INE00CE01017\", \"an_dt\": \"07-Nov-2026 13:04:29\", \"sort_date\": \"2026-11-07 13:04:29\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Shree Vasu Logistics Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:04:31\", \"difference\": \"00:00:02\", \"fileSize\": \"816.57 KB\", \"attFileSize\": \"816.57 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 13:04:29\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Shree Vasu Logistics Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SVLL_07112026130415_svll.pdf\", \"_id\": \"nse-fallback:b74fd1c75e248f18d199b909097ccfbba7a2629302aa228744b92c657b6560c8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8103,8 +8103,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:38:46.189801+00:00",
       "news_id": "nse-fallback:d68abb77e8880ec7ac7843a563f0b29d3df355eb60f4e077e5a26940b548169a",
-      "payload": "{\"symbol\": \"TATASTEEL\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026130633\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_07112026130531_BOARDOUTCOME-NOV7.pdf\", \"sm_name\": \"Tata Steel Limited\", \"sm_isin\": \"INE081A01012\", \"an_dt\": \"07-Nov-2026 13:06:33\", \"sort_date\": \"2026-11-07 13:06:33\", \"seq_id\": null, \"smIndustry\": \"Steel And Steel Products\", \"orgid\": null, \"attchmntText\": \"Tata Steel Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 13:06:34\", \"difference\": \"00:00:01\", \"fileSize\": \"8.81 MB\", \"attFileSize\": \"8.81 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 13:06:33\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Tata Steel Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_07112026130531_BOARDOUTCOME-NOV7.pdf\", \"_id\": \"nse-fallback:d68abb77e8880ec7ac7843a563f0b29d3df355eb60f4e077e5a26940b548169a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8927,6 +8927,10 @@
     {
       "message_id": "<bef23b861fd15b6cb752deccf108ee1355b38b0a9026000c5aa7e1839e2a71b2@gmail.com>",
       "sent_at": "2026-11-07T06:48:36.116506+00:00"
+    },
+    {
+      "message_id": "<bf8ff087d36e6587429b7893bdbb1df31a9c4b75c6dba9c66c7464b2030e1b07@gmail.com>",
+      "sent_at": "2026-11-07T07:38:51.667412+00:00"
     },
     {
       "message_id": "<c117c5b3fddfe935f322bf0b59a232eaf97bd7c71e55acc136b15e70be31fd2a@gmail.com>",
