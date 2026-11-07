@@ -7354,8 +7354,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T04:43:29.601333+00:00",
       "news_id": "nse-fallback:991b9231774dec50910a276041c839991d238d2de71b0940b58d14993c47c29b",
-      "payload": "{\"symbol\": \"GHCL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026100924\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/GHCL_07112026100915_GHCL_Intimation_Investors_Conference_Q2FY27_02_11_2026_Transcript.pdf\", \"sm_name\": \"GHCL Limited\", \"sm_isin\": \"INE539A01019\", \"an_dt\": \"07-Nov-2026 10:09:24\", \"sort_date\": \"2026-11-07 10:09:24\", \"seq_id\": null, \"smIndustry\": \"Chemicals - Inorganic\", \"orgid\": null, \"attchmntText\": \"GHCL Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:09:25\", \"difference\": \"00:00:01\", \"fileSize\": \"760.76 KB\", \"attFileSize\": \"760.76 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/GHCL_07112026100915_GHCL_Intimation_Investors_Conference_Q2FY27_02_11_2026_Transcript.mp3\", \"voiceSummary\": \"GHCL Limited filed the transcript of its Q2 FY27 earnings conference call held on November 2, 2026. Revenue for the quarter ended September 30, 2026, was INR821 crores, up 11% year-on-year. EBITDA stood at INR202 crores with a margin of 24.7%. Profit after tax was INR127 crores. The company commenced commercial production of vacuum salt and bromine. The Board approved INR88 crores for a railway siding and INR450 crores for salt works expansion. Global soda ash demand remains flattish due to oversupply, while Indian demand is supported by solar glass capacity growth. The company maintains a net cash surplus of over INR1,070 crores.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 10:09:24\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"GHCL Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/GHCL_07112026100915_GHCL_Intimation_Investors_Conference_Q2FY27_02_11_2026_Transcript.pdf\", \"_id\": \"nse-fallback:991b9231774dec50910a276041c839991d238d2de71b0940b58d14993c47c29b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7984,6 +7984,10 @@
     {
       "message_id": "<6d98ef6bece0b0ff3e684eb53a3e89efb7cf8d99a092033d8ecd8d5ac196095d@gmail.com>",
       "sent_at": "2026-11-06T04:41:46.577661+00:00"
+    },
+    {
+      "message_id": "<716484cfd4fbbcff8f63becab7386d2152f8842ba5a9a66861f28bd62528aa4d@gmail.com>",
+      "sent_at": "2026-11-07T04:43:37.155212+00:00"
     },
     {
       "message_id": "<7236cbb5213235533f093631d62ecbc23b618a0a81ad5ebb4554f6fe960221f6@gmail.com>",
