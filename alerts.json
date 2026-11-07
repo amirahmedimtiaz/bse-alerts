@@ -7466,8 +7466,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:13:29.669741+00:00",
       "news_id": "nse-fallback:75d99ab36658d7c29a175c1b02e77dccc98b293c418d1b8cb39e1e836f9e815c",
-      "payload": "{\"symbol\": \"MANINFRA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026114120\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/vishaladhav_07112026114044_MICL.pdf\", \"sm_name\": \"Man Infraconstruction Limited\", \"sm_isin\": \"INE949H01015\", \"an_dt\": \"07-Nov-2026 11:41:20\", \"sort_date\": \"2026-11-07 11:41:20\", \"seq_id\": null, \"smIndustry\": \"Construction\", \"orgid\": null, \"attchmntText\": \"Man Infraconstruction Limited has informed the Exchange about Copy of Newspaper Publication w.r.t. Postal Ballot Notice along with e-Voting Instructions published on November 07, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:41:21\", \"difference\": \"00:00:01\", \"fileSize\": \"5.96 MB\", \"attFileSize\": \"5.96 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:41:20\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Man Infraconstruction Limited has informed the Exchange about Copy of Newspaper Publication w.r.t. Postal Ballot Notice along with e-Voting Instructions published on November 07, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/vishaladhav_07112026114044_MICL.pdf\", \"_id\": \"nse-fallback:75d99ab36658d7c29a175c1b02e77dccc98b293c418d1b8cb39e1e836f9e815c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7522,8 +7522,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:13:29.669595+00:00",
       "news_id": "nse-fallback:890826ead24cce154019c9d7752f3fa246e61a8f838dc49fbf04e001fa317911",
-      "payload": "{\"symbol\": \"RICOAUTO\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026114017\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/RICOAUTO_07112026113930_Newspaper_Publication.pdf\", \"sm_name\": \"Rico Auto Industries Limited\", \"sm_isin\": \"INE209B01025\", \"an_dt\": \"07-Nov-2026 11:40:17\", \"sort_date\": \"2026-11-07 11:40:17\", \"seq_id\": null, \"smIndustry\": \"Auto Ancillaries\", \"orgid\": null, \"attchmntText\": \"Rico Auto Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:40:18\", \"difference\": \"00:00:01\", \"fileSize\": \"732.95 KB\", \"attFileSize\": \"732.95 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:40:17\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Rico Auto Industries Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/RICOAUTO_07112026113930_Newspaper_Publication.pdf\", \"_id\": \"nse-fallback:890826ead24cce154019c9d7752f3fa246e61a8f838dc49fbf04e001fa317911\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7718,8 +7718,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:13:29.669720+00:00",
       "news_id": "nse-fallback:fc6a0af39ea7efdd3dc964e6a78654eec682c5d9e8af3a0e388b8aeec49167ce",
-      "payload": "{\"symbol\": \"SOUTHWEST\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026114103\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SOUTHWEST_07112026114028_newspaperintimation.pdf\", \"sm_name\": \"South West Pinnacle Exploration Limited\", \"sm_isin\": \"INE980Y01015\", \"an_dt\": \"07-Nov-2026 11:41:03\", \"sort_date\": \"2026-11-07 11:41:03\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"South West Pinnacle Exploration Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 11:41:04\", \"difference\": \"00:00:01\", \"fileSize\": \"2.23 MB\", \"attFileSize\": \"2.23 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 11:41:03\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"South West Pinnacle Exploration Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SOUTHWEST_07112026114028_newspaperintimation.pdf\", \"_id\": \"nse-fallback:fc6a0af39ea7efdd3dc964e6a78654eec682c5d9e8af3a0e388b8aeec49167ce\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8095,6 +8095,10 @@
     {
       "message_id": "<0f950700a3e31d82474a3f6c54575e90513e2b8bdb8b4eea6e738cf1a7c0e53f@gmail.com>",
       "sent_at": "2026-11-05T10:55:26.003182+00:00"
+    },
+    {
+      "message_id": "<19c93563cf63397fc44d7dc0a4523511d4470208d520793c0e8bb1a186f04022@gmail.com>",
+      "sent_at": "2026-11-07T06:13:37.000804+00:00"
     },
     {
       "message_id": "<2166aff78cad9e43edda76158a618bc92c5b20e787f1ea8b0b7ad47e27b8060e@gmail.com>",
