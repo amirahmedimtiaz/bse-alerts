@@ -9,6 +9,7 @@ from .http_client import get_json
 
 
 API_URL = "https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi"
+EQUITIES_API_URL = "https://www.nseindia.com/api/corporate-announcements"
 
 
 def fetch_announcements(
@@ -26,14 +27,22 @@ def fetch_announcements(
         "Referer": f"https://www.nseindia.com/get-quote/equity/{symbol}/",
         "User-Agent": "bse-announcement-alert/1.0",
     }
-    payload = get_json(API_URL, params=params, headers=headers, session=session)
-    if isinstance(payload, list):
-        return payload
-    if isinstance(payload, dict):
-        rows = payload.get("data", payload.get("Table"))
-        if isinstance(rows, list):
-            return rows
-    raise ValueError("NSE response is missing its announcement table")
+    if market_type == "equities":
+        params = {"index": "equities", "symbol": symbol}
+        url = EQUITIES_API_URL
+    else:
+        url = API_URL
+    payload = get_json(url, params=params, headers=headers, session=session)
+    rows = payload if isinstance(payload, list) else (
+        payload.get("data", payload.get("Table")) if isinstance(payload, dict) else None
+    )
+    if not isinstance(rows, list):
+        raise ValueError("NSE response is missing its announcement table")
+    expected = symbol.strip().upper()
+    for row in rows:
+        if not isinstance(row, dict) or str(row.get("symbol") or "").strip().upper() != expected:
+            raise ValueError(f"NSE response contains a missing or mismatched symbol for {symbol}")
+    return rows
 
 
 def fetch_today_announcements(

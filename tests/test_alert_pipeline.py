@@ -455,3 +455,26 @@ def test_nse_missing_sequence_and_attachment_still_fails_closed(monkeypatch, att
     }])
     with pytest.raises(ValueError, match="without an ID"):
         scanner.fetch_window(c, date(2026, 10, 21), date(2026, 10, 27))
+
+@responses.activate
+def test_nse_rejects_wrong_or_missing_symbol_before_attribution():
+    responses.add(responses.GET, nse_client.API_URL, json=[
+        {"symbol": "OTHER", "seq_id": "1", "sort_date": "2026-11-07 12:00:00"}
+    ])
+    with pytest.raises(ValueError, match="symbol"):
+        nse_client.fetch_announcements("VIVIANA", "sme")
+
+@responses.activate
+def test_nse_equities_uses_symbol_filtered_corporate_announcements_endpoint():
+    responses.add(responses.GET, "https://www.nseindia.com/api/corporate-announcements", json=[
+        {"symbol": "VIVIANA", "seq_id": "1", "sort_date": "2026-11-07 12:00:00"}
+    ])
+    rows = nse_client.fetch_announcements("VIVIANA", "equities")
+    assert rows[0]["symbol"] == "VIVIANA"
+    assert "symbol=VIVIANA" in responses.calls[0].request.url
+
+def test_viviana_id_is_stable_when_nse_adds_a_sequence_number():
+    from pathlib import Path
+    from src.main import get_announcement_id
+    row = json.loads((Path(__file__).parent / 'fixtures/nse_viviana_null_id.json').read_text())
+    assert get_announcement_id(row, 'NSE') == get_announcement_id({**row, 'seq_id': '106844761'}, 'NSE')

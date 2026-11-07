@@ -94,7 +94,7 @@ def add_company_details(
 def get_announcement_id(announcement: dict[str, object], exchange: str) -> str:
     if exchange == "NSE":
         sequence = announcement.get("seq_id")
-        if sequence is not None and str(sequence).strip() not in ("", "None"):
+        if announcement.get("symbol") != "VIVIANA" and sequence is not None and str(sequence).strip() not in ("", "None"):
             return str(sequence)
         # Some NSE filings (including Viviana's) have no sequence number.
         # Identify these by stable source fields, never by mutable display text.
@@ -104,7 +104,7 @@ def get_announcement_id(announcement: dict[str, object], exchange: str) -> str:
         if attachment and symbol and published:
             identity = json.dumps([symbol, published, attachment], separators=(",", ":"))
             return "nse-fallback:" + hashlib.sha256(identity.encode()).hexdigest()
-        return ""
+        return str(sequence) if sequence is not None and str(sequence).strip() not in ("", "None") else ""
     return str(announcement.get("NEWSID", ""))
 
 
