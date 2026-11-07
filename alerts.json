@@ -7445,8 +7445,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:23:29.644424+00:00",
       "news_id": "nse-fallback:3e8447708cac76c101300c7ce31b500cb665b05d3c1706ed5919f072af84f279",
-      "payload": "{\"symbol\": \"MUTHOOTCAP\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125313\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MUTHOOTCAPS_07112026125302_Final.pdf\", \"sm_name\": \"Muthoot Capital Services Limited\", \"sm_isin\": \"INE296G01013\", \"an_dt\": \"07-Nov-2026 12:53:13\", \"sort_date\": \"2026-11-07 12:53:13\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Muthoot Capital Services Limited has informed the Exchange about Newspaper publication on the unaudited Financial Results for the Quarter and Half-year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:53:13\", \"difference\": \"00:00:00\", \"fileSize\": \"3.12 MB\", \"attFileSize\": \"3.12 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:53:13\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Muthoot Capital Services Limited has informed the Exchange about Newspaper publication on the unaudited Financial Results for the Quarter and Half-year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MUTHOOTCAPS_07112026125302_Final.pdf\", \"_id\": \"nse-fallback:3e8447708cac76c101300c7ce31b500cb665b05d3c1706ed5919f072af84f279\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7592,8 +7592,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:23:29.644248+00:00",
       "news_id": "nse-fallback:5d5c0ad0117e995f2dd955c529ab4a9e5efd906785c471f49d3483b6f0ea0ac0",
-      "payload": "{\"symbol\": \"WCIL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026124845\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/WCIL_07112026124819_WCIL_EARNINGS_CALL_INTIMATION_SEPT_2026.pdf\", \"sm_name\": \"Western Carriers (India) Limited\", \"sm_isin\": \"INE0CJF01024\", \"an_dt\": \"07-Nov-2026 12:48:45\", \"sort_date\": \"2026-11-07 12:48:45\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Western Carriers (India) Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:48:47\", \"difference\": \"00:00:02\", \"fileSize\": \"872.01 KB\", \"attFileSize\": \"872.01 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 12:48:45\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Western Carriers (India) Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/WCIL_07112026124819_WCIL_EARNINGS_CALL_INTIMATION_SEPT_2026.pdf\", \"_id\": \"nse-fallback:5d5c0ad0117e995f2dd955c529ab4a9e5efd906785c471f49d3483b6f0ea0ac0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7753,8 +7753,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:23:29.644390+00:00",
       "news_id": "nse-fallback:96260da9132f5464f10a43daf663d335e45c5d75a20b74ca3df4bf4859181d9c",
-      "payload": "{\"symbol\": \"KHADIM\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026125127\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/KHADIM_07112026125100_NP.pdf\", \"sm_name\": \"Khadim India Limited\", \"sm_isin\": \"INE834I01025\", \"an_dt\": \"07-Nov-2026 12:51:27\", \"sort_date\": \"2026-11-07 12:51:27\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Khadim India Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:51:28\", \"difference\": \"00:00:01\", \"fileSize\": \"1.88 MB\", \"attFileSize\": \"1.88 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:51:27\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Khadim India Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/KHADIM_07112026125100_NP.pdf\", \"_id\": \"nse-fallback:96260da9132f5464f10a43daf663d335e45c5d75a20b74ca3df4bf4859181d9c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8089,8 +8089,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T07:23:29.644369+00:00",
       "news_id": "nse-fallback:f786d0d3fe02e4a8a86a0bc4492c247e46640dd458636d638f42fee0203a605f",
-      "payload": "{\"symbol\": \"MUKKA\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"07112026125051\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MUKKA_07112026125014_Outcome_of_Board_Meeting_Q2_final.pdf\", \"sm_name\": \"Mukka Proteins Limited\", \"sm_isin\": \"INE0CG401037\", \"an_dt\": \"07-Nov-2026 12:50:51\", \"sort_date\": \"2026-11-07 12:50:51\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Mukka Proteins Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:50:52\", \"difference\": \"00:00:01\", \"fileSize\": \"9.33 MB\", \"attFileSize\": \"9.33 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-07 12:50:51\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Mukka Proteins Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MUKKA_07112026125014_Outcome_of_Board_Meeting_Q2_final.pdf\", \"_id\": \"nse-fallback:f786d0d3fe02e4a8a86a0bc4492c247e46640dd458636d638f42fee0203a605f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8645,10 +8645,6 @@
       "sent_at": "2026-11-06T17:38:03.671172+00:00"
     },
     {
-      "message_id": "<5ec7fa28745ac5a9941e0dd8c48b450cafd738ab85143d0bc6689ff855d8cbd0@gmail.com>",
-      "sent_at": "2026-11-05T07:20:07.598474+00:00"
-    },
-    {
       "message_id": "<6346ae356a92e997b9a0695c5dd86172e58f3e8a6a4a1e456dee1b03c0d94bb6@gmail.com>",
       "sent_at": "2026-11-05T07:55:08.227908+00:00"
     },
@@ -8667,6 +8663,10 @@
     {
       "message_id": "<6d98ef6bece0b0ff3e684eb53a3e89efb7cf8d99a092033d8ecd8d5ac196095d@gmail.com>",
       "sent_at": "2026-11-06T04:41:46.577661+00:00"
+    },
+    {
+      "message_id": "<7028f2dff181feb3cb7ecd33095d8fe6abf10e5d03b89961581f0aed37c7758f@gmail.com>",
+      "sent_at": "2026-11-07T07:23:36.678368+00:00"
     },
     {
       "message_id": "<716484cfd4fbbcff8f63becab7386d2152f8842ba5a9a66861f28bd62528aa4d@gmail.com>",
