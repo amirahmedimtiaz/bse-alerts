@@ -7312,8 +7312,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:58:29.488521+00:00",
       "news_id": "nse-fallback:27832adc105606272438870bd40cf0616fcaab77d1b722890453a8293d3afd5c",
-      "payload": "{\"symbol\": \"TECHNOE\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026122701\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/TECHNOE_07112026122603_IntimationofConcallSep2026_ocred.pdf\", \"sm_name\": \"Techno Electric & Engineering Company Limited\", \"sm_isin\": \"INE285K01026\", \"an_dt\": \"07-Nov-2026 12:27:01\", \"sort_date\": \"2026-11-07 12:27:01\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Techno Electric & Engineering Company Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:27:01\", \"difference\": \"00:00:00\", \"fileSize\": \"650.06 KB\", \"attFileSize\": \"650.06 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 12:27:01\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Techno Electric & Engineering Company Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/TECHNOE_07112026122603_IntimationofConcallSep2026_ocred.pdf\", \"_id\": \"nse-fallback:27832adc105606272438870bd40cf0616fcaab77d1b722890453a8293d3afd5c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7550,8 +7550,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:58:29.488494+00:00",
       "news_id": "nse-fallback:68cf6653039ee84fcb39d15d2f5bbcdcd46efab946733fe566b5aa3dce580aed",
-      "payload": "{\"symbol\": \"ASHAPURMIN\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026122556\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ASHAPURMIN_07112026122505_Newspaper_Publication_05112026.pdf\", \"sm_name\": \"Ashapura Minechem Limited\", \"sm_isin\": \"INE348A01023\", \"an_dt\": \"07-Nov-2026 12:25:56\", \"sort_date\": \"2026-11-07 12:25:56\", \"seq_id\": null, \"smIndustry\": \"Mining\", \"orgid\": null, \"attchmntText\": \"Ashapura Minechem Limited has informed the Exchange about Copy of Newspaper Publication - Extract of Financial Results for September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:25:57\", \"difference\": \"00:00:01\", \"fileSize\": \"6.91 MB\", \"attFileSize\": \"6.91 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:25:56\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Ashapura Minechem Limited has informed the Exchange about Copy of Newspaper Publication - Extract of Financial Results for September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ASHAPURMIN_07112026122505_Newspaper_Publication_05112026.pdf\", \"_id\": \"nse-fallback:68cf6653039ee84fcb39d15d2f5bbcdcd46efab946733fe566b5aa3dce580aed\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7662,8 +7662,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:58:29.488334+00:00",
       "news_id": "nse-fallback:8a5f61a6098d68664878f5062d194e2405cd403eb599e1f90bd62687623ddf06",
-      "payload": "{\"symbol\": \"ANURAS\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026122425\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ANURAS_07112026122328_ARILSLDSTX20261107081NewspaperAd.pdf\", \"sm_name\": \"Anupam Rasayan India Limited\", \"sm_isin\": \"INE930P01018\", \"an_dt\": \"07-Nov-2026 12:24:25\", \"sort_date\": \"2026-11-07 12:24:25\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Anupam Rasayan India Limited has informed the Exchange about Copy of Newspaper Publication pertaining to the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:24:26\", \"difference\": \"00:00:01\", \"fileSize\": \"3.51 MB\", \"attFileSize\": \"3.51 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:24:25\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Anupam Rasayan India Limited has informed the Exchange about Copy of Newspaper Publication pertaining to the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ANURAS_07112026122328_ARILSLDSTX20261107081NewspaperAd.pdf\", \"_id\": \"nse-fallback:8a5f61a6098d68664878f5062d194e2405cd403eb599e1f90bd62687623ddf06\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7795,8 +7795,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:58:29.488535+00:00",
       "news_id": "nse-fallback:bb2ecf30e1262f16152114550232455eba4f65123ff642a3677ca3fa9ed3b54a",
-      "payload": "{\"symbol\": \"IKIO\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026122818\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/IKIO_07112026122457_Coveringfinal06112026.pdf\", \"sm_name\": \"IKIO Technologies Limited\", \"sm_isin\": \"INE0LOJ01019\", \"an_dt\": \"07-Nov-2026 12:28:18\", \"sort_date\": \"2026-11-07 12:28:18\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"IKIO: IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for the Q2 & H1FY27\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:28:19\", \"difference\": \"00:00:01\", \"fileSize\": \"6.97 MB\", \"attFileSize\": \"6.97 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:28:18\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"IKIO: IKIO Technologies Limited has informed the Exchange about Copy of Newspaper Publication for the Q2 & H1FY27\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/IKIO_07112026122457_Coveringfinal06112026.pdf\", \"_id\": \"nse-fallback:bb2ecf30e1262f16152114550232455eba4f65123ff642a3677ca3fa9ed3b54a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7907,8 +7907,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:58:29.488479+00:00",
       "news_id": "nse-fallback:daf8cd1fc89991d06664399bb71716cb62bf7807d79a9bca0cc8a84542a1c451",
-      "payload": "{\"symbol\": \"HPAL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026122547\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HPAL_07112026122537_Filed_-_Newspaper_publication.pdf\", \"sm_name\": \"HP Adhesives Limited\", \"sm_isin\": \"INE0GSL01016\", \"an_dt\": \"07-Nov-2026 12:25:47\", \"sort_date\": \"2026-11-07 12:25:47\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"HP Adhesives Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:25:48\", \"difference\": \"00:00:01\", \"fileSize\": \"4.64 MB\", \"attFileSize\": \"4.64 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:25:47\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"HP Adhesives Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HPAL_07112026122537_Filed_-_Newspaper_publication.pdf\", \"_id\": \"nse-fallback:daf8cd1fc89991d06664399bb71716cb62bf7807d79a9bca0cc8a84542a1c451\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8570,6 +8570,10 @@
     {
       "message_id": "<744273d53f98ef8126340119ad6936e18fddfb5a8ae5b41880de731110cc374a@gmail.com>",
       "sent_at": "2026-11-05T09:15:27.515593+00:00"
+    },
+    {
+      "message_id": "<7615051d1f6b95b6f9a9275bfc3633b17b8ab13d22b1c0a3422c97cc51427a10@gmail.com>",
+      "sent_at": "2026-11-07T06:58:36.712830+00:00"
     },
     {
       "message_id": "<76403fc113057d679bce060be1fcb2e352367e6c35992eaa26b0e6a4e5e15e5b@gmail.com>",
