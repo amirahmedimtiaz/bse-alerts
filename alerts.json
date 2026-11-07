@@ -7347,8 +7347,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T04:58:29.780187+00:00",
       "news_id": "nse-fallback:7d5682c2520f5694a389e2df662cfb8cb64eebcd4d7d7bd32f920a20a62674dc",
-      "payload": "{\"symbol\": \"VISHNU\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026102442\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/VISHNU_07112026102422_VCL_Conference_Call_Q2FY27Outcome_Final_signed.pdf\", \"sm_name\": \"Vishnu Chemicals Limited\", \"sm_isin\": \"INE270I01014\", \"an_dt\": \"07-Nov-2026 10:24:42\", \"sort_date\": \"2026-11-07 10:24:42\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Vishnu Chemicals Limited has informed the Exchange about Link of Recording regarding discussions on Q2FY27 financial results\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:24:44\", \"difference\": \"00:00:02\", \"fileSize\": \"451.61 KB\", \"attFileSize\": \"451.61 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VISHNU_07112026102422_VCL_Conference_Call_Q2FY27Outcome_Final_signed.mp3\", \"voiceSummary\": \"Vishnu Chemicals Limited has filed the audio link for the Analysts and Investors Conference Call conducted on November 06, 2026. The discussions during the call focused on the Q2FY27 financial results. The audio recording is available at the provided URL. The company requests that this information be taken on record by the exchanges.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 10:24:42\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Vishnu Chemicals Limited has informed the Exchange about Link of Recording regarding discussions on Q2FY27 financial results\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/VISHNU_07112026102422_VCL_Conference_Call_Q2FY27Outcome_Final_signed.pdf\", \"_id\": \"nse-fallback:7d5682c2520f5694a389e2df662cfb8cb64eebcd4d7d7bd32f920a20a62674dc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7932,10 +7932,6 @@
       "sent_at": "2026-11-05T05:10:08.769658+00:00"
     },
     {
-      "message_id": "<3fd070b53c1d18d9e5ccdff97059b88c845038eebbff28087fa2cc7f1e50fa13@gmail.com>",
-      "sent_at": "2026-11-05T04:50:08.229767+00:00"
-    },
-    {
       "message_id": "<41701f9996fd5002014a2aab77359fc875efdc5da39dd378b071c0e491d88b1a@gmail.com>",
       "sent_at": "2026-11-05T12:40:26.146879+00:00"
     },
@@ -8004,16 +8000,16 @@
       "sent_at": "2026-11-07T04:43:37.155212+00:00"
     },
     {
+      "message_id": "<71e90ec31a94752657b6440750b7aee9aa9a961d5d7b7b67e085532b16d7ce46@gmail.com>",
+      "sent_at": "2026-11-07T04:58:37.066583+00:00"
+    },
+    {
       "message_id": "<7236cbb5213235533f093631d62ecbc23b618a0a81ad5ebb4554f6fe960221f6@gmail.com>",
       "sent_at": "2026-11-06T07:11:54.161983+00:00"
     },
     {
       "message_id": "<744273d53f98ef8126340119ad6936e18fddfb5a8ae5b41880de731110cc374a@gmail.com>",
       "sent_at": "2026-11-05T09:15:27.515593+00:00"
-    },
-    {
-      "message_id": "<760ca3f33b8e8ce721fe9271ae0bb231cf5bf73ddd41d0c97b046ef2a885ea37@gmail.com>",
-      "sent_at": "2026-11-05T04:55:08.193796+00:00"
     },
     {
       "message_id": "<76403fc113057d679bce060be1fcb2e352367e6c35992eaa26b0e6a4e5e15e5b@gmail.com>",
