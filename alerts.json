@@ -5996,8 +5996,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-07T14:47:03.184741+00:00",
       "news_id": "8a6014c0-2a90-4c4d-9af9-6ffc1e39fadd",
-      "payload": "{\"NEWSID\": \"8a6014c0-2a90-4c4d-9af9-6ffc1e39fadd\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_8A6014C0-2A90-4C4D-9AF9-6FFC1E39FADD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-07T20:16:19.11\", \"NEWS_DT\": \"2026-11-07T20:16:19.11\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2325bc6d-8d3a-4727-b334-a72e546f26a2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of Investors Conference Call held on 05nd November 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T20:16:19\", \"DissemDT\": \"2026-11-07T20:16:19.11\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1169326, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-07T20:16:19.11\", \"_category\": \"Company Update\", \"_headline\": \"Transcript of Investors Conference Call held on 05nd November 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2325bc6d-8d3a-4727-b334-a72e546f26a2.pdf\", \"_id\": \"8a6014c0-2a90-4c4d-9af9-6ffc1e39fadd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -8831,6 +8831,10 @@
       "sent_at": "2026-11-06T16:35:08.963825+00:00"
     },
     {
+      "message_id": "<515ab5d655849d375fd72f23f2d345cd34e6bf1b2ab8e78d4ca3bbf46932500c@gmail.com>",
+      "sent_at": "2026-11-07T14:47:24.613560+00:00"
+    },
+    {
       "message_id": "<59851384ef9f85585bdd4193e3bc7b7124ce1518577d7ee7a61bb2d074061c68@gmail.com>",
       "sent_at": "2026-11-06T18:58:04.300152+00:00"
     },
@@ -8849,10 +8853,6 @@
     {
       "message_id": "<66ead9c2b6727ac3f36dd176d17fdb1410b43b9670beef0b4bd4180da5bc3ec4@gmail.com>",
       "sent_at": "2026-11-07T08:21:54.570139+00:00"
-    },
-    {
-      "message_id": "<68cf0cd90a706188bba0145222f3499f2e17a3fb954293b1b2cfc013e39f29b8@gmail.com>",
-      "sent_at": "2026-11-05T13:40:51.281492+00:00"
     },
     {
       "message_id": "<6b96eddcf8a318621fcb69e0cbbc5102a1e0b812793cdf80a9963e90004666cc@gmail.com>",
@@ -8947,10 +8947,6 @@
       "sent_at": "2026-11-07T05:48:36.939869+00:00"
     },
     {
-      "message_id": "<a97cdc077567a7329ab6a3c5217168e9289258b234ec8064c9ef1fbd14b0955e@gmail.com>",
-      "sent_at": "2026-11-05T13:30:46.047182+00:00"
-    },
-    {
       "message_id": "<b0568cf743b2b9329544da43cda81b74c68e84630030dcb3bfd2022160f000ca@gmail.com>",
       "sent_at": "2026-11-07T10:27:12.646170+00:00"
     },
@@ -9007,10 +9003,6 @@
       "sent_at": "2026-11-06T17:33:05.095964+00:00"
     },
     {
-      "message_id": "<d2569ec39dc73a50cd998cc5d285024bce02317f7b3e627612a7e805f29b9c6d@gmail.com>",
-      "sent_at": "2026-11-05T12:50:26.282691+00:00"
-    },
-    {
       "message_id": "<d42a4d1d010f98607b09f45c1f4f8ed16cca868ac23c74b3f689fcca5bbb9d41@gmail.com>",
       "sent_at": "2026-11-06T06:21:53.773857+00:00"
     },
@@ -9065,10 +9057,6 @@
     {
       "message_id": "<fe68089f41b6bc35f516fbb11cd241749522eba75a8f50ff008314e78e887886@gmail.com>",
       "sent_at": "2026-11-06T04:17:02.655279+00:00"
-    },
-    {
-      "message_id": "<fe8b840199ad107fdf05ee8c2a0fb8497cecc5ecf9b1304e124b22afc15add74@gmail.com>",
-      "sent_at": "2026-11-05T13:25:45.412324+00:00"
     }
   ],
   "metadata": [
