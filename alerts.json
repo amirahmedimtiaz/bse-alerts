@@ -123,8 +123,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-07T10:26:47.797309+00:00",
       "news_id": "743614fe-c593-454f-bd9c-95b57bc59aa3",
-      "payload": "{\"NEWSID\": \"743614fe-c593-454f-bd9c-95b57bc59aa3\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_743614FE-C593-454F-BD9C-95B57BC59AA3\", \"NEWSSUB\": \"Amendment In The Code Of Conduct Of The Company\", \"DT_TM\": \"2026-11-07T15:56:05.96\", \"NEWS_DT\": \"2026-11-07T15:56:05.96\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"71a31824-a91d-4b38-a661-9bc297a656d8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Amendment in the Code of Conduct of the Company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T15:56:05\", \"DissemDT\": \"2026-11-07T15:56:05.96\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 912704, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Amendment In The Code Of Conduct Of The Company\", \"_published\": \"2026-11-07T15:56:05.96\", \"_category\": \"Company Update\", \"_headline\": \"Amendment in the Code of Conduct of the Company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/71a31824-a91d-4b38-a661-9bc297a656d8.pdf\", \"_id\": \"743614fe-c593-454f-bd9c-95b57bc59aa3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -8759,10 +8759,6 @@
       "sent_at": "2026-11-06T09:27:08.734171+00:00"
     },
     {
-      "message_id": "<3418787548d926795c62636919bfc75e4c73ec8ba08d1ea59596fd957328a49c@gmail.com>",
-      "sent_at": "2026-11-05T09:25:26.651540+00:00"
-    },
-    {
       "message_id": "<343eb45c6e4c0d1f47fce8a15ceac9bf28ae6155e7fab7847513d38f30c02bdd@gmail.com>",
       "sent_at": "2026-11-07T05:18:36.891691+00:00"
     },
@@ -8779,10 +8775,6 @@
       "sent_at": "2026-11-06T19:03:04.508670+00:00"
     },
     {
-      "message_id": "<42c9df02b62e8e34aaf08f7dada45874fdc72a9d27000bfd1de9bb9f67c20d67@gmail.com>",
-      "sent_at": "2026-11-05T10:15:26.566834+00:00"
-    },
-    {
       "message_id": "<46a9b3b1994ff7c1e79448746273fe70cd43320e982c6d075f25d1dcc6301af7@gmail.com>",
       "sent_at": "2026-11-06T12:37:42.186374+00:00"
     },
@@ -8797,10 +8789,6 @@
     {
       "message_id": "<49a55802397472927a3e02acd5d6213014f027fdfc907c185e13e0df969498fb@gmail.com>",
       "sent_at": "2026-11-07T05:43:37.625499+00:00"
-    },
-    {
-      "message_id": "<49cfe0e72100173d3d08cd935ac315c0fa19823d104c02aacbe5e78b65d49e67@gmail.com>",
-      "sent_at": "2026-11-05T10:25:26.708622+00:00"
     },
     {
       "message_id": "<4c3afd77906c22aff243f81f611df56367dba6b60a31ce82c997ffb9cb64d009@gmail.com>",
@@ -8875,10 +8863,6 @@
       "sent_at": "2026-11-06T07:11:54.161983+00:00"
     },
     {
-      "message_id": "<744273d53f98ef8126340119ad6936e18fddfb5a8ae5b41880de731110cc374a@gmail.com>",
-      "sent_at": "2026-11-05T09:15:27.515593+00:00"
-    },
-    {
       "message_id": "<7615051d1f6b95b6f9a9275bfc3633b17b8ab13d22b1c0a3422c97cc51427a10@gmail.com>",
       "sent_at": "2026-11-07T06:58:36.712830+00:00"
     },
@@ -8951,6 +8935,10 @@
       "sent_at": "2026-11-05T11:20:35.897299+00:00"
     },
     {
+      "message_id": "<b0568cf743b2b9329544da43cda81b74c68e84630030dcb3bfd2022160f000ca@gmail.com>",
+      "sent_at": "2026-11-07T10:27:12.646170+00:00"
+    },
+    {
       "message_id": "<b259e1b90a6e9908449c34159596aa2c6820d50939987a35062ea4d7057e8939@gmail.com>",
       "sent_at": "2026-11-06T11:52:29.967027+00:00"
     },
@@ -8993,10 +8981,6 @@
     {
       "message_id": "<c6238def6e602c61186e1fe4f6ea245977c910a9787bae80caa37a20f91e16cf@gmail.com>",
       "sent_at": "2026-11-06T08:37:00.717927+00:00"
-    },
-    {
-      "message_id": "<cf651a2c9840c90de03e3f8fce9f5e9625558797de679efcb17f5055bed7e9a0@gmail.com>",
-      "sent_at": "2026-11-05T09:20:26.726375+00:00"
     },
     {
       "message_id": "<d049f9d3647649dde68bade27c2785bc1fbcdd19a4f07a0eb868d96a84117ccd@gmail.com>",
