@@ -7312,8 +7312,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:28:29.791606+00:00",
       "news_id": "nse-fallback:4fb46bb55723e458206ae5938b8ffd2fe37c14e37171469b7ec353af6cdcc487",
-      "payload": "{\"symbol\": \"KWIL\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026105646\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Magnum_07112026105636_SEIntimationSQResultsNewspaperADsigned.pdf\", \"sm_name\": \"Kwality Wall's (India) Limited\", \"sm_isin\": \"INE2KCE01013\", \"an_dt\": \"07-Nov-2026 10:56:46\", \"sort_date\": \"2026-11-07 10:56:46\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Newspaper Publication under Regulation 47 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 for Unaudited Financial Results for the quarter and half year ended 30th September, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:56:47\", \"difference\": \"00:00:01\", \"fileSize\": \"3.65 MB\", \"attFileSize\": \"3.65 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 10:56:46\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Newspaper Publication under Regulation 47 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 for Unaudited Financial Results for the quarter and half year ended 30th September, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Magnum_07112026105636_SEIntimationSQResultsNewspaperADsigned.pdf\", \"_id\": \"nse-fallback:4fb46bb55723e458206ae5938b8ffd2fe37c14e37171469b7ec353af6cdcc487\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8083,6 +8083,10 @@
     {
       "message_id": "<967833d9faf55dbae52b2ff5262a3e0b534803be6eccad6c0d6a59fb3eba2234@gmail.com>",
       "sent_at": "2026-11-06T17:58:04.302022+00:00"
+    },
+    {
+      "message_id": "<98457d6bae5892492404cad8c374f13d470a07503d85cdbef2fc53fd616f5743@gmail.com>",
+      "sent_at": "2026-11-07T05:28:37.239623+00:00"
     },
     {
       "message_id": "<9cd698bc943546b10f1d08de14f88690e6cef84069bf668d4ffeeea833d76d97@gmail.com>",
