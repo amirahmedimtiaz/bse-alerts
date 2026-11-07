@@ -7452,8 +7452,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:38:29.595634+00:00",
       "news_id": "nse-fallback:529f0fd1f676db4cd83fe22b1525d8e5cd44c4bf3a5e15e875a3b13348116ec3",
-      "payload": "{\"symbol\": \"POWERICA\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026120438\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PowericaNSE_07112026120423_Newspaper_advertisement.pdf\", \"sm_name\": \"Powerica Limited\", \"sm_isin\": \"INE921L01032\", \"an_dt\": \"07-Nov-2026 12:04:38\", \"sort_date\": \"2026-11-07 12:04:38\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"POWERICA: Powerica Limited has informed the Exchange about Copy of Newspaper Publication pertaining to the extract of the Unaudited Financial Results for the quarter and half year ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:04:39\", \"difference\": \"00:00:01\", \"fileSize\": \"4.18 MB\", \"attFileSize\": \"4.18 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/PowericaNSE_07112026120423_Newspaper_advertisement.mp3\", \"voiceSummary\": \"Powerica Limited has published a newspaper advertisement regarding its Unaudited Financial Results for the quarter and half year ended September 30, 2026. The announcement was filed with BSE Limited and National Stock Exchange of India Limited on November 07, 2026. The results were published in the Financial Express in English and Navshakti in Marathi. The filing is pursuant to Regulation 30 read with Regulation 47 of the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015. The document serves as information and record for the exchanges. No specific financial figures or voting resolutions are detailed in this notification.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:04:38\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"POWERICA: Powerica Limited has informed the Exchange about Copy of Newspaper Publication pertaining to the extract of the Unaudited Financial Results for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PowericaNSE_07112026120423_Newspaper_advertisement.pdf\", \"_id\": \"nse-fallback:529f0fd1f676db4cd83fe22b1525d8e5cd44c4bf3a5e15e875a3b13348116ec3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7683,8 +7683,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:38:29.595808+00:00",
       "news_id": "nse-fallback:b4ef67d203b70292f1ed55eacbceabc9f2ef92f0d094f559590badc13349913c",
-      "payload": "{\"symbol\": \"ELGIEQUIP\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026120809\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ELGIEQUIP_07112026120734_NPSD.pdf\", \"sm_name\": \"Elgi Equipments Limited\", \"sm_isin\": \"INE285A01027\", \"an_dt\": \"07-Nov-2026 12:08:09\", \"sort_date\": \"2026-11-07 12:08:09\", \"seq_id\": null, \"smIndustry\": \"Compressors / Pumps\", \"orgid\": null, \"attchmntText\": \"Elgi Equipments Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:08:10\", \"difference\": \"00:00:01\", \"fileSize\": \"3.91 MB\", \"attFileSize\": \"3.91 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 12:08:09\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Elgi Equipments Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ELGIEQUIP_07112026120734_NPSD.pdf\", \"_id\": \"nse-fallback:b4ef67d203b70292f1ed55eacbceabc9f2ef92f0d094f559590badc13349913c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7823,8 +7823,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T06:38:29.595770+00:00",
       "news_id": "nse-fallback:f2e87a2a484d3e80e016cd799cf3b000ec4093eabe0d98968537f2a0060dcbdd",
-      "payload": "{\"symbol\": \"SHANTIGOLD\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026120758\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/SHANTIGOLD_07112026120746_Transcript_SGIL.pdf\", \"sm_name\": \"Shanti Gold International Limited\", \"sm_isin\": \"INE06ZD01017\", \"an_dt\": \"07-Nov-2026 12:07:58\", \"sort_date\": \"2026-11-07 12:07:58\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Shanti Gold International Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 12:07:59\", \"difference\": \"00:00:01\", \"fileSize\": \"3.77 MB\", \"attFileSize\": \"3.77 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 12:07:58\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Shanti Gold International Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/SHANTIGOLD_07112026120746_Transcript_SGIL.pdf\", \"_id\": \"nse-fallback:f2e87a2a484d3e80e016cd799cf3b000ec4093eabe0d98968537f2a0060dcbdd\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -8448,6 +8448,10 @@
     {
       "message_id": "<967833d9faf55dbae52b2ff5262a3e0b534803be6eccad6c0d6a59fb3eba2234@gmail.com>",
       "sent_at": "2026-11-06T17:58:04.302022+00:00"
+    },
+    {
+      "message_id": "<982950274fa4bdced414414af0eff27d6f80a0da89e40595524472b6e9bf92df@gmail.com>",
+      "sent_at": "2026-11-07T06:38:37.067901+00:00"
     },
     {
       "message_id": "<98457d6bae5892492404cad8c374f13d470a07503d85cdbef2fc53fd616f5743@gmail.com>",
