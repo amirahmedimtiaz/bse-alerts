@@ -7130,8 +7130,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:23:29.827278+00:00",
       "news_id": "nse-fallback:0a5d39dd8451662011609e68dd8bb7060ed7b34fed33e57fdc66efff5fded730",
-      "payload": "{\"symbol\": \"ACUTAAS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026105324\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AMIORG_07112026105315_Schedule_of_Investor_MeetSWSigned.pdf\", \"sm_name\": \"Acutaas Chemicals Limited\", \"sm_isin\": \"INE00FF01025\", \"an_dt\": \"07-Nov-2026 10:53:24\", \"sort_date\": \"2026-11-07 10:53:24\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Acutaas Chemicals Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:53:24\", \"difference\": \"00:00:00\", \"fileSize\": \"432.42 KB\", \"attFileSize\": \"432.42 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 10:53:24\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Acutaas Chemicals Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AMIORG_07112026105315_Schedule_of_Investor_MeetSWSigned.pdf\", \"_id\": \"nse-fallback:0a5d39dd8451662011609e68dd8bb7060ed7b34fed33e57fdc66efff5fded730\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7186,8 +7186,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:23:29.827209+00:00",
       "news_id": "nse-fallback:18a36bd40c3d7334fb5f522e9172b12652f4b22517c9c9c14a6e4a4a9f2e62d4",
-      "payload": "{\"symbol\": \"ACUTAAS\", \"desc\": \"Updates\", \"dt\": \"07112026105103\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/AMIORG_07112026105038_ASRMergedSigned.pdf\", \"sm_name\": \"Acutaas Chemicals Limited\", \"sm_isin\": \"INE00FF01025\", \"an_dt\": \"07-Nov-2026 10:51:03\", \"sort_date\": \"2026-11-07 10:51:03\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Acutaas Chemicals Limited has informed the Exchange regarding 'Annual Sustainability Report for FY 2025-26'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:51:05\", \"difference\": \"00:00:02\", \"fileSize\": \"9.10 MB\", \"attFileSize\": \"9.10 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/AMIORG_07112026105038_ASRMergedSigned.mp3\", \"voiceSummary\": \"Acutaas Chemicals Limited filed its Annual Sustainability Report for the financial year 2025-26 with the BSE Limited and the National Stock Exchange of India Limited on November 07, 2026. The company states that the report is also available on its website at www.acutaas.com. The filing was made by Company Secretary and Compliance Officer CS Ekta Kumari Srivastava. The report covers environmental, social, and governance performance from April 2025 to March 2026. It is prepared in accordance with GRI Standards 2021 and cross-referenced to BRSR Core. The BRSR Core indicators received reasonable assurance from T\\u00dcV S\\u00dcD South Asia Pvt. Ltd. The report boundary includes Acutaas Chemicals Limited standalone units in Gujarat, its R&D centre, and warehouses. Subsidiaries are excluded from the ESG data boundary for this period.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-07 10:51:03\", \"_category\": \"Updates\", \"_headline\": \"Acutaas Chemicals Limited has informed the Exchange regarding 'Annual Sustainability Report for FY 2025-26'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/AMIORG_07112026105038_ASRMergedSigned.pdf\", \"_id\": \"nse-fallback:18a36bd40c3d7334fb5f522e9172b12652f4b22517c9c9c14a6e4a4a9f2e62d4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7277,8 +7277,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:23:29.827057+00:00",
       "news_id": "nse-fallback:3b116ec56a08df458eb8cf28235706c8a9c9220842478a98c66c6f74d5ddff4a",
-      "payload": "{\"symbol\": \"CMRGREEN\", \"desc\": \"Press Release\", \"dt\": \"07112026104914\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/CMRGREEN_07112026104848_Financialintimaiton.pdf\", \"sm_name\": \"CMR Green Technologies Limited\", \"sm_isin\": \"INE00WV01027\", \"an_dt\": \"07-Nov-2026 10:49:14\", \"sort_date\": \"2026-11-07 10:49:14\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"CMR Green Technologies Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"Publication of Financial Results for 2nd Quarter and Half Year ending on 30th September 2026\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:49:15\", \"difference\": \"00:00:01\", \"fileSize\": \"2.97 MB\", \"attFileSize\": \"2.97 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/CMRGREEN_07112026104848_Financialintimaiton.mp3\", \"voiceSummary\": \"CMR Green Technologies Limited has published the extract of its approved un-audited Financial Results, covering both Consolidated and Standalone figures, for the Second quarter and half year ended September 30, 2026. The announcement was filed with the National Stock Exchange of India Limited and BSE Limited on November 7, 2026. The financial results were published in the Financial Express in English and Jansatta in Hindi. The details are also available on the company website at https://www.cmr.co.in/. The filing was signed by Srishti Saxena, Company Secretary and Compliance Officer.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-07 10:49:14\", \"_category\": \"Press Release\", \"_headline\": \"CMR Green Technologies Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \\\"Publication of Financial Results for 2nd Quarter and Half Year ending on 30th September 2026\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/CMRGREEN_07112026104848_Financialintimaiton.pdf\", \"_id\": \"nse-fallback:3b116ec56a08df458eb8cf28235706c8a9c9220842478a98c66c6f74d5ddff4a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7326,8 +7326,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:23:29.827244+00:00",
       "news_id": "nse-fallback:55853005014c77e3093cb8e7cf79b3ad0af1a72ff5e19b23cb7afbdb0b074e95",
-      "payload": "{\"symbol\": \"SHK\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"07112026105138\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/aditya_joshi_keva_co_in_07112026105125_SHKPBNewspaperAdvertisementIntimationFinalSigned.pdf\", \"sm_name\": \"S H Kelkar and Company Limited\", \"sm_isin\": \"INE500L01026\", \"an_dt\": \"07-Nov-2026 10:51:38\", \"sort_date\": \"2026-11-07 10:51:38\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"S H Kelkar and Company Limited has informed the Exchange about Newspaper Publication in respect of Postal Ballot Notice\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:51:38\", \"difference\": \"00:00:00\", \"fileSize\": \"4.66 MB\", \"attFileSize\": \"4.66 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/aditya_joshi_keva_co_in_07112026105125_SHKPBNewspaperAdvertisementIntimationFinalSigned.mp3\", \"voiceSummary\": \"Welspun Enterprises Limited published newspaper advertisements on November 07, 2026, regarding a Postal Ballot Notice. The company seeks shareholder approval via remote e-voting. The voting period runs from November 07, 2026, at 9:00 A.M. IST to December 06, 2026, at 5:00 P.M. IST. Mr. Mihen Halani is the appointed Scrutinizer. Results are expected by December 08, 2026. S H Kelkar and Company Limited also published advertisements for a Postal Ballot. The resolutions include re-appointment of Ms. Neela Bhattacherjee as Independent Director and appointment of Ms. Sumedha Karmarkar as Non-Executive Non-Independent Director. Voting is open from November 09, 2026, to December 08, 2026. Mr. Sachin Sharma is the Scrutinizer. Results are due by December 10, 2026. Transworld Shipping Lines Limited approved unaudited financial results for the quarter ended September 30, 2026. Trio Mercantile and Trading Limited reported standalone financial results for the quarter and half-year ended September 30, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-07 10:51:38\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"S H Kelkar and Company Limited has informed the Exchange about Newspaper Publication in respect of Postal Ballot Notice\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/aditya_joshi_keva_co_in_07112026105125_SHKPBNewspaperAdvertisementIntimationFinalSigned.pdf\", \"_id\": \"nse-fallback:55853005014c77e3093cb8e7cf79b3ad0af1a72ff5e19b23cb7afbdb0b074e95\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7431,8 +7431,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:23:29.827265+00:00",
       "news_id": "nse-fallback:ac8eb9d37f7f31f008062c4489598d7bba0e7f6a2cbc5fd6dabe7ccb90b78cf6",
-      "payload": "{\"symbol\": \"MPIMANIPAL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"07112026105304\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/MANIPALCARDSIPO_07112026105249_MPiTranscriptSubmission.pdf\", \"sm_name\": \"Manipal Payment and Identity Solutions Limited\", \"sm_isin\": \"INE241U01028\", \"an_dt\": \"07-Nov-2026 10:53:04\", \"sort_date\": \"2026-11-07 10:53:04\", \"seq_id\": null, \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Manipal Payment and Identity Solutions Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:53:05\", \"difference\": \"00:00:01\", \"fileSize\": \"223.82 KB\", \"attFileSize\": \"223.82 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-07 10:53:04\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Manipal Payment and Identity Solutions Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/MANIPALCARDSIPO_07112026105249_MPiTranscriptSubmission.pdf\", \"_id\": \"nse-fallback:ac8eb9d37f7f31f008062c4489598d7bba0e7f6a2cbc5fd6dabe7ccb90b78cf6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7938,10 +7938,6 @@
       "sent_at": "2026-11-06T07:16:47.649792+00:00"
     },
     {
-      "message_id": "<28dffd9a28ae0231a11197ec3bcbf35d4effe718b0bfe912d2db6aa6f24cc60c@gmail.com>",
-      "sent_at": "2026-11-05T05:20:08.555353+00:00"
-    },
-    {
       "message_id": "<2aa067feb63562567c368249217255131c13f5475e9d1f70b2d74a63a8b20ecd@gmail.com>",
       "sent_at": "2026-11-06T11:17:49.431490+00:00"
     },
@@ -8160,6 +8156,10 @@
     {
       "message_id": "<e9abe55ce7b59e043016912992af5ff41f11b8ae4a3a6cc54053fb5272965dd8@gmail.com>",
       "sent_at": "2026-11-06T05:56:52.641522+00:00"
+    },
+    {
+      "message_id": "<f01a4c90ad01fb9a5de59c53bd280adcabf8910e500df16ca2122cd21c95700c@gmail.com>",
+      "sent_at": "2026-11-07T05:23:37.414833+00:00"
     },
     {
       "message_id": "<f131c8ee4a2548cca2874612c404700acbd389c0a0f076550fc96b23e987efa9@gmail.com>",
