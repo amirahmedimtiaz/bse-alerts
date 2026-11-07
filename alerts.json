@@ -1376,8 +1376,8 @@
       "company_key": "522163",
       "discovered_at": "2026-11-07T14:57:06.626477+00:00",
       "news_id": "0018d5ea-0ed5-498c-b095-9c86d917823c",
-      "payload": "{\"NEWSID\": \"0018d5ea-0ed5-498c-b095-9c86d917823c\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_0018D5EA-0ED5-498C-B095-9C86D917823C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-07T20:24:05.267\", \"NEWS_DT\": \"2026-11-07T20:24:05.267\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"51aecd7c-2c36-4af5-a259-f518963e23a4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of Earnings Call held on November 4, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-07T20:24:05\", \"DissemDT\": \"2026-11-07T20:24:05.267\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 668220, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-07T20:24:05.267\", \"_category\": \"Company Update\", \"_headline\": \"Transcript of Earnings Call held on November 4, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/51aecd7c-2c36-4af5-a259-f518963e23a4.pdf\", \"_id\": \"0018d5ea-0ed5-498c-b095-9c86d917823c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -8851,6 +8851,10 @@
     {
       "message_id": "<49a55802397472927a3e02acd5d6213014f027fdfc907c185e13e0df969498fb@gmail.com>",
       "sent_at": "2026-11-07T05:43:37.625499+00:00"
+    },
+    {
+      "message_id": "<4b311aafca3aa4011504269f08be4cf9de2742c4407f8a06fbadb0780ec6f146@gmail.com>",
+      "sent_at": "2026-11-07T14:57:24.969998+00:00"
     },
     {
       "message_id": "<4c3afd77906c22aff243f81f611df56367dba6b60a31ce82c997ffb9cb64d009@gmail.com>",
