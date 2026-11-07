@@ -7186,8 +7186,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-07T05:18:29.537353+00:00",
       "news_id": "nse-fallback:1ac121a9644f1c6fbd7f83ec8053de151eadaa597559e5b9a265829bf6264e7a",
-      "payload": "{\"symbol\": \"PPAP\", \"desc\": \"Investor Presentation\", \"dt\": \"07112026104632\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PPAP_07112026104552_Investor_Presentation.pdf\", \"sm_name\": \"PPAP Automotive Limited\", \"sm_isin\": \"INE095I01015\", \"an_dt\": \"07-Nov-2026 10:46:32\", \"sort_date\": \"2026-11-07 10:46:32\", \"seq_id\": null, \"smIndustry\": \"Auto Ancillaries\", \"orgid\": null, \"attchmntText\": \"PPAP Automotive Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"07-Nov-2026 10:46:33\", \"difference\": \"00:00:01\", \"fileSize\": \"5.14 MB\", \"attFileSize\": \"5.14 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-07 10:46:32\", \"_category\": \"Investor Presentation\", \"_headline\": \"PPAP Automotive Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PPAP_07112026104552_Investor_Presentation.pdf\", \"_id\": \"nse-fallback:1ac121a9644f1c6fbd7f83ec8053de151eadaa597559e5b9a265829bf6264e7a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -7931,12 +7931,12 @@
       "sent_at": "2026-11-05T09:25:26.651540+00:00"
     },
     {
-      "message_id": "<35895885ff639640064c10291088802ed4bb7097692410410de81bde97b80bde@gmail.com>",
-      "sent_at": "2026-11-06T18:18:04.048923+00:00"
+      "message_id": "<343eb45c6e4c0d1f47fce8a15ceac9bf28ae6155e7fab7847513d38f30c02bdd@gmail.com>",
+      "sent_at": "2026-11-07T05:18:36.891691+00:00"
     },
     {
-      "message_id": "<3dd16f0971dd98f51fa964c9c5e8b454f533842458593306cacae4dd6b8c6400@gmail.com>",
-      "sent_at": "2026-11-05T05:10:08.769658+00:00"
+      "message_id": "<35895885ff639640064c10291088802ed4bb7097692410410de81bde97b80bde@gmail.com>",
+      "sent_at": "2026-11-06T18:18:04.048923+00:00"
     },
     {
       "message_id": "<41701f9996fd5002014a2aab77359fc875efdc5da39dd378b071c0e491d88b1a@gmail.com>",
@@ -8121,10 +8121,6 @@
     {
       "message_id": "<dfc0e2b54ff9916ffd75725e44e8f2a2ab48a5b481d24db7266004a0b597609c@gmail.com>",
       "sent_at": "2026-11-05T05:45:07.867768+00:00"
-    },
-    {
-      "message_id": "<e1e7612e25358d6c27274ce671531846b876131a11953bf56169d3afb13a0f16@gmail.com>",
-      "sent_at": "2026-11-05T05:15:07.846071+00:00"
     },
     {
       "message_id": "<e9abe55ce7b59e043016912992af5ff41f11b8ae4a3a6cc54053fb5272965dd8@gmail.com>",
