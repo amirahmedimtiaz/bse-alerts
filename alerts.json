@@ -5037,8 +5037,8 @@
       "company_key": "544387",
       "discovered_at": "2026-11-09T06:34:26.618331+00:00",
       "news_id": "c95ad75a-13b7-4a90-b199-870f16426f22",
-      "payload": "{\"NEWSID\": \"c95ad75a-13b7-4a90-b199-870f16426f22\", \"SCRIP_CD\": 544387, \"XML_NAME\": \"ANN_544387_C95AD75A-13B7-4A90-B199-870F16426F22\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-09T12:04:22.663\", \"NEWS_DT\": \"2026-11-09T12:04:22.663\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9cc5becb-a6ad-49f5-bb6c-b34f7ca0b115.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earnings Call Transcript - Conference Call held on 05-Nov-2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/\", \"SLONGNAME\": \"Desco Infratech Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-09T12:04:22\", \"DissemDT\": \"2026-11-09T12:04:22.663\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 567103, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Desco Infratech Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-09T12:04:22.663\", \"_category\": \"Company Update\", \"_headline\": \"Earnings Call Transcript - Conference Call held on 05-Nov-2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9cc5becb-a6ad-49f5-bb6c-b34f7ca0b115.pdf\", \"_id\": \"c95ad75a-13b7-4a90-b199-870f16426f22\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544387",
@@ -8790,10 +8790,6 @@
       "sent_at": "2026-11-07T08:06:56.648812+00:00"
     },
     {
-      "message_id": "<19c93563cf63397fc44d7dc0a4523511d4470208d520793c0e8bb1a186f04022@gmail.com>",
-      "sent_at": "2026-11-07T06:13:37.000804+00:00"
-    },
-    {
       "message_id": "<20b6c4c2308acc91f578f719900033dd65e6fd97e255210b95b0f66b749e89a1@gmail.com>",
       "sent_at": "2026-11-07T07:18:37.104653+00:00"
     },
@@ -8802,16 +8798,8 @@
       "sent_at": "2026-11-09T06:09:34.163341+00:00"
     },
     {
-      "message_id": "<2c3d56ccb386c46defad87dbe88b4d791537c77a8dbe3ab3409d2b95463a41eb@gmail.com>",
-      "sent_at": "2026-11-07T06:28:36.886014+00:00"
-    },
-    {
       "message_id": "<475f639b87e8374e9bec8b338c8a4ded7012c94e3f9bd176d4cd5f4f8cb1d4dd@gmail.com>",
       "sent_at": "2026-11-07T07:08:37.240636+00:00"
-    },
-    {
-      "message_id": "<481989aa2c769c395204ac5982f1d67a2ed197090ed98fbb24bafa8a6a33feb8@gmail.com>",
-      "sent_at": "2026-11-07T06:33:36.894359+00:00"
     },
     {
       "message_id": "<4b311aafca3aa4011504269f08be4cf9de2742c4407f8a06fbadb0780ec6f146@gmail.com>",
@@ -8828,14 +8816,6 @@
     {
       "message_id": "<66ead9c2b6727ac3f36dd176d17fdb1410b43b9670beef0b4bd4180da5bc3ec4@gmail.com>",
       "sent_at": "2026-11-07T08:21:54.570139+00:00"
-    },
-    {
-      "message_id": "<6b96eddcf8a318621fcb69e0cbbc5102a1e0b812793cdf80a9963e90004666cc@gmail.com>",
-      "sent_at": "2026-11-07T06:23:36.409477+00:00"
-    },
-    {
-      "message_id": "<6d2529f47c2b1c63cdb2bc5bc21a032a8824f6f318a406558febba158c9ac2d6@gmail.com>",
-      "sent_at": "2026-11-07T06:18:36.015147+00:00"
     },
     {
       "message_id": "<7028f2dff181feb3cb7ecd33095d8fe6abf10e5d03b89961581f0aed37c7758f@gmail.com>",
@@ -8876,6 +8856,10 @@
     {
       "message_id": "<b0568cf743b2b9329544da43cda81b74c68e84630030dcb3bfd2022160f000ca@gmail.com>",
       "sent_at": "2026-11-07T10:27:12.646170+00:00"
+    },
+    {
+      "message_id": "<b0d9c1a7b03290fe1c42b5e1d34bf9eef9395ae939e0977feadd87736f20b3fc@gmail.com>",
+      "sent_at": "2026-11-09T06:34:33.950158+00:00"
     },
     {
       "message_id": "<bef23b861fd15b6cb752deccf108ee1355b38b0a9026000c5aa7e1839e2a71b2@gmail.com>",
