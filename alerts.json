@@ -8572,8 +8572,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-09T10:09:17.605905+00:00",
       "news_id": "106853419",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"09-Nov-2026 15:37:33\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09112026153622_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"09-Nov-2026 15:37:33\", \"sort_date\": \"2026-11-09 15:37:33\", \"seq_id\": \"106853419\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"288.62 KB\", \"attFileSize\": \"288.62 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-09 15:37:33\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_09112026153622_VIL.pdf\", \"_id\": \"106853419\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -8792,10 +8792,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<04ad65b746070987290439063f528e9c9245e67134e8e606a11e5b5cd1fe7b73@gmail.com>",
-      "sent_at": "2026-11-07T08:56:55.064068+00:00"
-    },
-    {
       "message_id": "<26088946ddd3d2fd56296396563a96979fa57236edba2c9a550425e9364036c6@gmail.com>",
       "sent_at": "2026-11-09T06:09:34.163341+00:00"
     },
@@ -8838,6 +8834,10 @@
     {
       "message_id": "<c243f9ad6cb9adc1d07f58e14874ff3e6b6a17fbb9ae28f37b6f440a3e672f27@gmail.com>",
       "sent_at": "2026-11-07T10:52:11.940371+00:00"
+    },
+    {
+      "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
+      "sent_at": "2026-11-09T10:09:33.523337+00:00"
     }
   ],
   "metadata": [
