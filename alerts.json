@@ -6199,8 +6199,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-09T13:19:49.416706+00:00",
       "news_id": "4688e897-66e0-4b80-867a-445959b9d842",
-      "payload": "{\"NEWSID\": \"4688e897-66e0-4b80-867a-445959b9d842\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_4688E897-66E0-4B80-867A-445959B9D842\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-09T18:47:28.093\", \"NEWS_DT\": \"2026-11-09T18:47:28.093\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2be3fb7e-3a3e-4ae9-8532-65180beda050.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Earnings Call of the Company to be held on Friday, 13th November, 2026 at 11:00 AM to discuss the financial results for Q2 FY 2026-27\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-09T18:47:28\", \"DissemDT\": \"2026-11-09T18:47:28.093\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 590012, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4688e897-66e0-4b80-867a-445959b9d842\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14825498, \"DataInsDate\": \"2026-11-09T18:47:28.047\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-09T18:47:28.093\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Earnings Call of the Company to be held on Friday, 13th November, 2026 at 11:00 AM to discuss the financial results for Q2 FY 2026-27\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2be3fb7e-3a3e-4ae9-8532-65180beda050.pdf\", \"_id\": \"4688e897-66e0-4b80-867a-445959b9d842\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -8822,16 +8822,12 @@
       "sent_at": "2026-11-09T08:34:33.559843+00:00"
     },
     {
-      "message_id": "<74efdff9ab31fb7d519e6856477a109b804e0f4ce4e95030bef85cb791216c19@gmail.com>",
-      "sent_at": "2026-11-07T11:52:12.267982+00:00"
+      "message_id": "<72d21b1ae913cc2cb080fb72227f400040ffb963ed1f069b138280c7047faf9a@gmail.com>",
+      "sent_at": "2026-11-09T13:20:06.611268+00:00"
     },
     {
       "message_id": "<82c101c81b87d1deca0a5ade249cbef36b7b16fcbe721260d039e667d3a19cff@gmail.com>",
       "sent_at": "2026-11-07T14:52:44.782878+00:00"
-    },
-    {
-      "message_id": "<a14abe513369897bdbe69f2540a7ff23cae190b5e563ec7e89505eb92ff301c2@gmail.com>",
-      "sent_at": "2026-11-07T12:42:11.881167+00:00"
     },
     {
       "message_id": "<a9321ecbff03ba40843007464dbbeedfc2ee3b0596d3e53769b1a202a4e07c99@gmail.com>",
