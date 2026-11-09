@@ -4309,8 +4309,8 @@
       "company_key": "544238",
       "discovered_at": "2026-11-09T10:59:19.079094+00:00",
       "news_id": "2bdb4e9c-2f0c-4ea8-a6f2-fe0a38d79611",
-      "payload": "{\"NEWSID\": \"2bdb4e9c-2f0c-4ea8-a6f2-fe0a38d79611\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_2BDB4E9C-2F0C-4EA8-A6F2-FE0A38D79611\", \"NEWSSUB\": \"Communication To Shareholders - Intimation Of Tax Deduction At Source (TDS)\", \"DT_TM\": \"2026-11-09T16:26:18.697\", \"NEWS_DT\": \"2026-11-09T16:26:18.697\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"fca0a7e9-4561-48a5-a2a9-fff6ad2a7a01.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Communication to Shareholders - Intimation of Tax Deduction at Source (TDS).\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-09T16:26:18\", \"DissemDT\": \"2026-11-09T16:26:18.697\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 357900, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Communication To Shareholders - Intimation Of Tax Deduction At Source (TDS)\", \"_published\": \"2026-11-09T16:26:18.697\", \"_category\": \"Company Update\", \"_headline\": \"Communication to Shareholders - Intimation of Tax Deduction at Source (TDS).\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/fca0a7e9-4561-48a5-a2a9-fff6ad2a7a01.pdf\", \"_id\": \"2bdb4e9c-2f0c-4ea8-a6f2-fe0a38d79611\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -8831,16 +8831,12 @@
       "sent_at": "2026-11-08T13:33:36.101692+00:00"
     },
     {
-      "message_id": "<b0568cf743b2b9329544da43cda81b74c68e84630030dcb3bfd2022160f000ca@gmail.com>",
-      "sent_at": "2026-11-07T10:27:12.646170+00:00"
-    },
-    {
       "message_id": "<b0d9c1a7b03290fe1c42b5e1d34bf9eef9395ae939e0977feadd87736f20b3fc@gmail.com>",
       "sent_at": "2026-11-09T06:34:33.950158+00:00"
     },
     {
-      "message_id": "<c243f9ad6cb9adc1d07f58e14874ff3e6b6a17fbb9ae28f37b6f440a3e672f27@gmail.com>",
-      "sent_at": "2026-11-07T10:52:11.940371+00:00"
+      "message_id": "<bc23272cc97a3f5dceea7aea7ac2d123857561fb8245e8abf917f257170ae658@gmail.com>",
+      "sent_at": "2026-11-09T10:59:33.735804+00:00"
     },
     {
       "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
