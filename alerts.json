@@ -5786,8 +5786,8 @@
       "company_key": "544613",
       "discovered_at": "2026-11-09T06:09:21.562525+00:00",
       "news_id": "815eb198-bd80-48f2-82f3-ca3f65ff4f3b",
-      "payload": "{\"NEWSID\": \"815eb198-bd80-48f2-82f3-ca3f65ff4f3b\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_815EB198-BD80-48F2-82F3-CA3F65FF4F3B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-09T11:38:46.347\", \"NEWS_DT\": \"2026-11-09T11:38:46.347\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"037af97d-0673-4617-ac34-4ed3a89bfcdb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about the Investor Presentation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-09T11:38:46\", \"DissemDT\": \"2026-11-09T11:38:46.347\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 17177460, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-09T11:38:46.347\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about the Investor Presentation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/037af97d-0673-4617-ac34-4ed3a89bfcdb.pdf\", \"_id\": \"815eb198-bd80-48f2-82f3-ca3f65ff4f3b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -8791,28 +8791,12 @@
       "sent_at": "2026-11-07T07:18:37.104653+00:00"
     },
     {
-      "message_id": "<2166aff78cad9e43edda76158a618bc92c5b20e787f1ea8b0b7ad47e27b8060e@gmail.com>",
-      "sent_at": "2026-11-07T05:58:36.815920+00:00"
-    },
-    {
-      "message_id": "<2ad88b520e640fe5b97a4d1cf2dc5a850a8c16ddeab18c283007f6695fd5525f@gmail.com>",
-      "sent_at": "2026-11-06T18:13:04.573040+00:00"
+      "message_id": "<26088946ddd3d2fd56296396563a96979fa57236edba2c9a550425e9364036c6@gmail.com>",
+      "sent_at": "2026-11-09T06:09:34.163341+00:00"
     },
     {
       "message_id": "<2c3d56ccb386c46defad87dbe88b4d791537c77a8dbe3ab3409d2b95463a41eb@gmail.com>",
       "sent_at": "2026-11-07T06:28:36.886014+00:00"
-    },
-    {
-      "message_id": "<343eb45c6e4c0d1f47fce8a15ceac9bf28ae6155e7fab7847513d38f30c02bdd@gmail.com>",
-      "sent_at": "2026-11-07T05:18:36.891691+00:00"
-    },
-    {
-      "message_id": "<35895885ff639640064c10291088802ed4bb7097692410410de81bde97b80bde@gmail.com>",
-      "sent_at": "2026-11-06T18:18:04.048923+00:00"
-    },
-    {
-      "message_id": "<4246f2182a7fe02c0bbe59d3917b11c93579d4c9c02a1f96265015ea7de26cac@gmail.com>",
-      "sent_at": "2026-11-06T19:03:04.508670+00:00"
     },
     {
       "message_id": "<475f639b87e8374e9bec8b338c8a4ded7012c94e3f9bd176d4cd5f4f8cb1d4dd@gmail.com>",
@@ -8823,40 +8807,12 @@
       "sent_at": "2026-11-07T06:33:36.894359+00:00"
     },
     {
-      "message_id": "<49a55802397472927a3e02acd5d6213014f027fdfc907c185e13e0df969498fb@gmail.com>",
-      "sent_at": "2026-11-07T05:43:37.625499+00:00"
-    },
-    {
       "message_id": "<4b311aafca3aa4011504269f08be4cf9de2742c4407f8a06fbadb0780ec6f146@gmail.com>",
       "sent_at": "2026-11-07T14:57:24.969998+00:00"
     },
     {
-      "message_id": "<4c3afd77906c22aff243f81f611df56367dba6b60a31ce82c997ffb9cb64d009@gmail.com>",
-      "sent_at": "2026-11-06T20:13:03.455599+00:00"
-    },
-    {
-      "message_id": "<4e22c6d6cf5fdedef30bb5bbf32cef814de8d25a1fd00a75f6cac3b18cd5ca7d@gmail.com>",
-      "sent_at": "2026-11-07T05:38:36.913191+00:00"
-    },
-    {
-      "message_id": "<50b6ada3d04d5b9825f5ff122870b0028c93728dc91a196d1e37c8ea83d9d7fb@gmail.com>",
-      "sent_at": "2026-11-06T16:35:08.963825+00:00"
-    },
-    {
       "message_id": "<515ab5d655849d375fd72f23f2d345cd34e6bf1b2ab8e78d4ca3bbf46932500c@gmail.com>",
       "sent_at": "2026-11-07T14:47:24.613560+00:00"
-    },
-    {
-      "message_id": "<59851384ef9f85585bdd4193e3bc7b7124ce1518577d7ee7a61bb2d074061c68@gmail.com>",
-      "sent_at": "2026-11-06T18:58:04.300152+00:00"
-    },
-    {
-      "message_id": "<5abbeeb95d501d926752260c01ef75123d3eb87ac947bd704d9e71307d5c7999@gmail.com>",
-      "sent_at": "2026-11-06T20:08:03.507462+00:00"
-    },
-    {
-      "message_id": "<5c6adf9af1a961272ca3169333462fb1848870ac2338a66ff4189ba9bd51488c@gmail.com>",
-      "sent_at": "2026-11-06T17:38:03.671172+00:00"
     },
     {
       "message_id": "<5da829b82ed5723e51343e2613ff6d163b40dee05a058de15967edd7c7a145bf@gmail.com>",
@@ -8879,14 +8835,6 @@
       "sent_at": "2026-11-07T07:23:36.678368+00:00"
     },
     {
-      "message_id": "<716484cfd4fbbcff8f63becab7386d2152f8842ba5a9a66861f28bd62528aa4d@gmail.com>",
-      "sent_at": "2026-11-07T04:43:37.155212+00:00"
-    },
-    {
-      "message_id": "<71e90ec31a94752657b6440750b7aee9aa9a961d5d7b7b67e085532b16d7ce46@gmail.com>",
-      "sent_at": "2026-11-07T04:58:37.066583+00:00"
-    },
-    {
       "message_id": "<74efdff9ab31fb7d519e6856477a109b804e0f4ce4e95030bef85cb791216c19@gmail.com>",
       "sent_at": "2026-11-07T11:52:12.267982+00:00"
     },
@@ -8903,40 +8851,16 @@
       "sent_at": "2026-11-07T14:52:44.782878+00:00"
     },
     {
-      "message_id": "<87c6f6dd0d434efc76b0e0ef233838c42fba3c70a17bb31bfbd2cc128854943b@gmail.com>",
-      "sent_at": "2026-11-07T04:08:37.046340+00:00"
-    },
-    {
-      "message_id": "<918f9b349d1b455969415a1b291231651741f86cd276273f6a928580b3f81565@gmail.com>",
-      "sent_at": "2026-11-07T05:53:36.593579+00:00"
-    },
-    {
-      "message_id": "<967833d9faf55dbae52b2ff5262a3e0b534803be6eccad6c0d6a59fb3eba2234@gmail.com>",
-      "sent_at": "2026-11-06T17:58:04.302022+00:00"
-    },
-    {
       "message_id": "<982950274fa4bdced414414af0eff27d6f80a0da89e40595524472b6e9bf92df@gmail.com>",
       "sent_at": "2026-11-07T06:38:37.067901+00:00"
-    },
-    {
-      "message_id": "<98457d6bae5892492404cad8c374f13d470a07503d85cdbef2fc53fd616f5743@gmail.com>",
-      "sent_at": "2026-11-07T05:28:37.239623+00:00"
     },
     {
       "message_id": "<9d006e2415e166c77d1e86405c370b22ccc1e24784553f12d5723b5f56087165@gmail.com>",
       "sent_at": "2026-11-07T06:43:37.332826+00:00"
     },
     {
-      "message_id": "<9f0580f1443d8e4ca5f34410cda350f71ab4e92ca5b809fb589e9532a800a260@gmail.com>",
-      "sent_at": "2026-11-06T17:28:09.464723+00:00"
-    },
-    {
       "message_id": "<a14abe513369897bdbe69f2540a7ff23cae190b5e563ec7e89505eb92ff301c2@gmail.com>",
       "sent_at": "2026-11-07T12:42:11.881167+00:00"
-    },
-    {
-      "message_id": "<a8fb6dfb0a980b6c58ed1ec415e6f5629e083e1c005603a83d0cd63c427913af@gmail.com>",
-      "sent_at": "2026-11-07T05:48:36.939869+00:00"
     },
     {
       "message_id": "<a9321ecbff03ba40843007464dbbeedfc2ee3b0596d3e53769b1a202a4e07c99@gmail.com>",
@@ -8945,18 +8869,6 @@
     {
       "message_id": "<b0568cf743b2b9329544da43cda81b74c68e84630030dcb3bfd2022160f000ca@gmail.com>",
       "sent_at": "2026-11-07T10:27:12.646170+00:00"
-    },
-    {
-      "message_id": "<b46e280145b3832c8c8da0d30f20c2d37b1b6753d6802a523baca05d8d3303b4@gmail.com>",
-      "sent_at": "2026-11-07T04:48:36.879200+00:00"
-    },
-    {
-      "message_id": "<bc478e4f0eb70438a46afe128f1598fd6efe3f29f05e02d3088b5438d2c2e799@gmail.com>",
-      "sent_at": "2026-11-07T06:03:37.151223+00:00"
-    },
-    {
-      "message_id": "<bd429b0bbb2b74fb963b05e0cc86b5be7b378f0d7a29587b30a4660a6ed4b70f@gmail.com>",
-      "sent_at": "2026-11-06T20:03:04.784668+00:00"
     },
     {
       "message_id": "<bef23b861fd15b6cb752deccf108ee1355b38b0a9026000c5aa7e1839e2a71b2@gmail.com>",
@@ -8975,48 +8887,12 @@
       "sent_at": "2026-11-07T10:52:11.940371+00:00"
     },
     {
-      "message_id": "<c3eed706ad9a3e694494db27c564d06eaf97b740fd71ae3072b11ce692a82e8e@gmail.com>",
-      "sent_at": "2026-11-07T06:08:36.215439+00:00"
-    },
-    {
-      "message_id": "<d049f9d3647649dde68bade27c2785bc1fbcdd19a4f07a0eb868d96a84117ccd@gmail.com>",
-      "sent_at": "2026-11-06T17:33:05.095964+00:00"
-    },
-    {
       "message_id": "<db85db85694b0aa539129d9113d3e6b609d7f44ee4c4b037b7b92fd07fa6af67@gmail.com>",
       "sent_at": "2026-11-07T07:03:37.240089+00:00"
     },
     {
       "message_id": "<dbb99d7e538261db7456af84b6d07615f0010ae3b6a6d6bd33d8dce5d5bdcf8a@gmail.com>",
       "sent_at": "2026-11-07T07:33:36.953448+00:00"
-    },
-    {
-      "message_id": "<dbff6683b5c0209bd0101b5546b6c55ba0c17d635dac1b85efe80f77dd23eecc@gmail.com>",
-      "sent_at": "2026-11-07T05:33:37.102394+00:00"
-    },
-    {
-      "message_id": "<dd11036704d4fcab403996eae8ac5d02213997224ce7fa4802b2a4897d898223@gmail.com>",
-      "sent_at": "2026-11-07T04:38:37.148335+00:00"
-    },
-    {
-      "message_id": "<f01a4c90ad01fb9a5de59c53bd280adcabf8910e500df16ca2122cd21c95700c@gmail.com>",
-      "sent_at": "2026-11-07T05:23:37.414833+00:00"
-    },
-    {
-      "message_id": "<f131c8ee4a2548cca2874612c404700acbd389c0a0f076550fc96b23e987efa9@gmail.com>",
-      "sent_at": "2026-11-06T17:53:04.268734+00:00"
-    },
-    {
-      "message_id": "<f39817502d44fff5c2ed4f16ce7731bdb8067ba70048307a1e4c2a97ea252f0a@gmail.com>",
-      "sent_at": "2026-11-06T18:28:03.939812+00:00"
-    },
-    {
-      "message_id": "<f5eff48516bf6e130c8b8f9a338c88821e405919ccd52bcd21d311098e9ff863@gmail.com>",
-      "sent_at": "2026-11-07T03:18:23.087411+00:00"
-    },
-    {
-      "message_id": "<fcabca42121112a83bd0a9665e0c02131f8c63283f82127116e44f167a9b1d50@gmail.com>",
-      "sent_at": "2026-11-06T18:03:05.018525+00:00"
     }
   ],
   "metadata": [
