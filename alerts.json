@@ -5730,8 +5730,8 @@
       "company_key": "544613",
       "discovered_at": "2026-11-10T09:51:04.408453+00:00",
       "news_id": "14046715-768e-42e4-8e8f-90e2532dfeb1",
-      "payload": "{\"NEWSID\": \"14046715-768e-42e4-8e8f-90e2532dfeb1\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_14046715-768E-42E4-8E8F-90E2532DFEB1\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-10T15:17:00.513\", \"NEWS_DT\": \"2026-11-10T15:17:00.513\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8580c89c-7f37-4b0a-9d5b-f8b89d0328b4.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange about Link of Recording of the Earnings Call for Q2 FY2026-27.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-10T15:17:00\", \"DissemDT\": \"2026-11-10T15:17:00.513\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 246080, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"14046715-768e-42e4-8e8f-90e2532dfeb1\", \"INVESTOR_PRESENTATION\": \"44d5f7f0-9584-40a3-8be6-865f912952f7.pdf\", \"RECORDID\": 14831949, \"DataInsDate\": \"2026-11-10T15:17:00.403\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44d5f7f0-9584-40a3-8be6-865f912952f7.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-10T15:17:00.513\", \"_category\": \"Company Update\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange about Link of Recording of the Earnings Call for Q2 FY2026-27.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8580c89c-7f37-4b0a-9d5b-f8b89d0328b4.pdf\", \"_id\": \"14046715-768e-42e4-8e8f-90e2532dfeb1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -8822,6 +8822,10 @@
     {
       "message_id": "<26088946ddd3d2fd56296396563a96979fa57236edba2c9a550425e9364036c6@gmail.com>",
       "sent_at": "2026-11-09T06:09:34.163341+00:00"
+    },
+    {
+      "message_id": "<2e4e9d267a3be34b5620b85a89a7d20668443e6ca9090fe90feb40ca37ae82bd@gmail.com>",
+      "sent_at": "2026-11-10T09:51:21.780684+00:00"
     },
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
