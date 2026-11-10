@@ -4316,8 +4316,8 @@
       "company_key": "544238",
       "discovered_at": "2026-11-10T11:16:03.406225+00:00",
       "news_id": "26c616fb-3847-4676-8e03-f02886df03bf",
-      "payload": "{\"NEWSID\": \"26c616fb-3847-4676-8e03-f02886df03bf\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_26C616FB-3847-4676-8E03-F02886DF03BF\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-10T16:41:38.14\", \"NEWS_DT\": \"2026-11-10T16:41:38.14\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"65e191d7-5f33-48f5-8d5f-b9f54149ad8f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-10T16:41:38\", \"DissemDT\": \"2026-11-10T16:41:38.14\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 760487, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-10T16:41:38.14\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/65e191d7-5f33-48f5-8d5f-b9f54149ad8f.pdf\", \"_id\": \"26c616fb-3847-4676-8e03-f02886df03bf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -8833,6 +8833,10 @@
     {
       "message_id": "<2e4e9d267a3be34b5620b85a89a7d20668443e6ca9090fe90feb40ca37ae82bd@gmail.com>",
       "sent_at": "2026-11-10T09:51:21.780684+00:00"
+    },
+    {
+      "message_id": "<323aaf6755d29755f1c2d13bec0b43bf3efd4d0a5fb602a67e36ac218da442f8@gmail.com>",
+      "sent_at": "2026-11-10T11:16:16.512806+00:00"
     },
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
