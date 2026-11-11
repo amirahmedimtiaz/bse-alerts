@@ -4008,8 +4008,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-11T13:22:46.983668+00:00",
       "news_id": "68697de3-c781-4b8b-904f-d7e7c9151a8c",
-      "payload": "{\"NEWSID\": \"68697de3-c781-4b8b-904f-d7e7c9151a8c\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_68697DE3-C781-4B8B-904F-D7E7C9151A8C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-11T18:51:09.27\", \"NEWS_DT\": \"2026-11-11T18:51:09.27\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"106303ce-3dfb-4c26-9bde-51a664847121.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that an Earnings Conference Call on the unaudited financial results of the Company (Standalone and Consolidated) for the Quarter and Half Year ended 30th September, 2026 is scheduled on Monday, 16th November, 2026 at 03:30 P.M. (IST). The call invite is attached herewith.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that an Earnings Conference ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T18:51:09\", \"DissemDT\": \"2026-11-11T18:51:09.27\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 905727, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-11T18:51:09.27\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that an Earnings Conference ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/106303ce-3dfb-4c26-9bde-51a664847121.pdf\", \"_id\": \"68697de3-c781-4b8b-904f-d7e7c9151a8c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -8967,10 +8967,6 @@
       "sent_at": "2026-11-11T12:17:40.881012+00:00"
     },
     {
-      "message_id": "<72d21b1ae913cc2cb080fb72227f400040ffb963ed1f069b138280c7047faf9a@gmail.com>",
-      "sent_at": "2026-11-09T13:20:06.611268+00:00"
-    },
-    {
       "message_id": "<8940eb7d278d4438ace9497e4e4d27eb1519efbea6d800ad15f127a9b3edc76b@gmail.com>",
       "sent_at": "2026-11-11T12:32:41.887543+00:00"
     },
@@ -8981,6 +8977,10 @@
     {
       "message_id": "<a62c8556300ce783bd3449318fe5f507424cbd66fb2a8ff527b3612a9dc7d844@gmail.com>",
       "sent_at": "2026-11-11T11:32:41.656372+00:00"
+    },
+    {
+      "message_id": "<a80e60f5f2a4731a1863f3fae9dabef798b69886ffa6992654ba24eb51834e62@gmail.com>",
+      "sent_at": "2026-11-11T13:22:59.138840+00:00"
     },
     {
       "message_id": "<c3d5feb9966524a6d20e002c16f142fca14981c2e140f01c8b44c64ddc106188@gmail.com>",
