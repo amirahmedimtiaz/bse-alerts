@@ -235,8 +235,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T11:47:31.885160+00:00",
       "news_id": "1e1d75bd-b0df-43f8-bb2f-531f94c9d671",
-      "payload": "{\"NEWSID\": \"1e1d75bd-b0df-43f8-bb2f-531f94c9d671\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_1E1D75BD-B0DF-43F8-BB2F-531F94C9D671\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-11-11T17:16:18.487\", \"NEWS_DT\": \"2026-11-11T17:16:18.487\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"263f0717-d22e-42b2-b518-853172271c8c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Financial results for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T17:16:15\", \"DissemDT\": \"2026-11-11T17:16:18.487\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 12873747, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-11-11T17:16:18.487\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of the Financial results for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/263f0717-d22e-42b2-b518-853172271c8c.pdf\", \"_id\": \"1e1d75bd-b0df-43f8-bb2f-531f94c9d671\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -8909,6 +8909,10 @@
     {
       "message_id": "<a62c8556300ce783bd3449318fe5f507424cbd66fb2a8ff527b3612a9dc7d844@gmail.com>",
       "sent_at": "2026-11-11T11:32:41.656372+00:00"
+    },
+    {
+      "message_id": "<d29961bf30a302a86b60f65a64da8dce0afcc209c0adb78c9e69e9d475bbf6e9@gmail.com>",
+      "sent_at": "2026-11-11T11:47:41.339658+00:00"
     },
     {
       "message_id": "<d46ee7f24aabe4b5ac576bdbf445ebd6bb61d693c406bb71ef0375728287e6d5@gmail.com>",
