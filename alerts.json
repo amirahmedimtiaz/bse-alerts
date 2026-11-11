@@ -5954,8 +5954,8 @@
       "company_key": "544641",
       "discovered_at": "2026-11-11T09:02:31.029321+00:00",
       "news_id": "bb3b8ef3-a118-4d44-aa4c-dae9c6ff69cf",
-      "payload": "{\"NEWSID\": \"bb3b8ef3-a118-4d44-aa4c-dae9c6ff69cf\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_BB3B8EF3-A118-4D44-AA4C-DAE9C6FF69CF\", \"NEWSSUB\": \"Board Meeting Intimation for Un-Audited Financial Results Of The Company For The Half Year Ended 30Th September, 2026.\", \"DT_TM\": \"2026-11-11T14:32:13.21\", \"NEWS_DT\": \"2026-11-11T14:32:13.21\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4716291a-ce35-4f03-88d8-7493a707047d.pdf\", \"MORE\": \"K. V. Toys India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results of the Company for the half year ended 30th September, 2026.\", \"HEADLINE\": \"K. V. Toys India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T14:32:11\", \"DissemDT\": \"2026-11-11T14:32:13.21\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 1447312, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Board Meeting Intimation for Un-Audited Financial Results Of The Company For The Half Year Ended 30Th September, 2026.\", \"_published\": \"2026-11-11T14:32:13.21\", \"_category\": \"Board Meeting\", \"_headline\": \"K. V. Toys India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the Un-audited Financial Results ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4716291a-ce35-4f03-88d8-7493a707047d.pdf\", \"_id\": \"bb3b8ef3-a118-4d44-aa4c-dae9c6ff69cf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544641",
@@ -8889,10 +8889,6 @@
       "sent_at": "2026-11-10T05:35:58.319778+00:00"
     },
     {
-      "message_id": "<5e6d42fdf164652136ab27b5b3c7c265b06f8f88010431fc7245252dd3298dc5@gmail.com>",
-      "sent_at": "2026-11-09T08:34:33.559843+00:00"
-    },
-    {
       "message_id": "<72d21b1ae913cc2cb080fb72227f400040ffb963ed1f069b138280c7047faf9a@gmail.com>",
       "sent_at": "2026-11-09T13:20:06.611268+00:00"
     },
@@ -8915,6 +8911,10 @@
     {
       "message_id": "<e3950d7d68e4c6c85e4cd0455c6a4e1fe3305d8634bf54502243d2fbfc4b1ae5@gmail.com>",
       "sent_at": "2026-11-11T07:02:24.817811+00:00"
+    },
+    {
+      "message_id": "<fdfbd647948e481ea84ebd5d635e5254c71df3b471d8df894408e90ebaf96b23@gmail.com>",
+      "sent_at": "2026-11-11T09:02:41.567461+00:00"
     }
   ],
   "metadata": [
