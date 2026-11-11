@@ -319,8 +319,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T12:17:30.818955+00:00",
       "news_id": "500e55df-adcc-4bfd-8746-c98db7f76de7",
-      "payload": "{\"NEWSID\": \"500e55df-adcc-4bfd-8746-c98db7f76de7\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_500E55DF-ADCC-4BFD-8746-C98DB7F76DE7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-11T17:43:04.633\", \"NEWS_DT\": \"2026-11-11T17:43:04.633\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7a4ac249-057f-4abc-b701-cabc9e2370c8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release Titled \\\"Financial Results for quarter and half year ended September 30, 2026.\\\"\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T17:43:04\", \"DissemDT\": \"2026-11-11T17:43:04.633\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 461292, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-11T17:43:04.633\", \"_category\": \"Company Update\", \"_headline\": \"Press Release Titled \\\"Financial Results for quarter and half year ended September 30, 2026.\\\"\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7a4ac249-057f-4abc-b701-cabc9e2370c8.pdf\", \"_id\": \"500e55df-adcc-4bfd-8746-c98db7f76de7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -8933,6 +8933,10 @@
     {
       "message_id": "<60425486a18d8d8e1ca00bf7f4efc966eb7ba08d34f16546a1295fb3abfacd75@gmail.com>",
       "sent_at": "2026-11-11T12:07:41.532121+00:00"
+    },
+    {
+      "message_id": "<62e8be5918592a279cef8e00da0755b2848541668261560ee37d2616b5629c41@gmail.com>",
+      "sent_at": "2026-11-11T12:17:40.881012+00:00"
     },
     {
       "message_id": "<72d21b1ae913cc2cb080fb72227f400040ffb963ed1f069b138280c7047faf9a@gmail.com>",
