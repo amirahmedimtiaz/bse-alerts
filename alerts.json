@@ -4680,8 +4680,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-11T19:28:05.576957+00:00",
       "news_id": "104f91c7-0ad8-41af-a33d-b1ec1f93cb8c",
-      "payload": "{\"NEWSID\": \"104f91c7-0ad8-41af-a33d-b1ec1f93cb8c\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_104F91C7-0AD8-41AF-A33D-B1EC1F93CB8C\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-11-12T00:54:41.203\", \"NEWS_DT\": \"2026-11-12T00:54:41.203\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e3278334-1b3e-4934-b79f-34f1805acaba.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Clarification on the news article published by Moneycontrol on November 11, 2026 titled \\\"Waaree admitted misreporting solar import origin in submission to US Trade Commission\\\".\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T00:54:41\", \"DissemDT\": \"2026-11-12T00:54:41.203\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 238679, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-11-12T00:54:41.203\", \"_category\": \"Company Update\", \"_headline\": \"Clarification on the news article published by Moneycontrol on November 11, 2026 titled \\\"Waaree admitted misreporting solar import origin in submission to US Trade Commission\\\".\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e3278334-1b3e-4934-b79f-34f1805acaba.pdf\", \"_id\": \"104f91c7-0ad8-41af-a33d-b1ec1f93cb8c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -8989,6 +8989,10 @@
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
       "sent_at": "2026-11-10T05:35:58.319778+00:00"
+    },
+    {
+      "message_id": "<551ef5ee7ec7a1adfb55072a695960c5f16c4d0a0c6316f39eaedc0ee266b34f@gmail.com>",
+      "sent_at": "2026-11-11T19:28:21.678852+00:00"
     },
     {
       "message_id": "<565f042eb6456ad246ac60966ecc8b348f844d8a1963290ea0f1cac928649f51@gmail.com>",
