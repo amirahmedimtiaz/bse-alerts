@@ -417,8 +417,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T13:57:47.586318+00:00",
       "news_id": "f0cb96a9-c480-40a2-85ce-b1b9510c415e",
-      "payload": "{\"NEWSID\": \"f0cb96a9-c480-40a2-85ce-b1b9510c415e\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_F0CB96A9-C480-40A2-85CE-B1B9510C415E\", \"NEWSSUB\": \"Disclosure Under Regulation 30(5) Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"DT_TM\": \"2026-11-11T19:22:55.5\", \"NEWS_DT\": \"2026-11-11T19:22:55.5\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"884ef8c7-e105-4c95-afca-41f6e592da02.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under Regulation 30(5) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T19:22:55\", \"DissemDT\": \"2026-11-11T19:22:55.5\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 218167, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30(5) Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"_published\": \"2026-11-11T19:22:55.5\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under Regulation 30(5) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/884ef8c7-e105-4c95-afca-41f6e592da02.pdf\", \"_id\": \"f0cb96a9-c480-40a2-85ce-b1b9510c415e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -8967,6 +8967,10 @@
     {
       "message_id": "<323aaf6755d29755f1c2d13bec0b43bf3efd4d0a5fb602a67e36ac218da442f8@gmail.com>",
       "sent_at": "2026-11-10T11:16:16.512806+00:00"
+    },
+    {
+      "message_id": "<49fb873f97a9f2ddc5a19e7d7136349480f2a3792d188fc2d8160f7a196df3ba@gmail.com>",
+      "sent_at": "2026-11-11T13:57:59.479326+00:00"
     },
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
