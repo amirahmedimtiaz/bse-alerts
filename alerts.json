@@ -368,8 +368,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T15:07:51.583039+00:00",
       "news_id": "966dfef9-1469-4c3a-8f95-4c72220b67fc",
-      "payload": "{\"NEWSID\": \"966dfef9-1469-4c3a-8f95-4c72220b67fc\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_966DFEF9-1469-4C3A-8F95-4C72220B67FC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-11T20:35:40.937\", \"NEWS_DT\": \"2026-11-11T20:35:40.937\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"5abe6ad6-2eb7-432c-85f4-20e44db0cb5d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 -Analyst Call Recording\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T20:35:40\", \"DissemDT\": \"2026-11-11T20:35:40.937\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 171952, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"966dfef9-1469-4c3a-8f95-4c72220b67fc\", \"INVESTOR_PRESENTATION\": \"06f11e94-f757-49cf-a79f-1258ee4a02e2.pdf\", \"RECORDID\": 14845167, \"DataInsDate\": \"2026-11-11T20:35:40.83\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06f11e94-f757-49cf-a79f-1258ee4a02e2.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-11T20:35:40.937\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 -Analyst Call Recording\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/5abe6ad6-2eb7-432c-85f4-20e44db0cb5d.pdf\", \"_id\": \"966dfef9-1469-4c3a-8f95-4c72220b67fc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -9022,6 +9022,10 @@
     {
       "message_id": "<d29961bf30a302a86b60f65a64da8dce0afcc209c0adb78c9e69e9d475bbf6e9@gmail.com>",
       "sent_at": "2026-11-11T11:47:41.339658+00:00"
+    },
+    {
+      "message_id": "<d3d5bb2ec166b0dc305d06eefbcf9ae407d23e052565caca7868fd2c5aef57ef@gmail.com>",
+      "sent_at": "2026-11-11T15:07:59.437679+00:00"
     },
     {
       "message_id": "<d46ee7f24aabe4b5ac576bdbf445ebd6bb61d693c406bb71ef0375728287e6d5@gmail.com>",
