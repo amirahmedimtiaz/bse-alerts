@@ -4701,8 +4701,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-11T07:07:09.866630+00:00",
       "news_id": "6099eed8-de90-4fd7-a29a-a8c002427228",
-      "payload": "{\"NEWSID\": \"6099eed8-de90-4fd7-a29a-a8c002427228\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_6099EED8-DE90-4FD7-A29A-A8C002427228\", \"NEWSSUB\": \"Clarification sought from Waaree Energies Ltd\", \"DT_TM\": \"2026-11-11T12:33:42.74\", \"NEWS_DT\": \"2026-11-11T12:33:42.74\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"\", \"MORE\": \"The Exchange has sought clarification from Waaree Energies Ltd on November 11, 2026, with reference to news appeared in https://energy.economictimes.indiatimes.com/ dated November 10, 2026 quoting \\\"Waaree Energies to invest 15,000 cr in green ammonia project in Andhra.\\\"<BR><BR>The reply is awaited.\", \"HEADLINE\": \"The Exchange has sought clarification from Waaree Energies Ltd on November 11, 2026, with reference to news appeared in https://energy.economictimes.indiatimes.com/ dated November 10, 2026 ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 17, \"TotalPageCnt\": 1, \"News_submission_dt\": null, \"DissemDT\": \"2026-11-11T12:33:42.74\", \"TimeDiff\": null, \"Fld_Attachsize\": null, \"SUBCATNAME\": \"Clarification\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Clarification sought from Waaree Energies Ltd\", \"_published\": \"2026-11-11T12:33:42.74\", \"_category\": \"Company Update\", \"_headline\": \"The Exchange has sought clarification from Waaree Energies Ltd on November 11, 2026, with reference to news appeared in https://energy.economictimes.indiatimes.com/ dated November 10, 2026 ....\", \"_pdf_url\": null, \"_id\": \"6099eed8-de90-4fd7-a29a-a8c002427228\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -8889,6 +8889,10 @@
     {
       "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
       "sent_at": "2026-11-09T10:09:33.523337+00:00"
+    },
+    {
+      "message_id": "<d4c30264ff335ae9f1269b6f60ebf7ce4f912182b8d3fbbe67ce41f3f031a413@gmail.com>",
+      "sent_at": "2026-11-11T07:07:25.381873+00:00"
     },
     {
       "message_id": "<e3950d7d68e4c6c85e4cd0455c6a4e1fe3305d8634bf54502243d2fbfc4b1ae5@gmail.com>",
