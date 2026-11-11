@@ -4092,8 +4092,8 @@
       "company_key": "543981",
       "discovered_at": "2026-11-11T07:02:04.820467+00:00",
       "news_id": "46af349f-8869-4584-9fbd-586c5ab52a67",
-      "payload": "{\"NEWSID\": \"46af349f-8869-4584-9fbd-586c5ab52a67\", \"SCRIP_CD\": 543981, \"XML_NAME\": \"ANN_543981_46AF349F-8869-4584-9FBD-586C5AB52A67\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-11T12:30:46.467\", \"NEWS_DT\": \"2026-11-11T12:30:46.467\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9a490035-0044-40f6-9746-9b4d0712013c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Enclosed herewith intimation regarding the Analysts/Investors meetings to be held on 16th and 17th November 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/\", \"SLONGNAME\": \"R R Kabel Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T12:30:46\", \"DissemDT\": \"2026-11-11T12:30:46.467\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 749864, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"R R Kabel Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/r-r-kabel-ltd/rrkabel/543981/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-11T12:30:46.467\", \"_category\": \"Company Update\", \"_headline\": \"Enclosed herewith intimation regarding the Analysts/Investors meetings to be held on 16th and 17th November 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9a490035-0044-40f6-9746-9b4d0712013c.pdf\", \"_id\": \"46af349f-8869-4584-9fbd-586c5ab52a67\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543981",
@@ -8848,10 +8848,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<26088946ddd3d2fd56296396563a96979fa57236edba2c9a550425e9364036c6@gmail.com>",
-      "sent_at": "2026-11-09T06:09:34.163341+00:00"
-    },
-    {
       "message_id": "<2cb6a2194e412ce1f7ff3fee289b6866f171b635c17e01953abe01e33628b19a@gmail.com>",
       "sent_at": "2026-11-11T04:27:24.626516+00:00"
     },
@@ -8880,16 +8876,16 @@
       "sent_at": "2026-11-09T13:20:06.611268+00:00"
     },
     {
-      "message_id": "<b0d9c1a7b03290fe1c42b5e1d34bf9eef9395ae939e0977feadd87736f20b3fc@gmail.com>",
-      "sent_at": "2026-11-09T06:34:33.950158+00:00"
-    },
-    {
       "message_id": "<bc23272cc97a3f5dceea7aea7ac2d123857561fb8245e8abf917f257170ae658@gmail.com>",
       "sent_at": "2026-11-09T10:59:33.735804+00:00"
     },
     {
       "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
       "sent_at": "2026-11-09T10:09:33.523337+00:00"
+    },
+    {
+      "message_id": "<e3950d7d68e4c6c85e4cd0455c6a4e1fe3305d8634bf54502243d2fbfc4b1ae5@gmail.com>",
+      "sent_at": "2026-11-11T07:02:24.817811+00:00"
     }
   ],
   "metadata": [
