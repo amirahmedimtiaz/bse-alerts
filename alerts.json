@@ -291,8 +291,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T08:17:27.861935+00:00",
       "news_id": "4fb434cf-274b-40e5-bd2c-1e0245e2dff5",
-      "payload": "{\"NEWSID\": \"4fb434cf-274b-40e5-bd2c-1e0245e2dff5\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_4FB434CF-274B-40E5-BD2C-1E0245E2DFF5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"DT_TM\": \"2026-11-11T13:44:25.97\", \"NEWS_DT\": \"2026-11-11T13:44:25.97\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bf144841-4cb9-4339-9a20-fef1c4b313e2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Company has informed about grant of 64,88,790 stock options.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 115, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T13:44:25\", \"DissemDT\": \"2026-11-11T13:44:25.97\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 269782, \"SUBCATNAME\": \"Allotment of ESOP / ESPS\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\", \"_published\": \"2026-11-11T13:44:25.97\", \"_category\": \"Company Update\", \"_headline\": \"The Company has informed about grant of 64,88,790 stock options.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf144841-4cb9-4339-9a20-fef1c4b313e2.pdf\", \"_id\": \"4fb434cf-274b-40e5-bd2c-1e0245e2dff5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -8896,6 +8896,10 @@
     {
       "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
       "sent_at": "2026-11-09T10:09:33.523337+00:00"
+    },
+    {
+      "message_id": "<d46ee7f24aabe4b5ac576bdbf445ebd6bb61d693c406bb71ef0375728287e6d5@gmail.com>",
+      "sent_at": "2026-11-11T08:17:41.624157+00:00"
     },
     {
       "message_id": "<d4c30264ff335ae9f1269b6f60ebf7ce4f912182b8d3fbbe67ce41f3f031a413@gmail.com>",
