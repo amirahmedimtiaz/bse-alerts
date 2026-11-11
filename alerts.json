@@ -270,8 +270,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T12:07:28.376637+00:00",
       "news_id": "3de57b54-efa3-4790-9b4c-020b2887de9b",
-      "payload": "{\"NEWSID\": \"3de57b54-efa3-4790-9b4c-020b2887de9b\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_3DE57B54-EFA3-4790-9B4C-020B2887DE9B\", \"NEWSSUB\": \"Outcome Of The Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-11-11T17:29:12.25\", \"NEWS_DT\": \"2026-11-11T17:29:12.25\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"73421683-fb93-45b6-9534-28f0b0d8262e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Financial result for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T17:29:12\", \"DissemDT\": \"2026-11-11T17:29:12.25\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 12873747, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Outcome Of The Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-11-11T17:29:12.25\", \"_category\": \"Result\", \"_headline\": \"Outcome of the Financial result for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/73421683-fb93-45b6-9534-28f0b0d8262e.pdf\", \"_id\": \"3de57b54-efa3-4790-9b4c-020b2887de9b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -5541,8 +5541,8 @@
       "company_key": "544526",
       "discovered_at": "2026-11-11T12:07:26.920894+00:00",
       "news_id": "536c1f2c-6437-41ee-801c-03b18be961b4",
-      "payload": "{\"NEWSID\": \"536c1f2c-6437-41ee-801c-03b18be961b4\", \"SCRIP_CD\": 544526, \"XML_NAME\": \"ANN_544526_536C1F2C-6437-41EE-801C-03B18BE961B4\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-11T17:37:06.633\", \"NEWS_DT\": \"2026-11-11T17:37:06.633\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3ba6253d-81c1-43df-acc8-7f0c4019e3de.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of Earnings Conference Call held on November 05, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/\", \"SLONGNAME\": \"Saatvik Green Energy Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T17:37:06\", \"DissemDT\": \"2026-11-11T17:37:06.633\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1050171, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Saatvik Green Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-11T17:37:06.633\", \"_category\": \"Company Update\", \"_headline\": \"Transcript of Earnings Conference Call held on November 05, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ba6253d-81c1-43df-acc8-7f0c4019e3de.pdf\", \"_id\": \"536c1f2c-6437-41ee-801c-03b18be961b4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544526",
@@ -8915,6 +8915,10 @@
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
       "sent_at": "2026-11-10T05:35:58.319778+00:00"
+    },
+    {
+      "message_id": "<60425486a18d8d8e1ca00bf7f4efc966eb7ba08d34f16546a1295fb3abfacd75@gmail.com>",
+      "sent_at": "2026-11-11T12:07:41.532121+00:00"
     },
     {
       "message_id": "<72d21b1ae913cc2cb080fb72227f400040ffb963ed1f069b138280c7047faf9a@gmail.com>",
