@@ -326,8 +326,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-11T13:27:48.575824+00:00",
       "news_id": "63fe6a7a-bf4e-4efd-8703-36ef93693abc",
-      "payload": "{\"NEWSID\": \"63fe6a7a-bf4e-4efd-8703-36ef93693abc\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_63FE6A7A-BF4E-4EFD-8703-36EF93693ABC\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"DT_TM\": \"2026-11-11T18:54:18.953\", \"NEWS_DT\": \"2026-11-11T18:54:18.953\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"79ead256-b47e-41f3-8e17-8b635bb30820.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Regulation 30 Change in Management\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 124, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T18:54:18\", \"DissemDT\": \"2026-11-11T18:54:18.953\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 250766, \"SUBCATNAME\": \"Change in Management\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Change in Management\", \"_published\": \"2026-11-11T18:54:18.953\", \"_category\": \"Company Update\", \"_headline\": \"Regulation 30 Change in Management\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/79ead256-b47e-41f3-8e17-8b635bb30820.pdf\", \"_id\": \"63fe6a7a-bf4e-4efd-8703-36ef93693abc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -8964,6 +8964,10 @@
     {
       "message_id": "<53455fee69dcd9cd861bafcd1439b2f94b459da088d6a02c759a611f5276b17f@gmail.com>",
       "sent_at": "2026-11-10T05:35:58.319778+00:00"
+    },
+    {
+      "message_id": "<565f042eb6456ad246ac60966ecc8b348f844d8a1963290ea0f1cac928649f51@gmail.com>",
+      "sent_at": "2026-11-11T13:27:59.511463+00:00"
     },
     {
       "message_id": "<60425486a18d8d8e1ca00bf7f4efc966eb7ba08d34f16546a1295fb3abfacd75@gmail.com>",
