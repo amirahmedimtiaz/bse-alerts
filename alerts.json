@@ -4393,8 +4393,8 @@
       "company_key": "544238",
       "discovered_at": "2026-11-11T11:32:25.526238+00:00",
       "news_id": "5506e17a-ed78-4242-bf5b-7698b23431a3",
-      "payload": "{\"NEWSID\": \"5506e17a-ed78-4242-bf5b-7698b23431a3\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_5506E17A-ED78-4242-BF5B-7698B23431A3\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-11T17:01:06.693\", \"NEWS_DT\": \"2026-11-11T17:01:06.693\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4b7f3b44-910d-4211-8a2d-504257b15494.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earnings Call Transcript\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-11T17:01:06\", \"DissemDT\": \"2026-11-11T17:01:06.693\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 871300, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-11T17:01:06.693\", \"_category\": \"Company Update\", \"_headline\": \"Earnings Call Transcript\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b7f3b44-910d-4211-8a2d-504257b15494.pdf\", \"_id\": \"5506e17a-ed78-4242-bf5b-7698b23431a3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -8900,12 +8900,8 @@
       "sent_at": "2026-11-09T13:20:06.611268+00:00"
     },
     {
-      "message_id": "<bc23272cc97a3f5dceea7aea7ac2d123857561fb8245e8abf917f257170ae658@gmail.com>",
-      "sent_at": "2026-11-09T10:59:33.735804+00:00"
-    },
-    {
-      "message_id": "<c7b4027930f8e47de7e28dca287e8f815252500f00c4409834784851af697b98@gmail.com>",
-      "sent_at": "2026-11-09T10:09:33.523337+00:00"
+      "message_id": "<a62c8556300ce783bd3449318fe5f507424cbd66fb2a8ff527b3612a9dc7d844@gmail.com>",
+      "sent_at": "2026-11-11T11:32:41.656372+00:00"
     },
     {
       "message_id": "<d46ee7f24aabe4b5ac576bdbf445ebd6bb61d693c406bb71ef0375728287e6d5@gmail.com>",
