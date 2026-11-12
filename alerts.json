@@ -6500,8 +6500,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-12T16:39:36.013419+00:00",
       "news_id": "bce85746-3754-404f-a41f-c89759b55243",
-      "payload": "{\"NEWSID\": \"bce85746-3754-404f-a41f-c89759b55243\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_BCE85746-3754-404F-A41F-C89759B55243\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-12T22:07:14.45\", \"NEWS_DT\": \"2026-11-12T22:07:14.45\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b487bf85-2cbc-493c-aefa-0bd9778c86d6.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release on the Financial Results for the quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T22:07:14\", \"DissemDT\": \"2026-11-12T22:07:14.45\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1604188, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-12T22:07:14.45\", \"_category\": \"Company Update\", \"_headline\": \"Press Release on the Financial Results for the quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b487bf85-2cbc-493c-aefa-0bd9778c86d6.pdf\", \"_id\": \"bce85746-3754-404f-a41f-c89759b55243\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9118,6 +9118,10 @@
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
       "sent_at": "2026-11-12T10:59:30.689424+00:00"
+    },
+    {
+      "message_id": "<727064a8ea8ba8101cb030d18e268e6dd73d5875d8a4ac79d28fd05e2ea6068b@gmail.com>",
+      "sent_at": "2026-11-12T16:39:50.814082+00:00"
     },
     {
       "message_id": "<762a57ef9c82aac8385e2f7c40c08127b022ae6d9eaa6c03008b8e80fd8c1316@gmail.com>",
