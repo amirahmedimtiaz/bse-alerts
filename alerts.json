@@ -6458,8 +6458,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-12T15:54:39.666087+00:00",
       "news_id": "6562f44b-fd49-477c-93ca-cffadf342e8e",
-      "payload": "{\"NEWSID\": \"6562f44b-fd49-477c-93ca-cffadf342e8e\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_6562F44B-FD49-477C-93CA-CFFADF342E8E\", \"NEWSSUB\": \"Board Meeting Outcome for Board Meeting Outcome For Unaudited Standalone And Consolidated Financial Results And Limited Review Report For The Quarter Ended September 30, 2026.\", \"DT_TM\": \"2026-11-12T21:24:32.843\", \"NEWS_DT\": \"2026-11-12T21:24:32.843\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ef83f89b-c6a2-4b58-8f5c-e3dad6933ce6.pdf\", \"MORE\": \"The Board of Directors at their meeting held today, i.e., 12th November, 2026, inter-alia, approved the Unaudited Standalone and Consolidated Financial Results of the Company for the Quarter ended 30th September, 2026\", \"HEADLINE\": \"The Board of Directors at their meeting held today, i.e., 12th November, 2026, inter-alia, approved the Unaudited Standalone and Consolidated Financial Results of the Company for the Quarter ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T21:24:30\", \"DissemDT\": \"2026-11-12T21:24:32.843\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 2312108, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Board Meeting Outcome For Unaudited Standalone And Consolidated Financial Results And Limited Review Report For The Quarter Ended September 30, 2026.\", \"_published\": \"2026-11-12T21:24:32.843\", \"_category\": \"Board Meeting\", \"_headline\": \"The Board of Directors at their meeting held today, i.e., 12th November, 2026, inter-alia, approved the Unaudited Standalone and Consolidated Financial Results of the Company for the Quarter ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef83f89b-c6a2-4b58-8f5c-e3dad6933ce6.pdf\", \"_id\": \"6562f44b-fd49-477c-93ca-cffadf342e8e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9089,6 +9089,10 @@
     {
       "message_id": "<62e8be5918592a279cef8e00da0755b2848541668261560ee37d2616b5629c41@gmail.com>",
       "sent_at": "2026-11-11T12:17:40.881012+00:00"
+    },
+    {
+      "message_id": "<66de45b65ef64d430b0b89979f05d069ca2f9aa8a99a6b496285aaae74118c3d@gmail.com>",
+      "sent_at": "2026-11-12T15:54:51.633901+00:00"
     },
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
