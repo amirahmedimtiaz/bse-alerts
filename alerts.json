@@ -4442,8 +4442,8 @@
       "company_key": "544238",
       "discovered_at": "2026-11-12T10:59:16.831296+00:00",
       "news_id": "35dc86cc-6eca-4695-9984-b8e06fa56c35",
-      "payload": "{\"NEWSID\": \"35dc86cc-6eca-4695-9984-b8e06fa56c35\", \"SCRIP_CD\": 544238, \"XML_NAME\": \"ANN_544238_35DC86CC-6ECA-4695-9984-B8E06FA56C35\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-12T16:25:40.277\", \"NEWS_DT\": \"2026-11-12T16:25:40.277\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"628aef66-53d6-4e43-8f76-79748829cdeb.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Schedule of Analyst/Institutional Investor Meet - November 18, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/premierene/544238/\", \"SLONGNAME\": \"Premier Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T16:25:40\", \"DissemDT\": \"2026-11-12T16:25:40.277\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 441695, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"35dc86cc-6eca-4695-9984-b8e06fa56c35\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14857320, \"DataInsDate\": \"2026-11-12T16:25:40.2\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Premier Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/premier-energies-ltd/PREMIERENE/544238/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-12T16:25:40.277\", \"_category\": \"Company Update\", \"_headline\": \"Schedule of Analyst/Institutional Investor Meet - November 18, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/628aef66-53d6-4e43-8f76-79748829cdeb.pdf\", \"_id\": \"35dc86cc-6eca-4695-9984-b8e06fa56c35\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544238",
@@ -5779,8 +5779,8 @@
       "company_key": "544608",
       "discovered_at": "2026-11-12T10:59:11.905285+00:00",
       "news_id": "312e9eb1-33fc-4c69-9e74-95f65f18f4d9",
-      "payload": "{\"NEWSID\": \"312e9eb1-33fc-4c69-9e74-95f65f18f4d9\", \"SCRIP_CD\": 544608, \"XML_NAME\": \"ANN_544608_312E9EB1-33FC-4C69-9E74-95F65F18F4D9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-12T16:26:06.767\", \"NEWS_DT\": \"2026-11-12T16:26:06.767\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3f579a1c-f392-4877-92f4-f464488d0745.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 regarding scheduled investor meet on November 17, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/\", \"SLONGNAME\": \"Emmvee Photovoltaic Power Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T16:26:06\", \"DissemDT\": \"2026-11-12T16:26:06.767\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3498322, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"312e9eb1-33fc-4c69-9e74-95f65f18f4d9\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14857322, \"DataInsDate\": \"2026-11-12T16:26:06.733\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Emmvee Photovoltaic Power Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-12T16:26:06.767\", \"_category\": \"Company Update\", \"_headline\": \"Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 regarding scheduled investor meet on November 17, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f579a1c-f392-4877-92f4-f464488d0745.pdf\", \"_id\": \"312e9eb1-33fc-4c69-9e74-95f65f18f4d9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544608",
@@ -9039,6 +9039,10 @@
     {
       "message_id": "<62e8be5918592a279cef8e00da0755b2848541668261560ee37d2616b5629c41@gmail.com>",
       "sent_at": "2026-11-11T12:17:40.881012+00:00"
+    },
+    {
+      "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
+      "sent_at": "2026-11-12T10:59:30.689424+00:00"
     },
     {
       "message_id": "<8940eb7d278d4438ace9497e4e4d27eb1519efbea6d800ad15f127a9b3edc76b@gmail.com>",
