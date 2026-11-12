@@ -4946,8 +4946,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-12T12:04:15.520800+00:00",
       "news_id": "cd7959da-d43c-4a7b-be46-f9b01f8eb2e6",
-      "payload": "{\"NEWSID\": \"cd7959da-d43c-4a7b-be46-f9b01f8eb2e6\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_CD7959DA-D43C-4A7B-BE46-F9B01F8EB2E6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-12T17:31:44.077\", \"NEWS_DT\": \"2026-11-12T17:31:44.077\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"64beeae4-8114-4a81-b3bc-6b6e7e2f6cf3.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report on the utilisation of the proceeds raised through issuance of Equity Shares by way of Public Issue for the quarter ended September 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T17:31:44\", \"DissemDT\": \"2026-11-12T17:31:44.077\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 845718, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-12T17:31:44.077\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report on the utilisation of the proceeds raised through issuance of Equity Shares by way of Public Issue for the quarter ended September 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/64beeae4-8114-4a81-b3bc-6b6e7e2f6cf3.pdf\", \"_id\": \"cd7959da-d43c-4a7b-be46-f9b01f8eb2e6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -9030,6 +9030,10 @@
   ],
   "deliveries": [
     {
+      "message_id": "<144ce99e87cbe1bccacfd58458247ed0c314ce509195c890ef7c4e5242972d21@gmail.com>",
+      "sent_at": "2026-11-12T12:04:33.191684+00:00"
+    },
+    {
       "message_id": "<1911219af32f37196e3b2da81f2411f92979a176d892dd78d0218ff9fd7d5d62@gmail.com>",
       "sent_at": "2026-11-12T11:04:32.349957+00:00"
     },
@@ -9040,10 +9044,6 @@
     {
       "message_id": "<2db229dce73899ab7fc20d80f0e3548597b05731735523fdf1467bd2cf4927c8@gmail.com>",
       "sent_at": "2026-11-10T12:06:27.161854+00:00"
-    },
-    {
-      "message_id": "<323aaf6755d29755f1c2d13bec0b43bf3efd4d0a5fb602a67e36ac218da442f8@gmail.com>",
-      "sent_at": "2026-11-10T11:16:16.512806+00:00"
     },
     {
       "message_id": "<49fb873f97a9f2ddc5a19e7d7136349480f2a3792d188fc2d8160f7a196df3ba@gmail.com>",
