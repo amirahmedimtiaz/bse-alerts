@@ -5338,8 +5338,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-12T14:14:38.977020+00:00",
       "news_id": "83260864-8cc2-400b-821b-3da08236bf66",
-      "payload": "{\"NEWSID\": \"83260864-8cc2-400b-821b-3da08236bf66\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_83260864-8CC2-400B-821B-3DA08236BF66\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-12T19:44:09.11\", \"NEWS_DT\": \"2026-11-12T19:44:09.11\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"79dccbe9-be73-4ff3-b7c0-21a2fdb4e5f7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find attached intimation for investor meet which is self explanatory\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T19:44:09\", \"DissemDT\": \"2026-11-12T19:44:09.11\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 417899, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-12T19:44:09.11\", \"_category\": \"Company Update\", \"_headline\": \"Please find attached intimation for investor meet which is self explanatory\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/79dccbe9-be73-4ff3-b7c0-21a2fdb4e5f7.pdf\", \"_id\": \"83260864-8cc2-400b-821b-3da08236bf66\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -9134,6 +9134,10 @@
     {
       "message_id": "<d4c30264ff335ae9f1269b6f60ebf7ce4f912182b8d3fbbe67ce41f3f031a413@gmail.com>",
       "sent_at": "2026-11-11T07:07:25.381873+00:00"
+    },
+    {
+      "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
+      "sent_at": "2026-11-12T14:14:50.079132+00:00"
     },
     {
       "message_id": "<e2b4861bcfa32888cfeb3cbcabb75e7177db30c0e4fc2c44007fbb731138ec0c@gmail.com>",
