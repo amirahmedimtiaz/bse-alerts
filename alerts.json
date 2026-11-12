@@ -270,8 +270,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-12T09:04:35.998745+00:00",
       "news_id": "31e07b34-c3d0-45ff-aaa2-7be527aea4eb",
-      "payload": "{\"NEWSID\": \"31e07b34-c3d0-45ff-aaa2-7be527aea4eb\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_31E07B34-C3D0-45FF-AAA2-7BE527AEA4EB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-12T14:32:17.283\", \"NEWS_DT\": \"2026-11-12T14:32:17.283\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1570c4a2-da85-4152-8c92-38fc6ab69878.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Advertisement - Financial results for Q2 FY27\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T14:32:17\", \"DissemDT\": \"2026-11-12T14:32:17.283\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1707465, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-12T14:32:17.283\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Advertisement - Financial results for Q2 FY27\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1570c4a2-da85-4152-8c92-38fc6ab69878.pdf\", \"_id\": \"31e07b34-c3d0-45ff-aaa2-7be527aea4eb\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -9067,6 +9067,10 @@
     {
       "message_id": "<fdfbd647948e481ea84ebd5d635e5254c71df3b471d8df894408e90ebaf96b23@gmail.com>",
       "sent_at": "2026-11-11T09:02:41.567461+00:00"
+    },
+    {
+      "message_id": "<fee83dee1bff963a08d94e936ce9052eb203d9294a87f49a658a26f1f977798a@gmail.com>",
+      "sent_at": "2026-11-12T09:04:51.415830+00:00"
     }
   ],
   "metadata": [
