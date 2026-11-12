@@ -6416,8 +6416,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-12T16:29:36.433660+00:00",
       "news_id": "2efe9f37-e277-4494-948e-772dcb8c5b63",
-      "payload": "{\"NEWSID\": \"2efe9f37-e277-4494-948e-772dcb8c5b63\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_2EFE9F37-E277-4494-948E-772DCB8C5B63\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-12T21:57:08.54\", \"NEWS_DT\": \"2026-11-12T21:57:08.54\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9376812e-934f-41bb-a94b-eb9a6a443d8f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation for  quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-12T21:57:08\", \"DissemDT\": \"2026-11-12T21:57:08.54\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4461977, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-12T21:57:08.54\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation for  quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9376812e-934f-41bb-a94b-eb9a6a443d8f.pdf\", \"_id\": \"2efe9f37-e277-4494-948e-772dcb8c5b63\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9111,6 +9111,10 @@
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
       "sent_at": "2026-11-12T10:59:30.689424+00:00"
+    },
+    {
+      "message_id": "<762a57ef9c82aac8385e2f7c40c08127b022ae6d9eaa6c03008b8e80fd8c1316@gmail.com>",
+      "sent_at": "2026-11-12T16:29:51.432805+00:00"
     },
     {
       "message_id": "<8940eb7d278d4438ace9497e4e4d27eb1519efbea6d800ad15f127a9b3edc76b@gmail.com>",
