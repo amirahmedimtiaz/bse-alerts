@@ -7109,8 +7109,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-13T17:40:56.092653+00:00",
       "news_id": "106860078",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Investor Presentation\", \"dt\": \"13-Nov-2026 23:08:47\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_13112026230817_file_upload.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"13-Nov-2026 23:08:47\", \"sort_date\": \"2026-11-13 23:08:47\", \"seq_id\": \"106860078\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"40.35 MB\", \"attFileSize\": \"40.35 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-13 23:08:47\", \"_category\": \"Investor Presentation\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_13112026230817_file_upload.pdf\", \"_id\": \"106860078\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9241,6 +9241,10 @@
     {
       "message_id": "<475f6b9bf3e9f682023d9a9d1aeb57ee53278f2992d72022f964db8327b3037c@gmail.com>",
       "sent_at": "2026-11-13T10:11:04.151834+00:00"
+    },
+    {
+      "message_id": "<55098180a2c230163ce10237aa807d2cf4a17f4b8e161f8b4763d9cdd6b9e8c2@gmail.com>",
+      "sent_at": "2026-11-13T17:41:11.200329+00:00"
     },
     {
       "message_id": "<551ef5ee7ec7a1adfb55072a695960c5f16c4d0a0c6316f39eaedc0ee266b34f@gmail.com>",
