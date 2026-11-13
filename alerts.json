@@ -8971,8 +8971,8 @@
       "company_key": "NSE:WHITEFORCE",
       "discovered_at": "2026-11-13T12:30:48.621414+00:00",
       "news_id": "106859284",
-      "payload": "{\"symbol\": \"WHITEFORCE\", \"desc\": \"Reasons for Delayed/Non-submission of Financial Results\", \"dt\": \"13-Nov-2026 17:57:57\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/HAPPYSQUARE_13112026175545_Disclosure_of_reasons_for_Delay.pdf\", \"sm_name\": \"Happy Square Outsourcing Services Limited\", \"sm_isin\": null, \"an_dt\": \"13-Nov-2026 17:57:57\", \"sort_date\": \"2026-11-13 17:57:57\", \"seq_id\": \"106859284\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Happy Square Outsourcing Services Limited has informed the Exchange about reasons for Delayed/Non-submission of Financial Results for half year ending 30th September, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.01 MB\", \"attFileSize\": \"1.01 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/HAPPYSQUARE_13112026175545_Disclosure_of_reasons_for_Delay.mp3\", \"voiceSummary\": \"White Force, also known as Happy Square Outsourcing Services Limited, has disclosed a delay in submitting its Un-audited Standalone Financial Results and Limited Review Report for the half-year ended on 30th September, 2026. The company states that certain limited review procedures, reconciliations, and financial statement finalization activities are yet to be completed. Consequently, the report is currently under progress and will not be submitted within the timeline prescribed under Regulation 33 of the SEBI LODR Regulations. The company is making all necessary efforts to complete the limited review process and finalize the financial statements at the earliest. Upon completion, the Un-audited Standalone Financial Results shall be placed before the Audit Committee and the Board of Directors for their consideration and approval. After such approval, the results will be submitted to the Exchange without any further delay. The disclosure was made on November 13, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Happy Square Outsourcing Services Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/WHITEFORCE/Happy-Square-Outsourcing-Services-Limited\", \"_subject\": \"Reasons for Delayed/Non-submission of Financial Results\", \"_published\": \"2026-11-13 17:57:57\", \"_category\": \"Reasons for Delayed/Non-submission of Financial Results\", \"_headline\": \"Happy Square Outsourcing Services Limited has informed the Exchange about reasons for Delayed/Non-submission of Financial Results for half year ending 30th September, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/HAPPYSQUARE_13112026175545_Disclosure_of_reasons_for_Delay.pdf\", \"_id\": \"106859284\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -9223,20 +9223,16 @@
       "sent_at": "2026-11-11T13:27:59.511463+00:00"
     },
     {
+      "message_id": "<59f45faf61e55cbfa4945871f67d82473c3204ec4caa4fe153b6b7ac35148483@gmail.com>",
+      "sent_at": "2026-11-13T12:30:55.635015+00:00"
+    },
+    {
       "message_id": "<5f7b70f958caa2dbe2c9e7bff64b968dc4fc7648623795bc8a3f21aa075ead04@gmail.com>",
       "sent_at": "2026-11-12T11:14:31.149735+00:00"
     },
     {
-      "message_id": "<60425486a18d8d8e1ca00bf7f4efc966eb7ba08d34f16546a1295fb3abfacd75@gmail.com>",
-      "sent_at": "2026-11-11T12:07:41.532121+00:00"
-    },
-    {
       "message_id": "<62db905d14b1ddd30da72dd2c38b89d28b9f7fc3c3fa05285420ff9f6ab10bc5@gmail.com>",
       "sent_at": "2026-11-12T12:09:32.887820+00:00"
-    },
-    {
-      "message_id": "<62e8be5918592a279cef8e00da0755b2848541668261560ee37d2616b5629c41@gmail.com>",
-      "sent_at": "2026-11-11T12:17:40.881012+00:00"
     },
     {
       "message_id": "<664160f803e79901fc488db11b8a142a69355f694026bc5a7bad49b60b73e271@gmail.com>",
@@ -9299,10 +9295,6 @@
       "sent_at": "2026-11-12T10:09:38.528675+00:00"
     },
     {
-      "message_id": "<a62c8556300ce783bd3449318fe5f507424cbd66fb2a8ff527b3612a9dc7d844@gmail.com>",
-      "sent_at": "2026-11-11T11:32:41.656372+00:00"
-    },
-    {
       "message_id": "<a80e60f5f2a4731a1863f3fae9dabef798b69886ffa6992654ba24eb51834e62@gmail.com>",
       "sent_at": "2026-11-11T13:22:59.138840+00:00"
     },
@@ -9317,18 +9309,6 @@
     {
       "message_id": "<c1ec4d09efe4664526ee2dedba188e264d172fceea9b6dd2e58bcfb149b131f4@gmail.com>",
       "sent_at": "2026-11-13T09:45:40.651324+00:00"
-    },
-    {
-      "message_id": "<c3d5feb9966524a6d20e002c16f142fca14981c2e140f01c8b44c64ddc106188@gmail.com>",
-      "sent_at": "2026-11-11T12:23:00.256960+00:00"
-    },
-    {
-      "message_id": "<c71093e88cc25f76f6a0478856e3db15308b47b63a7a88c987d452e6d4d05065@gmail.com>",
-      "sent_at": "2026-11-11T12:12:41.510459+00:00"
-    },
-    {
-      "message_id": "<d29961bf30a302a86b60f65a64da8dce0afcc209c0adb78c9e69e9d475bbf6e9@gmail.com>",
-      "sent_at": "2026-11-11T11:47:41.339658+00:00"
     },
     {
       "message_id": "<d3d5bb2ec166b0dc305d06eefbcf9ae407d23e052565caca7868fd2c5aef57ef@gmail.com>",
