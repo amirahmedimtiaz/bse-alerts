@@ -4043,8 +4043,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-13T15:26:00.097847+00:00",
       "news_id": "5a84c051-0280-4a3b-97bc-1eee571b0119",
-      "payload": "{\"NEWSID\": \"5a84c051-0280-4a3b-97bc-1eee571b0119\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_5A84C051-0280-4A3B-97BC-1EEE571B0119\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-13T20:51:20.69\", \"NEWS_DT\": \"2026-11-13T20:51:20.69\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b8ee790b-3f42-471b-8650-aa6d8e05b529.pdf\", \"MORE\": \"Pursuant to regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed press release on the Un-audited financial results (Standalone and Consolidated) for the quarter and half year ended on 30th September, 2026.\", \"HEADLINE\": \"Pursuant to regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed press release on the Un-audited financial results (Standalone and Consolidated) for the quarter and half ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T20:51:20\", \"DissemDT\": \"2026-11-13T20:51:20.69\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1074003, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-13T20:51:20.69\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed press release on the Un-audited financial results (Standalone and Consolidated) for the quarter and half ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b8ee790b-3f42-471b-8650-aa6d8e05b529.pdf\", \"_id\": \"5a84c051-0280-4a3b-97bc-1eee571b0119\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9224,6 +9224,10 @@
       "sent_at": "2026-11-13T05:40:40.490925+00:00"
     },
     {
+      "message_id": "<38c0c8c3d81a4308427bf87db92ed3504277e3e5f84839b69e75fd495500f294@gmail.com>",
+      "sent_at": "2026-11-13T15:26:12.234768+00:00"
+    },
+    {
       "message_id": "<42f1e29205b9c12c0489cf9b5bb44e7dcd3eb899c00c5a8ab23f98b273307cee@gmail.com>",
       "sent_at": "2026-11-13T10:31:00.233547+00:00"
     },
@@ -9318,10 +9322,6 @@
     {
       "message_id": "<d1a0bf412961e7a782aaf07c3ce1526406e6620457978a839587ffd6dcef4a30@gmail.com>",
       "sent_at": "2026-11-13T13:05:54.607281+00:00"
-    },
-    {
-      "message_id": "<d3d5bb2ec166b0dc305d06eefbcf9ae407d23e052565caca7868fd2c5aef57ef@gmail.com>",
-      "sent_at": "2026-11-11T15:07:59.437679+00:00"
     },
     {
       "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
