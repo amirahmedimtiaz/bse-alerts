@@ -6626,8 +6626,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-13T08:10:28.271057+00:00",
       "news_id": "02660837-6167-4a78-85d2-63ebf41454c7",
-      "payload": "{\"NEWSID\": \"02660837-6167-4a78-85d2-63ebf41454c7\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_02660837-6167-4A78-85D2-63EBF41454C7\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"DT_TM\": \"2026-11-13T13:38:48.88\", \"NEWS_DT\": \"2026-11-13T13:38:48.88\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"da84b8a8-2da1-4fba-a775-a5f7cf97978e.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year ended September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T13:38:42\", \"DissemDT\": \"2026-11-13T13:38:48.88\", \"TimeDiff\": \"00:00:06\", \"Fld_Attachsize\": 10921220, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"_published\": \"2026-11-13T13:38:48.88\", \"_category\": \"Board Meeting\", \"_headline\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/da84b8a8-2da1-4fba-a775-a5f7cf97978e.pdf\", \"_id\": \"02660837-6167-4a78-85d2-63ebf41454c7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -6647,8 +6647,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-13T08:10:28.271237+00:00",
       "news_id": "2ea728a1-baf1-4b9d-b50b-21650e191f2f",
-      "payload": "{\"NEWSID\": \"2ea728a1-baf1-4b9d-b50b-21650e191f2f\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_2EA728A1-BAF1-4B9D-B50B-21650E191F2F\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"DT_TM\": \"2026-11-13T13:39:43.9\", \"NEWS_DT\": \"2026-11-13T13:39:43.9\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"902be96b-aeff-4581-9cff-4a95e5882dd0.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year ended September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T13:39:38\", \"DissemDT\": \"2026-11-13T13:39:43.9\", \"TimeDiff\": \"00:00:05\", \"Fld_Attachsize\": 10921220, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"_published\": \"2026-11-13T13:39:43.9\", \"_category\": \"Board Meeting\", \"_headline\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/902be96b-aeff-4581-9cff-4a95e5882dd0.pdf\", \"_id\": \"2ea728a1-baf1-4b9d-b50b-21650e191f2f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -9197,6 +9197,10 @@
     {
       "message_id": "<762a57ef9c82aac8385e2f7c40c08127b022ae6d9eaa6c03008b8e80fd8c1316@gmail.com>",
       "sent_at": "2026-11-12T16:29:51.432805+00:00"
+    },
+    {
+      "message_id": "<87f934013afc14fcd0825fbf433b9d5876f911229eef1203b12910350cf31b72@gmail.com>",
+      "sent_at": "2026-11-13T08:10:41.002349+00:00"
     },
     {
       "message_id": "<8940eb7d278d4438ace9497e4e4d27eb1519efbea6d800ad15f127a9b3edc76b@gmail.com>",
