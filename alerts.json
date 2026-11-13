@@ -6556,8 +6556,8 @@
       "company_key": "544851",
       "discovered_at": "2026-11-13T09:40:31.387254+00:00",
       "news_id": "0afecdc6-a04b-47c4-89f7-f1f20db45292",
-      "payload": "{\"NEWSID\": \"0afecdc6-a04b-47c4-89f7-f1f20db45292\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_0AFECDC6-A04B-47C4-89F7-F1F20DB45292\", \"NEWSSUB\": \"Statement Of Deviation & Variation\", \"DT_TM\": \"2026-11-13T15:07:02.38\", \"NEWS_DT\": \"2026-11-13T15:07:02.38\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"265d15be-1c49-48e5-b55c-2131d735c92d.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Statement\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 84, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T15:07:02\", \"DissemDT\": \"2026-11-13T15:07:02.38\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1020921, \"SUBCATNAME\": \"Reg. 32 (1), (3) - Statement of Deviation & Variation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Statement Of Deviation & Variation\", \"_published\": \"2026-11-13T15:07:02.38\", \"_category\": \"Company Update\", \"_headline\": \"Statement\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/265d15be-1c49-48e5-b55c-2131d735c92d.pdf\", \"_id\": \"0afecdc6-a04b-47c4-89f7-f1f20db45292\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -9225,6 +9225,10 @@
       "sent_at": "2026-11-11T12:32:41.887543+00:00"
     },
     {
+      "message_id": "<8b4ea54dfd0e43758315331e207131b4a7da7933bec7a6d0377424d6d6704c5f@gmail.com>",
+      "sent_at": "2026-11-13T09:40:41.779349+00:00"
+    },
+    {
       "message_id": "<9058613ddace539517b7fc7512558520bbff5b52576f13988705ad1aa75aa032@gmail.com>",
       "sent_at": "2026-11-12T07:24:13.763808+00:00"
     },
@@ -9287,10 +9291,6 @@
     {
       "message_id": "<f6bb72f60f176ba38855d9f41d39c5fdb6cf2bc6142003414350aeafc65c7b4c@gmail.com>",
       "sent_at": "2026-11-12T16:09:50.414054+00:00"
-    },
-    {
-      "message_id": "<fdfbd647948e481ea84ebd5d635e5254c71df3b471d8df894408e90ebaf96b23@gmail.com>",
-      "sent_at": "2026-11-11T09:02:41.567461+00:00"
     },
     {
       "message_id": "<fee83dee1bff963a08d94e936ce9052eb203d9294a87f49a658a26f1f977798a@gmail.com>",
