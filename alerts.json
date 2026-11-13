@@ -8894,8 +8894,8 @@
       "company_key": "NSE:VMARCIND",
       "discovered_at": "2026-11-13T07:45:24.918760+00:00",
       "news_id": "106858474",
-      "payload": "{\"symbol\": \"VMARCIND\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"13-Nov-2026 13:11:17\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/Ranjan_13112026131109_VIL.pdf\", \"sm_name\": \"V Marc India Limited\", \"sm_isin\": null, \"an_dt\": \"13-Nov-2026 13:11:17\", \"sort_date\": \"2026-11-13 13:11:17\", \"seq_id\": \"106858474\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"V Marc India Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"570.79 KB\", \"attFileSize\": \"570.79 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"V-Marc India Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VMARCIND/V-Marc-India-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-13 13:11:17\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"V Marc India Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/Ranjan_13112026131109_VIL.pdf\", \"_id\": \"106858474\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -9170,6 +9170,10 @@
       "sent_at": "2026-11-12T16:39:50.814082+00:00"
     },
     {
+      "message_id": "<753d0cb8916bafac975c108e81e2d680a6929003f51093da6a1840668156b274@gmail.com>",
+      "sent_at": "2026-11-13T07:45:49.459381+00:00"
+    },
+    {
       "message_id": "<762a57ef9c82aac8385e2f7c40c08127b022ae6d9eaa6c03008b8e80fd8c1316@gmail.com>",
       "sent_at": "2026-11-12T16:29:51.432805+00:00"
     },
@@ -9226,20 +9230,12 @@
       "sent_at": "2026-11-11T08:17:41.624157+00:00"
     },
     {
-      "message_id": "<d4c30264ff335ae9f1269b6f60ebf7ce4f912182b8d3fbbe67ce41f3f031a413@gmail.com>",
-      "sent_at": "2026-11-11T07:07:25.381873+00:00"
-    },
-    {
       "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
       "sent_at": "2026-11-12T14:14:50.079132+00:00"
     },
     {
       "message_id": "<e2b4861bcfa32888cfeb3cbcabb75e7177db30c0e4fc2c44007fbb731138ec0c@gmail.com>",
       "sent_at": "2026-11-12T10:54:31.097519+00:00"
-    },
-    {
-      "message_id": "<e3950d7d68e4c6c85e4cd0455c6a4e1fe3305d8634bf54502243d2fbfc4b1ae5@gmail.com>",
-      "sent_at": "2026-11-11T07:02:24.817811+00:00"
     },
     {
       "message_id": "<ed757815079059cd0fd67ddf1eb0d06711cd7a0d76312653abd818a9b73c7988@gmail.com>",
