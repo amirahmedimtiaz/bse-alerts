@@ -4029,8 +4029,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-13T10:35:43.636673+00:00",
       "news_id": "41148e64-cf9a-46f9-adfe-99de81c82bae",
-      "payload": "{\"NEWSID\": \"41148e64-cf9a-46f9-adfe-99de81c82bae\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_41148E64-CF9A-46F9-ADFE-99DE81C82BAE\", \"NEWSSUB\": \"Disclosure Under Regulation 30 And Other Applicable Regulations Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations'): Outcome Of The Board Meeting\", \"DT_TM\": \"2026-11-13T16:05:31.707\", \"NEWS_DT\": \"2026-11-13T16:05:31.707\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"bc829f89-aedd-4c73-bb73-b119ceb1a584.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Unaudited Financial Results (Standalone and Consolidated) of the Company for the Quarter and Half Year ended 30th September, 2026.\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T16:05:31\", \"DissemDT\": \"2026-11-13T16:05:31.707\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 9215592, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 And Other Applicable Regulations Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations'): Outcome Of The Board Meeting\", \"_published\": \"2026-11-13T16:05:31.707\", \"_category\": \"Result\", \"_headline\": \"Unaudited Financial Results (Standalone and Consolidated) of the Company for the Quarter and Half Year ended 30th September, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc829f89-aedd-4c73-bb73-b119ceb1a584.pdf\", \"_id\": \"41148e64-cf9a-46f9-adfe-99de81c82bae\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9239,6 +9239,10 @@
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
       "sent_at": "2026-11-12T10:59:30.689424+00:00"
+    },
+    {
+      "message_id": "<71857b2162130a253fa424a70879735bb0c4c7264b69a6164edd3a0f166aedc6@gmail.com>",
+      "sent_at": "2026-11-13T10:35:55.581037+00:00"
     },
     {
       "message_id": "<727064a8ea8ba8101cb030d18e268e6dd73d5875d8a4ac79d28fd05e2ea6068b@gmail.com>",
