@@ -5562,8 +5562,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-13T05:40:17.475933+00:00",
       "news_id": "da4dfb7a-3f80-4fd4-960e-95ca239433ed",
-      "payload": "{\"NEWSID\": \"da4dfb7a-3f80-4fd4-960e-95ca239433ed\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_DA4DFB7A-3F80-4FD4-960E-95CA239433ED\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-13T11:10:03.227\", \"NEWS_DT\": \"2026-11-13T11:10:03.227\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ec4b6523-77a9-4e30-821c-a2a42283a856.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation for Earnings Call for the half year ended as on 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T11:10:03\", \"DissemDT\": \"2026-11-13T11:10:03.227\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1109494, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-13T11:10:03.227\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation for Earnings Call for the half year ended as on 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec4b6523-77a9-4e30-821c-a2a42283a856.pdf\", \"_id\": \"da4dfb7a-3f80-4fd4-960e-95ca239433ed\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9099,6 +9099,10 @@
     {
       "message_id": "<1911219af32f37196e3b2da81f2411f92979a176d892dd78d0218ff9fd7d5d62@gmail.com>",
       "sent_at": "2026-11-12T11:04:32.349957+00:00"
+    },
+    {
+      "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
+      "sent_at": "2026-11-13T05:40:40.490925+00:00"
     },
     {
       "message_id": "<49fb873f97a9f2ddc5a19e7d7136349480f2a3792d188fc2d8160f7a196df3ba@gmail.com>",
