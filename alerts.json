@@ -60,8 +60,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-13T07:55:17.391335+00:00",
       "news_id": "3bc56a6e-6b02-49af-a932-9184b8fc595e",
-      "payload": "{\"NEWSID\": \"3bc56a6e-6b02-49af-a932-9184b8fc595e\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_3BC56A6E-6B02-49AF-A932-9184B8FC595E\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-13T13:23:49.473\", \"NEWS_DT\": \"2026-11-13T13:23:49.473\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a8becd18-34ce-4439-8cda-e4fbb5971a65.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T13:23:49\", \"DissemDT\": \"2026-11-13T13:23:49.473\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4815907, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-13T13:23:49.473\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a8becd18-34ce-4439-8cda-e4fbb5971a65.pdf\", \"_id\": \"3bc56a6e-6b02-49af-a932-9184b8fc595e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -9239,6 +9239,10 @@
     {
       "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
       "sent_at": "2026-11-12T14:14:50.079132+00:00"
+    },
+    {
+      "message_id": "<df3a7fd3725f873cec4a85824d6eae86fd669dd56f3500e3d4d629f75e0e76cf@gmail.com>",
+      "sent_at": "2026-11-13T07:55:57.828575+00:00"
     },
     {
       "message_id": "<e2b4861bcfa32888cfeb3cbcabb75e7177db30c0e4fc2c44007fbb731138ec0c@gmail.com>",
