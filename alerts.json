@@ -4127,8 +4127,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-13T14:06:04.212826+00:00",
       "news_id": "ebbf1af2-f561-422d-88c8-00f7bf2e740a",
-      "payload": "{\"NEWSID\": \"ebbf1af2-f561-422d-88c8-00f7bf2e740a\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_EBBF1AF2-F561-422D-88C8-00F7BF2E740A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Restructuring\", \"DT_TM\": \"2026-11-13T19:35:30.86\", \"NEWS_DT\": \"2026-11-13T19:35:30.86\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"00d90438-c41f-4362-b465-4da004ee360c.pdf\", \"MORE\": \"Pursuant to regulation 30 read with schedule III of SEBI (LODR) Regulations, 2015 as amended, we hereby inform that Insolation Green Energy Private Limited, a wholly owned subsidiary of Insolation Energy Limited presently holds 100% of the Paid-up equity share capital of the HPJG Green Infra Private Limited and DGEJ Green Infra Private Limited.\", \"HEADLINE\": \"Pursuant to regulation 30 read with schedule III of SEBI (LODR) Regulations, 2015 as amended, we hereby inform that Insolation Green Energy Private Limited, a wholly owned subsidiary of ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 147, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T19:35:30\", \"DissemDT\": \"2026-11-13T19:35:30.86\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 713346, \"SUBCATNAME\": \"Restructuring\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Restructuring\", \"_published\": \"2026-11-13T19:35:30.86\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to regulation 30 read with schedule III of SEBI (LODR) Regulations, 2015 as amended, we hereby inform that Insolation Green Energy Private Limited, a wholly owned subsidiary of ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/00d90438-c41f-4362-b465-4da004ee360c.pdf\", \"_id\": \"ebbf1af2-f561-422d-88c8-00f7bf2e740a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9225,16 +9225,8 @@
       "sent_at": "2026-11-13T10:11:04.151834+00:00"
     },
     {
-      "message_id": "<49fb873f97a9f2ddc5a19e7d7136349480f2a3792d188fc2d8160f7a196df3ba@gmail.com>",
-      "sent_at": "2026-11-11T13:57:59.479326+00:00"
-    },
-    {
       "message_id": "<551ef5ee7ec7a1adfb55072a695960c5f16c4d0a0c6316f39eaedc0ee266b34f@gmail.com>",
       "sent_at": "2026-11-11T19:28:21.678852+00:00"
-    },
-    {
-      "message_id": "<565f042eb6456ad246ac60966ecc8b348f844d8a1963290ea0f1cac928649f51@gmail.com>",
-      "sent_at": "2026-11-11T13:27:59.511463+00:00"
     },
     {
       "message_id": "<59f45faf61e55cbfa4945871f67d82473c3204ec4caa4fe153b6b7ac35148483@gmail.com>",
@@ -9259,6 +9251,10 @@
     {
       "message_id": "<67f10d8f822e896010db07f3a6b78e1efddd03ce795e7264a4269b71bd588db6@gmail.com>",
       "sent_at": "2026-11-13T08:21:55.631165+00:00"
+    },
+    {
+      "message_id": "<685b611a926761dd0557d523b41f45e1f19815c84b65c760dda8f85297d614f9@gmail.com>",
+      "sent_at": "2026-11-13T14:06:17.367434+00:00"
     },
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
@@ -9299,10 +9295,6 @@
     {
       "message_id": "<9e4e81db439ac1d01df850b88f9a54a35da5db136d76850833505a348c10a45f@gmail.com>",
       "sent_at": "2026-11-12T10:09:38.528675+00:00"
-    },
-    {
-      "message_id": "<a80e60f5f2a4731a1863f3fae9dabef798b69886ffa6992654ba24eb51834e62@gmail.com>",
-      "sent_at": "2026-11-11T13:22:59.138840+00:00"
     },
     {
       "message_id": "<aee9312b38dde3f3e850c1276b3233b237c38ff99cb0b79ac49eb4955ba4e45c@gmail.com>",
