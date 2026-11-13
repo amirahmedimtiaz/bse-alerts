@@ -6633,8 +6633,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-13T08:21:01.998553+00:00",
       "news_id": "052ac5fb-6df3-4813-b507-20a9b0ae1cdc",
-      "payload": "{\"NEWSID\": \"052ac5fb-6df3-4813-b507-20a9b0ae1cdc\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_052AC5FB-6DF3-4813-B507-20A9B0AE1CDC\", \"NEWSSUB\": \"Standalone & Consollidated Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"DT_TM\": \"2026-11-13T13:50:54.22\", \"NEWS_DT\": \"2026-11-13T13:50:54.22\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"4b417858-7bb9-4e7f-b070-2209b8a69c20.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year Ended September 30, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T13:50:54\", \"DissemDT\": \"2026-11-13T13:50:54.22\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 10921220, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Standalone & Consollidated Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026\", \"_published\": \"2026-11-13T13:50:54.22\", \"_category\": \"Result\", \"_headline\": \"Solex Energy Limited has submitted Standalone & Consolidated Unaudited Financial Results for the Quarter and Half Year Ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b417858-7bb9-4e7f-b070-2209b8a69c20.pdf\", \"_id\": \"052ac5fb-6df3-4813-b507-20a9b0ae1cdc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -9190,6 +9190,10 @@
       "sent_at": "2026-11-12T15:54:51.633901+00:00"
     },
     {
+      "message_id": "<67f10d8f822e896010db07f3a6b78e1efddd03ce795e7264a4269b71bd588db6@gmail.com>",
+      "sent_at": "2026-11-13T08:21:55.631165+00:00"
+    },
+    {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
       "sent_at": "2026-11-12T10:59:30.689424+00:00"
     },
@@ -9256,10 +9260,6 @@
     {
       "message_id": "<d3d5bb2ec166b0dc305d06eefbcf9ae407d23e052565caca7868fd2c5aef57ef@gmail.com>",
       "sent_at": "2026-11-11T15:07:59.437679+00:00"
-    },
-    {
-      "message_id": "<d46ee7f24aabe4b5ac576bdbf445ebd6bb61d693c406bb71ef0375728287e6d5@gmail.com>",
-      "sent_at": "2026-11-11T08:17:41.624157+00:00"
     },
     {
       "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
