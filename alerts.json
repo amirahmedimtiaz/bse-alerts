@@ -6570,8 +6570,8 @@
       "company_key": "544851",
       "discovered_at": "2026-11-13T10:10:49.044058+00:00",
       "news_id": "24c33662-9dc3-4f3c-b722-a479f73fa63b",
-      "payload": "{\"NEWSID\": \"24c33662-9dc3-4f3c-b722-a479f73fa63b\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_24C33662-9DC3-4F3C-B722-A479F73FA63B\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-13T15:35:49.51\", \"NEWS_DT\": \"2026-11-13T15:35:49.51\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d86db224-bbbc-4c77-b6ea-67d1695eb062.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Copy of newspaper publication\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-13T15:35:49\", \"DissemDT\": \"2026-11-13T15:35:49.51\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1866608, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-13T15:35:49.51\", \"_category\": \"Company Update\", \"_headline\": \"Copy of newspaper publication\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d86db224-bbbc-4c77-b6ea-67d1695eb062.pdf\", \"_id\": \"24c33662-9dc3-4f3c-b722-a479f73fa63b\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -9173,6 +9173,10 @@
     {
       "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
       "sent_at": "2026-11-13T05:40:40.490925+00:00"
+    },
+    {
+      "message_id": "<475f6b9bf3e9f682023d9a9d1aeb57ee53278f2992d72022f964db8327b3037c@gmail.com>",
+      "sent_at": "2026-11-13T10:11:04.151834+00:00"
     },
     {
       "message_id": "<49fb873f97a9f2ddc5a19e7d7136349480f2a3792d188fc2d8160f7a196df3ba@gmail.com>",
