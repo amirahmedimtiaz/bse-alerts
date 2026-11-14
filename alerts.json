@@ -4967,8 +4967,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-14T14:17:17.055158+00:00",
       "news_id": "b486daff-184c-4c70-8437-883f6562b28c",
-      "payload": "{\"NEWSID\": \"b486daff-184c-4c70-8437-883f6562b28c\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_B486DAFF-184C-4C70-8437-883F6562B28C\", \"NEWSSUB\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"DT_TM\": \"2026-11-14T19:42:41.687\", \"NEWS_DT\": \"2026-11-14T19:42:41.687\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"933807f3-bd5a-4a4d-b948-6e2e434c5785.pdf\", \"MORE\": \"\", \"HEADLINE\": \"This is to inform that Waaree Energy Storage Solutions Private Limited has today commissioned its new Battery Pack Manufacturing line having annual installed capacity of 5.15GWh.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T19:42:41\", \"DissemDT\": \"2026-11-14T19:42:41.687\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 227602, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.\", \"_published\": \"2026-11-14T19:42:41.687\", \"_category\": \"Company Update\", \"_headline\": \"This is to inform that Waaree Energy Storage Solutions Private Limited has today commissioned its new Battery Pack Manufacturing line having annual installed capacity of 5.15GWh.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/933807f3-bd5a-4a4d-b948-6e2e434c5785.pdf\", \"_id\": \"b486daff-184c-4c70-8437-883f6562b28c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -6990,8 +6990,8 @@
       "company_key": "544905",
       "discovered_at": "2026-11-14T14:17:22.656083+00:00",
       "news_id": "6f9c2cc4-2987-45c8-b907-5bbb67262d68",
-      "payload": "{\"NEWSID\": \"6f9c2cc4-2987-45c8-b907-5bbb67262d68\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_6F9C2CC4-2987-45C8-B907-5BBB67262D68\", \"NEWSSUB\": \"Un-Audited Standalone Financial Results Of The Company For The Half Year Ended 30Th September, 2026\", \"DT_TM\": \"2026-11-14T19:44:18.64\", \"NEWS_DT\": \"2026-11-14T19:44:18.64\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f73f3e20-c345-426a-b4b3-b6e3295e20ce.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Un-Audited Standalone Financial Results of the Company for the Half Year Ended 30th September, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T19:44:18\", \"DissemDT\": \"2026-11-14T19:44:18.64\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1300078, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Un-Audited Standalone Financial Results Of The Company For The Half Year Ended 30Th September, 2026\", \"_published\": \"2026-11-14T19:44:18.64\", \"_category\": \"Result\", \"_headline\": \"Un-Audited Standalone Financial Results of the Company for the Half Year Ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f73f3e20-c345-426a-b4b3-b6e3295e20ce.pdf\", \"_id\": \"6f9c2cc4-2987-45c8-b907-5bbb67262d68\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544905",
@@ -9491,6 +9491,10 @@
       "sent_at": "2026-11-13T09:45:40.651324+00:00"
     },
     {
+      "message_id": "<cf93ebd54ec28db938ab105b708b097c550e072db3653bd4ab0aa3e6e56ea78a@gmail.com>",
+      "sent_at": "2026-11-14T14:17:31.980436+00:00"
+    },
+    {
       "message_id": "<d1a0bf412961e7a782aaf07c3ce1526406e6620457978a839587ffd6dcef4a30@gmail.com>",
       "sent_at": "2026-11-13T13:05:54.607281+00:00"
     },
@@ -9501,10 +9505,6 @@
     {
       "message_id": "<daf46779b579df8e53accdc55acc736160eeddc9cb61facdeaa5f364eb677049@gmail.com>",
       "sent_at": "2026-11-14T07:27:14.841575+00:00"
-    },
-    {
-      "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
-      "sent_at": "2026-11-12T14:14:50.079132+00:00"
     },
     {
       "message_id": "<df3a7fd3725f873cec4a85824d6eae86fd669dd56f3500e3d4d629f75e0e76cf@gmail.com>",
