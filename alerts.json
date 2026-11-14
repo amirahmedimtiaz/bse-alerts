@@ -7557,15 +7557,15 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-14T18:22:36.419771+00:00",
       "news_id": "106861441",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"dt\": \"14-Nov-2026 23:48:39\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026234832_ilovepdf_merged.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 23:48:39\", \"sort_date\": \"2026-11-14 23:48:39\", \"seq_id\": \"106861441\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.08 MB\", \"attFileSize\": \"1.08 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_14112026234832_ilovepdf_merged.mp3\", \"voiceSummary\": \"Bhadora Industries Limited filed a statement for the quarter ended 30th September 2026, confirming no deviation in the use of proceeds from its Public Issue. The company raised INR 55.62 Crore between August 04, 2025, and August 06, 2025. Monitoring agency Acuit\\u00e9 Ratings and Research Limited reported that utilization aligns with the Offer Document. The company over-utilized the working capital allocation by INR 1.00 Crore, covering the excess with unutilized funds from Issue Expenses. General Corporate Purposes were fully utilized in Q1 FY 2026-27. The Audit Committee agreed with the monitoring agency's comments. No material deviations or changes in finance means were observed.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_published\": \"2026-11-14 23:48:39\", \"_category\": \"Statement of deviation(s) or variation(s) under Reg. 32\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026234832_ilovepdf_merged.pdf\", \"_id\": \"106861441\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-14T18:22:36.419901+00:00",
       "news_id": "106861443",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Monitoring Agency Report\", \"dt\": \"14-Nov-2026 23:50:30\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026235024_ilovepdf_merged-2.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 23:50:30\", \"sort_date\": \"2026-11-14 23:50:30\", \"seq_id\": \"106861443\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Monitoring Agency Certificate\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"834.50 KB\", \"attFileSize\": \"834.50 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_14112026235024_ilovepdf_merged-2.mp3\", \"voiceSummary\": \"Bhadora Industries Limited filed the Monitoring Agency Certificate for the quarter ended 30 September 2026 with the National Stock Exchange of India. The certificate was issued by Acuit\\u00e9 Ratings and Research. The report confirms that fund utilization aligns with the Offer Document disclosures. No material deviations were observed. Utilization of funds for general corporate purposes was delayed by 3 months. The company over-utilized the working capital allocation by INR 1.00 Cr, covered by unutilized issue expenses. Total unutilized proceeds are Nil. The issuer details an IPO size of INR 55.62 Cr raised between August 04, 2025 and August 06, 2025. Promoters are Mr. Shashank Bhadora, Mr. Pradeep Bhadora, and Mr. Anil Bhadora. The Managing Director is Shashank Bhadora with DIN 07493885.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Monitoring Agency Report\", \"_published\": \"2026-11-14 23:50:30\", \"_category\": \"Monitoring Agency Report\", \"_headline\": \"Monitoring Agency Certificate\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026235024_ilovepdf_merged-2.pdf\", \"_id\": \"106861443\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -9577,6 +9577,10 @@
     {
       "message_id": "<a5db8f2ae2fa91f93d2cda73d1de4e2e37696dacea6d59e83f25039914546594@gmail.com>",
       "sent_at": "2026-11-14T10:57:16.286331+00:00"
+    },
+    {
+      "message_id": "<abd344bab0b150f3a2c91e24b924503cbb204d62eec391e1b4c75f99a50aafa1@gmail.com>",
+      "sent_at": "2026-11-14T18:22:53.162738+00:00"
     },
     {
       "message_id": "<aee9312b38dde3f3e850c1276b3233b237c38ff99cb0b79ac49eb4955ba4e45c@gmail.com>",
