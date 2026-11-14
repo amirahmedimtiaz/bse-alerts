@@ -7459,8 +7459,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-14T13:57:15.302389+00:00",
       "news_id": "106861146",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Outcome of Board Meeting\", \"dt\": \"14-Nov-2026 19:26:36\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026192625_bhadorafinaloutcome.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 19:26:36\", \"sort_date\": \"2026-11-14 19:26:36\", \"seq_id\": \"106861146\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.82 MB\", \"attFileSize\": \"1.82 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-14 19:26:36\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Bhadora Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/BHADORA_14112026192625_bhadorafinaloutcome.pdf\", \"_id\": \"106861146\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -9346,16 +9346,12 @@
       "sent_at": "2026-11-14T07:32:14.616145+00:00"
     },
     {
-      "message_id": "<144ce99e87cbe1bccacfd58458247ed0c314ce509195c890ef7c4e5242972d21@gmail.com>",
-      "sent_at": "2026-11-12T12:04:33.191684+00:00"
-    },
-    {
-      "message_id": "<1911219af32f37196e3b2da81f2411f92979a176d892dd78d0218ff9fd7d5d62@gmail.com>",
-      "sent_at": "2026-11-12T11:04:32.349957+00:00"
-    },
-    {
       "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
       "sent_at": "2026-11-13T05:40:40.490925+00:00"
+    },
+    {
+      "message_id": "<2a4e1f9ff6e904889d82dd5e7c8efc1cdeff8c48f73e97c42fd5ccd6131d1dad@gmail.com>",
+      "sent_at": "2026-11-14T13:57:38.760093+00:00"
     },
     {
       "message_id": "<3857179107128eb00e08c6674b7f22f92de78d5afdc41280133e3c691e7eb370@gmail.com>",
@@ -9390,14 +9386,6 @@
       "sent_at": "2026-11-14T08:02:15.679873+00:00"
     },
     {
-      "message_id": "<5f7b70f958caa2dbe2c9e7bff64b968dc4fc7648623795bc8a3f21aa075ead04@gmail.com>",
-      "sent_at": "2026-11-12T11:14:31.149735+00:00"
-    },
-    {
-      "message_id": "<62db905d14b1ddd30da72dd2c38b89d28b9f7fc3c3fa05285420ff9f6ab10bc5@gmail.com>",
-      "sent_at": "2026-11-12T12:09:32.887820+00:00"
-    },
-    {
       "message_id": "<664160f803e79901fc488db11b8a142a69355f694026bc5a7bad49b60b73e271@gmail.com>",
       "sent_at": "2026-11-13T06:00:39.984990+00:00"
     },
@@ -9412,10 +9400,6 @@
     {
       "message_id": "<685b611a926761dd0557d523b41f45e1f19815c84b65c760dda8f85297d614f9@gmail.com>",
       "sent_at": "2026-11-13T14:06:17.367434+00:00"
-    },
-    {
-      "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
-      "sent_at": "2026-11-12T10:59:30.689424+00:00"
     },
     {
       "message_id": "<6a736468e478e46d82f8c846f652b8a11b9fc6d739a3c8154a5959c8855fb307@gmail.com>",
