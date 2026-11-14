@@ -7004,8 +7004,8 @@
       "company_key": "544905",
       "discovered_at": "2026-11-14T14:07:21.405087+00:00",
       "news_id": "dbe0b74d-641e-4246-b8fa-3a3b3c658cd9",
-      "payload": "{\"NEWSID\": \"dbe0b74d-641e-4246-b8fa-3a3b3c658cd9\", \"SCRIP_CD\": 544905, \"XML_NAME\": \"ANN_544905_DBE0B74D-641E-4246-B8FA-3A3B3C658CD9\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"DT_TM\": \"2026-11-14T19:36:52.437\", \"NEWS_DT\": \"2026-11-14T19:36:52.437\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6e1ed92c-41a1-4004-bf6f-c94357d4fd69.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of Board meeting\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/\", \"SLONGNAME\": \"Farm Peace Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T19:36:51\", \"DissemDT\": \"2026-11-14T19:36:52.437\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 1300078, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Farm Peace Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/farm-peace-ltd/farmpeace/544905/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"_published\": \"2026-11-14T19:36:52.437\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of Board meeting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e1ed92c-41a1-4004-bf6f-c94357d4fd69.pdf\", \"_id\": \"dbe0b74d-641e-4246-b8fa-3a3b3c658cd9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544905",
@@ -9355,6 +9355,10 @@
     {
       "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
       "sent_at": "2026-11-13T05:40:40.490925+00:00"
+    },
+    {
+      "message_id": "<250e20d4ae6292f6de4330b2e24f66e59479843d9d8a0340bbbd8f6fcf61aaf1@gmail.com>",
+      "sent_at": "2026-11-14T14:07:29.914838+00:00"
     },
     {
       "message_id": "<2a4e1f9ff6e904889d82dd5e7c8efc1cdeff8c48f73e97c42fd5ccd6131d1dad@gmail.com>",
