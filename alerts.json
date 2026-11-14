@@ -5541,8 +5541,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-14T18:02:28.603618+00:00",
       "news_id": "22aa2dfc-0c6c-4f9b-9a0a-c2f1dfc63bfc",
-      "payload": "{\"NEWSID\": \"22aa2dfc-0c6c-4f9b-9a0a-c2f1dfc63bfc\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_22AA2DFC-0C6C-4F9B-9A0A-C2F1DFC63BFC\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"DT_TM\": \"2026-11-14T23:31:36.007\", \"NEWS_DT\": \"2026-11-14T23:31:36.007\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"096e7995-dab1-4804-995c-eeae1815c8f6.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Regulation 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors of the Company, at its meeting held today, i.e., Saturday, November 14th, 2026, has inter alia considered and approved the Unaudited Financial Results of the Company for the half year ended September 30, 2026, along with the Limited Review Report issued by the Statutory Auditors of the Company thereon.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Regulation 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T23:31:34\", \"DissemDT\": \"2026-11-14T23:31:36.007\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 3750881, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of Board Meeting\", \"_published\": \"2026-11-14T23:31:36.007\", \"_category\": \"Board Meeting\", \"_headline\": \"Pursuant to Regulation 30 read with Regulation 33 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/096e7995-dab1-4804-995c-eeae1815c8f6.pdf\", \"_id\": \"22aa2dfc-0c6c-4f9b-9a0a-c2f1dfc63bfc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9536,6 +9536,10 @@
     {
       "message_id": "<8b4ea54dfd0e43758315331e207131b4a7da7933bec7a6d0377424d6d6704c5f@gmail.com>",
       "sent_at": "2026-11-13T09:40:41.779349+00:00"
+    },
+    {
+      "message_id": "<8c14d5bb68a1542e199be9e16b0048eafae8238676ccd3751c404305e70c0c00@gmail.com>",
+      "sent_at": "2026-11-14T18:02:52.366212+00:00"
     },
     {
       "message_id": "<8efd21fd25e97869310b67dbabdc75a31f1aaffb1860e9eaa1aca1bffba0a3ba@gmail.com>",
