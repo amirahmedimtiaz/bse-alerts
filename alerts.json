@@ -6220,8 +6220,8 @@
       "company_key": "544641",
       "discovered_at": "2026-11-14T16:42:43.158782+00:00",
       "news_id": "11197454-2d9f-4364-9fb5-61424bdcec52",
-      "payload": "{\"NEWSID\": \"11197454-2d9f-4364-9fb5-61424bdcec52\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_11197454-2D9F-4364-9FB5-61424BDCEC52\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On November 14, 2026\", \"DT_TM\": \"2026-11-14T22:10:24.85\", \"NEWS_DT\": \"2026-11-14T22:10:24.85\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"e4bc65be-0b66-4e1b-ac08-d50be17459ed.pdf\", \"MORE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the Company at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered and approved the Un-audited Financial Results (Standalone and Consolidated) along with the Limited Review Report for the quarter and half year ended September 30, 2026, duly reviewed and recommended by the Audit Committee pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015;\", \"HEADLINE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the Company at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T22:10:22\", \"DissemDT\": \"2026-11-14T22:10:24.85\", \"TimeDiff\": \"00:00:02\", \"Fld_Attachsize\": 1325129, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On November 14, 2026\", \"_published\": \"2026-11-14T22:10:24.85\", \"_category\": \"Board Meeting\", \"_headline\": \"With reference to the captioned subject, please be informed that the Board of Directors of the Company at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/e4bc65be-0b66-4e1b-ac08-d50be17459ed.pdf\", \"_id\": \"11197454-2d9f-4364-9fb5-61424bdcec52\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544641",
@@ -9398,6 +9398,10 @@
       "sent_at": "2026-11-14T09:52:14.961989+00:00"
     },
     {
+      "message_id": "<0d2244500d4e50372393c914d839e5d5d1fb02c464ee2249177ae764b1e660f6@gmail.com>",
+      "sent_at": "2026-11-14T16:42:51.976962+00:00"
+    },
+    {
       "message_id": "<0ddf7e43066865997ac2788793908680c141944cbc80cd5a8b30264995785576@gmail.com>",
       "sent_at": "2026-11-14T15:32:30.220293+00:00"
     },
@@ -9466,10 +9470,6 @@
       "sent_at": "2026-11-13T06:00:39.984990+00:00"
     },
     {
-      "message_id": "<66de45b65ef64d430b0b89979f05d069ca2f9aa8a99a6b496285aaae74118c3d@gmail.com>",
-      "sent_at": "2026-11-12T15:54:51.633901+00:00"
-    },
-    {
       "message_id": "<67f10d8f822e896010db07f3a6b78e1efddd03ce795e7264a4269b71bd588db6@gmail.com>",
       "sent_at": "2026-11-13T08:21:55.631165+00:00"
     },
@@ -9486,16 +9486,8 @@
       "sent_at": "2026-11-13T10:35:55.581037+00:00"
     },
     {
-      "message_id": "<727064a8ea8ba8101cb030d18e268e6dd73d5875d8a4ac79d28fd05e2ea6068b@gmail.com>",
-      "sent_at": "2026-11-12T16:39:50.814082+00:00"
-    },
-    {
       "message_id": "<753d0cb8916bafac975c108e81e2d680a6929003f51093da6a1840668156b274@gmail.com>",
       "sent_at": "2026-11-13T07:45:49.459381+00:00"
-    },
-    {
-      "message_id": "<762a57ef9c82aac8385e2f7c40c08127b022ae6d9eaa6c03008b8e80fd8c1316@gmail.com>",
-      "sent_at": "2026-11-12T16:29:51.432805+00:00"
     },
     {
       "message_id": "<81b4d303ef50d288a9dce61e781f20bdf59867f464bafe7b505b25d07ce3fbd0@gmail.com>",
@@ -9568,10 +9560,6 @@
     {
       "message_id": "<f594bdf1c1994aaea483de1fa614997d31a597ba58fc75b305f37d166919866e@gmail.com>",
       "sent_at": "2026-11-14T05:41:58.893100+00:00"
-    },
-    {
-      "message_id": "<f6bb72f60f176ba38855d9f41d39c5fdb6cf2bc6142003414350aeafc65c7b4c@gmail.com>",
-      "sent_at": "2026-11-12T16:09:50.414054+00:00"
     }
   ],
   "metadata": [
