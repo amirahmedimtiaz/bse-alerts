@@ -6724,8 +6724,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-14T05:46:45.723038+00:00",
       "news_id": "3058562d-7ec0-424d-a7e9-8e2a99edd476",
-      "payload": "{\"NEWSID\": \"3058562d-7ec0-424d-a7e9-8e2a99edd476\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_3058562D-7EC0-424D-A7E9-8E2A99EDD476\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-14T11:11:47.13\", \"NEWS_DT\": \"2026-11-14T11:11:47.13\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d634617f-fc24-4129-b317-b448a9d203b2.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T11:11:47\", \"DissemDT\": \"2026-11-14T11:11:47.13\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1957871, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-14T11:11:47.13\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d634617f-fc24-4129-b317-b448a9d203b2.pdf\", \"_id\": \"3058562d-7ec0-424d-a7e9-8e2a99edd476\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -7277,8 +7277,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-14T05:46:44.163188+00:00",
       "news_id": "106860294",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"14-Nov-2026 11:11:48\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/APS_14112026111129_ScheduleofMeet19112026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 11:11:48\", \"sort_date\": \"2026-11-14 11:11:48\", \"seq_id\": \"106860294\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"943.18 KB\", \"attFileSize\": \"943.18 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/APS_14112026111129_ScheduleofMeet19112026.mp3\", \"voiceSummary\": \"Australian Premium Solar India Limited has scheduled its H1 FY27 Earnings Conference Call for Thursday, November 19, 2026, at 10:30 AM IST. The event will feature speakers from management, including Mr. Nikunj Patel, Chairman and Executive Director, and Mr. Kalpesh Vakharia, Chief Financial Officer. Participants are required to register prior to joining the call. The webinar ID is 945 7628 0605, and the passcode is 316947. Further information is available via the provided link or by contacting ConfideLeap Partners at 85911 45959. The company notes that forward-looking statements made during the call are subject to risks and uncertainties, and actual results may differ substantially.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-14 11:11:48\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/APS_14112026111129_ScheduleofMeet19112026.pdf\", \"_id\": \"106860294\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -9269,6 +9269,10 @@
     {
       "message_id": "<475f6b9bf3e9f682023d9a9d1aeb57ee53278f2992d72022f964db8327b3037c@gmail.com>",
       "sent_at": "2026-11-13T10:11:04.151834+00:00"
+    },
+    {
+      "message_id": "<480970ab440e9e7ad06a5554bdef627927eab7f2307b31e59cbbd9f9d9daad83@gmail.com>",
+      "sent_at": "2026-11-14T05:46:59.011057+00:00"
     },
     {
       "message_id": "<55098180a2c230163ce10237aa807d2cf4a17f4b8e161f8b4763d9cdd6b9e8c2@gmail.com>",
