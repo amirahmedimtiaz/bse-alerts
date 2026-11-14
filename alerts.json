@@ -6255,8 +6255,8 @@
       "company_key": "544641",
       "discovered_at": "2026-11-14T17:07:42.751349+00:00",
       "news_id": "e42bae56-c552-48c5-aaf1-d98389806a06",
-      "payload": "{\"NEWSID\": \"e42bae56-c552-48c5-aaf1-d98389806a06\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_E42BAE56-C552-48C5-AAF1-D98389806A06\", \"NEWSSUB\": \"Financial Result As On 30/09/2026\", \"DT_TM\": \"2026-11-14T22:35:51.66\", \"NEWS_DT\": \"2026-11-14T22:35:51.66\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0f9f822e-c208-4707-bb99-5dc50a93252a.pdf\", \"MORE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered and\\r\\napproved the Un-audited Financial Results (Standalone and Consolidated) along with the Limited\\r\\nReview Report for the quarter and half year ended September 30, 2026, duly reviewed and\\r\\nrecommended by the Audit Committee pursuant to Regulation 33 of the SEBI (Listing Obligations\\r\\nand Disclosure Requirements) Regulations, 2015;\", \"HEADLINE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T22:35:51\", \"DissemDT\": \"2026-11-14T22:35:51.66\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1346907, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Financial Result As On 30/09/2026\", \"_published\": \"2026-11-14T22:35:51.66\", \"_category\": \"Result\", \"_headline\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0f9f822e-c208-4707-bb99-5dc50a93252a.pdf\", \"_id\": \"e42bae56-c552-48c5-aaf1-d98389806a06\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544641",
@@ -9417,6 +9417,10 @@
     {
       "message_id": "<0164e92c5899cfff9c8e07c6c8ce7e8110aafe4434400bf13977775f07695dd6@gmail.com>",
       "sent_at": "2026-11-14T09:52:14.961989+00:00"
+    },
+    {
+      "message_id": "<0af6dce71df5988316366251918910d496839789b205a5f17516df1a84db2733@gmail.com>",
+      "sent_at": "2026-11-14T17:07:52.220613+00:00"
     },
     {
       "message_id": "<0d2244500d4e50372393c914d839e5d5d1fb02c464ee2249177ae764b1e660f6@gmail.com>",
