@@ -6752,8 +6752,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-14T09:37:01.602934+00:00",
       "news_id": "1a0db9da-64f2-43aa-bb6a-874bdb6e4675",
-      "payload": "{\"NEWSID\": \"1a0db9da-64f2-43aa-bb6a-874bdb6e4675\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_1A0DB9DA-64F2-43AA-BB6A-874BDB6E4675\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-14T15:05:41.377\", \"NEWS_DT\": \"2026-11-14T15:05:41.377\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"89f9366a-f353-4bd1-a131-c5ee43af7669.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Recording Link for Post Earnings Concall held on November 14, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T15:05:41\", \"DissemDT\": \"2026-11-14T15:05:41.377\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 271343, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"1a0db9da-64f2-43aa-bb6a-874bdb6e4675\", \"INVESTOR_PRESENTATION\": \"4dae07af-9df6-4075-bdd2-750c8dea52bf.zip\", \"RECORDID\": 14884327, \"DataInsDate\": \"2026-11-14T15:05:41.297\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/4dae07af-9df6-4075-bdd2-750c8dea52bf.zip\", \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-14T15:05:41.377\", \"_category\": \"Company Update\", \"_headline\": \"Audio Recording Link for Post Earnings Concall held on November 14, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/89f9366a-f353-4bd1-a131-c5ee43af7669.pdf\", \"_id\": \"1a0db9da-64f2-43aa-bb6a-874bdb6e4675\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -9436,6 +9436,10 @@
     {
       "message_id": "<aee9312b38dde3f3e850c1276b3233b237c38ff99cb0b79ac49eb4955ba4e45c@gmail.com>",
       "sent_at": "2026-11-13T04:45:23.088543+00:00"
+    },
+    {
+      "message_id": "<b5e77366b247ae95a43c668aafc4a4b06ba3e5577307e56412e1ec342d8c9d85@gmail.com>",
+      "sent_at": "2026-11-14T09:37:14.544130+00:00"
     },
     {
       "message_id": "<bbe848b9313da5bf7a4159d1acaa52d48e6cda5cbd9191d5f4d16cdea9d89d93@gmail.com>",
