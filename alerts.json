@@ -5506,8 +5506,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-14T16:57:29.213146+00:00",
       "news_id": "00c0ef44-5d48-42e6-9b73-84e89c3d6ae3",
-      "payload": "{\"NEWSID\": \"00c0ef44-5d48-42e6-9b73-84e89c3d6ae3\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_00C0EF44-5D48-42E6-9B73-84E89C3D6AE3\", \"NEWSSUB\": \"Statement Of Deviation & Variation For 30Th September 2026\", \"DT_TM\": \"2026-11-14T22:23:52.02\", \"NEWS_DT\": \"2026-11-14T22:23:52.02\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1c4370f2-4be7-4457-9503-34703b8781e7.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation regarding nil deviation or variation as on 30th September 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 84, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T22:23:52\", \"DissemDT\": \"2026-11-14T22:23:52.02\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 810446, \"SUBCATNAME\": \"Reg. 32 (1), (3) - Statement of Deviation & Variation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Statement Of Deviation & Variation For 30Th September 2026\", \"_published\": \"2026-11-14T22:23:52.02\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation regarding nil deviation or variation as on 30th September 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1c4370f2-4be7-4457-9503-34703b8781e7.pdf\", \"_id\": \"00c0ef44-5d48-42e6-9b73-84e89c3d6ae3\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -6241,8 +6241,8 @@
       "company_key": "544641",
       "discovered_at": "2026-11-14T16:57:41.854758+00:00",
       "news_id": "afb767c2-c3b0-4fa3-a969-d63ade0f8bfa",
-      "payload": "{\"NEWSID\": \"afb767c2-c3b0-4fa3-a969-d63ade0f8bfa\", \"SCRIP_CD\": 544641, \"XML_NAME\": \"ANN_544641_AFB767C2-C3B0-4FA3-A969-D63ADE0F8BFA\", \"NEWSSUB\": \"Financial Result As On 30/09/2026\", \"DT_TM\": \"2026-11-14T22:25:01.683\", \"NEWS_DT\": \"2026-11-14T22:25:01.683\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9d254c5c-27bf-4603-a9d3-f57c8599da7f.pdf\", \"MORE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered and\\r\\napproved the Un-audited Financial Results (Standalone and Consolidated) along with the Limited\\r\\nReview Report for the quarter and half year ended September 30, 2026, duly reviewed and\\r\\nrecommended by the Audit Committee pursuant to Regulation 33 of the SEBI (Listing Obligations\\r\\nand Disclosure Requirements) Regulations, 2015;\", \"HEADLINE\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/\", \"SLONGNAME\": \"K. V. Toys India Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T22:25:01\", \"DissemDT\": \"2026-11-14T22:25:01.683\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1325129, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"K V Toys India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641\", \"_subject\": \"Financial Result As On 30/09/2026\", \"_published\": \"2026-11-14T22:25:01.683\", \"_category\": \"Result\", \"_headline\": \"With reference to the captioned subject, please be informed that the Board of Directors of the\\r\\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9d254c5c-27bf-4603-a9d3-f57c8599da7f.pdf\", \"_id\": \"afb767c2-c3b0-4fa3-a969-d63ade0f8bfa\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544641",
@@ -9540,10 +9540,6 @@
       "sent_at": "2026-11-14T09:37:14.544130+00:00"
     },
     {
-      "message_id": "<bbe848b9313da5bf7a4159d1acaa52d48e6cda5cbd9191d5f4d16cdea9d89d93@gmail.com>",
-      "sent_at": "2026-11-12T16:49:52.268230+00:00"
-    },
-    {
       "message_id": "<c1ec4d09efe4664526ee2dedba188e264d172fceea9b6dd2e58bcfb149b131f4@gmail.com>",
       "sent_at": "2026-11-13T09:45:40.651324+00:00"
     },
@@ -9566,6 +9562,10 @@
     {
       "message_id": "<df3a7fd3725f873cec4a85824d6eae86fd669dd56f3500e3d4d629f75e0e76cf@gmail.com>",
       "sent_at": "2026-11-13T07:55:57.828575+00:00"
+    },
+    {
+      "message_id": "<ecd9ea31e38cea23c4e58e740f9ec6bf34c6c3c6d65f70b406be6b46fb58577f@gmail.com>",
+      "sent_at": "2026-11-14T16:57:57.487709+00:00"
     },
     {
       "message_id": "<ed757815079059cd0fd67ddf1eb0d06711cd7a0d76312653abd818a9b73c7988@gmail.com>",
