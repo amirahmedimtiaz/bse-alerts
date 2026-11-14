@@ -172,8 +172,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-14T06:06:36.287141+00:00",
       "news_id": "aafbbf8d-50a8-41b2-b22e-033edf629f46",
-      "payload": "{\"NEWSID\": \"aafbbf8d-50a8-41b2-b22e-033edf629f46\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_AAFBBF8D-50A8-41B2-B22E-033EDF629F46\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-14T11:35:41.427\", \"NEWS_DT\": \"2026-11-14T11:35:41.427\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c730d833-a1fb-4071-b2dd-59f6ec908e22.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio/Video Recordings of the Analysts/Investors Meet held on 13th November, 2026 at 4.00 p.m\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T11:35:41\", \"DissemDT\": \"2026-11-14T11:35:41.427\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 744050, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"aafbbf8d-50a8-41b2-b22e-033edf629f46\", \"INVESTOR_PRESENTATION\": \"25d0ba1f-ec1d-496a-bd86-18bf8c605861.pdf\", \"RECORDID\": 14881961, \"DataInsDate\": \"2026-11-14T11:35:41.45\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=25d0ba1f-ec1d-496a-bd86-18bf8c605861.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-14T11:35:41.427\", \"_category\": \"Company Update\", \"_headline\": \"Audio/Video Recordings of the Analysts/Investors Meet held on 13th November, 2026 at 4.00 p.m\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c730d833-a1fb-4071-b2dd-59f6ec908e22.pdf\", \"_id\": \"aafbbf8d-50a8-41b2-b22e-033edf629f46\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -6591,8 +6591,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-14T06:06:43.812173+00:00",
       "news_id": "ea96037b-6365-4582-b3ee-31b9991053c8",
-      "payload": "{\"NEWSID\": \"ea96037b-6365-4582-b3ee-31b9991053c8\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_EA96037B-6365-4582-B3EE-31B9991053C8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-14T11:31:48.037\", \"NEWS_DT\": \"2026-11-14T11:31:48.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6e07821d-596b-4eac-a1fa-011e33a5d51f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Monitoring Agency Report for the Quarter ended 30th September, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T11:31:48\", \"DissemDT\": \"2026-11-14T11:31:48.037\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1011644, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-14T11:31:48.037\", \"_category\": \"Company Update\", \"_headline\": \"Monitoring Agency Report for the Quarter ended 30th September, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e07821d-596b-4eac-a1fa-011e33a5d51f.pdf\", \"_id\": \"ea96037b-6365-4582-b3ee-31b9991053c8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9323,6 +9323,10 @@
     {
       "message_id": "<69de5fd34be91eb7e44d5dd54a229c13be735d5466ea314411c95dc788704032@gmail.com>",
       "sent_at": "2026-11-12T10:59:30.689424+00:00"
+    },
+    {
+      "message_id": "<6a736468e478e46d82f8c846f652b8a11b9fc6d739a3c8154a5959c8855fb307@gmail.com>",
+      "sent_at": "2026-11-14T06:06:59.135715+00:00"
     },
     {
       "message_id": "<71857b2162130a253fa424a70879735bb0c4c7264b69a6164edd3a0f166aedc6@gmail.com>",
