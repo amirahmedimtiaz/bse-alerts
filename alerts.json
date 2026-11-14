@@ -5436,8 +5436,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-14T15:32:17.350360+00:00",
       "news_id": "95e2f09c-7ebb-43fa-96a0-b41475b04ef7",
-      "payload": "{\"NEWSID\": \"95e2f09c-7ebb-43fa-96a0-b41475b04ef7\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_95E2F09C-7EBB-43FA-96A0-B41475B04EF7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"DT_TM\": \"2026-11-14T20:59:58.053\", \"NEWS_DT\": \"2026-11-14T20:59:58.053\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d64988b4-57ac-4904-a29a-a7fc0cf62277.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith the Monitoring Agency Report of the Company for the quarter ended September 30, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 135, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T20:59:58\", \"DissemDT\": \"2026-11-14T20:59:58.053\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1760087, \"SUBCATNAME\": \"Monitoring Agency Report\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Monitoring Agency Report\", \"_published\": \"2026-11-14T20:59:58.053\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed herewith the Monitoring Agency Report of the Company for the quarter ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d64988b4-57ac-4904-a29a-a7fc0cf62277.pdf\", \"_id\": \"95e2f09c-7ebb-43fa-96a0-b41475b04ef7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -9389,6 +9389,10 @@
     {
       "message_id": "<0164e92c5899cfff9c8e07c6c8ce7e8110aafe4434400bf13977775f07695dd6@gmail.com>",
       "sent_at": "2026-11-14T09:52:14.961989+00:00"
+    },
+    {
+      "message_id": "<0ddf7e43066865997ac2788793908680c141944cbc80cd5a8b30264995785576@gmail.com>",
+      "sent_at": "2026-11-14T15:32:30.220293+00:00"
     },
     {
       "message_id": "<0e3e44a143b0b071b20802ae7b16abef48b82687c35107151e0b2ef019ae2abf@gmail.com>",
