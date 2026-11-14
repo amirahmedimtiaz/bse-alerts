@@ -5667,8 +5667,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-14T18:12:30.775396+00:00",
       "news_id": "d3d5f4f3-e9ab-45bf-b997-7dc92833924e",
-      "payload": "{\"NEWSID\": \"d3d5f4f3-e9ab-45bf-b997-7dc92833924e\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_D3D5F4F3-E9AB-45BF-B997-7DC92833924E\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations 2015\", \"DT_TM\": \"2026-11-14T23:39:20.27\", \"NEWS_DT\": \"2026-11-14T23:39:20.27\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"819c3a82-0749-45b1-91b1-182c7fd7c62a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Prior BSE Intimation regarding the regulation 30 of the SEBI (LODR) Regulations 2015.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T23:39:20\", \"DissemDT\": \"2026-11-14T23:39:20.27\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 657670, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations 2015\", \"_published\": \"2026-11-14T23:39:20.27\", \"_category\": \"Company Update\", \"_headline\": \"Prior BSE Intimation regarding the regulation 30 of the SEBI (LODR) Regulations 2015.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/819c3a82-0749-45b1-91b1-182c7fd7c62a.pdf\", \"_id\": \"d3d5f4f3-e9ab-45bf-b997-7dc92833924e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9447,6 +9447,10 @@
     {
       "message_id": "<0e3e44a143b0b071b20802ae7b16abef48b82687c35107151e0b2ef019ae2abf@gmail.com>",
       "sent_at": "2026-11-14T07:32:14.616145+00:00"
+    },
+    {
+      "message_id": "<0fc3e7d680d48cdeacfecb9a7d8e83531bdee30eb7e8e80651ef81003284ec41@gmail.com>",
+      "sent_at": "2026-11-14T18:12:53.903763+00:00"
     },
     {
       "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
