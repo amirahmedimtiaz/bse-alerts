@@ -7165,8 +7165,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-14T07:32:00.500399+00:00",
       "news_id": "106860418",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"14-Nov-2026 12:57:30\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_14112026125718_Intimation_of_Newspaper_Ad.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 12:57:30\", \"sort_date\": \"2026-11-14 12:57:30\", \"seq_id\": \"106860418\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Copy of Newspaper Publication\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"8.62 MB\", \"attFileSize\": \"8.62 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/ALPEXSOLAR_14112026125718_Intimation_of_Newspaper_Ad.mp3\", \"voiceSummary\": \"Alpex Solar Limited published extracts of its Unaudited Financial Results for the Quarter and Half Year ended September 30, 2026, in The Financial Express and Swatantra Chetna on November 14, 2026. The results were reviewed by the Audit Committee and approved by the Board of Directors on November 13, 2026. Standalone revenue from operations was 57,712.65 lakhs for the quarter ended September 30, 2026, with a profit after tax of 2,003.70 lakhs. Consolidated revenue from operations was 58,045.50 lakhs for the same quarter, with a profit after tax of 2,019.67 lakhs. The announcement also includes a public notice from DCB Bank Ltd regarding the auction of jewellery pledged by borrowers who failed to pay dues. The first auction is scheduled for December 14, 2026, and December 15, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Copy of Newspaper Publication\", \"_published\": \"2026-11-14 12:57:30\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Copy of Newspaper Publication\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_14112026125718_Intimation_of_Newspaper_Ad.pdf\", \"_id\": \"106860418\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9288,6 +9288,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<0e3e44a143b0b071b20802ae7b16abef48b82687c35107151e0b2ef019ae2abf@gmail.com>",
+      "sent_at": "2026-11-14T07:32:14.616145+00:00"
+    },
     {
       "message_id": "<144ce99e87cbe1bccacfd58458247ed0c314ce509195c890ef7c4e5242972d21@gmail.com>",
       "sent_at": "2026-11-12T12:04:33.191684+00:00"
