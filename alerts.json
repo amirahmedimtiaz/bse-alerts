@@ -7158,8 +7158,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-14T07:27:00.281134+00:00",
       "news_id": "106860411",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Monitoring Agency Report\", \"dt\": \"14-Nov-2026 12:52:22\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_14112026125140_Intimation_of_MAR.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 12:52:22\", \"sort_date\": \"2026-11-14 12:52:22\", \"seq_id\": \"106860411\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"743.64 KB\", \"attFileSize\": \"743.64 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/ALPEXSOLAR_14112026125140_Intimation_of_MAR.mp3\", \"voiceSummary\": \"Alpex Solar Limited filed the Monitoring Agency Report for the quarter ended September 30, 2026, regarding the utilization of proceeds from its Preferential Issue of equity shares and convertible warrants. Crisil Ratings Limited confirmed that proceeds were utilized in accordance with the Offer Letter objects, with no variations or deviations. The total issue size was Rs 260.17 crore. As of the quarter end, Rs 162.27 crore was utilized, leaving Rs 97.90 crore unutilized, which remains pending receipt from warrant holders. No utilization occurred during the reported quarter for construction, plant procurement, or general corporate purposes. The report notes that the current market price of Rs 678.00 per share is below the warrant conversion price of Rs 1,212.00, indicating a risk of non-exercise of conversion rights.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Monitoring Agency Report\", \"_published\": \"2026-11-14 12:52:22\", \"_category\": \"Monitoring Agency Report\", \"_headline\": \"Monitoring Agency Report for the Quarter ended September 30, 2026\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/ALPEXSOLAR_14112026125140_Intimation_of_MAR.pdf\", \"_id\": \"106860411\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9386,10 +9386,6 @@
       "sent_at": "2026-11-14T04:46:58.933548+00:00"
     },
     {
-      "message_id": "<9058613ddace539517b7fc7512558520bbff5b52576f13988705ad1aa75aa032@gmail.com>",
-      "sent_at": "2026-11-12T07:24:13.763808+00:00"
-    },
-    {
       "message_id": "<95d3c013dc4fcd468ee95817b2b8b5ebb8be1665d4cdc05be5d29f1873cb7226@gmail.com>",
       "sent_at": "2026-11-14T06:37:14.771952+00:00"
     },
@@ -9412,6 +9408,10 @@
     {
       "message_id": "<d1a0bf412961e7a782aaf07c3ce1526406e6620457978a839587ffd6dcef4a30@gmail.com>",
       "sent_at": "2026-11-13T13:05:54.607281+00:00"
+    },
+    {
+      "message_id": "<daf46779b579df8e53accdc55acc736160eeddc9cb61facdeaa5f364eb677049@gmail.com>",
+      "sent_at": "2026-11-14T07:27:14.841575+00:00"
     },
     {
       "message_id": "<dd12851a7d653d17f130fdb06dd27410ca22c61c7a056af64b4f314b2fae4eef@gmail.com>",
