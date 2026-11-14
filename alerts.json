@@ -4113,8 +4113,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-14T09:52:03.127382+00:00",
       "news_id": "92090834-70f5-467d-94b8-65a2dd628dc6",
-      "payload": "{\"NEWSID\": \"92090834-70f5-467d-94b8-65a2dd628dc6\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_92090834-70F5-467D-94B8-65A2DD628DC6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-14T15:18:38.66\", \"NEWS_DT\": \"2026-11-14T15:18:38.66\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9a6959de-969f-4637-a153-148ac1dd2b2e.pdf\", \"MORE\": \"Pursuant to Regulation 47 and other applicable regulations of SEBI (LODR) Regulations, 2015, we submit herewith copies of Newspaper publication of Un-audited financial results (Standalone and consolidated) for the quarter and half year ended 30th September 2026, Published in The Economics Times English (All India Edition) on 14th November 2026 and Business Remedies Hindi on 14th November 2026.\", \"HEADLINE\": \"Pursuant to Regulation 47 and other applicable regulations of SEBI (LODR) Regulations, 2015, we submit herewith copies of Newspaper publication of Un-audited financial results (Standalone ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T15:18:38\", \"DissemDT\": \"2026-11-14T15:18:38.66\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4888526, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-14T15:18:38.66\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 47 and other applicable regulations of SEBI (LODR) Regulations, 2015, we submit herewith copies of Newspaper publication of Un-audited financial results (Standalone ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9a6959de-969f-4637-a153-148ac1dd2b2e.pdf\", \"_id\": \"92090834-70f5-467d-94b8-65a2dd628dc6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9316,6 +9316,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<0164e92c5899cfff9c8e07c6c8ce7e8110aafe4434400bf13977775f07695dd6@gmail.com>",
+      "sent_at": "2026-11-14T09:52:14.961989+00:00"
+    },
     {
       "message_id": "<0e3e44a143b0b071b20802ae7b16abef48b82687c35107151e0b2ef019ae2abf@gmail.com>",
       "sent_at": "2026-11-14T07:32:14.616145+00:00"
