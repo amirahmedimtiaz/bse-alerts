@@ -6794,8 +6794,8 @@
       "company_key": "544862",
       "discovered_at": "2026-11-14T04:46:45.793241+00:00",
       "news_id": "8970336a-5e2d-4bb4-a1ed-25f7396794a0",
-      "payload": "{\"NEWSID\": \"8970336a-5e2d-4bb4-a1ed-25f7396794a0\", \"SCRIP_CD\": 544862, \"XML_NAME\": \"ANN_544862_8970336A-5E2D-4BB4-A1ED-25F7396794A0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-14T10:12:17.113\", \"NEWS_DT\": \"2026-11-14T10:12:17.113\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0461c953-589a-4423-bf4f-8ece90aa4e14.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor Presentation for Q2 H1 Results\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/\", \"SLONGNAME\": \"Solex Energy Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T10:12:17\", \"DissemDT\": \"2026-11-14T10:12:17.113\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3701556, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Solex Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-14T10:12:17.113\", \"_category\": \"Company Update\", \"_headline\": \"Investor Presentation for Q2 H1 Results\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0461c953-589a-4423-bf4f-8ece90aa4e14.pdf\", \"_id\": \"8970336a-5e2d-4bb4-a1ed-25f7396794a0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544862",
@@ -9254,10 +9254,6 @@
       "sent_at": "2026-11-13T17:41:11.200329+00:00"
     },
     {
-      "message_id": "<551ef5ee7ec7a1adfb55072a695960c5f16c4d0a0c6316f39eaedc0ee266b34f@gmail.com>",
-      "sent_at": "2026-11-11T19:28:21.678852+00:00"
-    },
-    {
       "message_id": "<59f45faf61e55cbfa4945871f67d82473c3204ec4caa4fe153b6b7ac35148483@gmail.com>",
       "sent_at": "2026-11-13T12:30:55.635015+00:00"
     },
@@ -9316,6 +9312,10 @@
     {
       "message_id": "<8b4ea54dfd0e43758315331e207131b4a7da7933bec7a6d0377424d6d6704c5f@gmail.com>",
       "sent_at": "2026-11-13T09:40:41.779349+00:00"
+    },
+    {
+      "message_id": "<8efd21fd25e97869310b67dbabdc75a31f1aaffb1860e9eaa1aca1bffba0a3ba@gmail.com>",
+      "sent_at": "2026-11-14T04:46:58.933548+00:00"
     },
     {
       "message_id": "<9058613ddace539517b7fc7512558520bbff5b52576f13988705ad1aa75aa032@gmail.com>",
