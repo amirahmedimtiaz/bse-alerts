@@ -6696,8 +6696,8 @@
       "company_key": "544851",
       "discovered_at": "2026-11-14T08:02:06.138286+00:00",
       "news_id": "ebbcc956-8e16-4d07-8e7d-e22248a5623e",
-      "payload": "{\"NEWSID\": \"ebbcc956-8e16-4d07-8e7d-e22248a5623e\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_EBBCC956-8E16-4D07-8E7D-E22248A5623E\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-14T13:29:49.777\", \"NEWS_DT\": \"2026-11-14T13:29:49.777\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1f155562-8d4b-4643-9033-75b1e1cdf2fc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Investor meet link\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T13:29:49\", \"DissemDT\": \"2026-11-14T13:29:49.777\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 717290, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"ebbcc956-8e16-4d07-8e7d-e22248a5623e\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14883890, \"DataInsDate\": \"2026-11-14T13:29:49.733\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-14T13:29:49.777\", \"_category\": \"Company Update\", \"_headline\": \"Investor meet link\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1f155562-8d4b-4643-9033-75b1e1cdf2fc.pdf\", \"_id\": \"ebbcc956-8e16-4d07-8e7d-e22248a5623e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -9338,6 +9338,10 @@
     {
       "message_id": "<59f45faf61e55cbfa4945871f67d82473c3204ec4caa4fe153b6b7ac35148483@gmail.com>",
       "sent_at": "2026-11-13T12:30:55.635015+00:00"
+    },
+    {
+      "message_id": "<5a04dcec852993248b4651aa59dbe00d499beda1c505f5a2da86e2ff531d3ab0@gmail.com>",
+      "sent_at": "2026-11-14T08:02:15.679873+00:00"
     },
     {
       "message_id": "<5f7b70f958caa2dbe2c9e7bff64b968dc4fc7648623795bc8a3f21aa075ead04@gmail.com>",
