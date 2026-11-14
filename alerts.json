@@ -5436,8 +5436,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-14T15:07:22.569073+00:00",
       "news_id": "cdb146c4-1a33-499b-a822-01644c915625",
-      "payload": "{\"NEWSID\": \"cdb146c4-1a33-499b-a822-01644c915625\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_CDB146C4-1A33-499B-A822-01644C915625\", \"NEWSSUB\": \"Board Meeting Outcome for Considering And Approving The Un-Audited Financial Results Of The Company Along With Limited Review Report For The Quarter And Half Year Ended On September 30, 2026\", \"DT_TM\": \"2026-11-14T20:36:00.64\", \"NEWS_DT\": \"2026-11-14T20:36:00.64\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"cdd8f5fa-381e-4766-a9e3-b26438d3ff18.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith the Unaudited Financial Results of the Company along with the Limited Review Report for the quarter and half year ended September 30, 2026\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T20:35:57\", \"DissemDT\": \"2026-11-14T20:36:00.64\", \"TimeDiff\": \"00:00:03\", \"Fld_Attachsize\": 5113517, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Considering And Approving The Un-Audited Financial Results Of The Company Along With Limited Review Report For The Quarter And Half Year Ended On September 30, 2026\", \"_published\": \"2026-11-14T20:36:00.64\", \"_category\": \"Board Meeting\", \"_headline\": \"Please find enclosed herewith the Unaudited Financial Results of the Company along with the Limited Review Report for the quarter and half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/cdd8f5fa-381e-4766-a9e3-b26438d3ff18.pdf\", \"_id\": \"cdb146c4-1a33-499b-a822-01644c915625\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -9384,6 +9384,10 @@
     {
       "message_id": "<2a4e1f9ff6e904889d82dd5e7c8efc1cdeff8c48f73e97c42fd5ccd6131d1dad@gmail.com>",
       "sent_at": "2026-11-14T13:57:38.760093+00:00"
+    },
+    {
+      "message_id": "<350413bee20d3450a962de4cd1c4181293d2b18cd170ffd36059bdbcde0c75b9@gmail.com>",
+      "sent_at": "2026-11-14T15:07:30.121068+00:00"
     },
     {
       "message_id": "<3857179107128eb00e08c6674b7f22f92de78d5afdc41280133e3c691e7eb370@gmail.com>",
