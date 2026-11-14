@@ -7557,8 +7557,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-11-14T06:32:08.038260+00:00",
       "news_id": "106860342",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"Updates\", \"dt\": \"14-Nov-2026 11:59:35\", \"attchmntFile\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_14112026115745_PROPSHOP_26102026210024_PEEL_-_Q2_SOD-1_Final__1_.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"14-Nov-2026 11:59:35\", \"sort_date\": \"2026-11-14 11:59:35\", \"seq_id\": \"106860342\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding 'Statement of Deviation(s) or Variation(s) under Regulation 32 of SEBI (LODR) Regulations, 2015 for the quarter ended September 30, 2026 along with certificate issued by the Statutory Auditors of the Company'.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.94 MB\", \"attFileSize\": \"1.94 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/PROPSHOP_14112026115745_PROPSHOP_26102026210024_PEEL_-_Q2_SOD-1_Final__1_.mp3\", \"voiceSummary\": \"Propshop Events and Exhibitions Limited filed a statement of deviation under Regulation 32 of SEBI LODR Regulations 2015 for the quarter ended September 30, 2026. The company raised Rs. 23,04,60,000 through an IPO on July 30, 2026. Chartered Accountants HRJ Associates certified that there is no deviation in the utilization of proceeds. Rs. 1,304.60 lakhs were utilized by September 30, 2026. Rs. 1,000.00 lakhs remain unutilized and are held in liquid mutual funds and fixed deposits with HDFC Bank, ICICI Bank, and Central Bank. The Audit Committee noted no deviation in fund utilization.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-14 11:59:35\", \"_category\": \"Updates\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange regarding 'Statement of Deviation(s) or Variation(s) under Regulation 32 of SEBI (LODR) Regulations, 2015 for the quarter ended September 30, 2026 along with certificate issued by the Statutory Auditors of the Company'.\", \"_pdf_url\": \"https://nsearchives.nseindia.com/corporate/PROPSHOP_14112026115745_PROPSHOP_26102026210024_PEEL_-_Q2_SOD-1_Final__1_.pdf\", \"_id\": \"106860342\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -9278,6 +9278,10 @@
     {
       "message_id": "<2215afab0327bef00e5c9815a629aceb75f9817844b4d41ac7bdd5394a6d905b@gmail.com>",
       "sent_at": "2026-11-13T05:40:40.490925+00:00"
+    },
+    {
+      "message_id": "<3857179107128eb00e08c6674b7f22f92de78d5afdc41280133e3c691e7eb370@gmail.com>",
+      "sent_at": "2026-11-14T06:32:15.394741+00:00"
     },
     {
       "message_id": "<38c0c8c3d81a4308427bf87db92ed3504277e3e5f84839b69e75fd495500f294@gmail.com>",
