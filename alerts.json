@@ -5436,8 +5436,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-14T15:22:17.110799+00:00",
       "news_id": "b2856596-5c25-41b9-a108-7cfd2ef9bfcc",
-      "payload": "{\"NEWSID\": \"b2856596-5c25-41b9-a108-7cfd2ef9bfcc\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_B2856596-5C25-41B9-A108-7CFD2EF9BFCC\", \"NEWSSUB\": \"Un-Audited Financial Results Of The Company For The Quarter And Half Year Ended September 30, 2026 Along With Limited Review Report\", \"DT_TM\": \"2026-11-14T20:48:43.63\", \"NEWS_DT\": \"2026-11-14T20:48:43.63\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"0a22782f-481c-437e-b3a9-2446d2a40280.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith the un-Audited Financial Results of the Company for the quarter and Half year ended September 30, 2026\", \"CATEGORYNAME\": \"Result\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 30, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-14T20:48:43\", \"DissemDT\": \"2026-11-14T20:48:43.63\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5113517, \"SUBCATNAME\": \"Financial Results\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Un-Audited Financial Results Of The Company For The Quarter And Half Year Ended September 30, 2026 Along With Limited Review Report\", \"_published\": \"2026-11-14T20:48:43.63\", \"_category\": \"Result\", \"_headline\": \"Please find enclosed herewith the un-Audited Financial Results of the Company for the quarter and Half year ended September 30, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a22782f-481c-437e-b3a9-2446d2a40280.pdf\", \"_id\": \"b2856596-5c25-41b9-a108-7cfd2ef9bfcc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -9427,6 +9427,10 @@
     {
       "message_id": "<5a04dcec852993248b4651aa59dbe00d499beda1c505f5a2da86e2ff531d3ab0@gmail.com>",
       "sent_at": "2026-11-14T08:02:15.679873+00:00"
+    },
+    {
+      "message_id": "<65352970cec8469f38d11e1ae7c9ce9ff5a54c17a63ecf14a5f921473090d598@gmail.com>",
+      "sent_at": "2026-11-14T15:22:34.812975+00:00"
     },
     {
       "message_id": "<664160f803e79901fc488db11b8a142a69355f694026bc5a7bad49b60b73e271@gmail.com>",
