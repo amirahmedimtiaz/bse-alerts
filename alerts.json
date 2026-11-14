@@ -5548,8 +5548,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-14T19:02:31.173845+00:00",
       "news_id": "2bc90956-a9f0-485b-b3b7-ce044dd3d4b7",
-      "payload": "{\"NEWSID\": \"2bc90956-a9f0-485b-b3b7-ce044dd3d4b7\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_2BC90956-A9F0-485B-B3B7-CE044DD3D4B7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-15T00:28:15.917\", \"NEWS_DT\": \"2026-11-15T00:28:15.917\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"c3b1558d-8dc6-4e2d-b5b1-8a9d8f2e1464.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation pursuant to Reg 30 of SEBI (LODR) Regulations 2015, the press release dated 14th November 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-15T00:28:15\", \"DissemDT\": \"2026-11-15T00:28:15.917\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 642730, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-15T00:28:15.917\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation pursuant to Reg 30 of SEBI (LODR) Regulations 2015, the press release dated 14th November 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/c3b1558d-8dc6-4e2d-b5b1-8a9d8f2e1464.pdf\", \"_id\": \"2bc90956-a9f0-485b-b3b7-ce044dd3d4b7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9592,6 +9592,10 @@
     {
       "message_id": "<aee9312b38dde3f3e850c1276b3233b237c38ff99cb0b79ac49eb4955ba4e45c@gmail.com>",
       "sent_at": "2026-11-13T04:45:23.088543+00:00"
+    },
+    {
+      "message_id": "<afcc956b937de9b4ef75fe8839b7f54459ed935087a22b791d455163d5b97d95@gmail.com>",
+      "sent_at": "2026-11-14T19:02:52.956246+00:00"
     },
     {
       "message_id": "<b5e77366b247ae95a43c668aafc4a4b06ba3e5577307e56412e1ec342d8c9d85@gmail.com>",
