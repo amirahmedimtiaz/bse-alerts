@@ -4155,8 +4155,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-16T07:50:09.173874+00:00",
       "news_id": "af4d72d1-5607-4c10-93e3-0e3f4c895f74",
-      "payload": "{\"NEWSID\": \"af4d72d1-5607-4c10-93e3-0e3f4c895f74\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_AF4D72D1-5607-4C10-93E3-0E3F4C895F74\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-16T13:19:03.783\", \"NEWS_DT\": \"2026-11-16T13:19:03.783\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"690fcaf2-8982-4f69-a6cb-8673c6321caf.pdf\", \"MORE\": \"Pursuant to regulation 30 of SEBI (LODR) Regulation,2015, we are enclosing herewith the Investor Presentation on Un-Audited financial results (Standalone and consolidate) of the company for the quarter and half year ended on 30th September, 2026.\", \"HEADLINE\": \"Pursuant to regulation 30 of SEBI (LODR) Regulation,2015, we are enclosing herewith the Investor Presentation on Un-Audited financial results (Standalone and consolidate) of the company ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T13:19:03\", \"DissemDT\": \"2026-11-16T13:19:03.783\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 9241475, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-16T13:19:03.783\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to regulation 30 of SEBI (LODR) Regulation,2015, we are enclosing herewith the Investor Presentation on Un-Audited financial results (Standalone and consolidate) of the company ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/690fcaf2-8982-4f69-a6cb-8673c6321caf.pdf\", \"_id\": \"af4d72d1-5607-4c10-93e3-0e3f4c895f74\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9505,10 +9505,6 @@
       "sent_at": "2026-11-14T15:32:30.220293+00:00"
     },
     {
-      "message_id": "<0e3e44a143b0b071b20802ae7b16abef48b82687c35107151e0b2ef019ae2abf@gmail.com>",
-      "sent_at": "2026-11-14T07:32:14.616145+00:00"
-    },
-    {
       "message_id": "<0fc3e7d680d48cdeacfecb9a7d8e83531bdee30eb7e8e80651ef81003284ec41@gmail.com>",
       "sent_at": "2026-11-14T18:12:53.903763+00:00"
     },
@@ -9527,6 +9523,10 @@
     {
       "message_id": "<3d48f856644f04eff893ea78ed658a66799aa4e95346ead4383410c7edaba74a@gmail.com>",
       "sent_at": "2026-11-14T15:27:29.813813+00:00"
+    },
+    {
+      "message_id": "<4e563d30657f3cfc07e4db458a15226fb28e16f66dbaa5a7639dfe0a6e907018@gmail.com>",
+      "sent_at": "2026-11-16T07:50:31.486207+00:00"
     },
     {
       "message_id": "<5a04dcec852993248b4651aa59dbe00d499beda1c505f5a2da86e2ff531d3ab0@gmail.com>",
@@ -9571,10 +9571,6 @@
     {
       "message_id": "<d348e4857df3c62deae0cb23c16f0de4af67b27fee169b9b107e538f550c992f@gmail.com>",
       "sent_at": "2026-11-14T10:52:16.547564+00:00"
-    },
-    {
-      "message_id": "<daf46779b579df8e53accdc55acc736160eeddc9cb61facdeaa5f364eb677049@gmail.com>",
-      "sent_at": "2026-11-14T07:27:14.841575+00:00"
     },
     {
       "message_id": "<dbdd43e80cd6b5b0609ef2120ade9f855656ee110e1b47d9667757498448eb3a@gmail.com>",
