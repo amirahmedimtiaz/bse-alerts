@@ -9342,8 +9342,8 @@
       "company_key": "NSE:WHITEFORCE",
       "discovered_at": "2026-11-16T13:00:33.859336+00:00",
       "news_id": "106862685",
-      "payload": "{\"symbol\": \"WHITEFORCE\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"16-Nov-2026 18:26:00\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/HAPPYSQUARE_16112026182540_EarningCalls_Intimation.pdf\", \"sm_name\": \"Happy Square Outsourcing Services Limited\", \"sm_isin\": null, \"an_dt\": \"16-Nov-2026 18:26:00\", \"sort_date\": \"2026-11-16 18:26:00\", \"seq_id\": \"106862685\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Happy Square Outsourcing Services Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"794.86 KB\", \"attFileSize\": \"794.86 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/HAPPYSQUARE_16112026182540_EarningCalls_Intimation.mp3\", \"voiceSummary\": \"Happy Square Outsourcing Services Limited has intimated the schedule for an earnings conference call regarding un-audited financial results for the half year ended September 30, 2026. The call is scheduled for Wednesday, 25th November, 2026, at 04:00 PM IST. The event will be conducted via audio conference call using dial-in or Diamond Pass. Management participants include Mrs. Shraddha Rajpal, Mrs. Deepika Ondela, Mr. Shailesh Rajpal, Mr. Vikas Jain, and Ms. Swarna Keshri. The company stated that no unpublished price sensitive information will be shared during the call. The schedule is subject to change.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Happy Square Outsourcing Services Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/WHITEFORCE/Happy-Square-Outsourcing-Services-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-16 18:26:00\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Happy Square Outsourcing Services Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/HAPPYSQUARE_16112026182540_EarningCalls_Intimation.pdf\", \"_id\": \"106862685\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     }
   ],
   "companies": [
@@ -9640,6 +9640,10 @@
     {
       "message_id": "<afcc956b937de9b4ef75fe8839b7f54459ed935087a22b791d455163d5b97d95@gmail.com>",
       "sent_at": "2026-11-14T19:02:52.956246+00:00"
+    },
+    {
+      "message_id": "<b6ead2271a9241e66ab3bdb65ba5830db460db334388a45fe19b1bb2c81a17d2@gmail.com>",
+      "sent_at": "2026-11-16T13:00:43.247170+00:00"
     },
     {
       "message_id": "<b92457e335c60e7fae89b0f614ea385fdd1eb94b9eafca41d68d151ccae4692b@gmail.com>",
