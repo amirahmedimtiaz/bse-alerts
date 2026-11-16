@@ -235,8 +235,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-16T05:05:08.953212+00:00",
       "news_id": "0d628695-4188-45b0-bc04-b9055d60fc2f",
-      "payload": "{\"NEWSID\": \"0d628695-4188-45b0-bc04-b9055d60fc2f\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_0D628695-4188-45B0-BC04-B9055D60FC2F\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-16T10:33:13.627\", \"NEWS_DT\": \"2026-11-16T10:33:13.627\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"52877bcf-b57f-486c-9c6f-4b29fa2fd203.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release titled \\\"Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra\\\".\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T10:33:13\", \"DissemDT\": \"2026-11-16T10:33:13.627\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 421320, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-16T10:33:13.627\", \"_category\": \"Company Update\", \"_headline\": \"Press Release titled \\\"Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra\\\".\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/52877bcf-b57f-486c-9c6f-4b29fa2fd203.pdf\", \"_id\": \"0d628695-4188-45b0-bc04-b9055d60fc2f\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -9504,10 +9504,6 @@
       "sent_at": "2026-11-14T06:32:15.394741+00:00"
     },
     {
-      "message_id": "<38c0c8c3d81a4308427bf87db92ed3504277e3e5f84839b69e75fd495500f294@gmail.com>",
-      "sent_at": "2026-11-13T15:26:12.234768+00:00"
-    },
-    {
       "message_id": "<3d48f856644f04eff893ea78ed658a66799aa4e95346ead4383410c7edaba74a@gmail.com>",
       "sent_at": "2026-11-14T15:27:29.813813+00:00"
     },
@@ -9516,24 +9512,12 @@
       "sent_at": "2026-11-14T05:46:59.011057+00:00"
     },
     {
-      "message_id": "<55098180a2c230163ce10237aa807d2cf4a17f4b8e161f8b4763d9cdd6b9e8c2@gmail.com>",
-      "sent_at": "2026-11-13T17:41:11.200329+00:00"
-    },
-    {
-      "message_id": "<59f45faf61e55cbfa4945871f67d82473c3204ec4caa4fe153b6b7ac35148483@gmail.com>",
-      "sent_at": "2026-11-13T12:30:55.635015+00:00"
-    },
-    {
       "message_id": "<5a04dcec852993248b4651aa59dbe00d499beda1c505f5a2da86e2ff531d3ab0@gmail.com>",
       "sent_at": "2026-11-14T08:02:15.679873+00:00"
     },
     {
       "message_id": "<65352970cec8469f38d11e1ae7c9ce9ff5a54c17a63ecf14a5f921473090d598@gmail.com>",
       "sent_at": "2026-11-14T15:22:34.812975+00:00"
-    },
-    {
-      "message_id": "<685b611a926761dd0557d523b41f45e1f19815c84b65c760dda8f85297d614f9@gmail.com>",
-      "sent_at": "2026-11-13T14:06:17.367434+00:00"
     },
     {
       "message_id": "<6a736468e478e46d82f8c846f652b8a11b9fc6d739a3c8154a5959c8855fb307@gmail.com>",
@@ -9546,10 +9530,6 @@
     {
       "message_id": "<8c14d5bb68a1542e199be9e16b0048eafae8238676ccd3751c404305e70c0c00@gmail.com>",
       "sent_at": "2026-11-14T18:02:52.366212+00:00"
-    },
-    {
-      "message_id": "<8efd21fd25e97869310b67dbabdc75a31f1aaffb1860e9eaa1aca1bffba0a3ba@gmail.com>",
-      "sent_at": "2026-11-14T04:46:58.933548+00:00"
     },
     {
       "message_id": "<95d3c013dc4fcd468ee95817b2b8b5ebb8be1665d4cdc05be5d29f1873cb7226@gmail.com>",
@@ -9580,10 +9560,6 @@
       "sent_at": "2026-11-14T14:17:31.980436+00:00"
     },
     {
-      "message_id": "<d1a0bf412961e7a782aaf07c3ce1526406e6620457978a839587ffd6dcef4a30@gmail.com>",
-      "sent_at": "2026-11-13T13:05:54.607281+00:00"
-    },
-    {
       "message_id": "<d348e4857df3c62deae0cb23c16f0de4af67b27fee169b9b107e538f550c992f@gmail.com>",
       "sent_at": "2026-11-14T10:52:16.547564+00:00"
     },
@@ -9598,6 +9574,10 @@
     {
       "message_id": "<f594bdf1c1994aaea483de1fa614997d31a597ba58fc75b305f37d166919866e@gmail.com>",
       "sent_at": "2026-11-14T05:41:58.893100+00:00"
+    },
+    {
+      "message_id": "<f6d64a16c6db107b5f59cc7d71aef97f9d04755acd70a537b6b12684cc24ac0e@gmail.com>",
+      "sent_at": "2026-11-16T05:05:17.169218+00:00"
     }
   ],
   "metadata": [
