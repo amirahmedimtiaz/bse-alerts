@@ -5415,8 +5415,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-16T11:15:30.246536+00:00",
       "news_id": "09f7d55f-4863-4d43-a8fe-216dd454a3c6",
-      "payload": "{\"NEWSID\": \"09f7d55f-4863-4d43-a8fe-216dd454a3c6\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_09F7D55F-4863-4D43-A8FE-216DD454A3C6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-16T16:40:37.68\", \"NEWS_DT\": \"2026-11-16T16:40:37.68\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"88ceb292-a2a9-4b6f-b8e3-4d74e41135ea.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed the Newspaper Publication dated November 16, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T16:40:37\", \"DissemDT\": \"2026-11-16T16:40:37.68\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1260664, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-16T16:40:37.68\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed the Newspaper Publication dated November 16, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/88ceb292-a2a9-4b6f-b8e3-4d74e41135ea.pdf\", \"_id\": \"09f7d55f-4863-4d43-a8fe-216dd454a3c6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -9572,10 +9572,6 @@
       "sent_at": "2026-11-15T11:39:00.038506+00:00"
     },
     {
-      "message_id": "<a5db8f2ae2fa91f93d2cda73d1de4e2e37696dacea6d59e83f25039914546594@gmail.com>",
-      "sent_at": "2026-11-14T10:57:16.286331+00:00"
-    },
-    {
       "message_id": "<abd344bab0b150f3a2c91e24b924503cbb204d62eec391e1b4c75f99a50aafa1@gmail.com>",
       "sent_at": "2026-11-14T18:22:53.162738+00:00"
     },
@@ -9584,16 +9580,16 @@
       "sent_at": "2026-11-14T19:02:52.956246+00:00"
     },
     {
+      "message_id": "<b92457e335c60e7fae89b0f614ea385fdd1eb94b9eafca41d68d151ccae4692b@gmail.com>",
+      "sent_at": "2026-11-16T11:15:45.124311+00:00"
+    },
+    {
       "message_id": "<cf652c577a44c3dd74aa3175a4d33e3565f941038fe500248752d82eea887510@gmail.com>",
       "sent_at": "2026-11-16T09:30:42.578116+00:00"
     },
     {
       "message_id": "<cf93ebd54ec28db938ab105b708b097c550e072db3653bd4ab0aa3e6e56ea78a@gmail.com>",
       "sent_at": "2026-11-14T14:17:31.980436+00:00"
-    },
-    {
-      "message_id": "<d348e4857df3c62deae0cb23c16f0de4af67b27fee169b9b107e538f550c992f@gmail.com>",
-      "sent_at": "2026-11-14T10:52:16.547564+00:00"
     },
     {
       "message_id": "<dbdd43e80cd6b5b0609ef2120ade9f855656ee110e1b47d9667757498448eb3a@gmail.com>",
