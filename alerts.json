@@ -2692,8 +2692,8 @@
       "company_key": "532374",
       "discovered_at": "2026-11-16T13:45:38.699582+00:00",
       "news_id": "dc889271-6113-4a02-ac29-ce95eb1185a6",
-      "payload": "{\"NEWSID\": \"dc889271-6113-4a02-ac29-ce95eb1185a6\", \"SCRIP_CD\": 532374, \"XML_NAME\": \"ANN_532374_DC889271-6113-4A02-AC29-CE95EB1185A6\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-16T19:13:07.18\", \"NEWS_DT\": \"2026-11-16T19:13:07.18\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d766146f-af46-42a2-bba9-f6a91beb9b57.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation regarding Schedule of Investor/ Analyst Meet to be held on December 1, 2, and 3, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/\", \"SLONGNAME\": \"Sterlite Technologies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T19:13:07\", \"DissemDT\": \"2026-11-16T19:13:07.18\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 433274, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"dc889271-6113-4a02-ac29-ce95eb1185a6\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14899722, \"DataInsDate\": \"2026-11-16T19:13:07.147\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Sterlite Technologies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-16T19:13:07.18\", \"_category\": \"Company Update\", \"_headline\": \"Intimation regarding Schedule of Investor/ Analyst Meet to be held on December 1, 2, and 3, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d766146f-af46-42a2-bba9-f6a91beb9b57.pdf\", \"_id\": \"dc889271-6113-4a02-ac29-ce95eb1185a6\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532374",
@@ -9633,6 +9633,10 @@
     {
       "message_id": "<4e563d30657f3cfc07e4db458a15226fb28e16f66dbaa5a7639dfe0a6e907018@gmail.com>",
       "sent_at": "2026-11-16T07:50:31.486207+00:00"
+    },
+    {
+      "message_id": "<5ed3181e47b9f2d03dbc0f6a9df875fcc808e69cdcb8be6f3534615825dfb29d@gmail.com>",
+      "sent_at": "2026-11-16T13:45:57.395940+00:00"
     },
     {
       "message_id": "<65352970cec8469f38d11e1ae7c9ce9ff5a54c17a63ecf14a5f921473090d598@gmail.com>",
