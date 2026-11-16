@@ -7956,8 +7956,8 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-16T09:55:31.556628+00:00",
       "news_id": "106862228",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"16-Nov-2026 15:23:13\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/TBICORN_16112026152303_Intimation_Reg_30.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"16-Nov-2026 15:23:13\", \"sort_date\": \"2026-11-16 15:23:13\", \"seq_id\": \"106862228\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"488.57 KB\", \"attFileSize\": \"488.57 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/TBICORN_16112026152303_Intimation_Reg_30.mp3\", \"voiceSummary\": \"TBI Corn Limited announced an earnings call for analysts and investors to discuss unaudited financial results for the half year ended 30th September 2026. The virtual meeting is scheduled for Thursday, November 19, 2026, at 04:00 P.M. IST. The management team will include Yogesh Rajhans, Chairman and Managing Director, and Ninad Yedurkar, Whole Time Director and Chief Financial Officer. No unpublished price sensitive information will be shared. Investors must register via the provided link to receive dial-in details. The call will be held over Zoom and recorded in compliance with SEBI regulations. The company noted that the meeting may be cancelled, rescheduled, or postponed due to exigencies.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-16 15:23:13\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"TBI Corn Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/TBICORN_16112026152303_Intimation_Reg_30.pdf\", \"_id\": \"106862228\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -9506,10 +9506,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<0164e92c5899cfff9c8e07c6c8ce7e8110aafe4434400bf13977775f07695dd6@gmail.com>",
-      "sent_at": "2026-11-14T09:52:14.961989+00:00"
-    },
-    {
       "message_id": "<05efc440c2caaa4a29982ba6b25657a78763990b9642f99a80bd8a94d1bb2253@gmail.com>",
       "sent_at": "2026-11-16T06:00:17.568596+00:00"
     },
@@ -9574,10 +9570,6 @@
       "sent_at": "2026-11-14T19:02:52.956246+00:00"
     },
     {
-      "message_id": "<b5e77366b247ae95a43c668aafc4a4b06ba3e5577307e56412e1ec342d8c9d85@gmail.com>",
-      "sent_at": "2026-11-14T09:37:14.544130+00:00"
-    },
-    {
       "message_id": "<cf652c577a44c3dd74aa3175a4d33e3565f941038fe500248752d82eea887510@gmail.com>",
       "sent_at": "2026-11-16T09:30:42.578116+00:00"
     },
@@ -9592,6 +9584,10 @@
     {
       "message_id": "<dbdd43e80cd6b5b0609ef2120ade9f855656ee110e1b47d9667757498448eb3a@gmail.com>",
       "sent_at": "2026-11-16T06:50:18.442357+00:00"
+    },
+    {
+      "message_id": "<e9aab42cd9ac540d53a97361ed71513d4f25b11b915b031719d1607f363771a0@gmail.com>",
+      "sent_at": "2026-11-16T09:55:40.106061+00:00"
     },
     {
       "message_id": "<ecd9ea31e38cea23c4e58e740f9ec6bf34c6c3c6d65f70b406be6b46fb58577f@gmail.com>",
