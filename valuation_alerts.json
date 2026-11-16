@@ -1,0 +1,15 @@
+{
+  "alerts": [
+    {
+      "symbol": "VIVIANA",
+      "name": "Viviana Power Tech Limited",
+      "max_pe": 7.5,
+      "rearm_pe": 7.725,
+      "ttm_pat_crore": 61.88,
+      "earnings_through": "2026-09-30",
+      "ttm_basis": "Standalone reported PAT, Oct 2025-Sep 2026: FY2026 50.18 + H1 FY2027 18.61 - H1 FY2026 6.92 (Rs crore). Consolidated owners' TTM is 62.16.",
+      "results_source": "https://nsearchives.nseindia.com/corporate/VIVIANA_02112026195946_OUTCOME_BM_02112026.pdf",
+      "last_results_filed": "2026-11-02 20:01:35"
+    }
+  ]
+}

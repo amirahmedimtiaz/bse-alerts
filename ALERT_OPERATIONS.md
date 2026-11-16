@@ -163,3 +163,19 @@ To disable only this monitor, set the workflow flag false and deploy. Existing
 corporate-announcement delivery and saved history remain intact. Delivery remains
 at-least-once: a crash after SMTP acceptance but before checkpointing may repeat
 an email; stable Message-IDs are not an exactly-once guarantee.
+
+## Valuation (P/E) alerts
+
+`.github/workflows/valuation-alert.yml` runs separately from the announcement
+worker on weekdays during NSE hours (every 30 minutes, 09:15–15:15 IST, plus a
+post-close check; GitHub schedule delays apply). `src/valuation_alert.py`
+computes TTM P/E = NSE last price × NSE issued shares ÷ `ttm_pat_crore` from
+`valuation_alerts.json`. It emails once when P/E drops below `max_pe` and
+re-arms only after P/E recovers to `rearm_pe`. The first run sends a setup
+confirmation. A newer NSE financial-results filing than `last_results_filed`
+sends a one-time "update TTM earnings" email; until the config is updated,
+trigger emails say the earnings basis is stale. Six consecutive quote failures
+send one health email. State lives in `state.json` on the `valuation-alert-state`
+branch. Pause with repository variable `VALUATION_ALERTS_PAUSED=true`.
+After each results filing, update `ttm_pat_crore`, `earnings_through`,
+`ttm_basis`, `results_source` and `last_results_filed`, then push to main.

@@ -1,0 +1,73 @@
+name: Valuation (P/E) Alert
+
+on:
+  schedule:
+    # NSE market hours, Mon-Fri (UTC): 09:15-15:15 IST every 30 min, plus a post-close check.
+    - cron: "45 3 * * 1-5"
+    - cron: "15,45 4-9 * * 1-5"
+    - cron: "15 10 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: valuation-alert
+  cancel-in-progress: false
+
+jobs:
+  check:
+    if: vars.VALUATION_ALERTS_PAUSED != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Test valuation alert
+        run: python -m pytest -q tests/test_valuation_alert.py
+      - name: Restore state
+        run: |
+          mkdir -p "$RUNNER_TEMP/state"
+          if git fetch origin valuation-alert-state 2>/dev/null; then
+            git show origin/valuation-alert-state:state.json > "$RUNNER_TEMP/state/state.json" || true
+          fi
+      - name: Check P/E and email
+        id: check
+        env:
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: |
+          set +e
+          python -u -m src.valuation_alert --config valuation_alerts.json --state "$RUNNER_TEMP/state/state.json"
+          echo "rc=$?" >> "$GITHUB_OUTPUT"
+      - name: Save state
+        if: ${{ !cancelled() }}
+        run: |
+          test -s "$RUNNER_TEMP/state/state.json" || exit 0
+          git config user.name "valuation-alert[bot]"
+          git config user.email "valuation-alert@users.noreply.github.com"
+          git worktree add --detach "$RUNNER_TEMP/branch"
+          cd "$RUNNER_TEMP/branch"
+          if git rev-parse --verify -q origin/valuation-alert-state >/dev/null; then
+            git checkout -B valuation-alert-state origin/valuation-alert-state
+          else
+            git checkout --orphan valuation-alert-state
+            git rm -rf -q . || true
+          fi
+          cp "$RUNNER_TEMP/state/state.json" state.json
+          git add state.json
+          git diff --cached --quiet || git commit -q -m "Update valuation alert state"
+          for i in 1 2 3; do git push origin valuation-alert-state && exit 0; sleep $((i*5)); done
+          echo "State push failed; the next run may repeat an email." >&2
+          exit 1
+      - name: Fail on check error
+        if: ${{ steps.check.outputs.rc != '0' }}
+        run: exit 1
