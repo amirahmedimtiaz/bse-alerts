@@ -7403,8 +7403,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-16T13:05:26.131142+00:00",
       "news_id": "106862704",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"16-Nov-2026 18:31:50\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_16112026183119_Intimation-final.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"16-Nov-2026 18:31:50\", \"sort_date\": \"2026-11-16 18:31:50\", \"seq_id\": \"106862704\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"843.45 KB\", \"attFileSize\": \"843.45 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/ALPEXSOLAR_16112026183119_Intimation-final.mp3\", \"voiceSummary\": \"Alpex Solar Limited has scheduled an Earnings Conference Call for Wednesday, November 18, 2026, at 12:00 Noon IST. The call will be held via virtual meeting using the provided Zoom link. Senior management, including Chairman and MD Mr. Ashwani Sehgal, will discuss the company's results for the quarter and half year ended September 30, 2026. The event is intended for interaction with analysts and institutional investors. The company confirms that no unpublished price sensitive information will be shared during the call. The schedule is subject to change due to exigencies. This intimation is filed pursuant to Regulation 30 of the SEBI Listing Regulations.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-16 18:31:50\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_16112026183119_Intimation-final.pdf\", \"_id\": \"106862704\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9635,6 +9635,10 @@
     {
       "message_id": "<9cfe19006476284502e449426bd34a7b64eb553eef3165d836168aa2886a8d3a@gmail.com>",
       "sent_at": "2026-11-15T11:39:00.038506+00:00"
+    },
+    {
+      "message_id": "<a1c6ab541d9e6318d36b8006c87be70c284540ef17745145e0a74758bb6b6016@gmail.com>",
+      "sent_at": "2026-11-16T13:05:41.766904+00:00"
     },
     {
       "message_id": "<a728eb7454dfc6e682f64ce262a9c4a49090339824729bd34c130f48a3329215@gmail.com>",
