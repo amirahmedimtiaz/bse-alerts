@@ -3448,8 +3448,8 @@
       "company_key": "540795",
       "discovered_at": "2026-11-16T12:15:16.214187+00:00",
       "news_id": "506d8f47-306d-4507-b2da-6e4406372da8",
-      "payload": "{\"NEWSID\": \"506d8f47-306d-4507-b2da-6e4406372da8\", \"SCRIP_CD\": 540795, \"XML_NAME\": \"ANN_540795_506D8F47-306D-4507-B2DA-6E4406372DA8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Resignation of Director\", \"DT_TM\": \"2026-11-16T17:44:09.233\", \"NEWS_DT\": \"2026-11-16T17:44:09.233\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"ea0d3c0a-3843-45f9-a081-6fb39fc991b1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Resignation of Non-Executive Non- Independent Director\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/\", \"SLONGNAME\": \"Dynamic Cables Ltd\", \"AGENDA_ID\": 102, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T17:44:09\", \"DissemDT\": \"2026-11-16T17:44:09.233\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 897057, \"SUBCATNAME\": \"Resignation of Director\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Dynamic Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/dynamic-cables-ltd/dycl/540795/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Resignation of Director\", \"_published\": \"2026-11-16T17:44:09.233\", \"_category\": \"Company Update\", \"_headline\": \"Resignation of Non-Executive Non- Independent Director\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/ea0d3c0a-3843-45f9-a081-6fb39fc991b1.pdf\", \"_id\": \"506d8f47-306d-4507-b2da-6e4406372da8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "540795",
@@ -9587,6 +9587,10 @@
     {
       "message_id": "<65352970cec8469f38d11e1ae7c9ce9ff5a54c17a63ecf14a5f921473090d598@gmail.com>",
       "sent_at": "2026-11-14T15:22:34.812975+00:00"
+    },
+    {
+      "message_id": "<839fb0f8e9db01de365fb76ae04fdc00c76381fa92213b4d954ed9e2485f8fee@gmail.com>",
+      "sent_at": "2026-11-16T12:15:41.011875+00:00"
     },
     {
       "message_id": "<8c14d5bb68a1542e199be9e16b0048eafae8238676ccd3751c404305e70c0c00@gmail.com>",
