@@ -4120,8 +4120,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-16T13:10:28.589619+00:00",
       "news_id": "63ef29c0-8d68-43f0-a39e-65c8d4a22c13",
-      "payload": "{\"NEWSID\": \"63ef29c0-8d68-43f0-a39e-65c8d4a22c13\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_63EF29C0-8D68-43F0-A39E-65C8D4A22C13\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-16T18:37:27.037\", \"NEWS_DT\": \"2026-11-16T18:37:27.037\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b9cf2512-c18b-453a-bfa6-9c1f8004689d.pdf\", \"MORE\": \"Pursuant to Regulation 30 and 46 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we hereby inform you that the audio recording of the Earnings Conference Call on the Un-Audited Financial Results of the Company for the Quarter and Half year ended 30th September, 2026 held today i.e. Monday, 16th November, 2026 at 03:30 P.M. (IST) is available at the website of the Company at https://insolationenergy.in/assets/upload/investors/20261116182116-10049609-186991328123.mp3\", \"HEADLINE\": \"Pursuant to Regulation 30 and 46 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T18:37:26\", \"DissemDT\": \"2026-11-16T18:37:27.037\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 361430, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"63ef29c0-8d68-43f0-a39e-65c8d4a22c13\", \"INVESTOR_PRESENTATION\": \"6641f8ff-eba7-4f28-a3b9-4bc8f52493cf.mp3\", \"RECORDID\": 14899577, \"DataInsDate\": \"2026-11-16T18:37:26.927\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/6641f8ff-eba7-4f28-a3b9-4bc8f52493cf.mp3\", \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-16T18:37:27.037\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 and 46 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b9cf2512-c18b-453a-bfa6-9c1f8004689d.pdf\", \"_id\": \"63ef29c0-8d68-43f0-a39e-65c8d4a22c13\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -9630,6 +9630,10 @@
     {
       "message_id": "<65352970cec8469f38d11e1ae7c9ce9ff5a54c17a63ecf14a5f921473090d598@gmail.com>",
       "sent_at": "2026-11-14T15:22:34.812975+00:00"
+    },
+    {
+      "message_id": "<69de25ae54cf2a854a730191c65c37bb48976ec94403040f56c4f920bb4be7b1@gmail.com>",
+      "sent_at": "2026-11-16T13:10:41.303483+00:00"
     },
     {
       "message_id": "<839fb0f8e9db01de365fb76ae04fdc00c76381fa92213b4d954ed9e2485f8fee@gmail.com>",
