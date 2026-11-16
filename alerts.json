@@ -3756,8 +3756,8 @@
       "company_key": "542652",
       "discovered_at": "2026-11-16T05:59:57.049130+00:00",
       "news_id": "8aa2a6aa-2e81-4b3d-b47b-f2b935f405bc",
-      "payload": "{\"NEWSID\": \"8aa2a6aa-2e81-4b3d-b47b-f2b935f405bc\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_8AA2A6AA-2E81-4B3D-B47B-F2B935F405BC\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"DT_TM\": \"2026-11-16T11:25:15.1\", \"NEWS_DT\": \"2026-11-16T11:25:15.1\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a5d2906c-bc39-4fc9-8d6c-821f2f1c8789.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-16T11:25:15\", \"DissemDT\": \"2026-11-16T11:25:15.1\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 278700, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"_published\": \"2026-11-16T11:25:15.1\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a5d2906c-bc39-4fc9-8d6c-821f2f1c8789.pdf\", \"_id\": \"8aa2a6aa-2e81-4b3d-b47b-f2b935f405bc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -9475,6 +9475,10 @@
       "sent_at": "2026-11-14T09:52:14.961989+00:00"
     },
     {
+      "message_id": "<05efc440c2caaa4a29982ba6b25657a78763990b9642f99a80bd8a94d1bb2253@gmail.com>",
+      "sent_at": "2026-11-16T06:00:17.568596+00:00"
+    },
+    {
       "message_id": "<0af6dce71df5988316366251918910d496839789b205a5f17516df1a84db2733@gmail.com>",
       "sent_at": "2026-11-14T17:07:52.220613+00:00"
     },
@@ -9513,10 +9517,6 @@
     {
       "message_id": "<3d48f856644f04eff893ea78ed658a66799aa4e95346ead4383410c7edaba74a@gmail.com>",
       "sent_at": "2026-11-14T15:27:29.813813+00:00"
-    },
-    {
-      "message_id": "<480970ab440e9e7ad06a5554bdef627927eab7f2307b31e59cbbd9f9d9daad83@gmail.com>",
-      "sent_at": "2026-11-14T05:46:59.011057+00:00"
     },
     {
       "message_id": "<5a04dcec852993248b4651aa59dbe00d499beda1c505f5a2da86e2ff531d3ab0@gmail.com>",
@@ -9577,10 +9577,6 @@
     {
       "message_id": "<ecd9ea31e38cea23c4e58e740f9ec6bf34c6c3c6d65f70b406be6b46fb58577f@gmail.com>",
       "sent_at": "2026-11-14T16:57:57.487709+00:00"
-    },
-    {
-      "message_id": "<f594bdf1c1994aaea483de1fa614997d31a597ba58fc75b305f37d166919866e@gmail.com>",
-      "sent_at": "2026-11-14T05:41:58.893100+00:00"
     },
     {
       "message_id": "<f6d64a16c6db107b5f59cc7d71aef97f9d04755acd70a537b6b12684cc24ac0e@gmail.com>",
