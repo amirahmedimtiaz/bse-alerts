@@ -8264,8 +8264,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-16T12:40:33.273956+00:00",
       "news_id": "nse-fallback:2e2adcd1e8525aa3fa440208dc042782d836869bca89846d854e6616fe47696e",
-      "payload": "{\"an_dt\": \"16-Nov-2026 18:06:33\", \"attFileSize\": \"1.08 MB\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_16112026180612_TRANSCRIPT_NSE_06112026.pdf\", \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange about Transcript\", \"bflag\": null, \"csvName\": null, \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"difference\": \"00:00:01\", \"dt\": \"16112026180633\", \"exchdisstime\": \"16-Nov-2026 18:06:34\", \"fileSize\": \"1.08 MB\", \"hasXbrl\": true, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106862596\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-16 18:06:33\", \"symbol\": \"VIVIANA\", \"voiceSummary\": \"Viviana Power Tech Limited filed the transcript of its Q2 and H1 FY27 earnings conference call with NSE. The call was held on 06-November-2026. The company reported revenue from operations of INR189.07 crores for H1 FY27, up from INR69.33 crores in the previous year. Profit after tax stood at INR18.61 crores, compared to INR6.92 crores in the corresponding period. Standalone quarterly revenue for Q2 was INR117.21 crores with a net profit of INR11.68 crores. The order book has expanded to over INR1,800 crores. Debt days reduced to 150 days as of 30 September 2026 from 245 days at 31 March 2026. Current debtors declined to 15,643.17 lakhs from 33,686.44 lakhs. The company maintains an operating profit margin target of 13% to 15%.\", \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VIVIANA_16112026180612_TRANSCRIPT_NSE_06112026.mp3\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-16 18:06:33\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_16112026180612_TRANSCRIPT_NSE_06112026.pdf\", \"_id\": \"nse-fallback:2e2adcd1e8525aa3fa440208dc042782d836869bca89846d854e6616fe47696e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -9565,6 +9565,10 @@
     {
       "message_id": "<0af6dce71df5988316366251918910d496839789b205a5f17516df1a84db2733@gmail.com>",
       "sent_at": "2026-11-14T17:07:52.220613+00:00"
+    },
+    {
+      "message_id": "<0be9aebe8e65f78b2c8c6611caebda711ac30846d920c22c3d6940149d230281@gmail.com>",
+      "sent_at": "2026-11-16T12:40:40.103199+00:00"
     },
     {
       "message_id": "<0d2244500d4e50372393c914d839e5d5d1fb02c464ee2249177ae764b1e660f6@gmail.com>",
