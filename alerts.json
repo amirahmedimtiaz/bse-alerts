@@ -8089,8 +8089,8 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-17T13:32:35.327256+00:00",
       "news_id": "106864055",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Investor Presentation\", \"dt\": \"17-Nov-2026 19:01:50\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/TBICORN_17112026190135_Investor_Presentation_TBI.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"17-Nov-2026 19:01:50\", \"sort_date\": \"2026-11-17 19:01:50\", \"seq_id\": \"106864055\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"4.39 MB\", \"attFileSize\": \"4.39 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/TBICORN_17112026190135_Investor_Presentation_TBI.mp3\", \"voiceSummary\": \"TBI Corn Limited filed an investor presentation regarding its unaudited financial results for the half year ended September 30, 2026. The document outlines the company's operational history, manufacturing capabilities, and product portfolio. It details the establishment of wholly owned subsidiaries, including Revita Starch Private Limited incorporated on January 28, 2025, and TBI Maize Processors Private Limited incorporated on July 23, 2024. The presentation also notes the incorporation of TBICL FZE as a marketing subsidiary on November 2, 2026, which has not commenced commercial operations. The company reported a 150 percent increase in export revenue following the establishment of a dedicated marketing team. The investor presentation is available on the company website.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-17 19:01:50\", \"_category\": \"Investor Presentation\", \"_headline\": \"TBI Corn Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/TBICORN_17112026190135_Investor_Presentation_TBI.pdf\", \"_id\": \"106864055\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -9667,6 +9667,10 @@
     {
       "message_id": "<0be9aebe8e65f78b2c8c6611caebda711ac30846d920c22c3d6940149d230281@gmail.com>",
       "sent_at": "2026-11-16T12:40:40.103199+00:00"
+    },
+    {
+      "message_id": "<2e26f52a2c537cbfbdc9ae857548a266d5e6d1ff24af160e529d0d2179d59946@gmail.com>",
+      "sent_at": "2026-11-17T13:32:44.395504+00:00"
     },
     {
       "message_id": "<33637404b0dae9f9e317be23b450a90b8899d6c428f1e1bcc0a9f0aaec13c999@gmail.com>",
