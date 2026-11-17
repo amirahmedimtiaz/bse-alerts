@@ -3980,8 +3980,8 @@
       "company_key": "543415",
       "discovered_at": "2026-11-17T12:32:21.078665+00:00",
       "news_id": "1696e79f-2047-4a77-b32d-7a3952b5ad5c",
-      "payload": "{\"NEWSID\": \"1696e79f-2047-4a77-b32d-7a3952b5ad5c\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_1696E79F-2047-4A77-B32D-7A3952B5AD5C\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-17T17:59:53.483\", \"NEWS_DT\": \"2026-11-17T17:59:53.483\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b943cb0f-15bc-4cfc-9517-54f6330c5315.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication of Postal Ballot Notice and Remote E-Voting\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-17T17:59:53\", \"DissemDT\": \"2026-11-17T17:59:53.483\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 7668140, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-17T17:59:53.483\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication of Postal Ballot Notice and Remote E-Voting\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b943cb0f-15bc-4cfc-9517-54f6330c5315.pdf\", \"_id\": \"1696e79f-2047-4a77-b32d-7a3952b5ad5c\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -9643,6 +9643,10 @@
       "sent_at": "2026-11-16T11:35:48.096988+00:00"
     },
     {
+      "message_id": "<05c3843abebc892dd91d50af3a0619ffd636ab4200a36742b6075a455548d8d8@gmail.com>",
+      "sent_at": "2026-11-17T12:32:28.924972+00:00"
+    },
+    {
       "message_id": "<05efc440c2caaa4a29982ba6b25657a78763990b9642f99a80bd8a94d1bb2253@gmail.com>",
       "sent_at": "2026-11-16T06:00:17.568596+00:00"
     },
@@ -9681,10 +9685,6 @@
     {
       "message_id": "<86fbecf7236298039ee7929425c73b93e8c77e04f5712165c397e70399060b34@gmail.com>",
       "sent_at": "2026-11-17T10:57:26.906021+00:00"
-    },
-    {
-      "message_id": "<9cfe19006476284502e449426bd34a7b64eb553eef3165d836168aa2886a8d3a@gmail.com>",
-      "sent_at": "2026-11-15T11:39:00.038506+00:00"
     },
     {
       "message_id": "<9df47288d55902f82a2d85307279c0602c290370869608ce3ad54552cc9d73cc@gmail.com>",
