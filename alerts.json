@@ -5464,8 +5464,8 @@
       "company_key": "544442",
       "discovered_at": "2026-11-17T10:57:18.207728+00:00",
       "news_id": "c08d90e0-8fe7-4eb5-b4a7-635ce75b8496",
-      "payload": "{\"NEWSID\": \"c08d90e0-8fe7-4eb5-b4a7-635ce75b8496\", \"SCRIP_CD\": 544442, \"XML_NAME\": \"ANN_544442_C08D90E0-8FE7-4EB5-B4A7-635CE75B8496\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-11-17T16:23:33.92\", \"NEWS_DT\": \"2026-11-17T16:23:33.92\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"09c1b68e-a490-43d7-bc60-b9734bbcf63a.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure for Acquistion of Equity Shares of Subsidiary Company under the Rights Issue.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/chemkart/544442/\", \"SLONGNAME\": \"Chemkart India Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-17T16:23:33\", \"DissemDT\": \"2026-11-17T16:23:33.92\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 399556, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Chemkart India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/chemkart-india-ltd/CHEMKART/544442/\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-11-17T16:23:33.92\", \"_category\": \"Company Update\", \"_headline\": \"Disclosure for Acquistion of Equity Shares of Subsidiary Company under the Rights Issue.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/09c1b68e-a490-43d7-bc60-b9734bbcf63a.pdf\", \"_id\": \"c08d90e0-8fe7-4eb5-b4a7-635ce75b8496\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544442",
@@ -9670,6 +9670,10 @@
     {
       "message_id": "<839fb0f8e9db01de365fb76ae04fdc00c76381fa92213b4d954ed9e2485f8fee@gmail.com>",
       "sent_at": "2026-11-16T12:15:41.011875+00:00"
+    },
+    {
+      "message_id": "<86fbecf7236298039ee7929425c73b93e8c77e04f5712165c397e70399060b34@gmail.com>",
+      "sent_at": "2026-11-17T10:57:26.906021+00:00"
     },
     {
       "message_id": "<9cfe19006476284502e449426bd34a7b64eb553eef3165d836168aa2886a8d3a@gmail.com>",
