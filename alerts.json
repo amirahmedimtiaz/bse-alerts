@@ -466,8 +466,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-17T10:02:20.112751+00:00",
       "news_id": "f900c530-4dbe-4db3-8379-7e1c181b6f9a",
-      "payload": "{\"NEWSID\": \"f900c530-4dbe-4db3-8379-7e1c181b6f9a\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_F900C530-4DBE-4DB3-8379-7E1C181B6F9A\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-17T15:30:35.3\", \"NEWS_DT\": \"2026-11-17T15:30:35.3\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"af35c243-2088-4dae-aa78-5a1346d756cd.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Earning Call Transcript\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-17T15:30:35\", \"DissemDT\": \"2026-11-17T15:30:35.3\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 573114, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-17T15:30:35.3\", \"_category\": \"Company Update\", \"_headline\": \"Earning Call Transcript\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/af35c243-2088-4dae-aa78-5a1346d756cd.pdf\", \"_id\": \"f900c530-4dbe-4db3-8379-7e1c181b6f9a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504212",
@@ -9636,6 +9636,10 @@
     {
       "message_id": "<4e563d30657f3cfc07e4db458a15226fb28e16f66dbaa5a7639dfe0a6e907018@gmail.com>",
       "sent_at": "2026-11-16T07:50:31.486207+00:00"
+    },
+    {
+      "message_id": "<58ba05256305ffa03de367e5fd63d7253d72096ae85c3c77b320bac3848cf6b0@gmail.com>",
+      "sent_at": "2026-11-17T10:02:27.589291+00:00"
     },
     {
       "message_id": "<5ed3181e47b9f2d03dbc0f6a9df875fcc808e69cdcb8be6f3534615825dfb29d@gmail.com>",
