@@ -6969,8 +6969,8 @@
       "company_key": "544851",
       "discovered_at": "2026-11-18T11:03:31.257548+00:00",
       "news_id": "82f63210-a6cb-4e13-8905-02ae5882e86d",
-      "payload": "{\"NEWSID\": \"82f63210-a6cb-4e13-8905-02ae5882e86d\", \"SCRIP_CD\": 544851, \"XML_NAME\": \"ANN_544851_82F63210-A6CB-4E13-8905-02AE5882E86D\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-18T16:29:40.943\", \"NEWS_DT\": \"2026-11-18T16:29:40.943\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"156b381c-69a3-46b7-9ded-a290d48fc986.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Audio Link\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/\", \"SLONGNAME\": \"MV Electrosystems Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-18T16:29:40\", \"DissemDT\": \"2026-11-18T16:29:40.943\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 635657, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"82f63210-a6cb-4e13-8905-02ae5882e86d\", \"INVESTOR_PRESENTATION\": \"3d6213a5-7c09-40d7-8ab4-baf5a155b637.pdf\", \"RECORDID\": 14924017, \"DataInsDate\": \"2026-11-18T16:29:40.903\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d6213a5-7c09-40d7-8ab4-baf5a155b637.pdf\", \"_exchange\": \"BSE\", \"_company_name\": \"MV Electrosystems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-18T16:29:40.943\", \"_category\": \"Company Update\", \"_headline\": \"Audio Link\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/156b381c-69a3-46b7-9ded-a290d48fc986.pdf\", \"_id\": \"82f63210-a6cb-4e13-8905-02ae5882e86d\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544851",
@@ -9799,6 +9799,10 @@
       "sent_at": "2026-11-16T11:20:51.340660+00:00"
     },
     {
+      "message_id": "<ac500bc994ee2bf7571c4ff47e5a17d0abf72a8c938d4468c614045c36dde1c6@gmail.com>",
+      "sent_at": "2026-11-18T11:03:42.065421+00:00"
+    },
+    {
       "message_id": "<acf76cfc69e9705815b75d1ec348167b61381b935bf10aeae043671b9e6090d8@gmail.com>",
       "sent_at": "2026-11-18T09:18:41.998487+00:00"
     },
@@ -9837,10 +9841,6 @@
     {
       "message_id": "<ebd2a50426b5b6e3500716ffc6a885b03ecf3551bbd1f818a57c42197f534a7a@gmail.com>",
       "sent_at": "2026-11-18T06:03:30.287330+00:00"
-    },
-    {
-      "message_id": "<f6635a1b2509070ff6c093f30a5862d1e364ef252f377c04f29cd5a902e56eaf@gmail.com>",
-      "sent_at": "2026-11-16T10:50:39.854153+00:00"
     }
   ],
   "metadata": [
