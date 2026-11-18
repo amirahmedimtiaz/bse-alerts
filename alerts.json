@@ -7494,8 +7494,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-18T06:03:14.467491+00:00",
       "news_id": "106864609",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Copy of Newspaper Publication\", \"dt\": \"18-Nov-2026 11:32:49\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026113237_Newspaper_advertisement_Final.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"18-Nov-2026 11:32:49\", \"sort_date\": \"2026-11-18 11:32:49\", \"seq_id\": \"106864609\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Copy of Newspaper Publication of Postal Ballot Notice\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"2.62 MB\", \"attFileSize\": \"2.62 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"[ALPEX][Capital filing] Copy of Newspaper Publication\", \"_published\": \"2026-11-18 11:32:49\", \"_category\": \"Copy of Newspaper Publication\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Copy of Newspaper Publication of Postal Ballot Notice\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026113237_Newspaper_advertisement_Final.pdf\", \"_alpex\": true, \"_alpex_view\": {\"type\": \"events\", \"events\": [{\"kind\": \"capital\", \"source_id\": \"106864609\", \"published_at\": \"2026-11-18T11:32:49\", \"event_date\": \"2026-11-18\", \"source_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"document_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026113237_Newspaper_advertisement_Final.pdf\", \"details\": {\"subject\": \"Copy of Newspaper Publication\", \"headline\": \"Alpex Solar Limited has informed the Exchange about Copy of Newspaper Publication of Postal Ballot Notice\"}}], \"history\": []}, \"_body\": \"[ALPEX][Capital filing] Copy of Newspaper Publication\\nPublished: 2026-11-18 11:32:49 IST / 2026-11-18 15:02:49 JST\\nAlpex Solar Limited has informed the Exchange about Copy of Newspaper Publication of Postal Ballot Notice\\nSource: https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026113237_Newspaper_advertisement_Final.pdf\\nSource wording only: proposals and approvals must not be treated as completed issuance.\", \"_id\": \"106864609\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9682,10 +9682,6 @@
       "sent_at": "2026-11-17T12:32:28.924972+00:00"
     },
     {
-      "message_id": "<05efc440c2caaa4a29982ba6b25657a78763990b9642f99a80bd8a94d1bb2253@gmail.com>",
-      "sent_at": "2026-11-16T06:00:17.568596+00:00"
-    },
-    {
       "message_id": "<0be9aebe8e65f78b2c8c6611caebda711ac30846d920c22c3d6940149d230281@gmail.com>",
       "sent_at": "2026-11-16T12:40:40.103199+00:00"
     },
@@ -9700,6 +9696,10 @@
     {
       "message_id": "<337a52355203939af04a7b40c703d7a1c8c39b5706658e99148f8e4ec346569c@gmail.com>",
       "sent_at": "2026-11-17T10:17:26.620648+00:00"
+    },
+    {
+      "message_id": "<43c8f77c9002257f4f4dccd0f2e9977574b1487a8d1fa55cb3ed4fe24337bd60@gmail.com>",
+      "sent_at": "2026-11-18T06:03:28.439701+00:00"
     },
     {
       "message_id": "<4e563d30657f3cfc07e4db458a15226fb28e16f66dbaa5a7639dfe0a6e907018@gmail.com>",
