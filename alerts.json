@@ -6815,8 +6815,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-18T07:33:14.003453+00:00",
       "news_id": "8fd24a3a-d923-47a2-a2b9-61fe905500d4",
-      "payload": "{\"NEWSID\": \"8fd24a3a-d923-47a2-a2b9-61fe905500d4\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_8FD24A3A-D923-47A2-A2B9-61FE905500D4\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-18T13:00:51.927\", \"NEWS_DT\": \"2026-11-18T13:00:51.927\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"08e79274-0b48-4f3b-8b19-e28b259b3537.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Advertisement regarding the Notice of Postal Ballot\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-18T13:00:51\", \"DissemDT\": \"2026-11-18T13:00:51.927\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 5558911, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-18T13:00:51.927\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Advertisement regarding the Notice of Postal Ballot\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/08e79274-0b48-4f3b-8b19-e28b259b3537.pdf\", \"_id\": \"8fd24a3a-d923-47a2-a2b9-61fe905500d4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9773,6 +9773,10 @@
     {
       "message_id": "<b3ea7f2f1fe983bc6b39c87b980a55c2910b1d21342baec946b1add393915f8f@gmail.com>",
       "sent_at": "2026-11-17T09:52:26.648836+00:00"
+    },
+    {
+      "message_id": "<b5c7c9b90044b98301c1e60c79de47a60a49e819a35fce782708638635951316@gmail.com>",
+      "sent_at": "2026-11-18T07:33:28.130584+00:00"
     },
     {
       "message_id": "<b6ead2271a9241e66ab3bdb65ba5830db460db334388a45fe19b1bb2c81a17d2@gmail.com>",
