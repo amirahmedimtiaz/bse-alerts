@@ -158,8 +158,8 @@
       "company_key": "500144",
       "discovered_at": "2026-11-18T07:08:05.545727+00:00",
       "news_id": "8e61833c-b476-4708-ac12-36c238763e83",
-      "payload": "{\"NEWSID\": \"8e61833c-b476-4708-ac12-36c238763e83\", \"SCRIP_CD\": 500144, \"XML_NAME\": \"ANN_500144_8E61833C-B476-4708-AC12-36C238763E83\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-18T12:31:32.683\", \"NEWS_DT\": \"2026-11-18T12:31:32.683\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"abffc053-55e6-4df4-9fa1-85cfc5d3cc35.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Transcript of Analyst/Investors Meet held on 13th November, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/\", \"SLONGNAME\": \"Finolex Cables Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-18T12:31:32\", \"DissemDT\": \"2026-11-18T12:31:32.683\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1354882, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Finolex Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-18T12:31:32.683\", \"_category\": \"Company Update\", \"_headline\": \"Transcript of Analyst/Investors Meet held on 13th November, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/abffc053-55e6-4df4-9fa1-85cfc5d3cc35.pdf\", \"_id\": \"8e61833c-b476-4708-ac12-36c238763e83\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500144",
@@ -9713,6 +9713,10 @@
       "sent_at": "2026-11-16T07:50:31.486207+00:00"
     },
     {
+      "message_id": "<581eef30c445f07e02bad9d9b4b21e779196c7f9545357f3292c967a047c7f4a@gmail.com>",
+      "sent_at": "2026-11-18T07:08:28.214531+00:00"
+    },
+    {
       "message_id": "<58ba05256305ffa03de367e5fd63d7253d72096ae85c3c77b320bac3848cf6b0@gmail.com>",
       "sent_at": "2026-11-17T10:02:27.589291+00:00"
     },
@@ -9775,10 +9779,6 @@
     {
       "message_id": "<d67e249aac39a2d3437a9b8436940f19b91ce0a535373c82648edfd45cf60505@gmail.com>",
       "sent_at": "2026-11-17T08:22:27.952811+00:00"
-    },
-    {
-      "message_id": "<dbdd43e80cd6b5b0609ef2120ade9f855656ee110e1b47d9667757498448eb3a@gmail.com>",
-      "sent_at": "2026-11-16T06:50:18.442357+00:00"
     },
     {
       "message_id": "<e9aab42cd9ac540d53a97361ed71513d4f25b11b915b031719d1607f363771a0@gmail.com>",
