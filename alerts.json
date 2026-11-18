@@ -8166,8 +8166,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-18T10:23:34.808543+00:00",
       "news_id": "nse-fallback:0519e9512f9fece6eeafdf333fbe1d8adf1ae2977ea112244a6d642d630f28cf",
-      "payload": "{\"an_dt\": \"18-Nov-2026 15:50:32\", \"attFileSize\": \"687.99 KB\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_18112026155018_BM_INTIMATION_21112026.pdf\", \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"bflag\": null, \"csvName\": null, \"desc\": \"Trading Window\", \"difference\": \"00:00:01\", \"dt\": \"18112026155032\", \"exchdisstime\": \"18-Nov-2026 15:50:33\", \"fileSize\": \"687.99 KB\", \"hasXbrl\": true, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106864922\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-18 15:50:32\", \"symbol\": \"VIVIANA\", \"voiceSummary\": \"Viviana Power Tech Limited has intimated that its Board of Directors meeting is scheduled for Saturday, November 21, 2026. The Board will consider the terms of fund raising by way of an issue of Equity Shares through a Rights Issue. The meeting will also consider the proposal to constitute a Rights Issue Committee to determine the detailed terms and conditions of the Rights Issue. The trading window for trading in securities of the Company will be closed from the time of this intimation and will remain closed till 48 hours after the publication of the outcome of the Board Meeting.\", \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VIVIANA_18112026155018_BM_INTIMATION_21112026.mp3\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Trading Window\", \"_published\": \"2026-11-18 15:50:32\", \"_category\": \"Trading Window\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_18112026155018_BM_INTIMATION_21112026.pdf\", \"_id\": \"nse-fallback:0519e9512f9fece6eeafdf333fbe1d8adf1ae2977ea112244a6d642d630f28cf\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -9820,16 +9820,12 @@
       "sent_at": "2026-11-17T13:02:43.888416+00:00"
     },
     {
-      "message_id": "<cf652c577a44c3dd74aa3175a4d33e3565f941038fe500248752d82eea887510@gmail.com>",
-      "sent_at": "2026-11-16T09:30:42.578116+00:00"
+      "message_id": "<d5c317d74cdf987ed92643c4490002ef97218c944221c420c5808f8703c06ce1@gmail.com>",
+      "sent_at": "2026-11-18T10:23:41.979354+00:00"
     },
     {
       "message_id": "<d67e249aac39a2d3437a9b8436940f19b91ce0a535373c82648edfd45cf60505@gmail.com>",
       "sent_at": "2026-11-17T08:22:27.952811+00:00"
-    },
-    {
-      "message_id": "<e9aab42cd9ac540d53a97361ed71513d4f25b11b915b031719d1607f363771a0@gmail.com>",
-      "sent_at": "2026-11-16T09:55:40.106061+00:00"
     },
     {
       "message_id": "<ebd2a50426b5b6e3500716ffc6a885b03ecf3551bbd1f818a57c42197f534a7a@gmail.com>",
