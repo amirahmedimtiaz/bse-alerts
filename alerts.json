@@ -7634,8 +7634,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-18T05:08:14.385165+00:00",
       "news_id": "106864541",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Investor Presentation\", \"dt\": \"18-Nov-2026 10:34:40\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/APS_18112026103425_InvestorPresentationH1FY27.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"18-Nov-2026 10:34:40\", \"sort_date\": \"2026-11-18 10:34:40\", \"seq_id\": \"106864541\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"4.50 MB\", \"attFileSize\": \"4.50 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/APS_18112026103425_InvestorPresentationH1FY27.mp3\", \"voiceSummary\": \"Australian Premium Solar India Limited filed an investor presentation for the half year ended 30th September 2026 with the National Stock Exchange. The company reported total income of 439.57 crore rupees for H1FY27, compared to 302.93 crore rupees in H1FY26. EBITDA stood at 52.4 crore rupees, up from 43.28 crore rupees. Profit after tax was 33.12 crore rupees, compared to 28.6 crore rupees. The presentation details manufacturing capacity of 1.2 GW and operations across multiple Indian states. It highlights the addition of a 400 MW TOPCon solar module line and the acquisition of a 49% stake in Aplus Solar Cell Limited. The document also outlines product portfolios including solar panels, inverters, and water pumps, alongside market growth projections for the solar industry.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-18 10:34:40\", \"_category\": \"Investor Presentation\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/APS_18112026103425_InvestorPresentationH1FY27.pdf\", \"_id\": \"106864541\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -9720,6 +9720,10 @@
       "sent_at": "2026-11-16T13:05:41.766904+00:00"
     },
     {
+      "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
+      "sent_at": "2026-11-18T05:08:28.034121+00:00"
+    },
+    {
       "message_id": "<a728eb7454dfc6e682f64ce262a9c4a49090339824729bd34c130f48a3329215@gmail.com>",
       "sent_at": "2026-11-16T11:20:51.340660+00:00"
     },
@@ -9762,10 +9766,6 @@
     {
       "message_id": "<f6635a1b2509070ff6c093f30a5862d1e364ef252f377c04f29cd5a902e56eaf@gmail.com>",
       "sent_at": "2026-11-16T10:50:39.854153+00:00"
-    },
-    {
-      "message_id": "<f6d64a16c6db107b5f59cc7d71aef97f9d04755acd70a537b6b12684cc24ac0e@gmail.com>",
-      "sent_at": "2026-11-16T05:05:17.169218+00:00"
     }
   ],
   "metadata": [
