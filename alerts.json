@@ -7830,8 +7830,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-18T13:48:27.737910+00:00",
       "news_id": "106865325",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Press Release\", \"dt\": \"18-Nov-2026 19:13:45\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/BHADORA_18112026191331_PR_final_upload.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"18-Nov-2026 19:13:45\", \"sort_date\": \"2026-11-18 19:13:45\", \"seq_id\": \"106865325\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange regarding a press release dated November 18, 2026, titled \\\"Bhadora Industries Limited Reports 55% YoY Revenue Growth in H1 FY27; EBITDA Rises 33% and PAT Grows 21%\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.18 MB\", \"attFileSize\": \"1.18 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_18112026191331_PR_final_upload.mp3\", \"voiceSummary\": \"Bhadora Industries Limited filed a press release regarding its Unaudited Financial Results for H1 FY27. Total revenue grew 55% year-on-year to Rs. 7,289.85 lakhs. EBITDA rose 33% to Rs. 771.76 lakhs, while PAT increased 21% to Rs. 316.36 lakhs. The order book exceeded Rs. 130 crore following a new order worth Rs. 38.64 crore. Deliveries for this order are scheduled between October 29, 2026, and March 31, 2027. The company is expanding manufacturing capacity with a new facility in Madhya Pradesh. Working capital efficiency improved, with debtor days declining to 76 days. The announcement was made on November 18, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-18 19:13:45\", \"_category\": \"Press Release\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange regarding a press release dated November 18, 2026, titled \\\"Bhadora Industries Limited Reports 55% YoY Revenue Growth in H1 FY27; EBITDA Rises 33% and PAT Grows 21%\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/BHADORA_18112026191331_PR_final_upload.pdf\", \"_id\": \"106865325\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -9767,6 +9767,10 @@
       "sent_at": "2026-11-17T10:17:26.620648+00:00"
     },
     {
+      "message_id": "<38941164103c6bb7e2468431a86c4d4f9ee8f9aaefb7cfa98225fa26a0a0a4b7@gmail.com>",
+      "sent_at": "2026-11-18T13:48:46.923909+00:00"
+    },
+    {
       "message_id": "<43c8f77c9002257f4f4dccd0f2e9977574b1487a8d1fa55cb3ed4fe24337bd60@gmail.com>",
       "sent_at": "2026-11-18T06:03:28.439701+00:00"
     },
@@ -9783,14 +9787,6 @@
       "sent_at": "2026-11-18T07:23:28.015330+00:00"
     },
     {
-      "message_id": "<5ed3181e47b9f2d03dbc0f6a9df875fcc808e69cdcb8be6f3534615825dfb29d@gmail.com>",
-      "sent_at": "2026-11-16T13:45:57.395940+00:00"
-    },
-    {
-      "message_id": "<69de25ae54cf2a854a730191c65c37bb48976ec94403040f56c4f920bb4be7b1@gmail.com>",
-      "sent_at": "2026-11-16T13:10:41.303483+00:00"
-    },
-    {
       "message_id": "<6b08a2700285fae33509f75282f1798f905d094a08025a8fb2658a9d951ba23d@gmail.com>",
       "sent_at": "2026-11-18T11:53:41.689815+00:00"
     },
@@ -9805,10 +9801,6 @@
     {
       "message_id": "<9df47288d55902f82a2d85307279c0602c290370869608ce3ad54552cc9d73cc@gmail.com>",
       "sent_at": "2026-11-17T05:27:14.815564+00:00"
-    },
-    {
-      "message_id": "<a1c6ab541d9e6318d36b8006c87be70c284540ef17745145e0a74758bb6b6016@gmail.com>",
-      "sent_at": "2026-11-16T13:05:41.766904+00:00"
     },
     {
       "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
@@ -9829,10 +9821,6 @@
     {
       "message_id": "<b5c7c9b90044b98301c1e60c79de47a60a49e819a35fce782708638635951316@gmail.com>",
       "sent_at": "2026-11-18T07:33:28.130584+00:00"
-    },
-    {
-      "message_id": "<b6ead2271a9241e66ab3bdb65ba5830db460db334388a45fe19b1bb2c81a17d2@gmail.com>",
-      "sent_at": "2026-11-16T13:00:43.247170+00:00"
     },
     {
       "message_id": "<c7c820a23f25b487aeff486325702a09a34763bfb119d9e90c96c102687908c9@gmail.com>",
