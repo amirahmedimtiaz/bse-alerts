@@ -7543,8 +7543,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-18T12:38:26.665158+00:00",
       "news_id": "106865136",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"18-Nov-2026 18:04:11\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026180359_Audio_Recording_of_Earning_Call.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"18-Nov-2026 18:04:11\", \"sort_date\": \"2026-11-18 18:04:11\", \"seq_id\": \"106865136\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"412.60 KB\", \"attFileSize\": \"412.60 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/ALPEXSOLAR_18112026180359_Audio_Recording_of_Earning_Call.mp3\", \"voiceSummary\": \"Alpex Solar Limited has made available the audio recording of its Earnings Conference Call held on November 18, 2026. The call discussed the company's Unaudited Financial Results for the quarter and half year ended September 30, 2026. The recording is accessible on the company website at alpexsolar.com/assets/pdfs/investor/ca/Alpex Solar Ltd on 18th Nov 2026 at 4.00pm.mp3. The discussions were based on publicly available information. No unpublished price sensitive information was discussed during the interactions. This intimation is submitted pursuant to Regulation 30 read with Para A of Part A of Schedule III and Regulation 46 of the SEBI Listing Regulations.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-18 18:04:11\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_18112026180359_Audio_Recording_of_Earning_Call.pdf\", \"_id\": \"106865136\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -9753,10 +9753,6 @@
       "sent_at": "2026-11-17T13:32:44.395504+00:00"
     },
     {
-      "message_id": "<33637404b0dae9f9e317be23b450a90b8899d6c428f1e1bcc0a9f0aaec13c999@gmail.com>",
-      "sent_at": "2026-11-16T12:25:43.454662+00:00"
-    },
-    {
       "message_id": "<337a52355203939af04a7b40c703d7a1c8c39b5706658e99148f8e4ec346569c@gmail.com>",
       "sent_at": "2026-11-17T10:17:26.620648+00:00"
     },
@@ -9789,8 +9785,8 @@
       "sent_at": "2026-11-18T11:53:41.689815+00:00"
     },
     {
-      "message_id": "<839fb0f8e9db01de365fb76ae04fdc00c76381fa92213b4d954ed9e2485f8fee@gmail.com>",
-      "sent_at": "2026-11-16T12:15:41.011875+00:00"
+      "message_id": "<7a2ba18e2411926c52ac0b6113d8f08718e2d8dde3f260b69315ff4c98bbbba7@gmail.com>",
+      "sent_at": "2026-11-18T12:38:41.313608+00:00"
     },
     {
       "message_id": "<86fbecf7236298039ee7929425c73b93e8c77e04f5712165c397e70399060b34@gmail.com>",
