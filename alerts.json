@@ -5730,8 +5730,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-19T06:44:50.952234+00:00",
       "news_id": "498cab84-f979-457b-b21c-77b0f6fcde5a",
-      "payload": "{\"NEWSID\": \"498cab84-f979-457b-b21c-77b0f6fcde5a\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_498CAB84-F979-457B-B21C-77B0F6FCDE5A\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations 2015\", \"DT_TM\": \"2026-11-19T12:11:43.15\", \"NEWS_DT\": \"2026-11-19T12:11:43.15\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d8c173a7-7361-459d-95e6-c8050c780f54.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation to BSE pursuant to regulation 30 of SEBI (LODR) Regulations 2015\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T12:11:43\", \"DissemDT\": \"2026-11-19T12:11:43.15\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1154008, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations 2015\", \"_published\": \"2026-11-19T12:11:43.15\", \"_category\": \"Company Update\", \"_headline\": \"Intimation to BSE pursuant to regulation 30 of SEBI (LODR) Regulations 2015\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d8c173a7-7361-459d-95e6-c8050c780f54.pdf\", \"_id\": \"498cab84-f979-457b-b21c-77b0f6fcde5a\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9861,6 +9861,10 @@
     {
       "message_id": "<cf50c5e9ba139eb55c24f50e084fa31c18a22ded33a677222ea6ceaa50da2d2d@gmail.com>",
       "sent_at": "2026-11-17T13:02:43.888416+00:00"
+    },
+    {
+      "message_id": "<d131c4a85304f76e7ccd2870bc8d40b86bb7ca1ca026aefec566e77bb2a00d27@gmail.com>",
+      "sent_at": "2026-11-19T06:45:12.585253+00:00"
     },
     {
       "message_id": "<d5c317d74cdf987ed92643c4490002ef97218c944221c420c5808f8703c06ce1@gmail.com>",
