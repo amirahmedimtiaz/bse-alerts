@@ -7914,8 +7914,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-19T15:15:33.621519+00:00",
       "news_id": "106866655",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"19-Nov-2026 20:42:58\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/BHADORA_19112026204236_final_intimation_2411.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"19-Nov-2026 20:42:58\", \"sort_date\": \"2026-11-19 20:42:58\", \"seq_id\": \"106866655\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1.34 MB\", \"attFileSize\": \"1.34 MB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_19112026204236_final_intimation_2411.mp3\", \"voiceSummary\": \"Bhadora Industries Limited has announced an earnings conference call for Tuesday, 24th November, 2026, from 4:00 PM to 5:00 PM IST. The event is scheduled for H1 FY27. Mr. Shashank Bhadora, Managing Director with DIN 07493885, will represent the management. Investors and analysts can register via the Diamond Pass link on the company website, www.vidhutcables.com. Dial-in numbers are +91 22 6280 1296 and +91 22 7115 8207. The discussion will cover the general business outlook and publicly available information. No unpublished price sensitive information will be disclosed. This intimation is pursuant to Regulation 30 of the SEBI Listing Regulations, 2015.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-19 20:42:58\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/BHADORA_19112026204236_final_intimation_2411.pdf\", \"_id\": \"106866655\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -9903,6 +9903,10 @@
     {
       "message_id": "<9aaa25b7df3dc5a46fbdeecaf8f141978ebc352d738c351df585ae53711cda58@gmail.com>",
       "sent_at": "2026-11-19T13:30:32.147871+00:00"
+    },
+    {
+      "message_id": "<9ac38e95814600872c23ad3e831fed262e3015f82c7f0e6cfa45df1323118f2c@gmail.com>",
+      "sent_at": "2026-11-19T15:15:51.446412+00:00"
     },
     {
       "message_id": "<9b58bc72767a68aa25092671870aebd5b46a46347f506212a8d1d1464ca58000@gmail.com>",
