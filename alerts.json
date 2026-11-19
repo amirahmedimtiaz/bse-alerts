@@ -7746,8 +7746,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-19T09:34:58.722685+00:00",
       "news_id": "106866123",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"19-Nov-2026 15:00:06\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/APS_19112026145951_AudioRecordingH1FY27.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"19-Nov-2026 15:00:06\", \"sort_date\": \"2026-11-19 15:00:06\", \"seq_id\": \"106866123\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"386.65 KB\", \"attFileSize\": \"386.65 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/APS_19112026145951_AudioRecordingH1FY27.mp3\", \"voiceSummary\": \"Australian Premium Solar India Limited has made available the audio recording of the Conference Earnings Call Group Meet with investors and analysts. The meeting was held on November 19, 2026. The discussion covered financial results and operations for the half year ended September 30, 2026. The recording is accessible on the company website. The link is australianpremiumsolar.co.in/wp-content/uploads/2026/11/Audio-Recording_Earnings-Conference-Call-H1FY27_new.mp3. This filing is pursuant to Regulation 30 and 46(2) of SEBI Listing Obligations and Disclosure Requirements Regulations 2015. The trading symbol is APS. The ISIN is INE0P0001010. The company is located in Tajpur, Gujarat. Hitesh Nagdev is the Company Secretary and Compliance Officer.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-19 15:00:06\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/APS_19112026145951_AudioRecordingH1FY27.pdf\", \"_id\": \"106866123\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -9858,6 +9858,10 @@
     {
       "message_id": "<8f5bf50fa14d0f63101f8c7ff9649b5bb325cbbe9d1c93d1847eac0d9a5a45a3@gmail.com>",
       "sent_at": "2026-11-19T05:40:12.165642+00:00"
+    },
+    {
+      "message_id": "<91a75ec883e3c347a25cc2fc0cec32a56f58571a7255a04014a30eadad57b8ca@gmail.com>",
+      "sent_at": "2026-11-19T09:35:12.683346+00:00"
     },
     {
       "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
