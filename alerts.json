@@ -4036,8 +4036,8 @@
       "company_key": "543415",
       "discovered_at": "2026-11-19T12:55:23.361649+00:00",
       "news_id": "6f7a4257-d567-4bc9-b323-6a95b69a6ff5",
-      "payload": "{\"NEWSID\": \"6f7a4257-d567-4bc9-b323-6a95b69a6ff5\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_6F7A4257-D567-4BC9-B323-6A95B69A6FF5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"DT_TM\": \"2026-11-19T18:20:36.82\", \"NEWS_DT\": \"2026-11-19T18:20:36.82\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3f3d7eaa-5cc7-481f-a5db-bfebec604d7c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Company has acquired 4,500 Unsecured, Unrated and Unlisted Optionally Convertible Debentures aggregating to Rs. 45.00 Crores.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 2, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T18:20:36\", \"DissemDT\": \"2026-11-19T18:20:36.82\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 488642, \"SUBCATNAME\": \"Acquisition\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Acquisition\", \"_published\": \"2026-11-19T18:20:36.82\", \"_category\": \"Company Update\", \"_headline\": \"Company has acquired 4,500 Unsecured, Unrated and Unlisted Optionally Convertible Debentures aggregating to Rs. 45.00 Crores.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f3d7eaa-5cc7-481f-a5db-bfebec604d7c.pdf\", \"_id\": \"6f7a4257-d567-4bc9-b323-6a95b69a6ff5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -9828,10 +9828,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<05c3843abebc892dd91d50af3a0619ffd636ab4200a36742b6075a455548d8d8@gmail.com>",
-      "sent_at": "2026-11-17T12:32:28.924972+00:00"
-    },
-    {
       "message_id": "<1a4f74af46a7cb93ec0a5f277778e2c676df5dfe6a72bfeba58aff7cec97a0db@gmail.com>",
       "sent_at": "2026-11-18T07:53:28.759698+00:00"
     },
@@ -9882,6 +9878,10 @@
     {
       "message_id": "<91a75ec883e3c347a25cc2fc0cec32a56f58571a7255a04014a30eadad57b8ca@gmail.com>",
       "sent_at": "2026-11-19T09:35:12.683346+00:00"
+    },
+    {
+      "message_id": "<9b58bc72767a68aa25092671870aebd5b46a46347f506212a8d1d1464ca58000@gmail.com>",
+      "sent_at": "2026-11-19T12:55:32.201809+00:00"
     },
     {
       "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
