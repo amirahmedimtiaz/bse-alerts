@@ -1845,8 +1845,8 @@
       "company_key": "522163",
       "discovered_at": "2026-11-19T17:25:28.949208+00:00",
       "news_id": "e67f7a5c-ee7f-420b-911b-fc50358d1e76",
-      "payload": "{\"NEWSID\": \"e67f7a5c-ee7f-420b-911b-fc50358d1e76\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_E67F7A5C-EE7F-420B-911B-FC50358D1E76\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"DT_TM\": \"2026-11-19T22:52:20.12\", \"NEWS_DT\": \"2026-11-19T22:52:20.12\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1aec3536-264f-47bf-8df7-c41ed7d02add.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Credit rating assigned to subsidiary company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 46, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T22:52:20\", \"DissemDT\": \"2026-11-19T22:52:20.12\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 519715, \"SUBCATNAME\": \"Credit Rating\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"_published\": \"2026-11-19T22:52:20.12\", \"_category\": \"Company Update\", \"_headline\": \"Credit rating assigned to subsidiary company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1aec3536-264f-47bf-8df7-c41ed7d02add.pdf\", \"_id\": \"e67f7a5c-ee7f-420b-911b-fc50358d1e76\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -9862,6 +9862,10 @@
     {
       "message_id": "<1a4f74af46a7cb93ec0a5f277778e2c676df5dfe6a72bfeba58aff7cec97a0db@gmail.com>",
       "sent_at": "2026-11-18T07:53:28.759698+00:00"
+    },
+    {
+      "message_id": "<26caa3ad340893d78d7b478302042951d15c9c4aa7282a5515737aaff715caff@gmail.com>",
+      "sent_at": "2026-11-19T17:25:48.331677+00:00"
     },
     {
       "message_id": "<38941164103c6bb7e2468431a86c4d4f9ee8f9aaefb7cfa98225fa26a0a0a4b7@gmail.com>",
