@@ -8999,8 +8999,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-19T05:30:05.690476+00:00",
       "news_id": "nse-fallback:b040f184be6bdd28b01448a057b76333929bc9ae82f59adea599d26484b72687",
-      "payload": "{\"an_dt\": \"19-Nov-2026 10:58:29\", \"attFileSize\": \"411.34 KB\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_19112026105817_VIVIANA__Intimation_of_Receiving_Order_DHBVN_19112026.pdf\", \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange about Receiving of a new turnkey contract amounting to Rs.1,24,00,00,000.00 (Rupees One Hundred Twenty-Four Crore Only), inclusive of taxes, from the client M/s. Dakshin Haryana Bijli Vitran Nigam Limited (DHBVNL).\", \"bflag\": null, \"csvName\": null, \"desc\": \"Bagging/Receiving of orders/contracts\", \"difference\": \"00:00:01\", \"dt\": \"19112026105829\", \"exchdisstime\": \"19-Nov-2026 10:58:30\", \"fileSize\": \"411.34 KB\", \"hasXbrl\": true, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106865833\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-19 10:58:29\", \"symbol\": \"VIVIANA\", \"voiceSummary\": null, \"voiceUrl\": null, \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-19 10:58:29\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange about Receiving of a new turnkey contract amounting to Rs.1,24,00,00,000.00 (Rupees One Hundred Twenty-Four Crore Only), inclusive of taxes, from the client M/s. Dakshin Haryana Bijli Vitran Nigam Limited (DHBVNL).\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_19112026105817_VIVIANA__Intimation_of_Receiving_Order_DHBVN_19112026.pdf\", \"_id\": \"nse-fallback:b040f184be6bdd28b01448a057b76333929bc9ae82f59adea599d26484b72687\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -9806,8 +9806,8 @@
       "sent_at": "2026-11-17T10:57:26.906021+00:00"
     },
     {
-      "message_id": "<9df47288d55902f82a2d85307279c0602c290370869608ce3ad54552cc9d73cc@gmail.com>",
-      "sent_at": "2026-11-17T05:27:14.815564+00:00"
+      "message_id": "<89993c966b897554e0bd5eee900eda8a06838f1a783672933a5e5ff0c58e3fb8@gmail.com>",
+      "sent_at": "2026-11-19T05:30:12.086105+00:00"
     },
     {
       "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
