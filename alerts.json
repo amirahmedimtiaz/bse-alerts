@@ -7417,22 +7417,22 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "block:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"block:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] block\", \"_body\": \"block unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "bulk:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"bulk:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] bulk\", \"_body\": \"bulk unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "capital:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"capital:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] capital\", \"_body\": \"capital unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7445,29 +7445,29 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "pit:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"pit:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] pit\", \"_body\": \"pit unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "pledge:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"pledge:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] pledge\", \"_body\": \"pledge unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "sast:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"sast:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] sast\", \"_body\": \"sast unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-19T20:36:07.185967+00:00",
       "news_id": "shareholding:warning:2026-11-19T20:36:07.185967+00:00",
-      "payload": "{\"_id\": \"shareholding:warning:2026-11-19T20:36:07.185967+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage warning] shareholding\", \"_body\": \"shareholding unavailable since 2026-11-19T20:06:07.119366+00:00. Last complete date: 2026-11-20.\\nRuntimeError: NSE request failed (22): curl: (22) The requested URL returned error: 403\\n\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-19T20:36:07.185967+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:ALPEXSOLAR",
@@ -9938,6 +9938,10 @@
     {
       "message_id": "<5ad37e91f2c02de9c1898bbf44eb4a5f33b04eb93e3b47ce49dbffb79b694bd6@gmail.com>",
       "sent_at": "2026-11-18T07:23:28.015330+00:00"
+    },
+    {
+      "message_id": "<5ca1e96520c112c32b276e7cde42801a59634afa11256d9d22d7e3b72de36c08@gmail.com>",
+      "sent_at": "2026-11-19T20:36:16.885334+00:00"
     },
     {
       "message_id": "<657b190d30b00caa2d20e2b3ca36ac096f74e2daf2fde691ac034d39008785c5@gmail.com>",
