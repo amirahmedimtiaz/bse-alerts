@@ -5709,8 +5709,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-19T05:39:50.478908+00:00",
       "news_id": "37f6585a-b94f-41d1-9e52-e2589cb95bd4",
-      "payload": "{\"NEWSID\": \"37f6585a-b94f-41d1-9e52-e2589cb95bd4\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_37F6585A-B94F-41D1-9E52-E2589CB95BD4\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"DT_TM\": \"2026-11-19T11:07:31.707\", \"NEWS_DT\": \"2026-11-19T11:07:31.707\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"d04c1628-2357-4e1e-9499-843ba576e2bc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation for Investor Presentation for September 30, 2026 earnings call\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 120, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T11:07:31\", \"DissemDT\": \"2026-11-19T11:07:31.707\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6593451, \"SUBCATNAME\": \"Investor Presentation\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Investor Presentation\", \"_published\": \"2026-11-19T11:07:31.707\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation for Investor Presentation for September 30, 2026 earnings call\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d04c1628-2357-4e1e-9499-843ba576e2bc.pdf\", \"_id\": \"37f6585a-b94f-41d1-9e52-e2589cb95bd4\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9815,6 +9815,10 @@
     {
       "message_id": "<89993c966b897554e0bd5eee900eda8a06838f1a783672933a5e5ff0c58e3fb8@gmail.com>",
       "sent_at": "2026-11-19T05:30:12.086105+00:00"
+    },
+    {
+      "message_id": "<8f5bf50fa14d0f63101f8c7ff9649b5bb325cbbe9d1c93d1847eac0d9a5a45a3@gmail.com>",
+      "sent_at": "2026-11-19T05:40:12.165642+00:00"
     },
     {
       "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
