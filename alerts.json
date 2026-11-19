@@ -606,8 +606,8 @@
       "company_key": "504212",
       "discovered_at": "2026-11-19T06:04:50.940490+00:00",
       "news_id": "fec03050-790c-4291-8b06-112658441bb0",
-      "payload": "{\"NEWSID\": \"fec03050-790c-4291-8b06-112658441bb0\", \"SCRIP_CD\": 504212, \"XML_NAME\": \"ANN_504212_FEC03050-790C-4291-8B06-112658441BB0\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-19T11:34:41.25\", \"NEWS_DT\": \"2026-11-19T11:34:41.25\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"53177b0e-c7c1-45bd-b6f1-67e9576722a5.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication of Postal Ballot Notice.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/\", \"SLONGNAME\": \"Universal Cables Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T11:34:41\", \"DissemDT\": \"2026-11-19T11:34:41.25\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3942861, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Universal Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/universal-cables-ltd/univcables/504212/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-19T11:34:41.25\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication of Postal Ballot Notice.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/53177b0e-c7c1-45bd-b6f1-67e9576722a5.pdf\", \"_id\": \"fec03050-790c-4291-8b06-112658441bb0\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "504240",
@@ -9848,8 +9848,8 @@
       "sent_at": "2026-11-18T07:33:28.130584+00:00"
     },
     {
-      "message_id": "<c7c820a23f25b487aeff486325702a09a34763bfb119d9e90c96c102687908c9@gmail.com>",
-      "sent_at": "2026-11-17T05:52:14.877813+00:00"
+      "message_id": "<bb8bac0cf6560bee0c31a1a0465671f92fd213ac30dff3ed77f7812e15178b89@gmail.com>",
+      "sent_at": "2026-11-19T06:05:12.334567+00:00"
     },
     {
       "message_id": "<cf50c5e9ba139eb55c24f50e084fa31c18a22ded33a677222ea6ceaa50da2d2d@gmail.com>",
