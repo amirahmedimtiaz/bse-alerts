@@ -6815,8 +6815,8 @@
       "company_key": "544822",
       "discovered_at": "2026-11-19T06:55:04.447427+00:00",
       "news_id": "6d5f7a4a-f536-4605-babe-2e90818507ed",
-      "payload": "{\"NEWSID\": \"6d5f7a4a-f536-4605-babe-2e90818507ed\", \"SCRIP_CD\": 544822, \"XML_NAME\": \"ANN_544822_6D5F7A4A-F536-4605-BABE-2E90818507ED\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-19T12:23:46.503\", \"NEWS_DT\": \"2026-11-19T12:23:46.503\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9e9fc96d-fa66-4788-91d7-9d757065e3fc.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Revised transcript of the Earnings Call held on 13th November, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/\", \"SLONGNAME\": \"Laser Power & Infra Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T12:23:46\", \"DissemDT\": \"2026-11-19T12:23:46.503\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 980764, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Laser Power Infra Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/laser-power-infra-ltd/LASERPOWER/544822/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-19T12:23:46.503\", \"_category\": \"Company Update\", \"_headline\": \"Revised transcript of the Earnings Call held on 13th November, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e9fc96d-fa66-4788-91d7-9d757065e3fc.pdf\", \"_id\": \"6d5f7a4a-f536-4605-babe-2e90818507ed\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544822",
@@ -9888,6 +9888,10 @@
     {
       "message_id": "<ed6b5a244177e42bee1e7e50caa816a912894008c151d96f2ad223825f8ed8a1@gmail.com>",
       "sent_at": "2026-11-18T12:58:41.834721+00:00"
+    },
+    {
+      "message_id": "<fde659785d6050b82dcb265007854bc534d9f3aa8f59145130953a86f9a4e718@gmail.com>",
+      "sent_at": "2026-11-19T06:55:12.727164+00:00"
     }
   ],
   "metadata": [
