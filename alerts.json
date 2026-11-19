@@ -4267,8 +4267,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-19T11:25:19.570808+00:00",
       "news_id": "df7602bc-f521-4dda-9541-f9318fc00430",
-      "payload": "{\"NEWSID\": \"df7602bc-f521-4dda-9541-f9318fc00430\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_DF7602BC-F521-4DDA-9541-F9318FC00430\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-19T16:52:48.017\", \"NEWS_DT\": \"2026-11-19T16:52:48.017\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"88cb76af-7c2f-473e-a987-a699800b59c9.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with Schedule III of SEBI(LODR) Regulations, 2015, as amended, please find enclosed the transcript of the Earning Conference call on the Un-Audited Financial results for the quarter and half year ended 30th September, 2026, held on Monday, 16th November, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with Schedule III of SEBI(LODR) Regulations, 2015, as amended, please find enclosed the transcript of the Earning Conference call on the Un-Audited Financial ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T16:52:48\", \"DissemDT\": \"2026-11-19T16:52:48.017\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 1163980, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-19T16:52:48.017\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with Schedule III of SEBI(LODR) Regulations, 2015, as amended, please find enclosed the transcript of the Earning Conference call on the Un-Audited Financial ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/88cb76af-7c2f-473e-a987-a699800b59c9.pdf\", \"_id\": \"df7602bc-f521-4dda-9541-f9318fc00430\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -5730,8 +5730,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-19T11:25:09.454779+00:00",
       "news_id": "4068cf83-db68-4a20-b009-7ab10cfe0eab",
-      "payload": "{\"NEWSID\": \"4068cf83-db68-4a20-b009-7ab10cfe0eab\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_4068CF83-DB68-4A20-B009-7AB10CFE0EAB\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"DT_TM\": \"2026-11-19T16:52:36.64\", \"NEWS_DT\": \"2026-11-19T16:52:36.64\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"a0d00af3-75c2-4c0f-9989-09fad695b78b.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation pursuant to Regulation 30 of SEBI (LODR) Regulations 2015 regarding the outcome of the earnings call and the audio recording update on the website.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-19T16:52:36\", \"DissemDT\": \"2026-11-19T16:52:36.64\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 433906, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4068cf83-db68-4a20-b009-7ab10cfe0eab\", \"INVESTOR_PRESENTATION\": \"64cd6b68-4ce7-4a32-bc5b-c012190f964d.zip\", \"RECORDID\": 14937343, \"DataInsDate\": \"2026-11-19T16:52:36.533\", \"AUDIO_VIDEO_FILE\": \"https://www.bseindia.com/xml-data/corpfiling/Attachlive/64cd6b68-4ce7-4a32-bc5b-c012190f964d.zip\", \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\", \"_published\": \"2026-11-19T16:52:36.64\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation pursuant to Regulation 30 of SEBI (LODR) Regulations 2015 regarding the outcome of the earnings call and the audio recording update on the website.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0d00af3-75c2-4c0f-9989-09fad695b78b.pdf\", \"_id\": \"4068cf83-db68-4a20-b009-7ab10cfe0eab\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -9833,10 +9833,6 @@
       "sent_at": "2026-11-17T13:32:44.395504+00:00"
     },
     {
-      "message_id": "<337a52355203939af04a7b40c703d7a1c8c39b5706658e99148f8e4ec346569c@gmail.com>",
-      "sent_at": "2026-11-17T10:17:26.620648+00:00"
-    },
-    {
       "message_id": "<38941164103c6bb7e2468431a86c4d4f9ee8f9aaefb7cfa98225fa26a0a0a4b7@gmail.com>",
       "sent_at": "2026-11-18T13:48:46.923909+00:00"
     },
@@ -9847,10 +9843,6 @@
     {
       "message_id": "<581eef30c445f07e02bad9d9b4b21e779196c7f9545357f3292c967a047c7f4a@gmail.com>",
       "sent_at": "2026-11-18T07:08:28.214531+00:00"
-    },
-    {
-      "message_id": "<58ba05256305ffa03de367e5fd63d7253d72096ae85c3c77b320bac3848cf6b0@gmail.com>",
-      "sent_at": "2026-11-17T10:02:27.589291+00:00"
     },
     {
       "message_id": "<5ad37e91f2c02de9c1898bbf44eb4a5f33b04eb93e3b47ce49dbffb79b694bd6@gmail.com>",
@@ -9871,10 +9863,6 @@
     {
       "message_id": "<85b975039ed16ea19834ae44c3da58a9eadc93da57ef5b75a226dadc838bd8e1@gmail.com>",
       "sent_at": "2026-11-19T09:40:13.173669+00:00"
-    },
-    {
-      "message_id": "<86fbecf7236298039ee7929425c73b93e8c77e04f5712165c397e70399060b34@gmail.com>",
-      "sent_at": "2026-11-17T10:57:26.906021+00:00"
     },
     {
       "message_id": "<89993c966b897554e0bd5eee900eda8a06838f1a783672933a5e5ff0c58e3fb8@gmail.com>",
@@ -9901,10 +9889,6 @@
       "sent_at": "2026-11-18T09:18:41.998487+00:00"
     },
     {
-      "message_id": "<b3ea7f2f1fe983bc6b39c87b980a55c2910b1d21342baec946b1add393915f8f@gmail.com>",
-      "sent_at": "2026-11-17T09:52:26.648836+00:00"
-    },
-    {
       "message_id": "<b5c7c9b90044b98301c1e60c79de47a60a49e819a35fce782708638635951316@gmail.com>",
       "sent_at": "2026-11-18T07:33:28.130584+00:00"
     },
@@ -9923,6 +9907,10 @@
     {
       "message_id": "<d5c317d74cdf987ed92643c4490002ef97218c944221c420c5808f8703c06ce1@gmail.com>",
       "sent_at": "2026-11-18T10:23:41.979354+00:00"
+    },
+    {
+      "message_id": "<d98740c12c657d22969bef8f2138eb048302369b4eccbaf8d6f6ff4dd301d5fe@gmail.com>",
+      "sent_at": "2026-11-19T11:25:31.923839+00:00"
     },
     {
       "message_id": "<ebd2a50426b5b6e3500716ffc6a885b03ecf3551bbd1f818a57c42197f534a7a@gmail.com>",
