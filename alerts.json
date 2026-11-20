@@ -7417,8 +7417,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "block:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"block:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] block\", \"_body\": \"block recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7431,8 +7431,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "bulk:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"bulk:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] bulk\", \"_body\": \"bulk recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7445,8 +7445,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "capital:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"capital:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] capital\", \"_body\": \"capital recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7466,8 +7466,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "pit:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"pit:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] pit\", \"_body\": \"pit recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7480,8 +7480,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "pledge:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"pledge:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] pledge\", \"_body\": \"pledge recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7494,8 +7494,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "sast:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"sast:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] sast\", \"_body\": \"sast recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -7508,8 +7508,8 @@
       "company_key": "ALPEX:ownership",
       "discovered_at": "2026-11-20T01:06:23.941050+00:00",
       "news_id": "shareholding:recovery:2026-11-20T01:06:23.941050+00:00",
-      "payload": "{\"_id\": \"shareholding:recovery:2026-11-20T01:06:23.941050+00:00\", \"_alpex\": true, \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_subject\": \"[ALPEX] [Coverage restored] shareholding\", \"_body\": \"shareholding recovered; successful window through 2026-11-20. Late items retained.\\n\\nPublic disclosures are not a complete investor trade/holdings ledger. Bulk/block reports appear after market hours; other disclosures may be filed after the transaction. Do not add overlapping disclosures together or infer matched counterparties. Snapshot changes may reflect capital changes, transfers or reclassification rather than market trades.\", \"_published\": \"2026-11-20T01:06:23.941050+00:00\", \"_page_url\": \"https://www.nseindia.com/report-detail/display-bulk-and-block-deals\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "ALPEX:ownership",
@@ -9960,6 +9960,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<0a04ef7be05a638b942d0cb7b1e19a6b381188adc2a8159b413a07b6c27be2c9@gmail.com>",
+      "sent_at": "2026-11-20T01:06:30.483871+00:00"
+    },
     {
       "message_id": "<187d8f9241639440d86ac31d4ad1b33c030b5741bcf3be94de11099f6f687ad2@gmail.com>",
       "sent_at": "2026-11-19T13:35:32.311603+00:00"
