@@ -396,8 +396,8 @@
       "company_key": "500400",
       "discovered_at": "2026-11-20T11:46:47.714460+00:00",
       "news_id": "8f3c576a-f0b5-4485-bc1e-888b1f8300ad",
-      "payload": "{\"NEWSID\": \"8f3c576a-f0b5-4485-bc1e-888b1f8300ad\", \"SCRIP_CD\": 500400, \"XML_NAME\": \"ANN_500400_8F3C576A-F0B5-4485-BC1E-888B1F8300AD\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-20T17:12:33.147\", \"NEWS_DT\": \"2026-11-20T17:12:33.147\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"b336ec09-8561-419a-8357-0f69723758a8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Schedule of Analyst/Institutional Investor Meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/\", \"SLONGNAME\": \"Tata Power Company Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-20T17:12:33\", \"DissemDT\": \"2026-11-20T17:12:33.147\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 408702, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"8f3c576a-f0b5-4485-bc1e-888b1f8300ad\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14949747, \"DataInsDate\": \"2026-11-20T17:12:33.113\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Tata Power Company Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-20T17:12:33.147\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Schedule of Analyst/Institutional Investor Meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b336ec09-8561-419a-8357-0f69723758a8.pdf\", \"_id\": \"8f3c576a-f0b5-4485-bc1e-888b1f8300ad\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "500400",
@@ -10039,6 +10039,10 @@
     {
       "message_id": "<85b975039ed16ea19834ae44c3da58a9eadc93da57ef5b75a226dadc838bd8e1@gmail.com>",
       "sent_at": "2026-11-19T09:40:13.173669+00:00"
+    },
+    {
+      "message_id": "<88d8fb0c81b36cd8e13284a048ae822a82d6bc8caac1935afb8cae3f343b2474@gmail.com>",
+      "sent_at": "2026-11-20T11:46:59.612965+00:00"
     },
     {
       "message_id": "<89993c966b897554e0bd5eee900eda8a06838f1a783672933a5e5ff0c58e3fb8@gmail.com>",
