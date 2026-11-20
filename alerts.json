@@ -5226,8 +5226,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-20T10:41:29.039053+00:00",
       "news_id": "f34be5d5-3259-4394-87a6-f7ce1500d2df",
-      "payload": "{\"NEWSID\": \"f34be5d5-3259-4394-87a6-f7ce1500d2df\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_F34BE5D5-3259-4394-87A6-F7CE1500D2DF\", \"NEWSSUB\": \"Execution Of Power Purchase Agreement By Waaree Forever Energies Private Limited, A Wholly Owned Subsidiary Of The Company.\", \"DT_TM\": \"2026-11-20T16:10:51.697\", \"NEWS_DT\": \"2026-11-20T16:10:51.697\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7a319431-9ccb-490d-9052-5d737c065991.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Execution of Power Purchase Agreement by Waaree Forever Energies Private Limited, a wholly owned subsidiary of the Company.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-20T16:10:51\", \"DissemDT\": \"2026-11-20T16:10:51.697\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 441133, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Execution Of Power Purchase Agreement By Waaree Forever Energies Private Limited, A Wholly Owned Subsidiary Of The Company.\", \"_published\": \"2026-11-20T16:10:51.697\", \"_category\": \"Company Update\", \"_headline\": \"Execution of Power Purchase Agreement by Waaree Forever Energies Private Limited, a wholly owned subsidiary of the Company.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7a319431-9ccb-490d-9052-5d737c065991.pdf\", \"_id\": \"f34be5d5-3259-4394-87a6-f7ce1500d2df\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -9976,10 +9976,6 @@
       "sent_at": "2026-11-19T13:35:32.311603+00:00"
     },
     {
-      "message_id": "<1a4f74af46a7cb93ec0a5f277778e2c676df5dfe6a72bfeba58aff7cec97a0db@gmail.com>",
-      "sent_at": "2026-11-18T07:53:28.759698+00:00"
-    },
-    {
       "message_id": "<26caa3ad340893d78d7b478302042951d15c9c4aa7282a5515737aaff715caff@gmail.com>",
       "sent_at": "2026-11-19T17:25:48.331677+00:00"
     },
@@ -9988,20 +9984,12 @@
       "sent_at": "2026-11-18T13:48:46.923909+00:00"
     },
     {
-      "message_id": "<43c8f77c9002257f4f4dccd0f2e9977574b1487a8d1fa55cb3ed4fe24337bd60@gmail.com>",
-      "sent_at": "2026-11-18T06:03:28.439701+00:00"
-    },
-    {
-      "message_id": "<581eef30c445f07e02bad9d9b4b21e779196c7f9545357f3292c967a047c7f4a@gmail.com>",
-      "sent_at": "2026-11-18T07:08:28.214531+00:00"
-    },
-    {
-      "message_id": "<5ad37e91f2c02de9c1898bbf44eb4a5f33b04eb93e3b47ce49dbffb79b694bd6@gmail.com>",
-      "sent_at": "2026-11-18T07:23:28.015330+00:00"
-    },
-    {
       "message_id": "<5ca1e96520c112c32b276e7cde42801a59634afa11256d9d22d7e3b72de36c08@gmail.com>",
       "sent_at": "2026-11-19T20:36:16.885334+00:00"
+    },
+    {
+      "message_id": "<6240fd39f8f933b146c6546e118c014f61ed60cd089e08829884ac3be79931ad@gmail.com>",
+      "sent_at": "2026-11-20T10:41:50.703690+00:00"
     },
     {
       "message_id": "<657b190d30b00caa2d20e2b3ca36ac096f74e2daf2fde691ac034d39008785c5@gmail.com>",
@@ -10048,20 +10036,8 @@
       "sent_at": "2026-11-19T12:55:32.201809+00:00"
     },
     {
-      "message_id": "<a46fb46f06b2601181ff0194a1beb3c9cf563ef5dcc6debe3d9f4ced0de925d7@gmail.com>",
-      "sent_at": "2026-11-18T05:08:28.034121+00:00"
-    },
-    {
       "message_id": "<ac500bc994ee2bf7571c4ff47e5a17d0abf72a8c938d4468c614045c36dde1c6@gmail.com>",
       "sent_at": "2026-11-18T11:03:42.065421+00:00"
-    },
-    {
-      "message_id": "<acf76cfc69e9705815b75d1ec348167b61381b935bf10aeae043671b9e6090d8@gmail.com>",
-      "sent_at": "2026-11-18T09:18:41.998487+00:00"
-    },
-    {
-      "message_id": "<b5c7c9b90044b98301c1e60c79de47a60a49e819a35fce782708638635951316@gmail.com>",
-      "sent_at": "2026-11-18T07:33:28.130584+00:00"
     },
     {
       "message_id": "<bb8bac0cf6560bee0c31a1a0465671f92fd213ac30dff3ed77f7812e15178b89@gmail.com>",
@@ -10072,16 +10048,8 @@
       "sent_at": "2026-11-19T06:45:12.585253+00:00"
     },
     {
-      "message_id": "<d5c317d74cdf987ed92643c4490002ef97218c944221c420c5808f8703c06ce1@gmail.com>",
-      "sent_at": "2026-11-18T10:23:41.979354+00:00"
-    },
-    {
       "message_id": "<d98740c12c657d22969bef8f2138eb048302369b4eccbaf8d6f6ff4dd301d5fe@gmail.com>",
       "sent_at": "2026-11-19T11:25:31.923839+00:00"
-    },
-    {
-      "message_id": "<ebd2a50426b5b6e3500716ffc6a885b03ecf3551bbd1f818a57c42197f534a7a@gmail.com>",
-      "sent_at": "2026-11-18T06:03:30.287330+00:00"
     },
     {
       "message_id": "<ed6b5a244177e42bee1e7e50caa816a912894008c151d96f2ad223825f8ed8a1@gmail.com>",
