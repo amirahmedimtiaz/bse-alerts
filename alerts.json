@@ -7760,8 +7760,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-20T11:51:45.100861+00:00",
       "news_id": "106867559",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"20-Nov-2026 17:19:56\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_20112026171915_Transcript_of_Earnings_call.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"20-Nov-2026 17:19:56\", \"sort_date\": \"2026-11-20 17:19:56\", \"seq_id\": \"106867559\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Transcript of Earnings Call held on November 18, 2026.\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"545.96 KB\", \"attFileSize\": \"545.96 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/ALPEXSOLAR_20112026171915_Transcript_of_Earnings_call.mp3\", \"voiceSummary\": \"Alpex Solar Limited filed a transcript of its earnings conference call for the quarter and half year ended September 30, 2026, held on November 18, 2026. Managing Director Ashwani Sehgal stated that trial production has started at the company's solar cell factory, which is ramping up to 2.2 gigawatts by the end of November. The company expects to manufacture and sell 500 to 600 megawatts of cells in the current quarter, with average panel realizations around Rs. 22. Management anticipates reaching a consolidated profit after tax of 200 to 250 crores for the fiscal year, having already achieved approximately 60 crores. Cell-level EBITDA margins are projected at 35 percent. The company has completed the application process for ALMM listing, with government inspections scheduled for November 24 or 25.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-20 17:19:56\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Transcript of Earnings Call held on November 18, 2026.\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_20112026171915_Transcript_of_Earnings_call.pdf\", \"_id\": \"106867559\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -10090,6 +10090,10 @@
     {
       "message_id": "<ed6b5a244177e42bee1e7e50caa816a912894008c151d96f2ad223825f8ed8a1@gmail.com>",
       "sent_at": "2026-11-18T12:58:41.834721+00:00"
+    },
+    {
+      "message_id": "<f116fb93c6ff3433b729a8e247c5d0bd73ce1ccd126a54f11b66f39fa5eea39f@gmail.com>",
+      "sent_at": "2026-11-20T11:51:58.980401+00:00"
     },
     {
       "message_id": "<fde659785d6050b82dcb265007854bc534d9f3aa8f59145130953a86f9a4e718@gmail.com>",
