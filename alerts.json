@@ -7907,8 +7907,8 @@
       "company_key": "NSE:APS",
       "discovered_at": "2026-11-20T11:22:02.961147+00:00",
       "news_id": "106867507",
-      "payload": "{\"symbol\": \"APS\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"20-Nov-2026 16:49:33\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/APS_20112026164924_TransciptofMeeting19112026.pdf\", \"sm_name\": \"Australian Premium Solar (India) Limited\", \"sm_isin\": null, \"an_dt\": \"20-Nov-2026 16:49:33\", \"sort_date\": \"2026-11-20 16:49:33\", \"seq_id\": \"106867507\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Australian Premium Solar (India) Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"429.66 KB\", \"attFileSize\": \"429.66 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/APS_20112026164924_TransciptofMeeting19112026.mp3\", \"voiceSummary\": \"Australian Premium Solar India Limited filed the transcript of its earnings conference call for the half year ended 30th September 2026. The call was held on 19th November 2026. Total income for H1 FY27 was 439.4 crore, up 45% year on year. EBITDA was 52.4 crore. Profit after tax was 33.1 crore. The company expanded solar module manufacturing capacity to 1.2 GW. Commercial production of an additional 400 MW TOPCon line commenced on 13th October 2026. The company acquired the remaining 49% stake in Aplus Solar Cell Limited. Chairman Nikunj Patel stated the company is in the process of main board listing paperwork. The listing is planned for after January 2027. The company targets revenue growth of 20% to 25% CAGR over the next three years.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Australian Premium Solar (India) Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/APS/Australian-Premium-Solar-(India)-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-20 16:49:33\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Australian Premium Solar (India) Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/APS_20112026164924_TransciptofMeeting19112026.pdf\", \"_id\": \"106867507\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BHADORA",
@@ -10015,6 +10015,10 @@
       "sent_at": "2026-11-18T12:38:41.313608+00:00"
     },
     {
+      "message_id": "<8473111ba775bddc4644f649d93ece9bfe590b1ee368a20ecbf026fc8bfd5172@gmail.com>",
+      "sent_at": "2026-11-20T11:22:28.962773+00:00"
+    },
+    {
       "message_id": "<85b975039ed16ea19834ae44c3da58a9eadc93da57ef5b75a226dadc838bd8e1@gmail.com>",
       "sent_at": "2026-11-19T09:40:13.173669+00:00"
     },
@@ -10041,10 +10045,6 @@
     {
       "message_id": "<9b58bc72767a68aa25092671870aebd5b46a46347f506212a8d1d1464ca58000@gmail.com>",
       "sent_at": "2026-11-19T12:55:32.201809+00:00"
-    },
-    {
-      "message_id": "<ac500bc994ee2bf7571c4ff47e5a17d0abf72a8c938d4468c614045c36dde1c6@gmail.com>",
-      "sent_at": "2026-11-18T11:03:42.065421+00:00"
     },
     {
       "message_id": "<bb8bac0cf6560bee0c31a1a0465671f92fd213ac30dff3ed77f7812e15178b89@gmail.com>",
