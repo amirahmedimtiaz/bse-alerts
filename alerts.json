@@ -5751,8 +5751,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-21T08:19:06.374638+00:00",
       "news_id": "255e05a4-efc4-4df5-8da5-ddbdfa8af206",
-      "payload": "{\"NEWSID\": \"255e05a4-efc4-4df5-8da5-ddbdfa8af206\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_255E05A4-EFC4-4DF5-8DA5-DDBDFA8AF206\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"DT_TM\": \"2026-11-21T13:46:44.343\", \"NEWS_DT\": \"2026-11-21T13:46:44.343\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"63a5c915-deed-4271-87e4-cb07b0e72644.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation for Earnings call transcript\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 157, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-21T13:46:44\", \"DissemDT\": \"2026-11-21T13:46:44.343\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 994552, \"SUBCATNAME\": \"Earnings Call Transcript\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Earnings Call Transcript\", \"_published\": \"2026-11-21T13:46:44.343\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation for Earnings call transcript\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/63a5c915-deed-4271-87e4-cb07b0e72644.pdf\", \"_id\": \"255e05a4-efc4-4df5-8da5-ddbdfa8af206\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -10021,16 +10021,16 @@
       "sent_at": "2026-11-20T01:06:30.483871+00:00"
     },
     {
+      "message_id": "<0b3d7b60d5026c98017075029d0bbcc22b2e72dd689a39145368b10f06c868bc@gmail.com>",
+      "sent_at": "2026-11-21T08:19:29.225914+00:00"
+    },
+    {
       "message_id": "<187d8f9241639440d86ac31d4ad1b33c030b5741bcf3be94de11099f6f687ad2@gmail.com>",
       "sent_at": "2026-11-19T13:35:32.311603+00:00"
     },
     {
       "message_id": "<26caa3ad340893d78d7b478302042951d15c9c4aa7282a5515737aaff715caff@gmail.com>",
       "sent_at": "2026-11-19T17:25:48.331677+00:00"
-    },
-    {
-      "message_id": "<38941164103c6bb7e2468431a86c4d4f9ee8f9aaefb7cfa98225fa26a0a0a4b7@gmail.com>",
-      "sent_at": "2026-11-18T13:48:46.923909+00:00"
     },
     {
       "message_id": "<45bf409a9a14df6535d5a9e931ebb95bb1a066ca39c451f2414245eeaa355079@gmail.com>",
@@ -10065,14 +10065,6 @@
       "sent_at": "2026-11-20T11:46:59.612965+00:00"
     },
     {
-      "message_id": "<89993c966b897554e0bd5eee900eda8a06838f1a783672933a5e5ff0c58e3fb8@gmail.com>",
-      "sent_at": "2026-11-19T05:30:12.086105+00:00"
-    },
-    {
-      "message_id": "<8f5bf50fa14d0f63101f8c7ff9649b5bb325cbbe9d1c93d1847eac0d9a5a45a3@gmail.com>",
-      "sent_at": "2026-11-19T05:40:12.165642+00:00"
-    },
-    {
       "message_id": "<91a75ec883e3c347a25cc2fc0cec32a56f58571a7255a04014a30eadad57b8ca@gmail.com>",
       "sent_at": "2026-11-19T09:35:12.683346+00:00"
     },
@@ -10093,32 +10085,16 @@
       "sent_at": "2026-11-19T12:55:32.201809+00:00"
     },
     {
-      "message_id": "<bb8bac0cf6560bee0c31a1a0465671f92fd213ac30dff3ed77f7812e15178b89@gmail.com>",
-      "sent_at": "2026-11-19T06:05:12.334567+00:00"
-    },
-    {
       "message_id": "<ca507b357bd7a793cf5337c0c01853cd4b9367a708f23181c5fbb6332106c05d@gmail.com>",
       "sent_at": "2026-11-20T12:41:59.411057+00:00"
-    },
-    {
-      "message_id": "<d131c4a85304f76e7ccd2870bc8d40b86bb7ca1ca026aefec566e77bb2a00d27@gmail.com>",
-      "sent_at": "2026-11-19T06:45:12.585253+00:00"
     },
     {
       "message_id": "<d98740c12c657d22969bef8f2138eb048302369b4eccbaf8d6f6ff4dd301d5fe@gmail.com>",
       "sent_at": "2026-11-19T11:25:31.923839+00:00"
     },
     {
-      "message_id": "<ed6b5a244177e42bee1e7e50caa816a912894008c151d96f2ad223825f8ed8a1@gmail.com>",
-      "sent_at": "2026-11-18T12:58:41.834721+00:00"
-    },
-    {
       "message_id": "<f116fb93c6ff3433b729a8e247c5d0bd73ce1ccd126a54f11b66f39fa5eea39f@gmail.com>",
       "sent_at": "2026-11-20T11:51:58.980401+00:00"
-    },
-    {
-      "message_id": "<fde659785d6050b82dcb265007854bc534d9f3aa8f59145130953a86f9a4e718@gmail.com>",
-      "sent_at": "2026-11-19T06:55:12.727164+00:00"
     }
   ],
   "metadata": [
