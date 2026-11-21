@@ -9118,8 +9118,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-21T14:44:40.989682+00:00",
       "news_id": "nse-fallback:7db67a8adf2c36a1d52e957edc94ad490f6f3750d1e13425583fece9711a4722",
-      "payload": "{\"an_dt\": \"21-Nov-2026 20:11:57\", \"attFilePath\": null, \"attFileSize\": \"3.00 MB\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_21112026201131_Viviana_DLOF__merged.pdf\", \"attchmntText\": \"Viviana Power Tech Limited has informed the Exchange regarding submission of  Draft Letter of Offer for the proposed right issue.\", \"bflag\": null, \"csvName\": null, \"desc\": \"Updates\", \"difference\": \"00:00:01\", \"dt\": \"21112026201157\", \"exchdisstime\": \"21-Nov-2026 20:11:58\", \"fileSize\": \"3.00 MB\", \"hasXbrl\": true, \"nasUploadFlag\": null, \"objUploadFlag\": null, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106868323\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-21 20:11:57\", \"symbol\": \"VIVIANA\", \"voiceSummary\": \"Viviana Power Tech Limited submitted the Draft Letter of Offer for a proposed Rights Issue to the National Stock Exchange of India Limited on November 21, 2026. The issue aims to raise up to Rs. 15,000 Lakhs. The company has received in-principle approval from the NSE for the listing of the Rights Equity Shares. The Draft Letter of Offer is attached for record. The issue is subject to regulatory approvals and shareholder approval. Specific details regarding the issue price, number of shares, and record date are not disclosed in this submission. The company confirms that neither it nor its promoters are identified as wilful defaulters or fraudulent borrowers. Skyline Financial Services Pvt. Ltd. is appointed as the registrar to the issue.\", \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VIVIANA_21112026201131_Viviana_DLOF__merged.mp3\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Updates\", \"_published\": \"2026-11-21 20:11:57\", \"_category\": \"Updates\", \"_headline\": \"Viviana Power Tech Limited has informed the Exchange regarding submission of  Draft Letter of Offer for the proposed right issue.\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_21112026201131_Viviana_DLOF__merged.pdf\", \"_id\": \"nse-fallback:7db67a8adf2c36a1d52e957edc94ad490f6f3750d1e13425583fece9711a4722\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -10046,10 +10046,6 @@
       "sent_at": "2026-11-21T08:19:29.225914+00:00"
     },
     {
-      "message_id": "<187d8f9241639440d86ac31d4ad1b33c030b5741bcf3be94de11099f6f687ad2@gmail.com>",
-      "sent_at": "2026-11-19T13:35:32.311603+00:00"
-    },
-    {
       "message_id": "<21aa239323e62d74803d0c20696e1c369fc29fb2feb8dd119814bcca2a8b126e@gmail.com>",
       "sent_at": "2026-11-21T10:04:35.841136+00:00"
     },
@@ -10078,16 +10074,16 @@
       "sent_at": "2026-11-19T17:40:48.285275+00:00"
     },
     {
+      "message_id": "<7ed339f04bbbb4fe81acec6c257892df463dec89025dfc0a3e8fbc09fb56e71d@gmail.com>",
+      "sent_at": "2026-11-21T14:45:02.725549+00:00"
+    },
+    {
       "message_id": "<8473111ba775bddc4644f649d93ece9bfe590b1ee368a20ecbf026fc8bfd5172@gmail.com>",
       "sent_at": "2026-11-20T11:22:28.962773+00:00"
     },
     {
       "message_id": "<88d8fb0c81b36cd8e13284a048ae822a82d6bc8caac1935afb8cae3f343b2474@gmail.com>",
       "sent_at": "2026-11-20T11:46:59.612965+00:00"
-    },
-    {
-      "message_id": "<9aaa25b7df3dc5a46fbdeecaf8f141978ebc352d738c351df585ae53711cda58@gmail.com>",
-      "sent_at": "2026-11-19T13:30:32.147871+00:00"
     },
     {
       "message_id": "<9ac38e95814600872c23ad3e831fed262e3015f82c7f0e6cfa45df1323118f2c@gmail.com>",
