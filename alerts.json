@@ -8943,8 +8943,8 @@
       "company_key": "NSE:VIVIANA",
       "discovered_at": "2026-11-21T10:04:23.867251+00:00",
       "news_id": "nse-fallback:5b0ad719066c224283544d673a4d0d5d7007adbf15880acfb84f3e7b3f17aee9",
-      "payload": "{\"an_dt\": \"21-Nov-2026 15:34:01\", \"attFilePath\": null, \"attFileSize\": \"1.16 MB\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_21112026153350_OUTCOME_OF_BM_21112026.pdf\", \"attchmntText\": \"Viviana Power Tech Limited inform you that the Board of Directors of the Company, atits meeting held on Saturday, November 21, 2026, decided to raise the fund by way of issue of Equity Shares through Rights Issue upto 150.00 Cr.\", \"bflag\": null, \"csvName\": null, \"desc\": \"Outcome of Board Meeting\", \"difference\": \"00:00:01\", \"dt\": \"21112026153401\", \"exchdisstime\": \"21-Nov-2026 15:34:02\", \"fileSize\": \"1.16 MB\", \"hasXbrl\": true, \"nasUploadFlag\": null, \"objUploadFlag\": null, \"old_new\": null, \"orgid\": null, \"seq_id\": \"106868198\", \"smIndustry\": null, \"sm_isin\": \"INE0MEG01014\", \"sm_name\": \"Viviana Power Tech Limited\", \"sort_date\": \"2026-11-21 15:34:01\", \"symbol\": \"VIVIANA\", \"voiceSummary\": \"Viviana Power Tech Limited approved a Rights Issue aggregating up to Rs. 150.00 Crores on November 21, 2026. The issue involves partly paid-up Equity Shares with a face value of Rs. 10.00 each. Specific details regarding the issue price, number of shares, and rights entitlement ratio remain undetermined. A Rights Issue Committee has been constituted to finalize these terms, including the record date and payment schedule. The payment structure requires an initial amount on application, with subsequent calls to be completed on or before December 31, 2028. The final Letter of Offer containing detailed terms will be issued to eligible shareholders in due course.\", \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/VIVIANA_21112026153350_OUTCOME_OF_BM_21112026.mp3\", \"_exchange\": \"NSE\", \"_company_name\": \"Viviana Power Tech Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/VIVIANA/Viviana-Power-Tech-Limited\", \"_subject\": \"Outcome of Board Meeting\", \"_published\": \"2026-11-21 15:34:01\", \"_category\": \"Outcome of Board Meeting\", \"_headline\": \"Viviana Power Tech Limited inform you that the Board of Directors of the Company, atits meeting held on Saturday, November 21, 2026, decided to raise the fund by way of issue of Equity Shares through Rights Issue upto 150.00 Cr.\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/VIVIANA_21112026153350_OUTCOME_OF_BM_21112026.pdf\", \"_id\": \"nse-fallback:5b0ad719066c224283544d673a4d0d5d7007adbf15880acfb84f3e7b3f17aee9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -10036,6 +10036,10 @@
       "sent_at": "2026-11-19T13:35:32.311603+00:00"
     },
     {
+      "message_id": "<21aa239323e62d74803d0c20696e1c369fc29fb2feb8dd119814bcca2a8b126e@gmail.com>",
+      "sent_at": "2026-11-21T10:04:35.841136+00:00"
+    },
+    {
       "message_id": "<26caa3ad340893d78d7b478302042951d15c9c4aa7282a5515737aaff715caff@gmail.com>",
       "sent_at": "2026-11-19T17:25:48.331677+00:00"
     },
@@ -10056,24 +10060,12 @@
       "sent_at": "2026-11-19T17:40:48.285275+00:00"
     },
     {
-      "message_id": "<7100b3e67839f47b5cb8b0d7bffd7c1df7e200bed027e51b02f08da6637ebac2@gmail.com>",
-      "sent_at": "2026-11-19T09:20:12.348550+00:00"
-    },
-    {
       "message_id": "<8473111ba775bddc4644f649d93ece9bfe590b1ee368a20ecbf026fc8bfd5172@gmail.com>",
       "sent_at": "2026-11-20T11:22:28.962773+00:00"
     },
     {
-      "message_id": "<85b975039ed16ea19834ae44c3da58a9eadc93da57ef5b75a226dadc838bd8e1@gmail.com>",
-      "sent_at": "2026-11-19T09:40:13.173669+00:00"
-    },
-    {
       "message_id": "<88d8fb0c81b36cd8e13284a048ae822a82d6bc8caac1935afb8cae3f343b2474@gmail.com>",
       "sent_at": "2026-11-20T11:46:59.612965+00:00"
-    },
-    {
-      "message_id": "<91a75ec883e3c347a25cc2fc0cec32a56f58571a7255a04014a30eadad57b8ca@gmail.com>",
-      "sent_at": "2026-11-19T09:35:12.683346+00:00"
     },
     {
       "message_id": "<9aaa25b7df3dc5a46fbdeecaf8f141978ebc352d738c351df585ae53711cda58@gmail.com>",
