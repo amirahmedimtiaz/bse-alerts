@@ -1866,8 +1866,8 @@
       "company_key": "522163",
       "discovered_at": "2026-11-21T13:09:28.560032+00:00",
       "news_id": "e70ce8ff-0801-40b2-b653-0a7d9d68518e",
-      "payload": "{\"NEWSID\": \"e70ce8ff-0801-40b2-b653-0a7d9d68518e\", \"SCRIP_CD\": 522163, \"XML_NAME\": \"ANN_522163_E70CE8FF-0801-40B2-B653-0A7D9D68518E\", \"NEWSSUB\": \"Change Of Corporate Office Of RTA\", \"DT_TM\": \"2026-11-21T18:35:52.66\", \"NEWS_DT\": \"2026-11-21T18:35:52.66\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"2d8f36df-b91a-4f51-88c7-e8553cc7a6b1.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Change of corporate office of RTA\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/\", \"SLONGNAME\": \"Diamond Power Infrastructure Ltd-$\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-21T18:35:52\", \"DissemDT\": \"2026-11-21T18:35:52.66\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 367240, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Diamond Power Infrastructure Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/corp-announcements\", \"_subject\": \"Change Of Corporate Office Of RTA\", \"_published\": \"2026-11-21T18:35:52.66\", \"_category\": \"Company Update\", \"_headline\": \"Change of corporate office of RTA\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/2d8f36df-b91a-4f51-88c7-e8553cc7a6b1.pdf\", \"_id\": \"e70ce8ff-0801-40b2-b653-0a7d9d68518e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "522163",
@@ -10051,6 +10051,10 @@
       "sent_at": "2026-11-19T17:25:48.331677+00:00"
     },
     {
+      "message_id": "<26d8c1586dc8cf584e571e7350343ab68c5c043d39d2300f740c748537ff42cd@gmail.com>",
+      "sent_at": "2026-11-21T13:09:47.913339+00:00"
+    },
+    {
       "message_id": "<45bf409a9a14df6535d5a9e931ebb95bb1a066ca39c451f2414245eeaa355079@gmail.com>",
       "sent_at": "2026-11-20T11:42:00.250494+00:00"
     },
@@ -10087,16 +10091,8 @@
       "sent_at": "2026-11-20T12:01:59.137133+00:00"
     },
     {
-      "message_id": "<9b58bc72767a68aa25092671870aebd5b46a46347f506212a8d1d1464ca58000@gmail.com>",
-      "sent_at": "2026-11-19T12:55:32.201809+00:00"
-    },
-    {
       "message_id": "<ca507b357bd7a793cf5337c0c01853cd4b9367a708f23181c5fbb6332106c05d@gmail.com>",
       "sent_at": "2026-11-20T12:41:59.411057+00:00"
-    },
-    {
-      "message_id": "<d98740c12c657d22969bef8f2138eb048302369b4eccbaf8d6f6ff4dd301d5fe@gmail.com>",
-      "sent_at": "2026-11-19T11:25:31.923839+00:00"
     },
     {
       "message_id": "<f116fb93c6ff3433b729a8e247c5d0bd73ce1ccd126a54f11b66f39fa5eea39f@gmail.com>",
