@@ -5807,8 +5807,8 @@
       "company_key": "544524",
       "discovered_at": "2026-11-23T12:01:53.801245+00:00",
       "news_id": "4652292e-a2d8-418e-81fa-3793e84fbb08",
-      "payload": "{\"NEWSID\": \"4652292e-a2d8-418e-81fa-3793e84fbb08\", \"SCRIP_CD\": 544524, \"XML_NAME\": \"ANN_544524_4652292E-A2D8-418E-81FA-3793E84FBB08\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"DT_TM\": \"2026-11-23T17:31:20.567\", \"NEWS_DT\": \"2026-11-23T17:31:20.567\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"79f108a5-a3f1-4e92-b8fc-7fec8b950f6f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"BSE Intimation regarding Regulation 30 of SEBI LODR Regulations 2015 for award of order from a reputed private company\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/\", \"SLONGNAME\": \"JD Cables Ltd\", \"AGENDA_ID\": 8, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-23T17:31:20\", \"DissemDT\": \"2026-11-23T17:31:20.567\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 611819, \"SUBCATNAME\": \"Award of Order / Receipt of Order\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"JD Cables Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order\", \"_published\": \"2026-11-23T17:31:20.567\", \"_category\": \"Company Update\", \"_headline\": \"BSE Intimation regarding Regulation 30 of SEBI LODR Regulations 2015 for award of order from a reputed private company\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/79f108a5-a3f1-4e92-b8fc-7fec8b950f6f.pdf\", \"_id\": \"4652292e-a2d8-418e-81fa-3793e84fbb08\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544524",
@@ -10063,14 +10063,6 @@
       "sent_at": "2026-11-23T04:11:58.762751+00:00"
     },
     {
-      "message_id": "<0b3d7b60d5026c98017075029d0bbcc22b2e72dd689a39145368b10f06c868bc@gmail.com>",
-      "sent_at": "2026-11-21T08:19:29.225914+00:00"
-    },
-    {
-      "message_id": "<21aa239323e62d74803d0c20696e1c369fc29fb2feb8dd119814bcca2a8b126e@gmail.com>",
-      "sent_at": "2026-11-21T10:04:35.841136+00:00"
-    },
-    {
       "message_id": "<26d8c1586dc8cf584e571e7350343ab68c5c043d39d2300f740c748537ff42cd@gmail.com>",
       "sent_at": "2026-11-21T13:09:47.913339+00:00"
     },
@@ -10081,6 +10073,10 @@
     {
       "message_id": "<7ed339f04bbbb4fe81acec6c257892df463dec89025dfc0a3e8fbc09fb56e71d@gmail.com>",
       "sent_at": "2026-11-21T14:45:02.725549+00:00"
+    },
+    {
+      "message_id": "<ec04469971a22bd4a8a99dede05a728be9506ca6dde9f93022ed180f22a18ab1@gmail.com>",
+      "sent_at": "2026-11-23T12:02:27.043135+00:00"
     }
   ],
   "metadata": [
