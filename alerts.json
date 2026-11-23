@@ -5611,8 +5611,8 @@
       "company_key": "544488",
       "discovered_at": "2026-11-23T17:42:24.612493+00:00",
       "news_id": "4856c924-b6c3-461a-abee-bb7ac7bad6f8",
-      "payload": "{\"NEWSID\": \"4856c924-b6c3-461a-abee-bb7ac7bad6f8\", \"SCRIP_CD\": 544488, \"XML_NAME\": \"ANN_544488_4856C924-B6C3-461A-ABEE-BB7AC7BAD6F8\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-23T23:07:42.9\", \"NEWS_DT\": \"2026-11-23T23:07:42.9\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"278b6e17-e7c3-4e13-895c-d58db5642c4c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Please find enclosed herewith the intimation for the schedule of analyst/investor meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/\", \"SLONGNAME\": \"Vikram Solar Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-23T23:07:42\", \"DissemDT\": \"2026-11-23T23:07:42.9\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 207225, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"4856c924-b6c3-461a-abee-bb7ac7bad6f8\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14968907, \"DataInsDate\": \"2026-11-23T23:07:42.85\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Vikram Solar Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/vikram-solar-ltd/vikramsolr/544488/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-23T23:07:42.9\", \"_category\": \"Company Update\", \"_headline\": \"Please find enclosed herewith the intimation for the schedule of analyst/investor meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/278b6e17-e7c3-4e13-895c-d58db5642c4c.pdf\", \"_id\": \"4856c924-b6c3-461a-abee-bb7ac7bad6f8\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544488",
@@ -10073,16 +10073,16 @@
   ],
   "deliveries": [
     {
+      "message_id": "<05ab09b0e97f3d22b24342c49d835f617a66bf96955a8aae815d9c4b5f6ee98a@gmail.com>",
+      "sent_at": "2026-11-23T17:42:38.276327+00:00"
+    },
+    {
       "message_id": "<092976411d8e5a8adb083811f436e3ee00b064026d92d2a4c5ea2dac74f4a213@gmail.com>",
       "sent_at": "2026-11-23T04:11:58.762751+00:00"
     },
     {
       "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
       "sent_at": "2026-11-23T06:31:58.896117+00:00"
-    },
-    {
-      "message_id": "<7ed339f04bbbb4fe81acec6c257892df463dec89025dfc0a3e8fbc09fb56e71d@gmail.com>",
-      "sent_at": "2026-11-21T14:45:02.725549+00:00"
     },
     {
       "message_id": "<e0981329a599bd7ecede9f28cf150beba66f93536a51e71762645c705128f78b@gmail.com>",
