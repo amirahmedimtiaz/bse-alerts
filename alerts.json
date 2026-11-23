@@ -760,8 +760,8 @@
       "company_key": "517354",
       "discovered_at": "2026-11-23T04:11:43.183715+00:00",
       "news_id": "2a2c5ef1-cf5f-4e5b-85cc-358b1d2f70f7",
-      "payload": "{\"NEWSID\": \"2a2c5ef1-cf5f-4e5b-85cc-358b1d2f70f7\", \"SCRIP_CD\": 517354, \"XML_NAME\": \"ANN_517354_2A2C5EF1-CF5F-4E5B-85CC-358B1D2F70F7\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-23T09:40:29.643\", \"NEWS_DT\": \"2026-11-23T09:40:29.643\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"effba2f0-a1cc-4f62-b374-5f7fe25e7d4c.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Newspaper Publication titled SPECIAL WINDOW FOR TRANSFER AND DEMATERIALISATION (DEMAT) OF PHYSICAL SHARES\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/\", \"SLONGNAME\": \"Havells India Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-23T09:40:29\", \"DissemDT\": \"2026-11-23T09:40:29.643\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 4021159, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Havells India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-23T09:40:29.643\", \"_category\": \"Company Update\", \"_headline\": \"Newspaper Publication titled SPECIAL WINDOW FOR TRANSFER AND DEMATERIALISATION (DEMAT) OF PHYSICAL SHARES\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/effba2f0-a1cc-4f62-b374-5f7fe25e7d4c.pdf\", \"_id\": \"2a2c5ef1-cf5f-4e5b-85cc-358b1d2f70f7\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517354",
@@ -10045,8 +10045,8 @@
   ],
   "deliveries": [
     {
-      "message_id": "<0a04ef7be05a638b942d0cb7b1e19a6b381188adc2a8159b413a07b6c27be2c9@gmail.com>",
-      "sent_at": "2026-11-20T01:06:30.483871+00:00"
+      "message_id": "<092976411d8e5a8adb083811f436e3ee00b064026d92d2a4c5ea2dac74f4a213@gmail.com>",
+      "sent_at": "2026-11-23T04:11:58.762751+00:00"
     },
     {
       "message_id": "<0b3d7b60d5026c98017075029d0bbcc22b2e72dd689a39145368b10f06c868bc@gmail.com>",
@@ -10057,56 +10057,12 @@
       "sent_at": "2026-11-21T10:04:35.841136+00:00"
     },
     {
-      "message_id": "<26caa3ad340893d78d7b478302042951d15c9c4aa7282a5515737aaff715caff@gmail.com>",
-      "sent_at": "2026-11-19T17:25:48.331677+00:00"
-    },
-    {
       "message_id": "<26d8c1586dc8cf584e571e7350343ab68c5c043d39d2300f740c748537ff42cd@gmail.com>",
       "sent_at": "2026-11-21T13:09:47.913339+00:00"
     },
     {
-      "message_id": "<45bf409a9a14df6535d5a9e931ebb95bb1a066ca39c451f2414245eeaa355079@gmail.com>",
-      "sent_at": "2026-11-20T11:42:00.250494+00:00"
-    },
-    {
-      "message_id": "<5ca1e96520c112c32b276e7cde42801a59634afa11256d9d22d7e3b72de36c08@gmail.com>",
-      "sent_at": "2026-11-19T20:36:16.885334+00:00"
-    },
-    {
-      "message_id": "<6240fd39f8f933b146c6546e118c014f61ed60cd089e08829884ac3be79931ad@gmail.com>",
-      "sent_at": "2026-11-20T10:41:50.703690+00:00"
-    },
-    {
-      "message_id": "<657b190d30b00caa2d20e2b3ca36ac096f74e2daf2fde691ac034d39008785c5@gmail.com>",
-      "sent_at": "2026-11-19T17:40:48.285275+00:00"
-    },
-    {
       "message_id": "<7ed339f04bbbb4fe81acec6c257892df463dec89025dfc0a3e8fbc09fb56e71d@gmail.com>",
       "sent_at": "2026-11-21T14:45:02.725549+00:00"
-    },
-    {
-      "message_id": "<8473111ba775bddc4644f649d93ece9bfe590b1ee368a20ecbf026fc8bfd5172@gmail.com>",
-      "sent_at": "2026-11-20T11:22:28.962773+00:00"
-    },
-    {
-      "message_id": "<88d8fb0c81b36cd8e13284a048ae822a82d6bc8caac1935afb8cae3f343b2474@gmail.com>",
-      "sent_at": "2026-11-20T11:46:59.612965+00:00"
-    },
-    {
-      "message_id": "<9ac38e95814600872c23ad3e831fed262e3015f82c7f0e6cfa45df1323118f2c@gmail.com>",
-      "sent_at": "2026-11-19T15:15:51.446412+00:00"
-    },
-    {
-      "message_id": "<9b1bb69a85d43773329baec56e6345bd4ca8b1833f3b00f9d835e5013e6fa5d5@gmail.com>",
-      "sent_at": "2026-11-20T12:01:59.137133+00:00"
-    },
-    {
-      "message_id": "<ca507b357bd7a793cf5337c0c01853cd4b9367a708f23181c5fbb6332106c05d@gmail.com>",
-      "sent_at": "2026-11-20T12:41:59.411057+00:00"
-    },
-    {
-      "message_id": "<f116fb93c6ff3433b729a8e247c5d0bd73ce1ccd126a54f11b66f39fa5eea39f@gmail.com>",
-      "sent_at": "2026-11-20T11:51:58.980401+00:00"
     }
   ],
   "metadata": [
