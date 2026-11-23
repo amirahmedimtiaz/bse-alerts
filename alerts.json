@@ -8117,8 +8117,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-23T13:22:00.682181+00:00",
       "news_id": "106869184",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"General Updates\", \"dt\": \"23-Nov-2026 18:47:32\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/BHADORA_23112026184700_Intimation_new_order.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"23-Nov-2026 18:47:32\", \"sort_date\": \"2026-11-23 18:47:32\", \"seq_id\": \"106869184\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about General Updates\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"962.93 KB\", \"attFileSize\": \"962.93 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_23112026184700_Intimation_new_order.mp3\", \"voiceSummary\": \"Bhadora Industries Limited received a purchase order from a domestic energy infrastructure company on 21 November 2026. The order is for the supply of LT XLPE and ABC cables. The total contract value is Rs. 9,61,88,794. Delivery is required within 20 working days from receipt of the clear techno commercial order. The buyer is not a related party. No promoter group interest exists in the entity awarding the order. The company disclosed this material event under Regulation 30 of SEBI LODR Regulations. The announcement was filed on 23 November 2026. Reporting was delayed due to the order being received on a non-working day.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-23 18:47:32\", \"_category\": \"General Updates\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about General Updates\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/BHADORA_23112026184700_Intimation_new_order.pdf\", \"_id\": \"106869184\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -10070,16 +10070,16 @@
       "sent_at": "2026-11-23T04:11:58.762751+00:00"
     },
     {
-      "message_id": "<26d8c1586dc8cf584e571e7350343ab68c5c043d39d2300f740c748537ff42cd@gmail.com>",
-      "sent_at": "2026-11-21T13:09:47.913339+00:00"
-    },
-    {
       "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
       "sent_at": "2026-11-23T06:31:58.896117+00:00"
     },
     {
       "message_id": "<7ed339f04bbbb4fe81acec6c257892df463dec89025dfc0a3e8fbc09fb56e71d@gmail.com>",
       "sent_at": "2026-11-21T14:45:02.725549+00:00"
+    },
+    {
+      "message_id": "<e0981329a599bd7ecede9f28cf150beba66f93536a51e71762645c705128f78b@gmail.com>",
+      "sent_at": "2026-11-23T13:22:17.041193+00:00"
     },
     {
       "message_id": "<ec04469971a22bd4a8a99dede05a728be9506ca6dde9f93022ed180f22a18ab1@gmail.com>",
