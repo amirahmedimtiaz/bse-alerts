@@ -6703,8 +6703,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-24T11:33:45.523041+00:00",
       "news_id": "56d99ae5-a665-4b90-851d-74c0f5140c09",
-      "payload": "{\"NEWSID\": \"56d99ae5-a665-4b90-851d-74c0f5140c09\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_56D99AE5-A665-4B90-851D-74C0F5140C09\", \"NEWSSUB\": \"Board Meeting Intimation for Intimation Of The Board Meeting Scheduled To Be Held On November 27, 2026\", \"DT_TM\": \"2026-11-24T17:03:32.337\", \"NEWS_DT\": \"2026-11-24T17:03:32.337\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"f65df4ea-4ea4-4485-8395-7ebefbe31d8e.pdf\", \"MORE\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/11/2026 ,inter alia, to consider and approve Intimation of the Board Meeting scheduled to be held on November 27, 2026\", \"HEADLINE\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/11/2026 ,inter alia, to consider and approve Intimation of the Board ....\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 9, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-24T17:03:31\", \"DissemDT\": \"2026-11-24T17:03:32.337\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 315307, \"SUBCATNAME\": \"Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Board Meeting Intimation for Intimation Of The Board Meeting Scheduled To Be Held On November 27, 2026\", \"_published\": \"2026-11-24T17:03:32.337\", \"_category\": \"Board Meeting\", \"_headline\": \"Susan Electricals India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/11/2026 ,inter alia, to consider and approve Intimation of the Board ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/f65df4ea-4ea4-4485-8395-7ebefbe31d8e.pdf\", \"_id\": \"56d99ae5-a665-4b90-851d-74c0f5140c09\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -10133,6 +10133,10 @@
     {
       "message_id": "<60e55f2f977e227f25004c8d92a77d5ac4b749192099a1af453e6a7b0a0b5585@gmail.com>",
       "sent_at": "2026-11-24T07:18:48.703211+00:00"
+    },
+    {
+      "message_id": "<61df2d4dcf82b1ff2393276c2635957d60d5567780c0f4aa4bfdcde1fc63490a@gmail.com>",
+      "sent_at": "2026-11-24T11:34:06.387580+00:00"
     },
     {
       "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
