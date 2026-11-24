@@ -6486,8 +6486,8 @@
       "company_key": "544613",
       "discovered_at": "2026-11-24T07:13:33.942820+00:00",
       "news_id": "cf9f57a9-09f3-4b21-aeae-60cd06e05670",
-      "payload": "{\"NEWSID\": \"cf9f57a9-09f3-4b21-aeae-60cd06e05670\", \"SCRIP_CD\": 544613, \"XML_NAME\": \"ANN_544613_CF9F57A9-09F3-4B21-AEAE-60CD06E05670\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot\", \"DT_TM\": \"2026-11-24T12:43:32.21\", \"NEWS_DT\": \"2026-11-24T12:43:32.21\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"234d6c15-6209-45bc-be41-999b430a100f.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Fujiyama Power Systems Limited has informed the Exchange regarding the voting results of Postal Ballot.\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/\", \"SLONGNAME\": \"Fujiyama Power Systems Ltd\", \"AGENDA_ID\": 34, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-24T12:43:32\", \"DissemDT\": \"2026-11-24T12:43:32.21\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 2269544, \"SUBCATNAME\": \"Postal Ballot\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Fujiyama Power Systems Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/fujiyama-power-systems-ltd/utlsolar/544613/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot\", \"_published\": \"2026-11-24T12:43:32.21\", \"_category\": \"AGM/EGM\", \"_headline\": \"Fujiyama Power Systems Limited has informed the Exchange regarding the voting results of Postal Ballot.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/234d6c15-6209-45bc-be41-999b430a100f.pdf\", \"_id\": \"cf9f57a9-09f3-4b21-aeae-60cd06e05670\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544613",
@@ -10097,6 +10097,10 @@
     {
       "message_id": "<3b149e4e93e84da35f2f331b6f2f9a0528baa12356fc0be3ab26d3f4c44d117a@gmail.com>",
       "sent_at": "2026-11-24T05:18:48.340297+00:00"
+    },
+    {
+      "message_id": "<47f5d608643ef3eeb680ae4f89596700dc060f0fdcaba1c47d88bce9439af086@gmail.com>",
+      "sent_at": "2026-11-24T07:13:48.865676+00:00"
     },
     {
       "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
