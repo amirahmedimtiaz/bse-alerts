@@ -8159,8 +8159,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-24T10:23:50.021461+00:00",
       "news_id": "106869658",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Investor Presentation\", \"dt\": \"24-Nov-2026 15:53:39\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/BHADORA_24112026155306_finalpresentationupload.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"24-Nov-2026 15:53:39\", \"sort_date\": \"2026-11-24 15:53:39\", \"seq_id\": \"106869658\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about Investor Presentation\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"3.41 MB\", \"attFileSize\": \"3.41 MB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Investor Presentation\", \"_published\": \"2026-11-24 15:53:39\", \"_category\": \"Investor Presentation\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about Investor Presentation\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/BHADORA_24112026155306_finalpresentationupload.pdf\", \"_id\": \"106869658\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -10134,6 +10134,10 @@
     {
       "message_id": "<8205d84bb8121d8af5ca3eb2f0c2502193878de63d460208d6b6881c75b94984@gmail.com>",
       "sent_at": "2026-11-24T09:53:48.711321+00:00"
+    },
+    {
+      "message_id": "<ba8c2dd632c724e4c776e815cfce9377313b7d9049e2cf5dd9d7b9a28f6cb175@gmail.com>",
+      "sent_at": "2026-11-24T10:24:05.545087+00:00"
     },
     {
       "message_id": "<e0981329a599bd7ecede9f28cf150beba66f93536a51e71762645c705128f78b@gmail.com>",
