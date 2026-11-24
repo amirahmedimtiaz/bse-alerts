@@ -3889,8 +3889,8 @@
       "company_key": "542652",
       "discovered_at": "2026-11-24T05:18:25.046989+00:00",
       "news_id": "be984640-5d2e-44ca-8ed2-0104fe1d7948",
-      "payload": "{\"NEWSID\": \"be984640-5d2e-44ca-8ed2-0104fe1d7948\", \"SCRIP_CD\": 542652, \"XML_NAME\": \"ANN_542652_BE984640-5D2E-44CA-8ED2-0104FE1D7948\", \"NEWSSUB\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"DT_TM\": \"2026-11-24T10:46:31.22\", \"NEWS_DT\": \"2026-11-24T10:46:31.22\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"1dc4b1bc-18f7-4aad-a61a-6fc2bf9dc0ec.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/\", \"SLONGNAME\": \"Polycab India Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-24T10:46:31\", \"DissemDT\": \"2026-11-24T10:46:31.22\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 289843, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Polycab India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/polycab-india-ltd/polycab/542652/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation\", \"_published\": \"2026-11-24T10:46:31.22\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Institutional Analyst(s)/Investor(s) meet\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1dc4b1bc-18f7-4aad-a61a-6fc2bf9dc0ec.pdf\", \"_id\": \"be984640-5d2e-44ca-8ed2-0104fe1d7948\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "542652",
@@ -10086,6 +10086,10 @@
     {
       "message_id": "<092976411d8e5a8adb083811f436e3ee00b064026d92d2a4c5ea2dac74f4a213@gmail.com>",
       "sent_at": "2026-11-23T04:11:58.762751+00:00"
+    },
+    {
+      "message_id": "<3b149e4e93e84da35f2f331b6f2f9a0528baa12356fc0be3ab26d3f4c44d117a@gmail.com>",
+      "sent_at": "2026-11-24T05:18:48.340297+00:00"
     },
     {
       "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
