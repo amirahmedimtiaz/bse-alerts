@@ -8222,8 +8222,8 @@
       "company_key": "NSE:BHADORA",
       "discovered_at": "2026-11-25T11:55:30.235814+00:00",
       "news_id": "106870590",
-      "payload": "{\"symbol\": \"BHADORA\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"25-Nov-2026 17:21:51\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/BHADORA_25112026172136_Audio_cover.pdf\", \"sm_name\": \"Bhadora Industries Limited\", \"sm_isin\": null, \"an_dt\": \"25-Nov-2026 17:21:51\", \"sort_date\": \"2026-11-25 17:21:51\", \"seq_id\": \"106870590\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Bhadora Industries Limited has informed the Exchange about Link of Recording\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"1002.34 KB\", \"attFileSize\": \"1002.34 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/BHADORA_25112026172136_Audio_cover.mp3\", \"voiceSummary\": \"Bhadora Industries Limited has shared the audio link of the earnings conference call held on 24th November 2026. The recording is available on the company website at https://www.vidhutcables.com/annoucements. This intimation is filed under Regulation 30 of SEBI LODR Regulations, 2015. It follows the previous notice dated 19th November 2026 regarding the scheduled call. The communication was signed by Archana Khare, Company Secretary and Compliance Officer.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Bhadora Industries Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/BHADORA/Bhadora-Industries-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-25 17:21:51\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Bhadora Industries Limited has informed the Exchange about Link of Recording\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/BHADORA_25112026172136_Audio_cover.pdf\", \"_id\": \"106870590\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:BIOPOL",
@@ -10201,6 +10201,10 @@
     {
       "message_id": "<61df2d4dcf82b1ff2393276c2635957d60d5567780c0f4aa4bfdcde1fc63490a@gmail.com>",
       "sent_at": "2026-11-24T11:34:06.387580+00:00"
+    },
+    {
+      "message_id": "<770d0208ec535ad45a1c58b84c84b1fffde099fa831e1352ba3ac93afb0ec144@gmail.com>",
+      "sent_at": "2026-11-25T11:55:45.890973+00:00"
     },
     {
       "message_id": "<8205d84bb8121d8af5ca3eb2f0c2502193878de63d460208d6b6881c75b94984@gmail.com>",
