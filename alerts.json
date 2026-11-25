@@ -4050,8 +4050,8 @@
       "company_key": "543415",
       "discovered_at": "2026-11-25T08:50:20.841909+00:00",
       "news_id": "05ff449f-6f5f-4e1b-8de4-507e47f22be1",
-      "payload": "{\"NEWSID\": \"05ff449f-6f5f-4e1b-8de4-507e47f22be1\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_05FF449F-6F5F-4E1B-8DE4-507E47F22BE1\", \"NEWSSUB\": \" Shareholder Meeting / Postal Ballot-Scrutinizer\\\"s Report\", \"DT_TM\": \"2026-11-25T14:19:21.483\", \"NEWS_DT\": \"2026-11-25T14:19:21.483\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"9a75f478-bef0-4070-9c4a-84dc685c36ad.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Disclosure of Voting Result pursuant to Regulation 44 of SEBI (LODR) Regulations, 2015 and Scrutinizer Report of Postal Ballot Notice dated 09th October, 2026\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 34, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-25T14:19:21\", \"DissemDT\": \"2026-11-25T14:19:21.483\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 3881990, \"SUBCATNAME\": \"Postal Ballot\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \" Shareholder Meeting / Postal Ballot-Scrutinizer\\\"s Report\", \"_published\": \"2026-11-25T14:19:21.483\", \"_category\": \"AGM/EGM\", \"_headline\": \"Disclosure of Voting Result pursuant to Regulation 44 of SEBI (LODR) Regulations, 2015 and Scrutinizer Report of Postal Ballot Notice dated 09th October, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/9a75f478-bef0-4070-9c4a-84dc685c36ad.pdf\", \"_id\": \"05ff449f-6f5f-4e1b-8de4-507e47f22be1\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -10178,6 +10178,10 @@
     {
       "message_id": "<ec04469971a22bd4a8a99dede05a728be9506ca6dde9f93022ed180f22a18ab1@gmail.com>",
       "sent_at": "2026-11-23T12:02:27.043135+00:00"
+    },
+    {
+      "message_id": "<ef0b7570fe9e767a4bd38d8094405a251631aa1f045e93b8ff3fb73ca168b7f5@gmail.com>",
+      "sent_at": "2026-11-25T08:50:29.842509+00:00"
     }
   ],
   "metadata": [
