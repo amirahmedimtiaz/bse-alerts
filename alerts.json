@@ -4106,8 +4106,8 @@
       "company_key": "543415",
       "discovered_at": "2026-11-25T11:05:21.395282+00:00",
       "news_id": "7b81c452-b091-4eaa-b073-49584ef50dce",
-      "payload": "{\"NEWSID\": \"7b81c452-b091-4eaa-b073-49584ef50dce\", \"SCRIP_CD\": 543415, \"XML_NAME\": \"ANN_543415_7B81C452-B091-4EAA-B073-49584EF50DCE\", \"NEWSSUB\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Proceedings Of Postal Ballot\", \"DT_TM\": \"2026-11-25T16:30:25.77\", \"NEWS_DT\": \"2026-11-25T16:30:25.77\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"8657e635-501b-444d-8d12-cdc471c28f11.pdf\", \"MORE\": \"\", \"HEADLINE\": \"The Company has passed resolutions by the way of Postal Ballot dated 09th October, 2026 through remote e-voting process by requisite majority on 24th November, 2026\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/\", \"SLONGNAME\": \"Anand Rathi Wealth Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-25T16:30:25\", \"DissemDT\": \"2026-11-25T16:30:25.77\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 587146, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Anand Rathi Wealth Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/anand-rathi-wealth-ltd/anandrathi/543415/corp-announcements\", \"_subject\": \"Announcement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Proceedings Of Postal Ballot\", \"_published\": \"2026-11-25T16:30:25.77\", \"_category\": \"Company Update\", \"_headline\": \"The Company has passed resolutions by the way of Postal Ballot dated 09th October, 2026 through remote e-voting process by requisite majority on 24th November, 2026\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8657e635-501b-444d-8d12-cdc471c28f11.pdf\", \"_id\": \"7b81c452-b091-4eaa-b073-49584ef50dce\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543415",
@@ -10156,6 +10156,10 @@
     }
   ],
   "deliveries": [
+    {
+      "message_id": "<00721b274b21a71192f14d9245bfd783e3a6fd599cc18808b1ed6db901d4c773@gmail.com>",
+      "sent_at": "2026-11-25T11:05:27.732561+00:00"
+    },
     {
       "message_id": "<05ab09b0e97f3d22b24342c49d835f617a66bf96955a8aae815d9c4b5f6ee98a@gmail.com>",
       "sent_at": "2026-11-23T17:42:38.276327+00:00"
