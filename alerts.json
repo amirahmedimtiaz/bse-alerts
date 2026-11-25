@@ -4344,8 +4344,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-25T07:15:15.345698+00:00",
       "news_id": "f8d33efc-9bad-46d1-829c-f5b162bb502e",
-      "payload": "{\"NEWSID\": \"f8d33efc-9bad-46d1-829c-f5b162bb502e\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_F8D33EFC-9BAD-46D1-829C-F5B162BB502E\", \"NEWSSUB\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"DT_TM\": \"2026-11-25T12:45:13.36\", \"NEWS_DT\": \"2026-11-25T12:45:13.36\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"70339af7-e0ae-4b1f-bdb7-c0120be2f92c.pdf\", \"MORE\": \"Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (''Listing Regulations'') as amended from time to time, Please find enclosed herewith a copy of Notice of Postal Ballot (''Notice'') of Insolation Energy Limited (''The Company'') dated 28th September, 2026, along with the explanatory statement pursuant to the applicable provisions of the Companies Act, 2013 (''the act'') read with the Listing Regulations, for seeking approval of the Members of the Company by way of Postal Ballot only through voting by electronic means for following purposes:\\r\\na. Appointment of Mrs. Usha Sharma (DIN: 00517955) as a Non-Executive Independent Director of the Company;\\r\\nb. Approval for payment of remuneration by way of commission or otherwise to Non-Executive Directors of the Company from the financial year 2025-26.\", \"HEADLINE\": \"Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (''Listing Regulations'') as amended from time ....\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 34, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-25T12:45:13\", \"DissemDT\": \"2026-11-25T12:45:13.36\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 818701, \"SUBCATNAME\": \"Postal Ballot\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Shareholder Meeting / Postal Ballot-Notice of Postal Ballot\", \"_published\": \"2026-11-25T12:45:13.36\", \"_category\": \"AGM/EGM\", \"_headline\": \"Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (''Listing Regulations'') as amended from time ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/70339af7-e0ae-4b1f-bdb7-c0120be2f92c.pdf\", \"_id\": \"f8d33efc-9bad-46d1-829c-f5b162bb502e\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -10133,6 +10133,10 @@
       "sent_at": "2026-11-23T17:42:38.276327+00:00"
     },
     {
+      "message_id": "<1ad17c2c84385a4bdcb35463f8b5609377c04c355dd36cab4d3387d2bdde4c96@gmail.com>",
+      "sent_at": "2026-11-25T07:15:27.625966+00:00"
+    },
+    {
       "message_id": "<23583d7da9d9ef3700c5e728c30afefe89198eb29b7f06b6c2b4d2e49fa951c1@gmail.com>",
       "sent_at": "2026-11-25T06:20:28.486371+00:00"
     },
@@ -10151,10 +10155,6 @@
     {
       "message_id": "<61df2d4dcf82b1ff2393276c2635957d60d5567780c0f4aa4bfdcde1fc63490a@gmail.com>",
       "sent_at": "2026-11-24T11:34:06.387580+00:00"
-    },
-    {
-      "message_id": "<787a036caca5ec1d79a835715ec267b7e94ef64c4b5d418d7b929417f6636c9e@gmail.com>",
-      "sent_at": "2026-11-23T06:31:58.896117+00:00"
     },
     {
       "message_id": "<8205d84bb8121d8af5ca3eb2f0c2502193878de63d460208d6b6881c75b94984@gmail.com>",
