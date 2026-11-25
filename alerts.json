@@ -8593,8 +8593,8 @@
       "company_key": "NSE:TBI",
       "discovered_at": "2026-11-25T13:40:37.242122+00:00",
       "news_id": "106870816",
-      "payload": "{\"symbol\": \"TBI\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"25-Nov-2026 19:06:38\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/TBICORN_25112026190628_TBI_Transcript.pdf\", \"sm_name\": \"TBI Corn Limited\", \"sm_isin\": null, \"an_dt\": \"25-Nov-2026 19:06:38\", \"sort_date\": \"2026-11-25 19:06:38\", \"seq_id\": \"106870816\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"TBI Corn Limited has informed the Exchange about Transcript\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"590.40 KB\", \"attFileSize\": \"590.40 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/TBICORN_25112026190628_TBI_Transcript.mp3\", \"voiceSummary\": \"TBI Corn Limited filed the transcript of its Investors\\u2019 Earnings Call held on November 19, 2026, regarding Unaudited Standalone and Consolidated Financial Results for the half year ended September 30, 2026. The company reported standalone revenue of INR 165.16 crores and profit after tax of INR 11.59 crores. Consolidated revenue grew 43% year-on-year to INR 196 crores. Management cited challenges from El Nino and global shipping delays but noted improved margins. The company established a subsidiary, TBICL FZE, in Sharjah Free Zone to enhance Gulf region supply. A merger with a JNPT SEZ entity is pending a full occupancy certificate, expected within the calendar year.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"TBI Corn Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/TBI/TBI-Corn-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-25 19:06:38\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"TBI Corn Limited has informed the Exchange about Transcript\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/TBICORN_25112026190628_TBI_Transcript.pdf\", \"_id\": \"106870816\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:VIVIANA",
@@ -10212,6 +10212,10 @@
       "sent_at": "2026-11-24T05:18:48.340297+00:00"
     },
     {
+      "message_id": "<3c22dd1787f75c05efee4fa045ae28899b901284d7049360ec3c1f6614b4e31c@gmail.com>",
+      "sent_at": "2026-11-25T13:40:47.257959+00:00"
+    },
+    {
       "message_id": "<47f5d608643ef3eeb680ae4f89596700dc060f0fdcaba1c47d88bce9439af086@gmail.com>",
       "sent_at": "2026-11-24T07:13:48.865676+00:00"
     },
@@ -10250,10 +10254,6 @@
     {
       "message_id": "<ba8c2dd632c724e4c776e815cfce9377313b7d9049e2cf5dd9d7b9a28f6cb175@gmail.com>",
       "sent_at": "2026-11-24T10:24:05.545087+00:00"
-    },
-    {
-      "message_id": "<e0981329a599bd7ecede9f28cf150beba66f93536a51e71762645c705128f78b@gmail.com>",
-      "sent_at": "2026-11-23T13:22:17.041193+00:00"
     },
     {
       "message_id": "<e604b5de52a4b0d81a06cfc005c2b9ccfe707f622abf3bdbcaf8343906bad85b@gmail.com>",
