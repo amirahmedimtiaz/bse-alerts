@@ -5121,8 +5121,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-25T11:30:29.726912+00:00",
       "news_id": "7d454216-aff4-4397-b938-eb24e2c088ba",
-      "payload": "{\"NEWSID\": \"7d454216-aff4-4397-b938-eb24e2c088ba\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_7D454216-AFF4-4397-B938-EB24E2C088BA\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"DT_TM\": \"2026-11-25T16:56:17.71\", \"NEWS_DT\": \"2026-11-25T16:56:17.71\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"3058a1ae-70a9-4047-b06e-3590062f5873.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Intimation of Plant Visit by Analyst/Institutional Investors scheduled to be held on Monday, November 30, 2026.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 80, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-25T16:56:17\", \"DissemDT\": \"2026-11-25T16:56:17.71\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 259976, \"SUBCATNAME\": \"Analyst / Investor Meet\", \"BSENEWSID\": \"7d454216-aff4-4397-b938-eb24e2c088ba\", \"INVESTOR_PRESENTATION\": null, \"RECORDID\": 14982515, \"DataInsDate\": \"2026-11-25T16:56:17.673\", \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\", \"_published\": \"2026-11-25T16:56:17.71\", \"_category\": \"Company Update\", \"_headline\": \"Intimation of Plant Visit by Analyst/Institutional Investors scheduled to be held on Monday, November 30, 2026.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3058a1ae-70a9-4047-b06e-3590062f5873.pdf\", \"_id\": \"7d454216-aff4-4397-b938-eb24e2c088ba\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -10214,6 +10214,10 @@
     {
       "message_id": "<e0981329a599bd7ecede9f28cf150beba66f93536a51e71762645c705128f78b@gmail.com>",
       "sent_at": "2026-11-23T13:22:17.041193+00:00"
+    },
+    {
+      "message_id": "<e604b5de52a4b0d81a06cfc005c2b9ccfe707f622abf3bdbcaf8343906bad85b@gmail.com>",
+      "sent_at": "2026-11-25T11:30:46.928492+00:00"
     },
     {
       "message_id": "<ec04469971a22bd4a8a99dede05a728be9506ca6dde9f93022ed180f22a18ab1@gmail.com>",
