@@ -8376,8 +8376,8 @@
       "company_key": "NSE:GGBL",
       "discovered_at": "2026-11-26T10:01:32.968044+00:00",
       "news_id": "106871653",
-      "payload": "{\"symbol\": \"GGBL\", \"desc\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"dt\": \"26-Nov-2026 15:30:56\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/GANESH_26112026152623_Intimation_of__EARNINGS_CALL_CONFERENCE_30092026.pdf\", \"sm_name\": \"Ganesh Green Bharat Limited\", \"sm_isin\": null, \"an_dt\": \"26-Nov-2026 15:30:56\", \"sort_date\": \"2026-11-26 15:30:56\", \"seq_id\": \"106871653\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Ganesh Green Bharat Limited has informed the Exchange about Schedule of meet\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"365.25 KB\", \"attFileSize\": \"365.25 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Ganesh Green Bharat Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/GGBL/Ganesh-Green-Bharat-Limited\", \"_subject\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_published\": \"2026-11-26 15:30:56\", \"_category\": \"Analysts/Institutional Investor Meet/Con. Call Updates\", \"_headline\": \"Ganesh Green Bharat Limited has informed the Exchange about Schedule of meet\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/GANESH_26112026152623_Intimation_of__EARNINGS_CALL_CONFERENCE_30092026.pdf\", \"_id\": \"106871653\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:PROPSHOP",
@@ -10224,6 +10224,10 @@
       "sent_at": "2026-11-25T11:05:27.732561+00:00"
     },
     {
+      "message_id": "<0fb876d32cd1b3376972def52d310d69808ef0c01167c167eb12fad08a37ef46@gmail.com>",
+      "sent_at": "2026-11-26T10:01:46.797350+00:00"
+    },
+    {
       "message_id": "<1ad17c2c84385a4bdcb35463f8b5609377c04c355dd36cab4d3387d2bdde4c96@gmail.com>",
       "sent_at": "2026-11-25T07:15:27.625966+00:00"
     },
@@ -10258,10 +10262,6 @@
     {
       "message_id": "<81a79be819001ab5fd0e0be63e421d889dae2164ec13ece6fe916b201a4c1e8a@gmail.com>",
       "sent_at": "2026-11-26T06:31:31.399942+00:00"
-    },
-    {
-      "message_id": "<8205d84bb8121d8af5ca3eb2f0c2502193878de63d460208d6b6881c75b94984@gmail.com>",
-      "sent_at": "2026-11-24T09:53:48.711321+00:00"
     },
     {
       "message_id": "<88e8e8787fdb93517331928127d8bebd2e213bff21fe52883908fc5935a552df@gmail.com>",
