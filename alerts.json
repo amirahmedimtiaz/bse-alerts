@@ -4281,8 +4281,8 @@
       "company_key": "543620",
       "discovered_at": "2026-11-26T08:01:34.410814+00:00",
       "news_id": "67819b8c-9c23-446e-8599-af29c261c6da",
-      "payload": "{\"NEWSID\": \"67819b8c-9c23-446e-8599-af29c261c6da\", \"SCRIP_CD\": 543620, \"XML_NAME\": \"ANN_543620_67819B8C-9C23-446E-8599-AF29C261C6DA\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"DT_TM\": \"2026-11-26T13:31:08.283\", \"NEWS_DT\": \"2026-11-26T13:31:08.283\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7581b327-cf59-42b9-b23d-be81e3ea96f9.pdf\", \"MORE\": \"Pursuant to Regulation 30 read with the Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we hereby enclose the copies of Newspaper Advertisement published in \\\"Financial Express\\\" (English Edition) and \\\"Nafa Nuksan\\\" (Hindi Edition) on 26th November, 2026 regarding dispatch of postal ballot notice to the Shareholders of the Company on 25th November, 2026.\", \"HEADLINE\": \"Pursuant to Regulation 30 read with the Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we hereby ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/\", \"SLONGNAME\": \"Insolation Energy Ltd\", \"AGENDA_ID\": 144, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-26T13:31:08\", \"DissemDT\": \"2026-11-26T13:31:08.283\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 6147084, \"SUBCATNAME\": \"Newspaper Publication\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Insolation Energy Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/insolation-energy-ltd/INA/543620/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Newspaper Publication\", \"_published\": \"2026-11-26T13:31:08.283\", \"_category\": \"Company Update\", \"_headline\": \"Pursuant to Regulation 30 read with the Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we hereby ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7581b327-cf59-42b9-b23d-be81e3ea96f9.pdf\", \"_id\": \"67819b8c-9c23-446e-8599-af29c261c6da\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "543620",
@@ -10229,20 +10229,16 @@
       "sent_at": "2026-11-25T13:40:47.257959+00:00"
     },
     {
-      "message_id": "<47f5d608643ef3eeb680ae4f89596700dc060f0fdcaba1c47d88bce9439af086@gmail.com>",
-      "sent_at": "2026-11-24T07:13:48.865676+00:00"
-    },
-    {
       "message_id": "<5f88e01f3e52cf7086534f4d3b596e104c742035d1008434af8ef9868cf733cb@gmail.com>",
       "sent_at": "2026-11-25T12:10:46.853288+00:00"
     },
     {
-      "message_id": "<60e55f2f977e227f25004c8d92a77d5ac4b749192099a1af453e6a7b0a0b5585@gmail.com>",
-      "sent_at": "2026-11-24T07:18:48.703211+00:00"
-    },
-    {
       "message_id": "<61df2d4dcf82b1ff2393276c2635957d60d5567780c0f4aa4bfdcde1fc63490a@gmail.com>",
       "sent_at": "2026-11-24T11:34:06.387580+00:00"
+    },
+    {
+      "message_id": "<651a2ea893aaf98e5c70af1cf25119ab90c271cbd77ac8476dea1547ae4d371c@gmail.com>",
+      "sent_at": "2026-11-26T08:01:47.487081+00:00"
     },
     {
       "message_id": "<770d0208ec535ad45a1c58b84c84b1fffde099fa831e1352ba3ac93afb0ec144@gmail.com>",
