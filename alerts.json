@@ -2412,8 +2412,8 @@
       "company_key": "532259",
       "discovered_at": "2026-11-26T13:06:44.278354+00:00",
       "news_id": "b9d5d5e9-1648-4c75-abc5-a11187021647",
-      "payload": "{\"NEWSID\": \"b9d5d5e9-1648-4c75-abc5-a11187021647\", \"SCRIP_CD\": 532259, \"XML_NAME\": \"ANN_532259_B9D5D5E9-1648-4C75-ABC5-A11187021647\", \"NEWSSUB\": \"Intimation Under Reg. 30 - Investigation Visit U/S. 67 Of The CGST / MGST Act, 2017.\", \"DT_TM\": \"2026-11-26T18:34:28.91\", \"NEWS_DT\": \"2026-11-26T18:34:28.91\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"be1b7baa-e36c-4251-91b0-dea14d5efbca.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Detail as per attachment\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/\", \"SLONGNAME\": \"Apar Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-26T18:34:28\", \"DissemDT\": \"2026-11-26T18:34:28.91\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 282056, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Apar Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/apar-industries-ltd/aparinds/532259/corp-announcements\", \"_subject\": \"Intimation Under Reg. 30 - Investigation Visit U/S. 67 Of The CGST / MGST Act, 2017.\", \"_published\": \"2026-11-26T18:34:28.91\", \"_category\": \"Company Update\", \"_headline\": \"Detail as per attachment\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/be1b7baa-e36c-4251-91b0-dea14d5efbca.pdf\", \"_id\": \"b9d5d5e9-1648-4c75-abc5-a11187021647\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "532259",
@@ -8446,8 +8446,8 @@
       "company_key": "NSE:PROPSHOP",
       "discovered_at": "2026-11-26T13:06:58.063311+00:00",
       "news_id": "106871948",
-      "payload": "{\"symbol\": \"PROPSHOP\", \"desc\": \"General Updates\", \"dt\": \"26-Nov-2026 18:33:39\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/PROPSHOP_26112026183305_PEEL_-_Intimation_Incorporation_WOS_Florida_USA_sd.pdf\", \"sm_name\": \"Propshop Events and Exhibitions Limited\", \"sm_isin\": null, \"an_dt\": \"26-Nov-2026 18:33:39\", \"sort_date\": \"2026-11-26 18:33:39\", \"seq_id\": \"106871948\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Propshop Events and Exhibitions Limited has informed the Exchange about General Updates\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"620.54 KB\", \"attFileSize\": \"620.54 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/PROPSHOP_26112026183305_PEEL_-_Intimation_Incorporation_WOS_Florida_USA_sd.mp3\", \"voiceSummary\": \"Propshop Events and Exhibitions Limited has incorporated Propshop Events and Exhibitions LLC, a wholly owned subsidiary, in the State of Florida, United States of America, on August 27, 2026. The listed entity holds 100% membership interest in the subsidiary. The investment was made via cash consideration of USD 1,000 as a capital contribution. The subsidiary operates in the trade show, exhibition, and event management sector, providing booth solutions and related services. It has not yet commenced business operations. Incorporation was completed by filing Articles of Organization with the Florida Department of State. No other governmental or regulatory approvals were required. The company filed this intimation under Regulation 30 of the SEBI Listing Regulations.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Propshop Events and Exhibitions Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/PROPSHOP/Propshop-Events-and-Exhibitions-Limited\", \"_subject\": \"General Updates\", \"_published\": \"2026-11-26 18:33:39\", \"_category\": \"General Updates\", \"_headline\": \"Propshop Events and Exhibitions Limited has informed the Exchange about General Updates\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/PROPSHOP_26112026183305_PEEL_-_Intimation_Incorporation_WOS_Florida_USA_sd.pdf\", \"_id\": \"106871948\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:SAHAJSOLAR",
@@ -10265,10 +10265,6 @@
       "sent_at": "2026-11-25T12:10:46.853288+00:00"
     },
     {
-      "message_id": "<61df2d4dcf82b1ff2393276c2635957d60d5567780c0f4aa4bfdcde1fc63490a@gmail.com>",
-      "sent_at": "2026-11-24T11:34:06.387580+00:00"
-    },
-    {
       "message_id": "<651a2ea893aaf98e5c70af1cf25119ab90c271cbd77ac8476dea1547ae4d371c@gmail.com>",
       "sent_at": "2026-11-26T08:01:47.487081+00:00"
     },
@@ -10307,6 +10303,10 @@
     {
       "message_id": "<ef0b7570fe9e767a4bd38d8094405a251631aa1f045e93b8ff3fb73ca168b7f5@gmail.com>",
       "sent_at": "2026-11-25T08:50:29.842509+00:00"
+    },
+    {
+      "message_id": "<f96702f5db62de6280e62177fac20047b4ed9e6c289d0f944d4e8991b98c8b1d@gmail.com>",
+      "sent_at": "2026-11-26T13:07:06.672425+00:00"
     }
   ],
   "metadata": [
