@@ -5184,8 +5184,8 @@
       "company_key": "544277",
       "discovered_at": "2026-11-26T06:31:14.952462+00:00",
       "news_id": "a5b717da-8ea7-4f02-adb2-2258577454a5",
-      "payload": "{\"NEWSID\": \"a5b717da-8ea7-4f02-adb2-2258577454a5\", \"SCRIP_CD\": 544277, \"XML_NAME\": \"ANN_544277_A5B717DA-8EA7-4F02-ADB2-2258577454A5\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"DT_TM\": \"2026-11-26T11:59:33.62\", \"NEWS_DT\": \"2026-11-26T11:59:33.62\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"dd00d353-5214-4194-af7d-61be55dc2b13.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Re-affirmation in Credit Rating.\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/\", \"SLONGNAME\": \"Waaree Energies Ltd\", \"AGENDA_ID\": 46, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-26T11:59:33\", \"DissemDT\": \"2026-11-26T11:59:33.62\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 420207, \"SUBCATNAME\": \"Credit Rating\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Waaree Energies Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Credit Rating\", \"_published\": \"2026-11-26T11:59:33.62\", \"_category\": \"Company Update\", \"_headline\": \"Re-affirmation in Credit Rating.\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/dd00d353-5214-4194-af7d-61be55dc2b13.pdf\", \"_id\": \"a5b717da-8ea7-4f02-adb2-2258577454a5\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544277",
@@ -10218,10 +10218,6 @@
       "sent_at": "2026-11-25T06:20:28.486371+00:00"
     },
     {
-      "message_id": "<3b149e4e93e84da35f2f331b6f2f9a0528baa12356fc0be3ab26d3f4c44d117a@gmail.com>",
-      "sent_at": "2026-11-24T05:18:48.340297+00:00"
-    },
-    {
       "message_id": "<3c22dd1787f75c05efee4fa045ae28899b901284d7049360ec3c1f6614b4e31c@gmail.com>",
       "sent_at": "2026-11-25T13:40:47.257959+00:00"
     },
@@ -10248,6 +10244,10 @@
     {
       "message_id": "<803a7d1ea5d09710bb672bfc3baca2d568f656a3e2efdccdea9291b0b06bb742@gmail.com>",
       "sent_at": "2026-11-25T13:10:46.433016+00:00"
+    },
+    {
+      "message_id": "<81a79be819001ab5fd0e0be63e421d889dae2164ec13ece6fe916b201a4c1e8a@gmail.com>",
+      "sent_at": "2026-11-26T06:31:31.399942+00:00"
     },
     {
       "message_id": "<8205d84bb8121d8af5ca3eb2f0c2502193878de63d460208d6b6881c75b94984@gmail.com>",
