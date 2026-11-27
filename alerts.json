@@ -6899,8 +6899,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-27T12:49:10.454130+00:00",
       "news_id": "aeb02c9d-23c3-4c71-9c4e-9bde2472c9b9",
-      "payload": "{\"NEWSID\": \"aeb02c9d-23c3-4c71-9c4e-9bde2472c9b9\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_AEB02C9D-23C3-4C71-9C4E-9BDE2472C9B9\", \"NEWSSUB\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"DT_TM\": \"2026-11-27T18:16:59.337\", \"NEWS_DT\": \"2026-11-27T18:16:59.337\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"db16ac3d-abf0-49f9-891f-ce9fb95c3141.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Press Release - Promoter capital infusion of ?19.39 crore to support long-term manufacturing expansion\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 35, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-27T18:16:59\", \"DissemDT\": \"2026-11-27T18:16:59.337\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 591924, \"SUBCATNAME\": \"Press Release / Media Release\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Announcement under Regulation 30 (LODR)-Press Release / Media Release\", \"_published\": \"2026-11-27T18:16:59.337\", \"_category\": \"Company Update\", \"_headline\": \"Press Release - Promoter capital infusion of ?19.39 crore to support long-term manufacturing expansion\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/db16ac3d-abf0-49f9-891f-ce9fb95c3141.pdf\", \"_id\": \"aeb02c9d-23c3-4c71-9c4e-9bde2472c9b9\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -10304,6 +10304,10 @@
     {
       "message_id": "<651a2ea893aaf98e5c70af1cf25119ab90c271cbd77ac8476dea1547ae4d371c@gmail.com>",
       "sent_at": "2026-11-26T08:01:47.487081+00:00"
+    },
+    {
+      "message_id": "<697d928ca64ae62602854bd845e053e0d4eb0351d6f75e6dbe1897856456bcb9@gmail.com>",
+      "sent_at": "2026-11-27T12:49:32.877757+00:00"
     },
     {
       "message_id": "<7fc28e3aa20740b852e6cd4e1dec511381a5fb67fc7ff1a93ba08e7f87f6b299@gmail.com>",
