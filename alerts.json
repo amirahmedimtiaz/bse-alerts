@@ -6808,8 +6808,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-27T10:54:12.430036+00:00",
       "news_id": "535ec375-ff16-4f29-839c-d8e9c0b19540",
-      "payload": "{\"NEWSID\": \"535ec375-ff16-4f29-839c-d8e9c0b19540\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_535EC375-FF16-4F29-839C-D8E9C0B19540\", \"NEWSSUB\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On November 27, 2026\\r\\n\\r\\n\", \"DT_TM\": \"2026-11-27T16:20:57.6\", \"NEWS_DT\": \"2026-11-27T16:20:57.6\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"6053ebdc-6dd6-4f6c-8084-ec500c406d59.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Outcome of the Board Meeting held on November 27, 2026\\r\\n\\r\\n\", \"CATEGORYNAME\": \"Board Meeting\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 198, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-27T16:20:56\", \"DissemDT\": \"2026-11-27T16:20:57.6\", \"TimeDiff\": \"00:00:01\", \"Fld_Attachsize\": 416575, \"SUBCATNAME\": \"Outcome of Board Meeting\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"Board Meeting Outcome for Outcome Of The Board Meeting Held On November 27, 2026\\r\\n\\r\\n\", \"_published\": \"2026-11-27T16:20:57.6\", \"_category\": \"Board Meeting\", \"_headline\": \"Outcome of the Board Meeting held on November 27, 2026\\r\\n\\r\\n\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/6053ebdc-6dd6-4f6c-8084-ec500c406d59.pdf\", \"_id\": \"535ec375-ff16-4f29-839c-d8e9c0b19540\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -10305,12 +10305,12 @@
       "sent_at": "2026-11-26T06:31:31.399942+00:00"
     },
     {
-      "message_id": "<a5acaad97e54c694a6a2122ebb6437632377086d33cc5790b951d9c10a00601c@gmail.com>",
-      "sent_at": "2026-11-25T10:30:27.656806+00:00"
-    },
-    {
       "message_id": "<b79f197cc54713fe0562ce251511d07e240f1889210e41a96adbfdf845897211@gmail.com>",
       "sent_at": "2026-11-26T04:26:32.053331+00:00"
+    },
+    {
+      "message_id": "<b8bfe80dced0812a17ef79c57e95ae46e3e6d823e6b747cca74b0287f00b4396@gmail.com>",
+      "sent_at": "2026-11-27T10:54:32.946938+00:00"
     },
     {
       "message_id": "<c3cb430466ac5f1eb296b6b2f32c764b27ad0542a0ea2b0d68faf95547c63e09@gmail.com>",
