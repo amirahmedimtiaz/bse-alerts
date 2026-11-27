@@ -6962,8 +6962,8 @@
       "company_key": "544793",
       "discovered_at": "2026-11-27T11:09:10.353431+00:00",
       "news_id": "e1feaf05-9ace-456d-bc42-1f86463003bc",
-      "payload": "{\"NEWSID\": \"e1feaf05-9ace-456d-bc42-1f86463003bc\", \"SCRIP_CD\": 544793, \"XML_NAME\": \"ANN_544793_E1FEAF05-9ACE-456D-BC42-1F86463003BC\", \"NEWSSUB\": \"NOTICE IS HEREBY GIVEN THAT AN EXTRAORDINARY GENERAL MEETING ('EGM') OF THE MEMBERS OF SUSAN ELECTRICALS INDIA LIMITED WILL BE HELD ON WEDNESDAY, DECEMBER 23, 2026 AT 3:00 P.M. (IST) SCHEDULED TO BE HELD THROUGH VIDEO CONFERENCING/OTHER AUDIO-VISUAL MEANS\", \"DT_TM\": \"2026-11-27T16:37:14.05\", \"NEWS_DT\": \"2026-11-27T16:37:14.05\", \"CRITICALNEWS\": \"1\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"7b53f513-c2db-4945-8b42-d5cbff7bc3d8.pdf\", \"MORE\": \"\", \"HEADLINE\": \"Notice Of EGM Of The Members Of The Company To Be Held On Wednesday, December 23, 2026 At 03:00 P.M\", \"CATEGORYNAME\": \"AGM/EGM\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/\", \"SLONGNAME\": \"Susan Electricals India Ltd\", \"AGENDA_ID\": 28, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-27T16:37:14\", \"DissemDT\": \"2026-11-27T16:37:14.05\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 883911, \"SUBCATNAME\": \"EGM\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"Susan Electricals India Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/corp-announcements\", \"_subject\": \"NOTICE IS HEREBY GIVEN THAT AN EXTRAORDINARY GENERAL MEETING ('EGM') OF THE MEMBERS OF SUSAN ELECTRICALS INDIA LIMITED WILL BE HELD ON WEDNESDAY, DECEMBER 23, 2026 AT 3:00 P.M. (IST) SCHEDULED TO BE HELD THROUGH VIDEO CONFERENCING/OTHER AUDIO-VISUAL MEANS\", \"_published\": \"2026-11-27T16:37:14.05\", \"_category\": \"AGM/EGM\", \"_headline\": \"Notice Of EGM Of The Members Of The Company To Be Held On Wednesday, December 23, 2026 At 03:00 P.M\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b53f513-c2db-4945-8b42-d5cbff7bc3d8.pdf\", \"_id\": \"e1feaf05-9ace-456d-bc42-1f86463003bc\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "544793",
@@ -10276,10 +10276,6 @@
   ],
   "deliveries": [
     {
-      "message_id": "<00721b274b21a71192f14d9245bfd783e3a6fd599cc18808b1ed6db901d4c773@gmail.com>",
-      "sent_at": "2026-11-25T11:05:27.732561+00:00"
-    },
-    {
       "message_id": "<0fb876d32cd1b3376972def52d310d69808ef0c01167c167eb12fad08a37ef46@gmail.com>",
       "sent_at": "2026-11-26T10:01:46.797350+00:00"
     },
@@ -10310,6 +10306,10 @@
     {
       "message_id": "<81a79be819001ab5fd0e0be63e421d889dae2164ec13ece6fe916b201a4c1e8a@gmail.com>",
       "sent_at": "2026-11-26T06:31:31.399942+00:00"
+    },
+    {
+      "message_id": "<919eafa34cb67fe4aed80f8a0c42be93c8c52cbf68dfab3d9c0cef59a8a52406@gmail.com>",
+      "sent_at": "2026-11-27T11:09:33.084357+00:00"
     },
     {
       "message_id": "<b79f197cc54713fe0562ce251511d07e240f1889210e41a96adbfdf845897211@gmail.com>",
