@@ -1439,8 +1439,8 @@
       "company_key": "517569",
       "discovered_at": "2026-11-27T08:38:51.179844+00:00",
       "news_id": "9662db49-18a1-4e6c-9347-ac3522ed7188",
-      "payload": "{\"NEWSID\": \"9662db49-18a1-4e6c-9347-ac3522ed7188\", \"SCRIP_CD\": 517569, \"XML_NAME\": \"ANN_517569_9662DB49-18A1-4E6C-9347-AC3522ED7188\", \"NEWSSUB\": \"Disclosure Pursuant To Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"DT_TM\": \"2026-11-27T14:07:51.507\", \"NEWS_DT\": \"2026-11-27T14:07:51.507\", \"CRITICALNEWS\": \"0\", \"ANNOUNCEMENT_TYPE\": \"A\", \"QUARTER_ID\": null, \"FILESTATUS\": \"N    \", \"ATTACHMENTNAME\": \"53f29fa5-54a8-415b-8260-618e054453b7.pdf\", \"MORE\": \"This is to inform you that the Nomination and Remuneration Committee of Board of Directors of the Company at their meeting held on Friday, 27th November 2026, has approved grant of 147750 fresh stock options to the eligible employees of the Company at an exercise price of Rs. 225 under KEI Employee Stock Options Scheme- 2015. This stock options granted to employees will vest over a period of 3 years from the date of grant i.e. 27.11.2026.\", \"HEADLINE\": \"This is to inform you that the Nomination and Remuneration Committee of Board of Directors of the Company at their meeting held on Friday, 27th November 2026, has approved grant of 147750 ....\", \"CATEGORYNAME\": \"Company Update\", \"OLD\": 1, \"RN\": 1, \"PDFFLAG\": 0, \"NSURL\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/\", \"SLONGNAME\": \"KEI Industries Ltd\", \"AGENDA_ID\": 1, \"TotalPageCnt\": 1, \"News_submission_dt\": \"2026-11-27T14:07:51\", \"DissemDT\": \"2026-11-27T14:07:51.507\", \"TimeDiff\": \"00:00:00\", \"Fld_Attachsize\": 959358, \"SUBCATNAME\": \"General\", \"BSENEWSID\": null, \"INVESTOR_PRESENTATION\": null, \"RECORDID\": null, \"DataInsDate\": null, \"AUDIO_VIDEO_FILE\": null, \"_exchange\": \"BSE\", \"_company_name\": \"KEI Industries Ltd\", \"_page_url\": \"https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/corp-announcements\", \"_subject\": \"Disclosure Pursuant To Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015\", \"_published\": \"2026-11-27T14:07:51.507\", \"_category\": \"Company Update\", \"_headline\": \"This is to inform you that the Nomination and Remuneration Committee of Board of Directors of the Company at their meeting held on Friday, 27th November 2026, has approved grant of 147750 ....\", \"_pdf_url\": \"https://www.bseindia.com/xml-data/corpfiling/AttachLive/53f29fa5-54a8-415b-8260-618e054453b7.pdf\", \"_id\": \"9662db49-18a1-4e6c-9347-ac3522ed7188\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "517569",
@@ -10263,14 +10263,6 @@
       "sent_at": "2026-11-26T10:01:46.797350+00:00"
     },
     {
-      "message_id": "<1ad17c2c84385a4bdcb35463f8b5609377c04c355dd36cab4d3387d2bdde4c96@gmail.com>",
-      "sent_at": "2026-11-25T07:15:27.625966+00:00"
-    },
-    {
-      "message_id": "<23583d7da9d9ef3700c5e728c30afefe89198eb29b7f06b6c2b4d2e49fa951c1@gmail.com>",
-      "sent_at": "2026-11-25T06:20:28.486371+00:00"
-    },
-    {
       "message_id": "<3c22dd1787f75c05efee4fa045ae28899b901284d7049360ec3c1f6614b4e31c@gmail.com>",
       "sent_at": "2026-11-25T13:40:47.257959+00:00"
     },
@@ -10285,6 +10277,10 @@
     {
       "message_id": "<770d0208ec535ad45a1c58b84c84b1fffde099fa831e1352ba3ac93afb0ec144@gmail.com>",
       "sent_at": "2026-11-25T11:55:45.890973+00:00"
+    },
+    {
+      "message_id": "<7fc28e3aa20740b852e6cd4e1dec511381a5fb67fc7ff1a93ba08e7f87f6b299@gmail.com>",
+      "sent_at": "2026-11-27T08:39:14.387817+00:00"
     },
     {
       "message_id": "<803a7d1ea5d09710bb672bfc3baca2d568f656a3e2efdccdea9291b0b06bb742@gmail.com>",
