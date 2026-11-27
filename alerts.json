@@ -8607,8 +8607,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-11-27T12:24:20.374260+00:00",
       "news_id": "106872997",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Press Release\", \"dt\": \"27-Nov-2026 17:53:34\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/SahajSolar_27112026175316_271126SSLPressRelease.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"27-Nov-2026 17:53:34\", \"sort_date\": \"2026-11-27 17:53:34\", \"seq_id\": \"106872997\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \\\"Sahaj Solar received Letter of Intent for Two 10 MWac Solar PV + BESS Hybrid Projects in Mauritius\\\".\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"385.54 KB\", \"attFileSize\": \"385.54 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SahajSolar_27112026175316_271126SSLPressRelease.mp3\", \"voiceSummary\": \"Sahaj Solar Limited received a Letter of Intent from the Central Electricity Board of Mauritius for two 10 MWac Solar PV plus Battery Energy Storage System hybrid projects. Each project includes 17 MWdc solar PV capacity and 72 MWh of battery storage, totaling 144 MWh. The estimated project value is approximately USD 21 million per project, or USD 42 million in total. These figures are preliminary. Sahaj Solar will own the projects 100 percent through wholly owned subsidiaries in Mauritius. The Central Electricity Board is the sole offtaker under a 25-year power purchase agreement to be executed upon award. The company has received the Letter of Intent. The announcement was issued on November 27, 2026.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Press Release\", \"_published\": \"2026-11-27 17:53:34\", \"_category\": \"Press Release\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \\\"Sahaj Solar received Letter of Intent for Two 10 MWac Solar PV + BESS Hybrid Projects in Mauritius\\\".\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/SahajSolar_27112026175316_271126SSLPressRelease.pdf\", \"_id\": \"106872997\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -10291,16 +10291,12 @@
       "sent_at": "2026-11-25T13:40:47.257959+00:00"
     },
     {
-      "message_id": "<5f88e01f3e52cf7086534f4d3b596e104c742035d1008434af8ef9868cf733cb@gmail.com>",
-      "sent_at": "2026-11-25T12:10:46.853288+00:00"
+      "message_id": "<49a0b6042bf2136c0afd55c0e6e7e9f61f7db4c5ae2df6235f2592180660c0db@gmail.com>",
+      "sent_at": "2026-11-27T12:24:32.452624+00:00"
     },
     {
       "message_id": "<651a2ea893aaf98e5c70af1cf25119ab90c271cbd77ac8476dea1547ae4d371c@gmail.com>",
       "sent_at": "2026-11-26T08:01:47.487081+00:00"
-    },
-    {
-      "message_id": "<770d0208ec535ad45a1c58b84c84b1fffde099fa831e1352ba3ac93afb0ec144@gmail.com>",
-      "sent_at": "2026-11-25T11:55:45.890973+00:00"
     },
     {
       "message_id": "<7fc28e3aa20740b852e6cd4e1dec511381a5fb67fc7ff1a93ba08e7f87f6b299@gmail.com>",
@@ -10333,10 +10329,6 @@
     {
       "message_id": "<c441fe80ce054dc094c1de8f3f3a26e667555cc9221b249778202b55c9b28614@gmail.com>",
       "sent_at": "2026-11-27T09:39:15.070138+00:00"
-    },
-    {
-      "message_id": "<e604b5de52a4b0d81a06cfc005c2b9ccfe707f622abf3bdbcaf8343906bad85b@gmail.com>",
-      "sent_at": "2026-11-25T11:30:46.928492+00:00"
     },
     {
       "message_id": "<e888b3aa29cb7ea4c37d416541546fd34da4c02696f423881e26ffc4832a95a3@gmail.com>",
