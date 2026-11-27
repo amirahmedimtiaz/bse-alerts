@@ -8586,8 +8586,8 @@
       "company_key": "NSE:SAHAJSOLAR",
       "discovered_at": "2026-11-27T09:39:01.817974+00:00",
       "news_id": "106872736",
-      "payload": "{\"symbol\": \"SAHAJSOLAR\", \"desc\": \"Bagging/Receiving of orders/contracts\", \"dt\": \"27-Nov-2026 15:05:18\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/SahajSolar_27112026150509_Intimationforreceiptofcontract.pdf\", \"sm_name\": \"Sahaj Solar Limited\", \"sm_isin\": null, \"an_dt\": \"27-Nov-2026 15:05:18\", \"sort_date\": \"2026-11-27 15:05:18\", \"seq_id\": \"106872736\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Sahaj Solar Limited has informed the Exchange about receipt of letter of award from Central Electricity Board (CEB), Mauritius\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"502.30 KB\", \"attFileSize\": \"502.30 KB\", \"hasXbrl\": true, \"voiceUrl\": \"https://nsearchives.nseindia.in/ann_voice/SahajSolar_27112026150509_Intimationforreceiptofcontract.mp3\", \"voiceSummary\": \"Sahaj Solar Limited received a Letter of Award from the Central Electricity Board in Mauritius for developing Solar PV and Battery Energy Storage System Hybrid Renewable Energy Facilities. The award covers two project sites, each with 10 MWac capacity. The aggregate estimated value is USD 42 million, equivalent to INR 389.52 crore. Each project includes 17 MW Solar PV and 72 MWh BESS. The projects will be owned by Sahaj Solar Limited and operated by its wholly owned subsidiary, Sahaj Energies Limited. The contract tenor is 25 years. The entity awarding the order is an international entity. There is no promoter interest in the awarding entity, and the order does not constitute a related party transaction.\", \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Sahaj Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/SAHAJSOLAR/Sahaj-Solar-Limited\", \"_subject\": \"Bagging/Receiving of orders/contracts\", \"_published\": \"2026-11-27 15:05:18\", \"_category\": \"Bagging/Receiving of orders/contracts\", \"_headline\": \"Sahaj Solar Limited has informed the Exchange about receipt of letter of award from Central Electricity Board (CEB), Mauritius\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/SahajSolar_27112026150509_Intimationforreceiptofcontract.pdf\", \"_id\": \"106872736\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:TBI",
@@ -10298,10 +10298,6 @@
       "sent_at": "2026-11-26T06:31:31.399942+00:00"
     },
     {
-      "message_id": "<88e8e8787fdb93517331928127d8bebd2e213bff21fe52883908fc5935a552df@gmail.com>",
-      "sent_at": "2026-11-25T09:00:28.156307+00:00"
-    },
-    {
       "message_id": "<a5acaad97e54c694a6a2122ebb6437632377086d33cc5790b951d9c10a00601c@gmail.com>",
       "sent_at": "2026-11-25T10:30:27.656806+00:00"
     },
@@ -10314,16 +10310,16 @@
       "sent_at": "2026-11-26T13:32:05.481273+00:00"
     },
     {
+      "message_id": "<c441fe80ce054dc094c1de8f3f3a26e667555cc9221b249778202b55c9b28614@gmail.com>",
+      "sent_at": "2026-11-27T09:39:15.070138+00:00"
+    },
+    {
       "message_id": "<e604b5de52a4b0d81a06cfc005c2b9ccfe707f622abf3bdbcaf8343906bad85b@gmail.com>",
       "sent_at": "2026-11-25T11:30:46.928492+00:00"
     },
     {
       "message_id": "<e888b3aa29cb7ea4c37d416541546fd34da4c02696f423881e26ffc4832a95a3@gmail.com>",
       "sent_at": "2026-11-26T10:26:46.224935+00:00"
-    },
-    {
-      "message_id": "<ef0b7570fe9e767a4bd38d8094405a251631aa1f045e93b8ff3fb73ca168b7f5@gmail.com>",
-      "sent_at": "2026-11-25T08:50:29.842509+00:00"
     },
     {
       "message_id": "<f96702f5db62de6280e62177fac20047b4ed9e6c289d0f944d4e8991b98c8b1d@gmail.com>",
