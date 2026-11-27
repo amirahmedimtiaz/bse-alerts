@@ -3,10 +3,10 @@
     "armed": true,
     "consecutive_failures": 0,
     "failure_notified": false,
-    "last_checked": "2026-11-27 01:10 IST",
+    "last_checked": "2026-11-27 18:36 IST",
     "last_error": null,
-    "last_pe": 11.036,
-    "last_price": 674.5,
+    "last_pe": 11.568,
+    "last_price": 707.0,
     "setup_confirmed": true,
     "shares": 10124800,
     "stale_notified": []
