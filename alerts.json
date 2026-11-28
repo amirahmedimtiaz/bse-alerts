@@ -7984,8 +7984,8 @@
       "company_key": "NSE:ALPEXSOLAR",
       "discovered_at": "2026-11-28T13:25:53.994918+00:00",
       "news_id": "106873561",
-      "payload": "{\"symbol\": \"ALPEXSOLAR\", \"desc\": \"Commencement of commercial production/operations\", \"dt\": \"28-Nov-2026 18:54:21\", \"attchmntFile\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_28112026185345_Solar_Cell.pdf\", \"sm_name\": \"Alpex Solar Limited\", \"sm_isin\": null, \"an_dt\": \"28-Nov-2026 18:54:21\", \"sort_date\": \"2026-11-28 18:54:21\", \"seq_id\": \"106873561\", \"smIndustry\": null, \"orgid\": null, \"attchmntText\": \"Alpex Solar Limited has informed the Exchange about Commencement of Commercial Production of G12R TOPCon Solar Cell III Generation Solar Cell Manufacturing Plant\", \"bflag\": null, \"old_new\": null, \"csvName\": null, \"exchdisstime\": \"-\", \"difference\": \"-\", \"fileSize\": \"663.74 KB\", \"attFileSize\": \"663.74 KB\", \"hasXbrl\": true, \"voiceUrl\": null, \"voiceSummary\": null, \"annVoicestatus\": \"true\", \"_exchange\": \"NSE\", \"_company_name\": \"Alpex Solar Limited\", \"_page_url\": \"https://www.nseindia.com/get-quote/equity/ALPEXSOLAR/Alpex-Solar-Limited\", \"_subject\": \"Commencement of commercial production/operations\", \"_published\": \"2026-11-28 18:54:21\", \"_category\": \"Commencement of commercial production/operations\", \"_headline\": \"Alpex Solar Limited has informed the Exchange about Commencement of Commercial Production of G12R TOPCon Solar Cell III Generation Solar Cell Manufacturing Plant\", \"_pdf_url\": \"https://nsearchives.nseindia.in/corporate/ALPEXSOLAR_28112026185345_Solar_Cell.pdf\", \"_id\": \"106873561\"}",
-      "status": "pending"
+      "payload": null,
+      "status": "sent"
     },
     {
       "company_key": "NSE:APS",
@@ -10297,20 +10297,12 @@
   ],
   "deliveries": [
     {
-      "message_id": "<0fb876d32cd1b3376972def52d310d69808ef0c01167c167eb12fad08a37ef46@gmail.com>",
-      "sent_at": "2026-11-26T10:01:46.797350+00:00"
-    },
-    {
-      "message_id": "<3c22dd1787f75c05efee4fa045ae28899b901284d7049360ec3c1f6614b4e31c@gmail.com>",
-      "sent_at": "2026-11-25T13:40:47.257959+00:00"
+      "message_id": "<14a44b4d62e0137b113bb4baeedc669e9b9848ae7f08b7e85253f18bdd927ba7@gmail.com>",
+      "sent_at": "2026-11-28T13:26:09.030090+00:00"
     },
     {
       "message_id": "<49a0b6042bf2136c0afd55c0e6e7e9f61f7db4c5ae2df6235f2592180660c0db@gmail.com>",
       "sent_at": "2026-11-27T12:24:32.452624+00:00"
-    },
-    {
-      "message_id": "<651a2ea893aaf98e5c70af1cf25119ab90c271cbd77ac8476dea1547ae4d371c@gmail.com>",
-      "sent_at": "2026-11-26T08:01:47.487081+00:00"
     },
     {
       "message_id": "<697d928ca64ae62602854bd845e053e0d4eb0351d6f75e6dbe1897856456bcb9@gmail.com>",
@@ -10321,20 +10313,8 @@
       "sent_at": "2026-11-27T08:39:14.387817+00:00"
     },
     {
-      "message_id": "<803a7d1ea5d09710bb672bfc3baca2d568f656a3e2efdccdea9291b0b06bb742@gmail.com>",
-      "sent_at": "2026-11-25T13:10:46.433016+00:00"
-    },
-    {
-      "message_id": "<81a79be819001ab5fd0e0be63e421d889dae2164ec13ece6fe916b201a4c1e8a@gmail.com>",
-      "sent_at": "2026-11-26T06:31:31.399942+00:00"
-    },
-    {
       "message_id": "<919eafa34cb67fe4aed80f8a0c42be93c8c52cbf68dfab3d9c0cef59a8a52406@gmail.com>",
       "sent_at": "2026-11-27T11:09:33.084357+00:00"
-    },
-    {
-      "message_id": "<b79f197cc54713fe0562ce251511d07e240f1889210e41a96adbfdf845897211@gmail.com>",
-      "sent_at": "2026-11-26T04:26:32.053331+00:00"
     },
     {
       "message_id": "<b8bfe80dced0812a17ef79c57e95ae46e3e6d823e6b747cca74b0287f00b4396@gmail.com>",
@@ -10347,14 +10327,6 @@
     {
       "message_id": "<c441fe80ce054dc094c1de8f3f3a26e667555cc9221b249778202b55c9b28614@gmail.com>",
       "sent_at": "2026-11-27T09:39:15.070138+00:00"
-    },
-    {
-      "message_id": "<e888b3aa29cb7ea4c37d416541546fd34da4c02696f423881e26ffc4832a95a3@gmail.com>",
-      "sent_at": "2026-11-26T10:26:46.224935+00:00"
-    },
-    {
-      "message_id": "<f96702f5db62de6280e62177fac20047b4ed9e6c289d0f944d4e8991b98c8b1d@gmail.com>",
-      "sent_at": "2026-11-26T13:07:06.672425+00:00"
     }
   ],
   "metadata": [
